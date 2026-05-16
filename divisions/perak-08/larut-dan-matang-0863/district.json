@@ -1,0 +1,47 @@
+{
+  "id": "0863",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Larut Dan Matang",
+    "en": "Larut Dan Matang",
+    "slug": "larut-dan-matang-0863"
+  },
+  "code": {
+    "id": "0863",
+    "iso": null
+  },
+  "parent": {
+    "id": "08",
+    "level": 1,
+    "name": {
+      "local": "Perak",
+      "en": "Perak",
+      "slug": "perak-08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.806",
+    "lon": "100.721"
+  },
+  "metadata": {},
+  "source": {}
+}

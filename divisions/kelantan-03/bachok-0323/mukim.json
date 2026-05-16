@@ -1,0 +1,1676 @@
+[
+  {
+    "id": "0323-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM ALOR BAKAT",
+      "en": "ALOR BAKAT",
+      "slug": "alor-bakat-0323-003"
+    },
+    "code": {
+      "id": "0323-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.96",
+      "lon": "102.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323-022",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BACHOK",
+      "en": "BACHOK",
+      "slug": "bachok-0323-022"
+    },
+    "code": {
+      "id": "0323-022",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.063",
+      "lon": "102.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323-027",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BACHOK",
+      "en": "BANDAR BACHOK",
+      "slug": "bandar-bachok-0323-027"
+    },
+    "code": {
+      "id": "0323-027",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.061",
+      "lon": "102.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BATOR",
+      "en": "BATOR",
+      "slug": "bator-0323-011"
+    },
+    "code": {
+      "id": "0323-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.991",
+      "lon": "102.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323-028",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM CHAP",
+      "en": "CHAP",
+      "slug": "chap-0323-028"
+    },
+    "code": {
+      "id": "0323-028",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.045",
+      "lon": "102.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM CHERANG HANGUS",
+      "en": "CHERANG HANGUS",
+      "slug": "cherang-hangus-0323-001"
+    },
+    "code": {
+      "id": "0323-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.035",
+      "lon": "102.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KEMASIN",
+      "en": "KEMASIN",
+      "slug": "kemasin-0323-009"
+    },
+    "code": {
+      "id": "0323-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.11",
+      "lon": "102.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUAU",
+      "en": "KUAU",
+      "slug": "kuau-0323-005"
+    },
+    "code": {
+      "id": "0323-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.029",
+      "lon": "102.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUBANG TELAGA",
+      "en": "KUBANG TELAGA",
+      "slug": "kubang-telaga-0323-008"
+    },
+    "code": {
+      "id": "0323-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.941",
+      "lon": "102.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323-029",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUCHELONG",
+      "en": "KUCHELONG",
+      "slug": "kuchelong-0323-029"
+    },
+    "code": {
+      "id": "0323-029",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.025",
+      "lon": "102.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323-019",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM LUBOK TEMBESU",
+      "en": "LUBOK TEMBESU",
+      "slug": "lubok-tembesu-0323-019"
+    },
+    "code": {
+      "id": "0323-019",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.91",
+      "lon": "102.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323-031",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM MAK LIPAH",
+      "en": "MAK LIPAH",
+      "slug": "mak-lipah-0323-031"
+    },
+    "code": {
+      "id": "0323-031",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.949",
+      "lon": "102.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323-023",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM MELAWI",
+      "en": "MELAWI",
+      "slug": "melawi-0323-023"
+    },
+    "code": {
+      "id": "0323-023",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.034",
+      "lon": "102.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM NIPAH",
+      "en": "NIPAH",
+      "slug": "nipah-0323-007"
+    },
+    "code": {
+      "id": "0323-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.05",
+      "lon": "102.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PAK PURA",
+      "en": "PAK PURA",
+      "slug": "pak-pura-0323-016"
+    },
+    "code": {
+      "id": "0323-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.066",
+      "lon": "102.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PAUH SEMBILAN",
+      "en": "PAUH SEMBILAN",
+      "slug": "pauh-sembilan-0323-015"
+    },
+    "code": {
+      "id": "0323-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.092",
+      "lon": "102.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PAYA MENGKUANG",
+      "en": "PAYA MENGKUANG",
+      "slug": "paya-mengkuang-0323-013"
+    },
+    "code": {
+      "id": "0323-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.083",
+      "lon": "102.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323-017",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN JELAWAT",
+      "en": "PEKAN JELAWAT",
+      "slug": "pekan-jelawat-0323-017"
+    },
+    "code": {
+      "id": "0323-017",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.012",
+      "lon": "102.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323-026",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PERUPOK",
+      "en": "PERUPOK",
+      "slug": "perupok-0323-026"
+    },
+    "code": {
+      "id": "0323-026",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.085",
+      "lon": "102.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323-030",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM REPEK",
+      "en": "REPEK",
+      "slug": "repek-0323-030"
+    },
+    "code": {
+      "id": "0323-030",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.006",
+      "lon": "102.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM RUSA",
+      "en": "RUSA",
+      "slug": "rusa-0323-006"
+    },
+    "code": {
+      "id": "0323-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.986",
+      "lon": "102.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SENAK",
+      "en": "SENAK",
+      "slug": "senak-0323-010"
+    },
+    "code": {
+      "id": "0323-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.14",
+      "lon": "102.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TAKANG",
+      "en": "TAKANG",
+      "slug": "takang-0323-012"
+    },
+    "code": {
+      "id": "0323-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.088",
+      "lon": "102.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323-018",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TANJONG",
+      "en": "TANJONG",
+      "slug": "tanjong-0323-018"
+    },
+    "code": {
+      "id": "0323-018",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.095",
+      "lon": "102.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TANJONG JERING",
+      "en": "TANJONG JERING",
+      "slug": "tanjong-jering-0323-002"
+    },
+    "code": {
+      "id": "0323-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.071",
+      "lon": "102.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323-021",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TANJONG PAUH",
+      "en": "TANJONG PAUH",
+      "slug": "tanjong-pauh-0323-021"
+    },
+    "code": {
+      "id": "0323-021",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.049",
+      "lon": "102.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TELOK MESIRA",
+      "en": "TELOK MESIRA",
+      "slug": "telok-mesira-0323-004"
+    },
+    "code": {
+      "id": "0323-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.106",
+      "lon": "102.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323-020",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TELONG",
+      "en": "TELONG",
+      "slug": "telong-0323-020"
+    },
+    "code": {
+      "id": "0323-020",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.96",
+      "lon": "102.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323-024",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TEMU RANGGAS",
+      "en": "TEMU RANGGAS",
+      "slug": "temu-ranggas-0323-024"
+    },
+    "code": {
+      "id": "0323-024",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.041",
+      "lon": "102.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323-025",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TEPUS",
+      "en": "TEPUS",
+      "slug": "tepus-0323-025"
+    },
+    "code": {
+      "id": "0323-025",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.998",
+      "lon": "102.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TUALANG SALAK",
+      "en": "TUALANG SALAK",
+      "slug": "tualang-salak-0323-014"
+    },
+    "code": {
+      "id": "0323-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "0323",
+      "level": 2,
+      "name": {
+        "local": "Bachok",
+        "en": "Bachok",
+        "slug": "bachok-0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0323",
+        "level": 2,
+        "name": {
+          "local": "Bachok",
+          "en": "Bachok",
+          "slug": "bachok-0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.031",
+      "lon": "102.367"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

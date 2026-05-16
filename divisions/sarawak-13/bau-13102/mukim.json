@@ -1,0 +1,704 @@
+[
+  {
+    "id": "13102-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BAU TOWN DISTRICT",
+      "en": "BAU TOWN DISTRICT",
+      "slug": "bau-town-district-13102-010"
+    },
+    "code": {
+      "id": "13102-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "13102",
+      "level": 2,
+      "name": {
+        "local": "Bau",
+        "en": "Bau",
+        "slug": "bau-13102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13102",
+        "level": 2,
+        "name": {
+          "local": "Bau",
+          "en": "Bau",
+          "slug": "bau-13102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.417",
+      "lon": "110.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13102-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BUSO TOWN DISTRICT",
+      "en": "BUSO TOWN DISTRICT",
+      "slug": "buso-town-district-13102-002"
+    },
+    "code": {
+      "id": "13102-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13102",
+      "level": 2,
+      "name": {
+        "local": "Bau",
+        "en": "Bau",
+        "slug": "bau-13102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13102",
+        "level": 2,
+        "name": {
+          "local": "Bau",
+          "en": "Bau",
+          "slug": "bau-13102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.451",
+      "lon": "110.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13102-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "JAGOI LAND DISTRICT",
+      "en": "JAGOI LAND DISTRICT",
+      "slug": "jagoi-land-district-13102-009"
+    },
+    "code": {
+      "id": "13102-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "13102",
+      "level": 2,
+      "name": {
+        "local": "Bau",
+        "en": "Bau",
+        "slug": "bau-13102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13102",
+        "level": 2,
+        "name": {
+          "local": "Bau",
+          "en": "Bau",
+          "slug": "bau-13102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.348",
+      "lon": "110.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13102-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "JAMBUSAN TOWN DISTRICT",
+      "en": "JAMBUSAN TOWN DISTRICT",
+      "slug": "jambusan-town-district-13102-013"
+    },
+    "code": {
+      "id": "13102-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "13102",
+      "level": 2,
+      "name": {
+        "local": "Bau",
+        "en": "Bau",
+        "slug": "bau-13102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13102",
+        "level": 2,
+        "name": {
+          "local": "Bau",
+          "en": "Bau",
+          "slug": "bau-13102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.407",
+      "lon": "110.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13102-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "KRANJI TOWN DISTRICT",
+      "en": "KRANJI TOWN DISTRICT",
+      "slug": "kranji-town-district-13102-008"
+    },
+    "code": {
+      "id": "13102-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "13102",
+      "level": 2,
+      "name": {
+        "local": "Bau",
+        "en": "Bau",
+        "slug": "bau-13102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13102",
+        "level": 2,
+        "name": {
+          "local": "Bau",
+          "en": "Bau",
+          "slug": "bau-13102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.45",
+      "lon": "110.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13102-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "KROKONG TOWN DISTRICT",
+      "en": "KROKONG TOWN DISTRICT",
+      "slug": "krokong-town-district-13102-011"
+    },
+    "code": {
+      "id": "13102-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "13102",
+      "level": 2,
+      "name": {
+        "local": "Bau",
+        "en": "Bau",
+        "slug": "bau-13102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13102",
+        "level": 2,
+        "name": {
+          "local": "Bau",
+          "en": "Bau",
+          "slug": "bau-13102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.366",
+      "lon": "110.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13102-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PAKU TOWN DISTRICT",
+      "en": "PAKU TOWN DISTRICT",
+      "slug": "paku-town-district-13102-006"
+    },
+    "code": {
+      "id": "13102-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "13102",
+      "level": 2,
+      "name": {
+        "local": "Bau",
+        "en": "Bau",
+        "slug": "bau-13102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13102",
+        "level": 2,
+        "name": {
+          "local": "Bau",
+          "en": "Bau",
+          "slug": "bau-13102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.423",
+      "lon": "110.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13102-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PANGKALAN TEBANG TOWN DISTRICT",
+      "en": "PANGKALAN TEBANG TOWN DISTRICT",
+      "slug": "pangkalan-tebang-town-district-13102-001"
+    },
+    "code": {
+      "id": "13102-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13102",
+      "level": 2,
+      "name": {
+        "local": "Bau",
+        "en": "Bau",
+        "slug": "bau-13102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13102",
+        "level": 2,
+        "name": {
+          "local": "Bau",
+          "en": "Bau",
+          "slug": "bau-13102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.287",
+      "lon": "110.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13102-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEJIRU TOWN DISTRICT",
+      "en": "PEJIRU TOWN DISTRICT",
+      "slug": "pejiru-town-district-13102-007"
+    },
+    "code": {
+      "id": "13102-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "13102",
+      "level": 2,
+      "name": {
+        "local": "Bau",
+        "en": "Bau",
+        "slug": "bau-13102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13102",
+        "level": 2,
+        "name": {
+          "local": "Bau",
+          "en": "Bau",
+          "slug": "bau-13102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.366",
+      "lon": "110.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13102-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SENGGI-POAK LAND DISTRICT",
+      "en": "SENGGI-POAK LAND DISTRICT",
+      "slug": "senggi-poak-land-district-13102-004"
+    },
+    "code": {
+      "id": "13102-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13102",
+      "level": 2,
+      "name": {
+        "local": "Bau",
+        "en": "Bau",
+        "slug": "bau-13102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13102",
+        "level": 2,
+        "name": {
+          "local": "Bau",
+          "en": "Bau",
+          "slug": "bau-13102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.448",
+      "lon": "110.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13102-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SINIAWAN TOWN DISTRICT",
+      "en": "SINIAWAN TOWN DISTRICT",
+      "slug": "siniawan-town-district-13102-012"
+    },
+    "code": {
+      "id": "13102-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "13102",
+      "level": 2,
+      "name": {
+        "local": "Bau",
+        "en": "Bau",
+        "slug": "bau-13102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13102",
+        "level": 2,
+        "name": {
+          "local": "Bau",
+          "en": "Bau",
+          "slug": "bau-13102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.446",
+      "lon": "110.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13102-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "TAI TON TOWN DISTRICT",
+      "en": "TAI TON TOWN DISTRICT",
+      "slug": "tai-ton-town-district-13102-005"
+    },
+    "code": {
+      "id": "13102-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "13102",
+      "level": 2,
+      "name": {
+        "local": "Bau",
+        "en": "Bau",
+        "slug": "bau-13102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13102",
+        "level": 2,
+        "name": {
+          "local": "Bau",
+          "en": "Bau",
+          "slug": "bau-13102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.404",
+      "lon": "110.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13102-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "TONDONG TOWN DISTRICT",
+      "en": "TONDONG TOWN DISTRICT",
+      "slug": "tondong-town-district-13102-003"
+    },
+    "code": {
+      "id": "13102-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13102",
+      "level": 2,
+      "name": {
+        "local": "Bau",
+        "en": "Bau",
+        "slug": "bau-13102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13102",
+        "level": 2,
+        "name": {
+          "local": "Bau",
+          "en": "Bau",
+          "slug": "bau-13102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.457",
+      "lon": "110.161"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,650 @@
+[
+  {
+    "id": "14158-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BANDAR BAHARU SUNGAI BESI",
+      "en": "BANDAR BANDAR BAHARU SUNGAI BESI",
+      "slug": "bandar-bandar-baharu-sungai-besi-14158-005"
+    },
+    "code": {
+      "id": "14158-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "14158",
+      "level": 2,
+      "name": {
+        "local": "W.P. Kuala Lumpur",
+        "en": "W.P. Kuala Lumpur",
+        "slug": "wp-kuala-lumpur-14158"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "W.P. Kuala Lumpur",
+          "en": "Federal Territory of Kuala Lumpur",
+          "slug": "federal-territory-of-kuala-lumpur-14"
+        }
+      },
+      {
+        "id": "14158",
+        "level": 2,
+        "name": {
+          "local": "W.P. Kuala Lumpur",
+          "en": "W.P. Kuala Lumpur",
+          "slug": "wp-kuala-lumpur-14158"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.065",
+      "lon": "101.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14158-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR GOMBAK SETIA",
+      "en": "BANDAR GOMBAK SETIA",
+      "slug": "bandar-gombak-setia-14158-008"
+    },
+    "code": {
+      "id": "14158-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "14158",
+      "level": 2,
+      "name": {
+        "local": "W.P. Kuala Lumpur",
+        "en": "W.P. Kuala Lumpur",
+        "slug": "wp-kuala-lumpur-14158"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "W.P. Kuala Lumpur",
+          "en": "Federal Territory of Kuala Lumpur",
+          "slug": "federal-territory-of-kuala-lumpur-14"
+        }
+      },
+      {
+        "id": "14158",
+        "level": 2,
+        "name": {
+          "local": "W.P. Kuala Lumpur",
+          "en": "W.P. Kuala Lumpur",
+          "slug": "wp-kuala-lumpur-14158"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.22",
+      "lon": "101.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14158-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR KUALA LUMPUR",
+      "en": "BANDAR KUALA LUMPUR",
+      "slug": "bandar-kuala-lumpur-14158-004"
+    },
+    "code": {
+      "id": "14158-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "14158",
+      "level": 2,
+      "name": {
+        "local": "W.P. Kuala Lumpur",
+        "en": "W.P. Kuala Lumpur",
+        "slug": "wp-kuala-lumpur-14158"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "W.P. Kuala Lumpur",
+          "en": "Federal Territory of Kuala Lumpur",
+          "slug": "federal-territory-of-kuala-lumpur-14"
+        }
+      },
+      {
+        "id": "14158",
+        "level": 2,
+        "name": {
+          "local": "W.P. Kuala Lumpur",
+          "en": "W.P. Kuala Lumpur",
+          "slug": "wp-kuala-lumpur-14158"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.149",
+      "lon": "101.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14158-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR ULU KELANG",
+      "en": "BANDAR ULU KELANG",
+      "slug": "bandar-ulu-kelang-14158-007"
+    },
+    "code": {
+      "id": "14158-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "14158",
+      "level": 2,
+      "name": {
+        "local": "W.P. Kuala Lumpur",
+        "en": "W.P. Kuala Lumpur",
+        "slug": "wp-kuala-lumpur-14158"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "W.P. Kuala Lumpur",
+          "en": "Federal Territory of Kuala Lumpur",
+          "slug": "federal-territory-of-kuala-lumpur-14"
+        }
+      },
+      {
+        "id": "14158",
+        "level": 2,
+        "name": {
+          "local": "W.P. Kuala Lumpur",
+          "en": "W.P. Kuala Lumpur",
+          "slug": "wp-kuala-lumpur-14158"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.197",
+      "lon": "101.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14158-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BATU",
+      "en": "BATU",
+      "slug": "batu-14158-009"
+    },
+    "code": {
+      "id": "14158-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "14158",
+      "level": 2,
+      "name": {
+        "local": "W.P. Kuala Lumpur",
+        "en": "W.P. Kuala Lumpur",
+        "slug": "wp-kuala-lumpur-14158"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "W.P. Kuala Lumpur",
+          "en": "Federal Territory of Kuala Lumpur",
+          "slug": "federal-territory-of-kuala-lumpur-14"
+        }
+      },
+      {
+        "id": "14158",
+        "level": 2,
+        "name": {
+          "local": "W.P. Kuala Lumpur",
+          "en": "W.P. Kuala Lumpur",
+          "slug": "wp-kuala-lumpur-14158"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.175",
+      "lon": "101.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14158-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUALA LUMPUR",
+      "en": "KUALA LUMPUR",
+      "slug": "kuala-lumpur-14158-012"
+    },
+    "code": {
+      "id": "14158-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "14158",
+      "level": 2,
+      "name": {
+        "local": "W.P. Kuala Lumpur",
+        "en": "W.P. Kuala Lumpur",
+        "slug": "wp-kuala-lumpur-14158"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "W.P. Kuala Lumpur",
+          "en": "Federal Territory of Kuala Lumpur",
+          "slug": "federal-territory-of-kuala-lumpur-14"
+        }
+      },
+      {
+        "id": "14158",
+        "level": 2,
+        "name": {
+          "local": "W.P. Kuala Lumpur",
+          "en": "W.P. Kuala Lumpur",
+          "slug": "wp-kuala-lumpur-14158"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.114",
+      "lon": "101.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14158-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BATU CAVES",
+      "en": "PEKAN BATU CAVES",
+      "slug": "pekan-batu-caves-14158-002"
+    },
+    "code": {
+      "id": "14158-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "14158",
+      "level": 2,
+      "name": {
+        "local": "W.P. Kuala Lumpur",
+        "en": "W.P. Kuala Lumpur",
+        "slug": "wp-kuala-lumpur-14158"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "W.P. Kuala Lumpur",
+          "en": "Federal Territory of Kuala Lumpur",
+          "slug": "federal-territory-of-kuala-lumpur-14"
+        }
+      },
+      {
+        "id": "14158",
+        "level": 2,
+        "name": {
+          "local": "W.P. Kuala Lumpur",
+          "en": "W.P. Kuala Lumpur",
+          "slug": "wp-kuala-lumpur-14158"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.23",
+      "lon": "101.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14158-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KEPONG",
+      "en": "PEKAN KEPONG",
+      "slug": "pekan-kepong-14158-001"
+    },
+    "code": {
+      "id": "14158-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "14158",
+      "level": 2,
+      "name": {
+        "local": "W.P. Kuala Lumpur",
+        "en": "W.P. Kuala Lumpur",
+        "slug": "wp-kuala-lumpur-14158"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "W.P. Kuala Lumpur",
+          "en": "Federal Territory of Kuala Lumpur",
+          "slug": "federal-territory-of-kuala-lumpur-14"
+        }
+      },
+      {
+        "id": "14158",
+        "level": 2,
+        "name": {
+          "local": "W.P. Kuala Lumpur",
+          "en": "W.P. Kuala Lumpur",
+          "slug": "wp-kuala-lumpur-14158"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.214",
+      "lon": "101.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14158-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KUALA PAUH",
+      "en": "PEKAN KUALA PAUH",
+      "slug": "pekan-kuala-pauh-14158-006"
+    },
+    "code": {
+      "id": "14158-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "14158",
+      "level": 2,
+      "name": {
+        "local": "W.P. Kuala Lumpur",
+        "en": "W.P. Kuala Lumpur",
+        "slug": "wp-kuala-lumpur-14158"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "W.P. Kuala Lumpur",
+          "en": "Federal Territory of Kuala Lumpur",
+          "slug": "federal-territory-of-kuala-lumpur-14"
+        }
+      },
+      {
+        "id": "14158",
+        "level": 2,
+        "name": {
+          "local": "W.P. Kuala Lumpur",
+          "en": "W.P. Kuala Lumpur",
+          "slug": "wp-kuala-lumpur-14158"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.091",
+      "lon": "101.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14158-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SALAK SOUTH",
+      "en": "PEKAN SALAK SOUTH",
+      "slug": "pekan-salak-south-14158-011"
+    },
+    "code": {
+      "id": "14158-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "14158",
+      "level": 2,
+      "name": {
+        "local": "W.P. Kuala Lumpur",
+        "en": "W.P. Kuala Lumpur",
+        "slug": "wp-kuala-lumpur-14158"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "W.P. Kuala Lumpur",
+          "en": "Federal Territory of Kuala Lumpur",
+          "slug": "federal-territory-of-kuala-lumpur-14"
+        }
+      },
+      {
+        "id": "14158",
+        "level": 2,
+        "name": {
+          "local": "W.P. Kuala Lumpur",
+          "en": "W.P. Kuala Lumpur",
+          "slug": "wp-kuala-lumpur-14158"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.102",
+      "lon": "101.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14158-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SUNGAI PENCHALA",
+      "en": "PEKAN SUNGAI PENCHALA",
+      "slug": "pekan-sungai-penchala-14158-003"
+    },
+    "code": {
+      "id": "14158-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "14158",
+      "level": 2,
+      "name": {
+        "local": "W.P. Kuala Lumpur",
+        "en": "W.P. Kuala Lumpur",
+        "slug": "wp-kuala-lumpur-14158"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "W.P. Kuala Lumpur",
+          "en": "Federal Territory of Kuala Lumpur",
+          "slug": "federal-territory-of-kuala-lumpur-14"
+        }
+      },
+      {
+        "id": "14158",
+        "level": 2,
+        "name": {
+          "local": "W.P. Kuala Lumpur",
+          "en": "W.P. Kuala Lumpur",
+          "slug": "wp-kuala-lumpur-14158"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.132",
+      "lon": "101.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14158-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PETALING",
+      "en": "PETALING",
+      "slug": "petaling-14158-010"
+    },
+    "code": {
+      "id": "14158-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "14158",
+      "level": 2,
+      "name": {
+        "local": "W.P. Kuala Lumpur",
+        "en": "W.P. Kuala Lumpur",
+        "slug": "wp-kuala-lumpur-14158"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "W.P. Kuala Lumpur",
+          "en": "Federal Territory of Kuala Lumpur",
+          "slug": "federal-territory-of-kuala-lumpur-14"
+        }
+      },
+      {
+        "id": "14158",
+        "level": 2,
+        "name": {
+          "local": "W.P. Kuala Lumpur",
+          "en": "W.P. Kuala Lumpur",
+          "slug": "wp-kuala-lumpur-14158"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.048",
+      "lon": "101.661"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

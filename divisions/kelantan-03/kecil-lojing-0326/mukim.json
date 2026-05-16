@@ -1,0 +1,380 @@
+[
+  {
+    "id": "0326-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BALAR",
+      "en": "BALAR",
+      "slug": "balar-0326-006"
+    },
+    "code": {
+      "id": "0326-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0326",
+      "level": 2,
+      "name": {
+        "local": "Kecil Lojing",
+        "en": "Kecil Lojing",
+        "slug": "kecil-lojing-0326"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0326",
+        "level": 2,
+        "name": {
+          "local": "Kecil Lojing",
+          "en": "Kecil Lojing",
+          "slug": "kecil-lojing-0326"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.894",
+      "lon": "101.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0326-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BLAU",
+      "en": "BLAU",
+      "slug": "blau-0326-003"
+    },
+    "code": {
+      "id": "0326-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0326",
+      "level": 2,
+      "name": {
+        "local": "Kecil Lojing",
+        "en": "Kecil Lojing",
+        "slug": "kecil-lojing-0326"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0326",
+        "level": 2,
+        "name": {
+          "local": "Kecil Lojing",
+          "en": "Kecil Lojing",
+          "slug": "kecil-lojing-0326"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.701",
+      "lon": "101.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0326-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM HAU",
+      "en": "HAU",
+      "slug": "hau-0326-004"
+    },
+    "code": {
+      "id": "0326-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0326",
+      "level": 2,
+      "name": {
+        "local": "Kecil Lojing",
+        "en": "Kecil Lojing",
+        "slug": "kecil-lojing-0326"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0326",
+        "level": 2,
+        "name": {
+          "local": "Kecil Lojing",
+          "en": "Kecil Lojing",
+          "slug": "kecil-lojing-0326"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.845",
+      "lon": "101.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0326-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM HENDROP",
+      "en": "HENDROP",
+      "slug": "hendrop-0326-007"
+    },
+    "code": {
+      "id": "0326-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0326",
+      "level": 2,
+      "name": {
+        "local": "Kecil Lojing",
+        "en": "Kecil Lojing",
+        "slug": "kecil-lojing-0326"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0326",
+        "level": 2,
+        "name": {
+          "local": "Kecil Lojing",
+          "en": "Kecil Lojing",
+          "slug": "kecil-lojing-0326"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.658",
+      "lon": "101.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0326-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PULAI",
+      "en": "PULAI",
+      "slug": "pulai-0326-002"
+    },
+    "code": {
+      "id": "0326-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0326",
+      "level": 2,
+      "name": {
+        "local": "Kecil Lojing",
+        "en": "Kecil Lojing",
+        "slug": "kecil-lojing-0326"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0326",
+        "level": 2,
+        "name": {
+          "local": "Kecil Lojing",
+          "en": "Kecil Lojing",
+          "slug": "kecil-lojing-0326"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.85",
+      "lon": "101.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0326-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SIGAR",
+      "en": "SIGAR",
+      "slug": "sigar-0326-005"
+    },
+    "code": {
+      "id": "0326-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0326",
+      "level": 2,
+      "name": {
+        "local": "Kecil Lojing",
+        "en": "Kecil Lojing",
+        "slug": "kecil-lojing-0326"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0326",
+        "level": 2,
+        "name": {
+          "local": "Kecil Lojing",
+          "en": "Kecil Lojing",
+          "slug": "kecil-lojing-0326"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.638",
+      "lon": "101.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0326-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TUEL",
+      "en": "TUEL",
+      "slug": "tuel-0326-001"
+    },
+    "code": {
+      "id": "0326-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0326",
+      "level": 2,
+      "name": {
+        "local": "Kecil Lojing",
+        "en": "Kecil Lojing",
+        "slug": "kecil-lojing-0326"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0326",
+        "level": 2,
+        "name": {
+          "local": "Kecil Lojing",
+          "en": "Kecil Lojing",
+          "slug": "kecil-lojing-0326"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.777",
+      "lon": "101.437"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

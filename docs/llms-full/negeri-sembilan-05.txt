@@ -1,0 +1,660 @@
+# Negeri Sembilan — Malaysia Administrative Divisions
+
+> 7 districts, 154 subdistricts
+> Code: 05
+> Coordinates: 2.679, 101.972
+> Last updated: 2026-05-16. License: CC-BY-4.0.
+
+## Districts
+
+### Jelebu
+
+Code: 0537, Coordinates: 3.064, 102.051
+Subdistricts: 16
+
+#### BANDAR KUALA KLAWANG
+
+Code: 0537-011, Coordinates: 2.939, 102.07
+
+#### MUKIM GLAMI LEMI (GLAMI LEMI)
+
+Code: 0537-002, Coordinates: 3.002, 102.076
+
+#### MUKIM KENABOI (KENABOI)
+
+Code: 0537-005, Coordinates: 3.144, 102.041
+
+#### MUKIM KUALA KLAWANG (KUALA KLAWANG)
+
+Code: 0537-001, Coordinates: 2.923, 102.075
+
+#### PEKAN KUALA KLAWANG
+
+Code: 0537-008, Coordinates: 2.952, 102.063
+
+#### PEKAN PERTANG
+
+Code: 0537-015, Coordinates: 2.959, 102.219
+
+#### PEKAN PETALING
+
+Code: 0537-007, Coordinates: 2.998, 101.967
+
+#### PEKAN SIMPANG DURIAN
+
+Code: 0537-014, Coordinates: 3.1, 102.222
+
+#### PEKAN SIMPANG PERTANG
+
+Code: 0537-006, Coordinates: 2.945, 102.257
+
+#### PEKAN SUNGAI MUNTOH
+
+Code: 0537-016, Coordinates: 3.02, 102.081
+
+#### PEKAN TITI
+
+Code: 0537-009, Coordinates: 2.991, 102.071
+
+#### MUKIM PERADONG (PERADONG)
+
+Code: 0537-012, Coordinates: 2.971, 102.119
+
+#### MUKIM PERTANG (PERTANG)
+
+Code: 0537-010, Coordinates: 2.997, 102.224
+
+#### MUKIM TRIANG ILIR (TRIANG ILIR)
+
+Code: 0537-004, Coordinates: 3.106, 102.198
+
+#### MUKIM ULU KLAWANG (ULU KLAWANG)
+
+Code: 0537-013, Coordinates: 2.891, 102.023
+
+#### MUKIM ULU TRIANG (ULU TRIANG)
+
+Code: 0537-003, Coordinates: 2.967, 102.024
+
+### Jempol
+
+Code: 0538, Coordinates: 2.829, 102.399
+Subdistricts: 12
+
+#### BANDAR BAHAU
+
+Code: 0538-003, Coordinates: 2.808, 102.395
+
+#### BANDAR SERI JEMPOL
+
+Code: 0538-009, Coordinates: 2.881, 102.404
+
+#### BANDAR SERTING
+
+Code: 0538-002, Coordinates: 2.899, 102.404
+
+#### MUKIM JELAI (JELAI)
+
+Code: 0538-008, Coordinates: 2.707, 102.416
+
+#### MUKIM KUALA JEMPOL (KUALA JEMPOL)
+
+Code: 0538-006, Coordinates: 2.812, 102.342
+
+#### PEKAN BAHAU
+
+Code: 0538-001, Coordinates: 2.8, 102.394
+
+#### PEKAN BATU KIKIR
+
+Code: 0538-010, Coordinates: 2.828, 102.318
+
+#### PEKAN MAHSAN
+
+Code: 0538-005, Coordinates: 2.833, 102.408
+
+#### PEKAN ROMPIN
+
+Code: 0538-004, Coordinates: 2.705, 102.504
+
+#### PEKAN SERTING TENGAH
+
+Code: 0538-007, Coordinates: 2.853, 102.328
+
+#### MUKIM SERTING HILIR (SERTING HILIR)
+
+Code: 0538-012, Coordinates: 2.925, 102.436
+
+#### MUKIM SERTING ULU (SERTING ULU)
+
+Code: 0538-011, Coordinates: 2.927, 102.339
+
+### Kuala Pilah
+
+Code: 0539, Coordinates: 2.731, 102.206
+Subdistricts: 23
+
+#### MUKIM AMPANG TINGGI (AMPANG TINGGI)
+
+Code: 0539-005, Coordinates: 2.743, 102.22
+
+#### BANDAR KUALA PILAH
+
+Code: 0539-017, Coordinates: 2.743, 102.248
+
+#### MUKIM JOHOL (JOHOL)
+
+Code: 0539-014, Coordinates: 2.632, 102.259
+
+#### MUKIM JUASSEH (JUASSEH)
+
+Code: 0539-021, Coordinates: 2.782, 102.305
+
+#### MUKIM KEPIS (KEPIS)
+
+Code: 0539-018, Coordinates: 2.708, 102.34
+
+#### MUKIM LANGKAP (LANGKAP)
+
+Code: 0539-022, Coordinates: 2.846, 102.134
+
+#### MUKIM PARIT TINGGI (PARIT TINGGI)
+
+Code: 0539-007, Coordinates: 2.796, 102.213
+
+#### PEKAN AIR MAWANG
+
+Code: 0539-006, Coordinates: 2.558, 102.256
+
+#### PEKAN BUKIT GELUGOR
+
+Code: 0539-019, Coordinates: 2.803, 102.313
+
+#### PEKAN DANGI
+
+Code: 0539-012, Coordinates: 2.646, 102.319
+
+#### PEKAN DANGI BARU
+
+Code: 0539-015, Coordinates: 2.642, 102.317
+
+#### PEKAN GUNUNG PASIR
+
+Code: 0539-002, Coordinates: 2.665, 102.15
+
+#### PEKAN JOHOL
+
+Code: 0539-001, Coordinates: 2.6, 102.263
+
+#### PEKAN JUASSEH
+
+Code: 0539-016, Coordinates: 2.788, 102.297
+
+#### PEKAN KUALA JELAI
+
+Code: 0539-011, Coordinates: 2.758, 102.398
+
+#### PEKAN MELANG
+
+Code: 0539-023, Coordinates: 2.736, 102.231
+
+#### PEKAN PARIT TINGGI
+
+Code: 0539-008, Coordinates: 2.791, 102.214
+
+#### PEKAN SENALING
+
+Code: 0539-003, Coordinates: 2.708, 102.252
+
+#### PEKAN TANJONG IPOH
+
+Code: 0539-020, Coordinates: 2.741, 102.185
+
+#### MUKIM PILAH (PILAH)
+
+Code: 0539-010, Coordinates: 2.707, 102.231
+
+#### MUKIM TERACHI (TERACHI)
+
+Code: 0539-004, Coordinates: 2.74, 102.13
+
+#### MUKIM ULU JEMPOL (ULU JEMPOL)
+
+Code: 0539-013, Coordinates: 2.867, 102.227
+
+#### MUKIM ULU MUAR (ULU MUAR)
+
+Code: 0539-009, Coordinates: 2.759, 102.265
+
+### Port Dickson
+
+Code: 0540, Coordinates: 2.549, 101.849
+Subdistricts: 20
+
+#### BANDAR PORT DICKSON
+
+Code: 0540-018, Coordinates: 2.525, 101.808
+
+#### BANDAR TELUK KEMANG
+
+Code: 0540-003, Coordinates: 2.474, 101.858
+
+#### MUKIM JIMAH (JIMAH)
+
+Code: 0540-009, Coordinates: 2.633, 101.789
+
+#### MUKIM LINGGI (LINGGI)
+
+Code: 0540-011, Coordinates: 2.474, 101.969
+
+#### MUKIM PASIR PANJANG (PASIR PANJANG)
+
+Code: 0540-005, Coordinates: 2.565, 101.85
+
+#### PEKAN BAGAN PINANG
+
+Code: 0540-008, Coordinates: 2.505, 101.837
+
+#### PEKAN BUKIT PELANDUK
+
+Code: 0540-014, Coordinates: 2.644, 101.745
+
+#### PEKAN CHUAH
+
+Code: 0540-020, Coordinates: 2.604, 101.766
+
+#### PEKAN JEMIMA
+
+Code: 0540-012, Coordinates: 2.608, 101.861
+
+#### PEKAN LINGGI
+
+Code: 0540-019, Coordinates: 2.484, 102.015
+
+#### PEKAN LUKUT
+
+Code: 0540-010, Coordinates: 2.578, 101.823
+
+#### PEKAN PASIR PANJANG
+
+Code: 0540-004, Coordinates: 2.623, 101.783
+
+#### PEKAN PENGKALAN KEMPAS
+
+Code: 0540-016, Coordinates: 2.449, 102.016
+
+#### PEKAN PORT DICKSON
+
+Code: 0540-001, Coordinates: 2.537, 101.817
+
+#### PEKAN SUNGAI MENYALA
+
+Code: 0540-013, Coordinates: 2.423, 101.881
+
+#### PEKAN TANAH MERAH SELATAN
+
+Code: 0540-007, Coordinates: 2.615, 101.803
+
+#### PEKAN TANAH MERAH UTARA
+
+Code: 0540-002, Coordinates: 2.618, 101.809
+
+#### PEKAN TELUK KEMANG
+
+Code: 0540-017, Coordinates: 2.442, 101.867
+
+#### MUKIM PORT DICKSON (PORT DICKSON)
+
+Code: 0540-006, Coordinates: 2.563, 101.852
+
+#### MUKIM SI RUSA (SI RUSA)
+
+Code: 0540-015, Coordinates: 2.487, 101.862
+
+### Rembau
+
+Code: 0541, Coordinates: 2.559, 102.108
+Subdistricts: 26
+
+#### BANDAR REMBAU
+
+Code: 0541-004, Coordinates: 2.59, 102.093
+
+#### MUKIM BATU HAMPAR (BATU HAMPAR)
+
+Code: 0541-021, Coordinates: 2.576, 102.088
+
+#### MUKIM BONGEK (BONGEK)
+
+Code: 0541-007, Coordinates: 2.561, 102.122
+
+#### MUKIM CHEMBONG (CHEMBONG)
+
+Code: 0541-005, Coordinates: 2.618, 102.091
+
+#### MUKIM CHENGKAU (CHENGKAU)
+
+Code: 0541-019, Coordinates: 2.55, 102.142
+
+#### MUKIM GADONG (GADONG)
+
+Code: 0541-015, Coordinates: 2.512, 102.175
+
+#### MUKIM KUNDOR (KUNDOR)
+
+Code: 0541-024, Coordinates: 2.526, 102.043
+
+#### MUKIM LEGONG ILIR (LEGONG ILIR)
+
+Code: 0541-010, Coordinates: 2.506, 102.112
+
+#### MUKIM LEGONG ULU (LEGONG ULU)
+
+Code: 0541-003, Coordinates: 2.509, 102.142
+
+#### MUKIM MIKU (MIKU)
+
+Code: 0541-025, Coordinates: 2.588, 102.159
+
+#### MUKIM NERASAU (NERASAU)
+
+Code: 0541-022, Coordinates: 2.535, 102.114
+
+#### MUKIM PEDAS (PEDAS)
+
+Code: 0541-014, Coordinates: 2.625, 102.062
+
+#### PEKAN AIR KUNING
+
+Code: 0541-013, Coordinates: 2.535, 102.1
+
+#### PEKAN CHEMBONG
+
+Code: 0541-012, Coordinates: 2.603, 102.071
+
+#### PEKAN CHENGKAU
+
+Code: 0541-006, Coordinates: 2.559, 102.127
+
+#### PEKAN KAMPONG BATU
+
+Code: 0541-023, Coordinates: 2.584, 102.117
+
+#### PEKAN KOTA
+
+Code: 0541-001, Coordinates: 2.521, 102.157
+
+#### PEKAN MERBAU SEMBILAN
+
+Code: 0541-026, Coordinates: 2.563, 102.044
+
+#### PEKAN PEDAS
+
+Code: 0541-017, Coordinates: 2.626, 102.058
+
+#### PEKAN REMBAU
+
+Code: 0541-008, Coordinates: 2.594, 102.098
+
+#### PEKAN SERI KOTA
+
+Code: 0541-016, Coordinates: 2.503, 102.169
+
+#### MUKIM PILIN (PILIN)
+
+Code: 0541-011, Coordinates: 2.533, 102.073
+
+#### MUKIM SELEMAK (SELEMAK)
+
+Code: 0541-009, Coordinates: 2.593, 102.123
+
+#### MUKIM SEMERBOK (SEMERBOK)
+
+Code: 0541-002, Coordinates: 2.484, 102.133
+
+#### MUKIM SPRI (SPRI)
+
+Code: 0541-018, Coordinates: 2.65, 102.091
+
+#### MUKIM TITIAN BINTANGOR (TITIAN BINTANGOR)
+
+Code: 0541-020, Coordinates: 2.473, 102.079
+
+### Seremban
+
+Code: 0542, Coordinates: 2.745, 101.966
+Subdistricts: 41
+
+#### MUKIM AMPANGAN (AMPANGAN)
+
+Code: 0542-032, Coordinates: 2.726, 101.992
+
+#### BANDAR BARU ENSTEK
+
+Code: 0542-024, Coordinates: 2.726, 101.79
+
+#### BANDAR BARU KOTA SRI MAS
+
+Code: 0542-026, Coordinates: 2.78, 101.776
+
+#### BANDAR MANTIN UTAMA
+
+Code: 0542-018, Coordinates: 2.847, 101.855
+
+#### BANDAR NILAI UTAMA
+
+Code: 0542-035, Coordinates: 2.835, 101.793
+
+#### BANDAR SEREMBAN
+
+Code: 0542-027, Coordinates: 2.716, 101.945
+
+#### BANDAR SEREMBAN 3
+
+Code: 0542-034, Coordinates: 2.674, 101.932
+
+#### BANDAR SEREMBAN UTAMA
+
+Code: 0542-022, Coordinates: 2.69, 101.907
+
+#### BANDAR SRI SENDAYAN
+
+Code: 0542-016, Coordinates: 2.669, 101.863
+
+#### MUKIM LABU (LABU)
+
+Code: 0542-015, Coordinates: 2.744, 101.814
+
+#### MUKIM LENGGENG (LENGGENG)
+
+Code: 0542-038, Coordinates: 2.873, 101.958
+
+#### PEKAN BROGA
+
+Code: 0542-003, Coordinates: 2.935, 101.912
+
+#### PEKAN BUKIT KEPAYANG
+
+Code: 0542-013, Coordinates: 2.713, 101.923
+
+#### PEKAN BUKTI
+
+Code: 0542-019, Coordinates: 2.719, 101.975
+
+#### PEKAN DUSUN SETIA
+
+Code: 0542-006, Coordinates: 2.714, 101.963
+
+#### PEKAN LABU
+
+Code: 0542-030, Coordinates: 2.754, 101.825
+
+#### PEKAN LENGGENG
+
+Code: 0542-033, Coordinates: 2.856, 101.942
+
+#### PEKAN MAMBAU
+
+Code: 0542-039, Coordinates: 2.668, 101.919
+
+#### PEKAN MANTIN
+
+Code: 0542-025, Coordinates: 2.822, 101.898
+
+#### PEKAN NILAI
+
+Code: 0542-021, Coordinates: 2.812, 101.81
+
+#### PEKAN PAJAM
+
+Code: 0542-028, Coordinates: 2.844, 101.849
+
+#### PEKAN PANCOR
+
+Code: 0542-001, Coordinates: 2.735, 102.004
+
+#### PEKAN PAROI
+
+Code: 0542-007, Coordinates: 2.725, 101.999
+
+#### PEKAN PAROI JAYA
+
+Code: 0542-020, Coordinates: 2.732, 101.984
+
+#### PEKAN RAHANG BARU
+
+Code: 0542-009, Coordinates: 2.693, 101.955
+
+#### PEKAN RANTAU
+
+Code: 0542-002, Coordinates: 2.588, 101.961
+
+#### PEKAN RASAH JAYA
+
+Code: 0542-010, Coordinates: 2.681, 101.937
+
+#### PEKAN SENAWANG
+
+Code: 0542-017, Coordinates: 2.703, 101.99
+
+#### PEKAN SEREMBAN JAYA
+
+Code: 0542-005, Coordinates: 2.67, 101.982
+
+#### PEKAN SETUL
+
+Code: 0542-040, Coordinates: 2.744, 101.923
+
+#### PEKAN SHAH BANDAR
+
+Code: 0542-004, Coordinates: 2.719, 101.965
+
+#### PEKAN SIKAMAT
+
+Code: 0542-011, Coordinates: 2.749, 101.963
+
+#### PEKAN SUNGAI GADUT
+
+Code: 0542-031, Coordinates: 2.669, 101.999
+
+#### PEKAN TAMAN SEREMBAN
+
+Code: 0542-012, Coordinates: 2.701, 101.964
+
+#### PEKAN TIROI
+
+Code: 0542-037, Coordinates: 2.74, 101.871
+
+#### PEKAN ULU BERANANG
+
+Code: 0542-008, Coordinates: 2.895, 101.927
+
+#### PEKAN ULU TEMIANG
+
+Code: 0542-014, Coordinates: 2.76, 101.938
+
+#### MUKIM RANTAU (RANTAU)
+
+Code: 0542-029, Coordinates: 2.623, 101.958
+
+#### MUKIM RASAH (RASAH)
+
+Code: 0542-041, Coordinates: 2.674, 101.923
+
+#### MUKIM SEREMBAN (SEREMBAN)
+
+Code: 0542-036, Coordinates: 2.749, 101.928
+
+#### MUKIM SETUL (SETUL)
+
+Code: 0542-023, Coordinates: 2.837, 101.842
+
+### Tampin
+
+Code: 0543, Coordinates: 2.537, 102.507
+Subdistricts: 16
+
+#### MUKIM AIR KUNING (AIR KUNING)
+
+Code: 0543-001, Coordinates: 2.481, 102.529
+
+#### BANDAR GEMAS
+
+Code: 0543-006, Coordinates: 2.567, 102.602
+
+#### BANDAR TAMPIN
+
+Code: 0543-007, Coordinates: 2.471, 102.231
+
+#### MUKIM GEMENCHEH (GEMENCHEH)
+
+Code: 0543-014, Coordinates: 2.563, 102.423
+
+#### MUKIM KERU (KERU)
+
+Code: 0543-015, Coordinates: 2.491, 102.286
+
+#### PEKAN AIR KUNING SELATAN
+
+Code: 0543-010, Coordinates: 2.508, 102.48
+
+#### PEKAN BATANG MALAKA
+
+Code: 0543-003, Coordinates: 2.473, 102.418
+
+#### PEKAN BATANG MELAKA
+
+Code: 0543-009, Coordinates: 2.476, 102.42
+
+#### PEKAN GEMENCHEH BAHRU
+
+Code: 0543-002, Coordinates: 2.527, 102.396
+
+#### PEKAN PASIR BESAR
+
+Code: 0543-016, Coordinates: 2.649, 102.536
+
+#### PEKAN REPAH
+
+Code: 0543-005, Coordinates: 2.489, 102.235
+
+#### PEKAN REPAH JAYA
+
+Code: 0543-012, Coordinates: 2.49, 102.244
+
+#### PEKAN REPAH PERMAI
+
+Code: 0543-013, Coordinates: 2.508, 102.259
+
+#### PEKAN TAMPIN TENGAH
+
+Code: 0543-011, Coordinates: 2.478, 102.232
+
+#### MUKIM REPAH (REPAH)
+
+Code: 0543-004, Coordinates: 2.512, 102.251
+
+#### MUKIM TAMPIN TENGAH (TAMPIN TENGAH)
+
+Code: 0543-008, Coordinates: 2.482, 102.241
+

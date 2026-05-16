@@ -1,0 +1,106 @@
+# Perlis — Malaysia Administrative Divisions
+
+> 1 districts, 23 subdistricts
+> Code: 09
+> Coordinates: 6.586, 100.221
+> Last updated: 2026-05-16. License: CC-BY-4.0.
+
+## Districts
+
+### Perlis
+
+Code: 0968, Coordinates: 6.542, 100.219
+Subdistricts: 23
+
+#### MUKIM ABI (ABI)
+
+Code: 0968-020, Coordinates: 6.49, 100.201
+
+#### MUKIM ARAU (ARAU)
+
+Code: 0968-017, Coordinates: 6.43, 100.265
+
+#### BANDAR ARAU
+
+Code: 0968-015, Coordinates: 6.427, 100.272
+
+#### BANDAR KANGAR
+
+Code: 0968-009, Coordinates: 6.44, 100.192
+
+#### MUKIM BESERI (BESERI)
+
+Code: 0968-021, Coordinates: 6.545, 100.222
+
+#### MUKIM CHUPING (CHUPING)
+
+Code: 0968-019, Coordinates: 6.536, 100.297
+
+#### MUKIM KAYANG (KAYANG)
+
+Code: 0968-004, Coordinates: 6.39, 100.172
+
+#### MUKIM KECHOR (KECHOR)
+
+Code: 0968-006, Coordinates: 6.471, 100.2
+
+#### MUKIM KUALA PERLIS (KUALA PERLIS)
+
+Code: 0968-023, Coordinates: 6.407, 100.144
+
+#### MUKIM KURONG ANAI (KURONG ANAI)
+
+Code: 0968-008, Coordinates: 6.422, 100.3
+
+#### MUKIM KURONG BATANG (KURONG BATANG)
+
+Code: 0968-014, Coordinates: 6.507, 100.165
+
+#### MUKIM NGULANG (NGULANG)
+
+Code: 0968-002, Coordinates: 6.478, 100.244
+
+#### MUKIM ORAN (ORAN)
+
+Code: 0968-013, Coordinates: 6.473, 100.272
+
+#### MUKIM PADANG PAUH (PADANG PAUH)
+
+Code: 0968-003, Coordinates: 6.479, 100.227
+
+#### MUKIM PADANG SIDING (PADANG SIDING)
+
+Code: 0968-018, Coordinates: 6.475, 100.315
+
+#### PEKAN KAKI BUKIT
+
+Code: 0968-016, Coordinates: 6.644, 100.209
+
+#### PEKAN KUALA PERLIS
+
+Code: 0968-012, Coordinates: 6.4, 100.132
+
+#### MUKIM SENA (SENA)
+
+Code: 0968-011, Coordinates: 6.448, 100.216
+
+#### MUKIM SERIAB (SERIAB)
+
+Code: 0968-007, Coordinates: 6.417, 100.178
+
+#### MUKIM SUNGAI ADAM (SUNGAI ADAM)
+
+Code: 0968-001, Coordinates: 6.447, 100.249
+
+#### MUKIM TITI TINGGI (TITI TINGGI)
+
+Code: 0968-010, Coordinates: 6.655, 100.235
+
+#### MUKIM UTAN AJI (UTAN AJI)
+
+Code: 0968-005, Coordinates: 6.408, 100.201
+
+#### MUKIM WANG BINTONG (WANG BINTONG)
+
+Code: 0968-022, Coordinates: 6.444, 100.174
+

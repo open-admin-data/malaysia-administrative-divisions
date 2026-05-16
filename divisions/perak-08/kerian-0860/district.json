@@ -1,0 +1,47 @@
+{
+  "id": "0860",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kerian",
+    "en": "Kerian",
+    "slug": "kerian-0860"
+  },
+  "code": {
+    "id": "0860",
+    "iso": null
+  },
+  "parent": {
+    "id": "08",
+    "level": 1,
+    "name": {
+      "local": "Perak",
+      "en": "Perak",
+      "slug": "perak-08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.029",
+    "lon": "100.545"
+  },
+  "metadata": {},
+  "source": {}
+}

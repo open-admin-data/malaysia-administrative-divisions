@@ -1,0 +1,326 @@
+[
+  {
+    "id": "13125-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BELADIN TOWN DISTRICT",
+      "en": "BELADIN TOWN DISTRICT",
+      "slug": "beladin-town-district-13125-003"
+    },
+    "code": {
+      "id": "13125-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13125",
+      "level": 2,
+      "name": {
+        "local": "Pusa",
+        "en": "Pusa",
+        "slug": "pusa-13125"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13125",
+        "level": 2,
+        "name": {
+          "local": "Pusa",
+          "en": "Pusa",
+          "slug": "pusa-13125"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.641",
+      "lon": "111.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13125-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MALUDAM TOWN DISTRICT",
+      "en": "MALUDAM TOWN DISTRICT",
+      "slug": "maludam-town-district-xx-647"
+    },
+    "code": {
+      "id": "13125-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "13125",
+      "level": 2,
+      "name": {
+        "local": "Pusa",
+        "en": "Pusa",
+        "slug": "pusa-13125"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13125",
+        "level": 2,
+        "name": {
+          "local": "Pusa",
+          "en": "Pusa",
+          "slug": "pusa-13125"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.659",
+      "lon": "111.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13125-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PUSA TOWN DISTRICT",
+      "en": "PUSA TOWN DISTRICT",
+      "slug": "pusa-town-district-13125-004"
+    },
+    "code": {
+      "id": "13125-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13125",
+      "level": 2,
+      "name": {
+        "local": "Pusa",
+        "en": "Pusa",
+        "slug": "pusa-13125"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13125",
+        "level": 2,
+        "name": {
+          "local": "Pusa",
+          "en": "Pusa",
+          "slug": "pusa-13125"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.612",
+      "lon": "111.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13125-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SABLOR LAND DISTRICT",
+      "en": "SABLOR LAND DISTRICT",
+      "slug": "sablor-land-district-13125-002"
+    },
+    "code": {
+      "id": "13125-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13125",
+      "level": 2,
+      "name": {
+        "local": "Pusa",
+        "en": "Pusa",
+        "slug": "pusa-13125"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13125",
+        "level": 2,
+        "name": {
+          "local": "Pusa",
+          "en": "Pusa",
+          "slug": "pusa-13125"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.615",
+      "lon": "111.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13125-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SAMARANG TOWN DISTRICT",
+      "en": "SAMARANG TOWN DISTRICT",
+      "slug": "samarang-town-district-13125-005"
+    },
+    "code": {
+      "id": "13125-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "13125",
+      "level": 2,
+      "name": {
+        "local": "Pusa",
+        "en": "Pusa",
+        "slug": "pusa-13125"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13125",
+        "level": 2,
+        "name": {
+          "local": "Pusa",
+          "en": "Pusa",
+          "slug": "pusa-13125"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.684",
+      "lon": "111.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13125-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "TRISO LAND DISTRICT",
+      "en": "TRISO LAND DISTRICT",
+      "slug": "triso-land-district-13125-001"
+    },
+    "code": {
+      "id": "13125-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13125",
+      "level": 2,
+      "name": {
+        "local": "Pusa",
+        "en": "Pusa",
+        "slug": "pusa-13125"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13125",
+        "level": 2,
+        "name": {
+          "local": "Pusa",
+          "en": "Pusa",
+          "slug": "pusa-13125"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.576",
+      "lon": "111.031"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

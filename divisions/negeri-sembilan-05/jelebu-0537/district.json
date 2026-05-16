@@ -1,0 +1,47 @@
+{
+  "id": "0537",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jelebu",
+    "en": "Jelebu",
+    "slug": "jelebu-0537"
+  },
+  "code": {
+    "id": "0537",
+    "iso": null
+  },
+  "parent": {
+    "id": "05",
+    "level": 1,
+    "name": {
+      "local": "Negeri Sembilan",
+      "en": "Negeri Sembilan",
+      "slug": "negeri-sembilan-05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "05",
+      "level": 1,
+      "name": {
+        "local": "Negeri Sembilan",
+        "en": "Negeri Sembilan",
+        "slug": "negeri-sembilan-05"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.064",
+    "lon": "102.051"
+  },
+  "metadata": {},
+  "source": {}
+}

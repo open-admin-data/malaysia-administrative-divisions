@@ -1,0 +1,47 @@
+{
+  "id": "0108",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pontian",
+    "en": "Pontian",
+    "slug": "pontian-0108"
+  },
+  "code": {
+    "id": "0108",
+    "iso": null
+  },
+  "parent": {
+    "id": "01",
+    "level": 1,
+    "name": {
+      "local": "Johor",
+      "en": "Johor",
+      "slug": "johor-01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Johor",
+        "en": "Johor",
+        "slug": "johor-01"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.502",
+    "lon": "103.414"
+  },
+  "metadata": {},
+  "source": {}
+}

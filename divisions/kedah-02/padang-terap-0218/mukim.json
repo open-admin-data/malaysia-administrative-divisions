@@ -1,0 +1,974 @@
+[
+  {
+    "id": "0218-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR KUALA NERANG",
+      "en": "BANDAR KUALA NERANG",
+      "slug": "bandar-kuala-nerang-0218-010"
+    },
+    "code": {
+      "id": "0218-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0218",
+      "level": 2,
+      "name": {
+        "local": "Padang Terap",
+        "en": "Padang Terap",
+        "slug": "padang-terap-0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0218",
+        "level": 2,
+        "name": {
+          "local": "Padang Terap",
+          "en": "Padang Terap",
+          "slug": "padang-terap-0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.249",
+      "lon": "100.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0218-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BATANG TUNGGANG KANAN",
+      "en": "BATANG TUNGGANG KANAN",
+      "slug": "batang-tunggang-kanan-0218-008"
+    },
+    "code": {
+      "id": "0218-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0218",
+      "level": 2,
+      "name": {
+        "local": "Padang Terap",
+        "en": "Padang Terap",
+        "slug": "padang-terap-0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0218",
+        "level": 2,
+        "name": {
+          "local": "Padang Terap",
+          "en": "Padang Terap",
+          "slug": "padang-terap-0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.356",
+      "lon": "100.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0218-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BATANG TUNGGANG KIRI",
+      "en": "BATANG TUNGGANG KIRI",
+      "slug": "batang-tunggang-kiri-0218-013"
+    },
+    "code": {
+      "id": "0218-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0218",
+      "level": 2,
+      "name": {
+        "local": "Padang Terap",
+        "en": "Padang Terap",
+        "slug": "padang-terap-0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0218",
+        "level": 2,
+        "name": {
+          "local": "Padang Terap",
+          "en": "Padang Terap",
+          "slug": "padang-terap-0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.414",
+      "lon": "100.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0218-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BELIMBING KANAN",
+      "en": "BELIMBING KANAN",
+      "slug": "belimbing-kanan-0218-002"
+    },
+    "code": {
+      "id": "0218-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0218",
+      "level": 2,
+      "name": {
+        "local": "Padang Terap",
+        "en": "Padang Terap",
+        "slug": "padang-terap-0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0218",
+        "level": 2,
+        "name": {
+          "local": "Padang Terap",
+          "en": "Padang Terap",
+          "slug": "padang-terap-0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.245",
+      "lon": "100.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0218-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BELIMBING KIRI",
+      "en": "BELIMBING KIRI",
+      "slug": "belimbing-kiri-0218-015"
+    },
+    "code": {
+      "id": "0218-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "0218",
+      "level": 2,
+      "name": {
+        "local": "Padang Terap",
+        "en": "Padang Terap",
+        "slug": "padang-terap-0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0218",
+        "level": 2,
+        "name": {
+          "local": "Padang Terap",
+          "en": "Padang Terap",
+          "slug": "padang-terap-0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.287",
+      "lon": "100.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0218-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM JEJAWI",
+      "en": "JEJAWI",
+      "slug": "jejawi-0218-012"
+    },
+    "code": {
+      "id": "0218-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0218",
+      "level": 2,
+      "name": {
+        "local": "Padang Terap",
+        "en": "Padang Terap",
+        "slug": "padang-terap-0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0218",
+        "level": 2,
+        "name": {
+          "local": "Padang Terap",
+          "en": "Padang Terap",
+          "slug": "padang-terap-0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.314",
+      "lon": "100.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0218-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KURONG HITAM",
+      "en": "KURONG HITAM",
+      "slug": "kurong-hitam-0218-011"
+    },
+    "code": {
+      "id": "0218-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0218",
+      "level": 2,
+      "name": {
+        "local": "Padang Terap",
+        "en": "Padang Terap",
+        "slug": "padang-terap-0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0218",
+        "level": 2,
+        "name": {
+          "local": "Padang Terap",
+          "en": "Padang Terap",
+          "slug": "padang-terap-0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.302",
+      "lon": "100.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0218-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PADANG TEMAK",
+      "en": "PADANG TEMAK",
+      "slug": "padang-temak-0218-007"
+    },
+    "code": {
+      "id": "0218-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0218",
+      "level": 2,
+      "name": {
+        "local": "Padang Terap",
+        "en": "Padang Terap",
+        "slug": "padang-terap-0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0218",
+        "level": 2,
+        "name": {
+          "local": "Padang Terap",
+          "en": "Padang Terap",
+          "slug": "padang-terap-0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.235",
+      "lon": "100.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0218-018",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PADANG TERAP KANAN",
+      "en": "PADANG TERAP KANAN",
+      "slug": "padang-terap-kanan-0218-018"
+    },
+    "code": {
+      "id": "0218-018",
+      "iso": null
+    },
+    "parent": {
+      "id": "0218",
+      "level": 2,
+      "name": {
+        "local": "Padang Terap",
+        "en": "Padang Terap",
+        "slug": "padang-terap-0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0218",
+        "level": 2,
+        "name": {
+          "local": "Padang Terap",
+          "en": "Padang Terap",
+          "slug": "padang-terap-0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.283",
+      "lon": "100.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0218-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PADANG TERAP KIRI",
+      "en": "PADANG TERAP KIRI",
+      "slug": "padang-terap-kiri-0218-014"
+    },
+    "code": {
+      "id": "0218-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "0218",
+      "level": 2,
+      "name": {
+        "local": "Padang Terap",
+        "en": "Padang Terap",
+        "slug": "padang-terap-0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0218",
+        "level": 2,
+        "name": {
+          "local": "Padang Terap",
+          "en": "Padang Terap",
+          "slug": "padang-terap-0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.378",
+      "lon": "100.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0218-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PEDU",
+      "en": "PEDU",
+      "slug": "pedu-0218-009"
+    },
+    "code": {
+      "id": "0218-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0218",
+      "level": 2,
+      "name": {
+        "local": "Padang Terap",
+        "en": "Padang Terap",
+        "slug": "padang-terap-0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0218",
+        "level": 2,
+        "name": {
+          "local": "Padang Terap",
+          "en": "Padang Terap",
+          "slug": "padang-terap-0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.262",
+      "lon": "100.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0218-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BUKIT TEMBAGA",
+      "en": "PEKAN BUKIT TEMBAGA",
+      "slug": "pekan-bukit-tembaga-0218-003"
+    },
+    "code": {
+      "id": "0218-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0218",
+      "level": 2,
+      "name": {
+        "local": "Padang Terap",
+        "en": "Padang Terap",
+        "slug": "padang-terap-0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0218",
+        "level": 2,
+        "name": {
+          "local": "Padang Terap",
+          "en": "Padang Terap",
+          "slug": "padang-terap-0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.206",
+      "lon": "100.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0218-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN DURIAN BURUNG",
+      "en": "PEKAN DURIAN BURUNG",
+      "slug": "pekan-durian-burung-0218-005"
+    },
+    "code": {
+      "id": "0218-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0218",
+      "level": 2,
+      "name": {
+        "local": "Padang Terap",
+        "en": "Padang Terap",
+        "slug": "padang-terap-0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0218",
+        "level": 2,
+        "name": {
+          "local": "Padang Terap",
+          "en": "Padang Terap",
+          "slug": "padang-terap-0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.471",
+      "lon": "100.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0218-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KAMPUNG TANJUNG",
+      "en": "PEKAN KAMPUNG TANJUNG",
+      "slug": "pekan-kampung-tanjung-0218-006"
+    },
+    "code": {
+      "id": "0218-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0218",
+      "level": 2,
+      "name": {
+        "local": "Padang Terap",
+        "en": "Padang Terap",
+        "slug": "padang-terap-0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0218",
+        "level": 2,
+        "name": {
+          "local": "Padang Terap",
+          "en": "Padang Terap",
+          "slug": "padang-terap-0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.229",
+      "lon": "100.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0218-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN NAKA",
+      "en": "PEKAN NAKA",
+      "slug": "pekan-naka-0218-001"
+    },
+    "code": {
+      "id": "0218-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0218",
+      "level": 2,
+      "name": {
+        "local": "Padang Terap",
+        "en": "Padang Terap",
+        "slug": "padang-terap-0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0218",
+        "level": 2,
+        "name": {
+          "local": "Padang Terap",
+          "en": "Padang Terap",
+          "slug": "padang-terap-0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.139",
+      "lon": "100.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0218-017",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PADANG SANAI",
+      "en": "PEKAN PADANG SANAI",
+      "slug": "pekan-padang-sanai-0218-017"
+    },
+    "code": {
+      "id": "0218-017",
+      "iso": null
+    },
+    "parent": {
+      "id": "0218",
+      "level": 2,
+      "name": {
+        "local": "Padang Terap",
+        "en": "Padang Terap",
+        "slug": "padang-terap-0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0218",
+        "level": 2,
+        "name": {
+          "local": "Padang Terap",
+          "en": "Padang Terap",
+          "slug": "padang-terap-0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.348",
+      "lon": "100.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0218-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TEKAI",
+      "en": "TEKAI",
+      "slug": "tekai-0218-004"
+    },
+    "code": {
+      "id": "0218-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0218",
+      "level": 2,
+      "name": {
+        "local": "Padang Terap",
+        "en": "Padang Terap",
+        "slug": "padang-terap-0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0218",
+        "level": 2,
+        "name": {
+          "local": "Padang Terap",
+          "en": "Padang Terap",
+          "slug": "padang-terap-0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.093",
+      "lon": "100.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0218-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TOLAK",
+      "en": "TOLAK",
+      "slug": "tolak-0218-016"
+    },
+    "code": {
+      "id": "0218-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "0218",
+      "level": 2,
+      "name": {
+        "local": "Padang Terap",
+        "en": "Padang Terap",
+        "slug": "padang-terap-0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0218",
+        "level": 2,
+        "name": {
+          "local": "Padang Terap",
+          "en": "Padang Terap",
+          "slug": "padang-terap-0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.37",
+      "lon": "100.575"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

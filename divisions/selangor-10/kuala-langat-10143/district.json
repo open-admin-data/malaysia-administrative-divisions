@@ -1,0 +1,47 @@
+{
+  "id": "10143",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kuala Langat",
+    "en": "Kuala Langat",
+    "slug": "kuala-langat-10143"
+  },
+  "code": {
+    "id": "10143",
+    "iso": null
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "local": "Selangor",
+      "en": "Selangor",
+      "slug": "selangor-10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "Selangor",
+        "en": "Selangor",
+        "slug": "selangor-10"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 26
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.844",
+    "lon": "101.422"
+  },
+  "metadata": {},
+  "source": {}
+}

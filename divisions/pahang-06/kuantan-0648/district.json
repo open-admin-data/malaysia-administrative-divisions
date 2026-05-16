@@ -1,0 +1,47 @@
+{
+  "id": "0648",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kuantan",
+    "en": "Kuantan",
+    "slug": "kuantan-0648"
+  },
+  "code": {
+    "id": "0648",
+    "iso": null
+  },
+  "parent": {
+    "id": "06",
+    "level": 1,
+    "name": {
+      "local": "Pahang",
+      "en": "Pahang",
+      "slug": "pahang-06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "Pahang",
+        "en": "Pahang",
+        "slug": "pahang-06"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.948",
+    "lon": "103.122"
+  },
+  "metadata": {},
+  "source": {}
+}

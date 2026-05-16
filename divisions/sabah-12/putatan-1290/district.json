@@ -1,0 +1,47 @@
+{
+  "id": "1290",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Putatan",
+    "en": "Putatan",
+    "slug": "putatan-1290"
+  },
+  "code": {
+    "id": "1290",
+    "iso": null
+  },
+  "parent": {
+    "id": "12",
+    "level": 1,
+    "name": {
+      "local": "Sabah",
+      "en": "Sabah",
+      "slug": "sabah-12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.892",
+    "lon": "116.061"
+  },
+  "metadata": {},
+  "source": {}
+}

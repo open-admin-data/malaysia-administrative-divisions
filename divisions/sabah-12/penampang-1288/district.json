@@ -1,0 +1,47 @@
+{
+  "id": "1288",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Penampang",
+    "en": "Penampang",
+    "slug": "penampang-1288"
+  },
+  "code": {
+    "id": "1288",
+    "iso": null
+  },
+  "parent": {
+    "id": "12",
+    "level": 1,
+    "name": {
+      "local": "Sabah",
+      "en": "Sabah",
+      "slug": "sabah-12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.865",
+    "lon": "116.197"
+  },
+  "metadata": {},
+  "source": {}
+}

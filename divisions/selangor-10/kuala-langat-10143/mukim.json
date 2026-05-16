@@ -1,0 +1,1406 @@
+[
+  {
+    "id": "10143-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BANTING",
+      "en": "BANDAR BANTING",
+      "slug": "bandar-banting-10143-015"
+    },
+    "code": {
+      "id": "10143-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "10143",
+      "level": 2,
+      "name": {
+        "local": "Kuala Langat",
+        "en": "Kuala Langat",
+        "slug": "kuala-langat-10143"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10143",
+        "level": 2,
+        "name": {
+          "local": "Kuala Langat",
+          "en": "Kuala Langat",
+          "slug": "kuala-langat-10143"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.811",
+      "lon": "101.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10143-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR JENJAROM",
+      "en": "BANDAR JENJAROM",
+      "slug": "bandar-jenjarom-10143-012"
+    },
+    "code": {
+      "id": "10143-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "10143",
+      "level": 2,
+      "name": {
+        "local": "Kuala Langat",
+        "en": "Kuala Langat",
+        "slug": "kuala-langat-10143"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10143",
+        "level": 2,
+        "name": {
+          "local": "Kuala Langat",
+          "en": "Kuala Langat",
+          "slug": "kuala-langat-10143"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.874",
+      "lon": "101.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10143-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SIJANGKANG",
+      "en": "BANDAR SIJANGKANG",
+      "slug": "bandar-sijangkang-10143-010"
+    },
+    "code": {
+      "id": "10143-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "10143",
+      "level": 2,
+      "name": {
+        "local": "Kuala Langat",
+        "en": "Kuala Langat",
+        "slug": "kuala-langat-10143"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10143",
+        "level": 2,
+        "name": {
+          "local": "Kuala Langat",
+          "en": "Kuala Langat",
+          "slug": "kuala-langat-10143"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.942",
+      "lon": "101.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10143-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR TANJONG SEPAT",
+      "en": "BANDAR TANJONG SEPAT",
+      "slug": "bandar-tanjong-sepat-10143-011"
+    },
+    "code": {
+      "id": "10143-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "10143",
+      "level": 2,
+      "name": {
+        "local": "Kuala Langat",
+        "en": "Kuala Langat",
+        "slug": "kuala-langat-10143"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10143",
+        "level": 2,
+        "name": {
+          "local": "Kuala Langat",
+          "en": "Kuala Langat",
+          "slug": "kuala-langat-10143"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.659",
+      "lon": "101.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10143-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR TELOK PANGLIMA GARANG",
+      "en": "BANDAR TELOK PANGLIMA GARANG",
+      "slug": "bandar-telok-panglima-garang-10143-016"
+    },
+    "code": {
+      "id": "10143-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "10143",
+      "level": 2,
+      "name": {
+        "local": "Kuala Langat",
+        "en": "Kuala Langat",
+        "slug": "kuala-langat-10143"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10143",
+        "level": 2,
+        "name": {
+          "local": "Kuala Langat",
+          "en": "Kuala Langat",
+          "slug": "kuala-langat-10143"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.912",
+      "lon": "101.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10143-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM JUGRA",
+      "en": "JUGRA",
+      "slug": "jugra-10143-001"
+    },
+    "code": {
+      "id": "10143-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "10143",
+      "level": 2,
+      "name": {
+        "local": "Kuala Langat",
+        "en": "Kuala Langat",
+        "slug": "kuala-langat-10143"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10143",
+        "level": 2,
+        "name": {
+          "local": "Kuala Langat",
+          "en": "Kuala Langat",
+          "slug": "kuala-langat-10143"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.867",
+      "lon": "101.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10143-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KELANANG",
+      "en": "KELANANG",
+      "slug": "kelanang-10143-009"
+    },
+    "code": {
+      "id": "10143-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "10143",
+      "level": 2,
+      "name": {
+        "local": "Kuala Langat",
+        "en": "Kuala Langat",
+        "slug": "kuala-langat-10143"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10143",
+        "level": 2,
+        "name": {
+          "local": "Kuala Langat",
+          "en": "Kuala Langat",
+          "slug": "kuala-langat-10143"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.794",
+      "lon": "101.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10143-019",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM MORIB",
+      "en": "MORIB",
+      "slug": "morib-10143-019"
+    },
+    "code": {
+      "id": "10143-019",
+      "iso": null
+    },
+    "parent": {
+      "id": "10143",
+      "level": 2,
+      "name": {
+        "local": "Kuala Langat",
+        "en": "Kuala Langat",
+        "slug": "kuala-langat-10143"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10143",
+        "level": 2,
+        "name": {
+          "local": "Kuala Langat",
+          "en": "Kuala Langat",
+          "slug": "kuala-langat-10143"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.737",
+      "lon": "101.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10143-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BUKIT CHANGGANG",
+      "en": "PEKAN BUKIT CHANGGANG",
+      "slug": "pekan-bukit-changgang-10143-002"
+    },
+    "code": {
+      "id": "10143-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "10143",
+      "level": 2,
+      "name": {
+        "local": "Kuala Langat",
+        "en": "Kuala Langat",
+        "slug": "kuala-langat-10143"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10143",
+        "level": 2,
+        "name": {
+          "local": "Kuala Langat",
+          "en": "Kuala Langat",
+          "slug": "kuala-langat-10143"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.825",
+      "lon": "101.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10143-024",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN CHODOI",
+      "en": "PEKAN CHODOI",
+      "slug": "pekan-chodoi-10143-024"
+    },
+    "code": {
+      "id": "10143-024",
+      "iso": null
+    },
+    "parent": {
+      "id": "10143",
+      "level": 2,
+      "name": {
+        "local": "Kuala Langat",
+        "en": "Kuala Langat",
+        "slug": "kuala-langat-10143"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10143",
+        "level": 2,
+        "name": {
+          "local": "Kuala Langat",
+          "en": "Kuala Langat",
+          "slug": "kuala-langat-10143"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.842",
+      "lon": "101.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10143-022",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN JENJAROM",
+      "en": "PEKAN JENJAROM",
+      "slug": "pekan-jenjarom-10143-022"
+    },
+    "code": {
+      "id": "10143-022",
+      "iso": null
+    },
+    "parent": {
+      "id": "10143",
+      "level": 2,
+      "name": {
+        "local": "Kuala Langat",
+        "en": "Kuala Langat",
+        "slug": "kuala-langat-10143"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10143",
+        "level": 2,
+        "name": {
+          "local": "Kuala Langat",
+          "en": "Kuala Langat",
+          "slug": "kuala-langat-10143"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.872",
+      "lon": "101.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10143-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KANCHONG",
+      "en": "PEKAN KANCHONG",
+      "slug": "pekan-kanchong-10143-003"
+    },
+    "code": {
+      "id": "10143-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "10143",
+      "level": 2,
+      "name": {
+        "local": "Kuala Langat",
+        "en": "Kuala Langat",
+        "slug": "kuala-langat-10143"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10143",
+        "level": 2,
+        "name": {
+          "local": "Kuala Langat",
+          "en": "Kuala Langat",
+          "slug": "kuala-langat-10143"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.728",
+      "lon": "101.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10143-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KANCHONG DARAT",
+      "en": "PEKAN KANCHONG DARAT",
+      "slug": "pekan-kanchong-darat-10143-004"
+    },
+    "code": {
+      "id": "10143-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "10143",
+      "level": 2,
+      "name": {
+        "local": "Kuala Langat",
+        "en": "Kuala Langat",
+        "slug": "kuala-langat-10143"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10143",
+        "level": 2,
+        "name": {
+          "local": "Kuala Langat",
+          "en": "Kuala Langat",
+          "slug": "kuala-langat-10143"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.777",
+      "lon": "101.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10143-026",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KELANANG BATU ENAM",
+      "en": "PEKAN KELANANG BATU ENAM",
+      "slug": "pekan-kelanang-batu-enam-10143-026"
+    },
+    "code": {
+      "id": "10143-026",
+      "iso": null
+    },
+    "parent": {
+      "id": "10143",
+      "level": 2,
+      "name": {
+        "local": "Kuala Langat",
+        "en": "Kuala Langat",
+        "slug": "kuala-langat-10143"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10143",
+        "level": 2,
+        "name": {
+          "local": "Kuala Langat",
+          "en": "Kuala Langat",
+          "slug": "kuala-langat-10143"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.797",
+      "lon": "101.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10143-018",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN MORIB",
+      "en": "PEKAN MORIB",
+      "slug": "pekan-morib-10143-018"
+    },
+    "code": {
+      "id": "10143-018",
+      "iso": null
+    },
+    "parent": {
+      "id": "10143",
+      "level": 2,
+      "name": {
+        "local": "Kuala Langat",
+        "en": "Kuala Langat",
+        "slug": "kuala-langat-10143"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10143",
+        "level": 2,
+        "name": {
+          "local": "Kuala Langat",
+          "en": "Kuala Langat",
+          "slug": "kuala-langat-10143"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.747",
+      "lon": "101.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10143-021",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PERMATANG PASIR",
+      "en": "PEKAN PERMATANG PASIR",
+      "slug": "pekan-permatang-pasir-10143-021"
+    },
+    "code": {
+      "id": "10143-021",
+      "iso": null
+    },
+    "parent": {
+      "id": "10143",
+      "level": 2,
+      "name": {
+        "local": "Kuala Langat",
+        "en": "Kuala Langat",
+        "slug": "kuala-langat-10143"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10143",
+        "level": 2,
+        "name": {
+          "local": "Kuala Langat",
+          "en": "Kuala Langat",
+          "slug": "kuala-langat-10143"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.836",
+      "lon": "101.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10143-025",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SIJANGKANG",
+      "en": "PEKAN SIJANGKANG",
+      "slug": "pekan-sijangkang-10143-025"
+    },
+    "code": {
+      "id": "10143-025",
+      "iso": null
+    },
+    "parent": {
+      "id": "10143",
+      "level": 2,
+      "name": {
+        "local": "Kuala Langat",
+        "en": "Kuala Langat",
+        "slug": "kuala-langat-10143"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10143",
+        "level": 2,
+        "name": {
+          "local": "Kuala Langat",
+          "en": "Kuala Langat",
+          "slug": "kuala-langat-10143"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.94",
+      "lon": "101.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10143-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SIMPANG MORIB",
+      "en": "PEKAN SIMPANG MORIB",
+      "slug": "pekan-simpang-morib-10143-014"
+    },
+    "code": {
+      "id": "10143-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "10143",
+      "level": 2,
+      "name": {
+        "local": "Kuala Langat",
+        "en": "Kuala Langat",
+        "slug": "kuala-langat-10143"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10143",
+        "level": 2,
+        "name": {
+          "local": "Kuala Langat",
+          "en": "Kuala Langat",
+          "slug": "kuala-langat-10143"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.782",
+      "lon": "101.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10143-020",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SUNGAI MANGGIS",
+      "en": "PEKAN SUNGAI MANGGIS",
+      "slug": "pekan-sungai-manggis-10143-020"
+    },
+    "code": {
+      "id": "10143-020",
+      "iso": null
+    },
+    "parent": {
+      "id": "10143",
+      "level": 2,
+      "name": {
+        "local": "Kuala Langat",
+        "en": "Kuala Langat",
+        "slug": "kuala-langat-10143"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10143",
+        "level": 2,
+        "name": {
+          "local": "Kuala Langat",
+          "en": "Kuala Langat",
+          "slug": "kuala-langat-10143"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.836",
+      "lon": "101.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10143-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SUNGAI RABA",
+      "en": "PEKAN SUNGAI RABA",
+      "slug": "pekan-sungai-raba-10143-005"
+    },
+    "code": {
+      "id": "10143-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "10143",
+      "level": 2,
+      "name": {
+        "local": "Kuala Langat",
+        "en": "Kuala Langat",
+        "slug": "kuala-langat-10143"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10143",
+        "level": 2,
+        "name": {
+          "local": "Kuala Langat",
+          "en": "Kuala Langat",
+          "slug": "kuala-langat-10143"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.82",
+      "lon": "101.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10143-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TANJONG DUABELAS",
+      "en": "PEKAN TANJONG DUABELAS",
+      "slug": "pekan-tanjong-duabelas-10143-006"
+    },
+    "code": {
+      "id": "10143-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "10143",
+      "level": 2,
+      "name": {
+        "local": "Kuala Langat",
+        "en": "Kuala Langat",
+        "slug": "kuala-langat-10143"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10143",
+        "level": 2,
+        "name": {
+          "local": "Kuala Langat",
+          "en": "Kuala Langat",
+          "slug": "kuala-langat-10143"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.855",
+      "lon": "101.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10143-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TELOK",
+      "en": "PEKAN TELOK",
+      "slug": "pekan-telok-10143-008"
+    },
+    "code": {
+      "id": "10143-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "10143",
+      "level": 2,
+      "name": {
+        "local": "Kuala Langat",
+        "en": "Kuala Langat",
+        "slug": "kuala-langat-10143"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10143",
+        "level": 2,
+        "name": {
+          "local": "Kuala Langat",
+          "en": "Kuala Langat",
+          "slug": "kuala-langat-10143"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.907",
+      "lon": "101.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10143-023",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TELOK DATOK",
+      "en": "PEKAN TELOK DATOK",
+      "slug": "pekan-telok-datok-10143-023"
+    },
+    "code": {
+      "id": "10143-023",
+      "iso": null
+    },
+    "parent": {
+      "id": "10143",
+      "level": 2,
+      "name": {
+        "local": "Kuala Langat",
+        "en": "Kuala Langat",
+        "slug": "kuala-langat-10143"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10143",
+        "level": 2,
+        "name": {
+          "local": "Kuala Langat",
+          "en": "Kuala Langat",
+          "slug": "kuala-langat-10143"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.819",
+      "lon": "101.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10143-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TONGKAH",
+      "en": "PEKAN TONGKAH",
+      "slug": "pekan-tongkah-10143-013"
+    },
+    "code": {
+      "id": "10143-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "10143",
+      "level": 2,
+      "name": {
+        "local": "Kuala Langat",
+        "en": "Kuala Langat",
+        "slug": "kuala-langat-10143"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10143",
+        "level": 2,
+        "name": {
+          "local": "Kuala Langat",
+          "en": "Kuala Langat",
+          "slug": "kuala-langat-10143"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.763",
+      "lon": "101.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10143-017",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TANJONG DUABELAS",
+      "en": "TANJONG DUABELAS",
+      "slug": "tanjong-duabelas-10143-017"
+    },
+    "code": {
+      "id": "10143-017",
+      "iso": null
+    },
+    "parent": {
+      "id": "10143",
+      "level": 2,
+      "name": {
+        "local": "Kuala Langat",
+        "en": "Kuala Langat",
+        "slug": "kuala-langat-10143"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10143",
+        "level": 2,
+        "name": {
+          "local": "Kuala Langat",
+          "en": "Kuala Langat",
+          "slug": "kuala-langat-10143"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.843",
+      "lon": "101.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10143-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TELOK PANGLIMA GARANG",
+      "en": "TELOK PANGLIMA GARANG",
+      "slug": "telok-panglima-garang-10143-007"
+    },
+    "code": {
+      "id": "10143-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "10143",
+      "level": 2,
+      "name": {
+        "local": "Kuala Langat",
+        "en": "Kuala Langat",
+        "slug": "kuala-langat-10143"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10143",
+        "level": 2,
+        "name": {
+          "local": "Kuala Langat",
+          "en": "Kuala Langat",
+          "slug": "kuala-langat-10143"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.899",
+      "lon": "101.455"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

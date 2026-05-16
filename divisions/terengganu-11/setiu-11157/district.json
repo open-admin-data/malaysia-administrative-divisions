@@ -1,0 +1,47 @@
+{
+  "id": "11157",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Setiu",
+    "en": "Setiu",
+    "slug": "setiu-11157"
+  },
+  "code": {
+    "id": "11157",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "Terengganu",
+      "en": "Terengganu",
+      "slug": "terengganu-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Terengganu",
+        "en": "Terengganu",
+        "slug": "terengganu-11"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.396",
+    "lon": "102.786"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,433 @@
+# Terengganu — Malaysia Administrative Divisions
+
+> 8 districts, 96 subdistricts
+> Code: 11
+> Coordinates: 5.394, 103.044
+> Last updated: 2026-05-16. License: CC-BY-4.0.
+
+## Districts
+
+### Besut
+
+Code: 11150, Coordinates: 5.82, 102.644
+Subdistricts: 18
+
+#### MUKIM BUKIT KENAK (BUKIT KENAK)
+
+Code: 11150-015, Coordinates: 5.729, 102.519
+
+#### MUKIM BUKIT PETERI (BUKIT PETERI)
+
+Code: 11150-006, Coordinates: 5.769, 102.498
+
+#### MUKIM HULU BESUT (HULU BESUT)
+
+Code: 11150-004, Coordinates: 5.46, 102.467
+
+#### MUKIM KAMPUNG RAJA (KAMPUNG RAJA)
+
+Code: 11150-011, Coordinates: 5.786, 102.557
+
+#### MUKIM KELUANG (KELUANG)
+
+Code: 11150-007, Coordinates: 5.797, 102.586
+
+#### MUKIM KERANDANG (KERANDANG)
+
+Code: 11150-002, Coordinates: 5.717, 102.581
+
+#### MUKIM KUALA BESUT (KUALA BESUT)
+
+Code: 11150-001, Coordinates: 5.819, 102.556
+
+#### MUKIM LUBUK KAWAH (LUBUK KAWAH)
+
+Code: 11150-012, Coordinates: 5.694, 102.484
+
+#### MUKIM PANGKALAN NANGKA (PANGKALAN NANGKA)
+
+Code: 11150-005, Coordinates: 5.807, 102.535
+
+#### MUKIM PASIR AKAR (PASIR AKAR)
+
+Code: 11150-014, Coordinates: 5.639, 102.492
+
+#### PEKAN JERTIH
+
+Code: 11150-003, Coordinates: 5.737, 102.495
+
+#### PEKAN KAMPUNG RAJA
+
+Code: 11150-013, Coordinates: 5.795, 102.565
+
+#### PEKAN KUALA BESUT
+
+Code: 11150-009, Coordinates: 5.83, 102.559
+
+#### MUKIM PELAGAT (PELAGAT)
+
+Code: 11150-010, Coordinates: 5.699, 102.439
+
+#### MUKIM PULAU PERHENTIAN (PULAU PERHENTIAN)
+
+Code: 11150-018, Coordinates: 5.921, 102.703
+
+#### MUKIM TASIK (TASIK)
+
+Code: 11150-016, Coordinates: 5.691, 102.606
+
+#### MUKIM TEMBILA (TEMBILA)
+
+Code: 11150-017, Coordinates: 5.743, 102.605
+
+#### MUKIM TENANG (TENANG)
+
+Code: 11150-008, Coordinates: 5.583, 102.495
+
+### Dungun
+
+Code: 11151, Coordinates: 4.665, 103.127
+Subdistricts: 13
+
+#### BANDAR DUNGUN
+
+Code: 11151-008, Coordinates: 4.777, 103.425
+
+#### MUKIM BESUL (BESUL)
+
+Code: 11151-010, Coordinates: 4.705, 103.214
+
+#### MUKIM HULU PAKA (HULU PAKA)
+
+Code: 11151-002, Coordinates: 4.526, 103.204
+
+#### MUKIM JENGAI (JENGAI)
+
+Code: 11151-004, Coordinates: 4.653, 103.051
+
+#### MUKIM JERANGAU (JERANGAU)
+
+Code: 11151-003, Coordinates: 4.843, 103.138
+
+#### MUKIM KUALA ABANG (KUALA ABANG)
+
+Code: 11151-005, Coordinates: 4.832, 103.386
+
+#### MUKIM KUALA DUNGUN (KUALA DUNGUN)
+
+Code: 11151-013, Coordinates: 4.792, 103.48
+
+#### MUKIM KUALA PAKA (KUALA PAKA)
+
+Code: 11151-012, Coordinates: 4.675, 103.384
+
+#### MUKIM KUMPAL (KUMPAL)
+
+Code: 11151-007, Coordinates: 4.801, 103.32
+
+#### MUKIM PASIR RAJA (PASIR RAJA)
+
+Code: 11151-001, Coordinates: 4.524, 102.965
+
+#### PEKAN KUALA PAKA
+
+Code: 11151-009, Coordinates: 4.637, 103.437
+
+#### MUKIM RASAU (RASAU)
+
+Code: 11151-011, Coordinates: 4.653, 103.317
+
+#### MUKIM SURA (SURA)
+
+Code: 11151-006, Coordinates: 4.732, 103.408
+
+### Hulu Terengganu
+
+Code: 11152, Coordinates: 5.082, 102.769
+Subdistricts: 10
+
+#### MUKIM HULU BERANG (HULU BERANG)
+
+Code: 11152-010, Coordinates: 4.914, 103.012
+
+#### MUKIM HULU TELEMUNG (HULU TELEMUNG)
+
+Code: 11152-009, Coordinates: 5.179, 102.884
+
+#### MUKIM HULU TERENGGANU (HULU TERENGGANU)
+
+Code: 11152-001, Coordinates: 5.09, 102.645
+
+#### MUKIM JENAGUR (JENAGUR)
+
+Code: 11152-003, Coordinates: 5.091, 102.935
+
+#### MUKIM KUALA BERANG (KUALA BERANG)
+
+Code: 11152-007, Coordinates: 5.078, 103.007
+
+#### MUKIM KUALA TELEMUNG (KUALA TELEMUNG)
+
+Code: 11152-002, Coordinates: 5.194, 103.023
+
+#### PEKAN KUALA BERANG
+
+Code: 11152-004, Coordinates: 5.074, 103.013
+
+#### MUKIM PENGHULU DIMAN (PENGHULU DIMAN)
+
+Code: 11152-008, Coordinates: 5.03, 103.13
+
+#### MUKIM TANGGUL (TANGGUL)
+
+Code: 11152-006, Coordinates: 5.107, 103.052
+
+#### MUKIM TERSAT (TERSAT)
+
+Code: 11152-005, Coordinates: 4.947, 102.942
+
+### Kemaman
+
+Code: 11153, Coordinates: 4.223, 103.21
+Subdistricts: 16
+
+#### BANDAR CUKAI
+
+Code: 11153-010, Coordinates: 4.231, 103.425
+
+#### MUKIM BANDI (BANDI)
+
+Code: 11153-009, Coordinates: 4.179, 103.053
+
+#### MUKIM BANGGUL (BANGGUL)
+
+Code: 11153-002, Coordinates: 4.188, 103.337
+
+#### MUKIM CUKAI (CUKAI)
+
+Code: 11153-006, Coordinates: 4.23, 103.415
+
+#### MUKIM HULU CUKAI (HULU CUKAI)
+
+Code: 11153-011, Coordinates: 4.364, 103.363
+
+#### MUKIM HULU JABUR (HULU JABUR)
+
+Code: 11153-003, Coordinates: 3.998, 103.287
+
+#### MUKIM KEMASIK (KEMASIK)
+
+Code: 11153-007, Coordinates: 4.421, 103.415
+
+#### MUKIM KERTIH (KERTIH)
+
+Code: 11153-001, Coordinates: 4.517, 103.364
+
+#### MUKIM KIJAL (KIJAL)
+
+Code: 11153-005, Coordinates: 4.342, 103.452
+
+#### MUKIM PASIR SEMUT (PASIR SEMUT)
+
+Code: 11153-012, Coordinates: 4.234, 103.315
+
+#### PEKAN AIR JERNIH
+
+Code: 11153-015, Coordinates: 4.406, 103.397
+
+#### PEKAN AIR PUTIH
+
+Code: 11153-008, Coordinates: 4.266, 103.211
+
+#### PEKAN KEMASIK
+
+Code: 11153-013, Coordinates: 4.426, 103.452
+
+#### PEKAN KIJAL
+
+Code: 11153-014, Coordinates: 4.338, 103.481
+
+#### MUKIM TEBAK (TEBAK)
+
+Code: 11153-016, Coordinates: 4.345, 103.145
+
+#### MUKIM TELUK KALUNG (TELUK KALUNG)
+
+Code: 11153-004, Coordinates: 4.284, 103.449
+
+### Kuala Nerus
+
+Code: 11154, Coordinates: 5.668, 103.024
+Subdistricts: 5
+
+#### MUKIM BATU RAKIT (BATU RAKIT)
+
+Code: 11154-002, Coordinates: 5.401, 103.017
+
+#### MUKIM KUALA NERUS (KUALA NERUS)
+
+Code: 11154-001, Coordinates: 5.36, 103.056
+
+#### MUKIM PAKOH (PAKOH)
+
+Code: 11154-004, Coordinates: 5.323, 102.967
+
+#### MUKIM PULAU REDANG (PULAU REDANG)
+
+Code: 11154-005, Coordinates: 5.747, 103.028
+
+#### MUKIM PULAU-PULAU (PULAU-PULAU)
+
+Code: 11154-003, Coordinates: 5.331, 103.12
+
+### Kuala Terengganu
+
+Code: 11155, Coordinates: 5.274, 103.071
+Subdistricts: 20
+
+#### MUKIM ATAS TOL (ATAS TOL)
+
+Code: 11155-007, Coordinates: 5.257, 103.121
+
+#### BANDAR KUALA TERENGGANU
+
+Code: 11155-010, Coordinates: 5.329, 103.14
+
+#### MUKIM BATU BURUK (BATU BURUK)
+
+Code: 11155-004, Coordinates: 5.307, 103.151
+
+#### MUKIM BELARA (BELARA)
+
+Code: 11155-013, Coordinates: 5.283, 103.036
+
+#### MUKIM BUKIT BESAR (BUKIT BESAR)
+
+Code: 11155-009, Coordinates: 5.295, 103.139
+
+#### MUKIM CABANG TIGA (CABANG TIGA)
+
+Code: 11155-001, Coordinates: 5.309, 103.126
+
+#### MUKIM CENERING (CENERING)
+
+Code: 11155-014, Coordinates: 5.264, 103.166
+
+#### MUKIM GELUGUR KEDAI (GELUGUR KEDAI)
+
+Code: 11155-003, Coordinates: 5.267, 103.117
+
+#### MUKIM GELUGUR RAJA (GELUGUR RAJA)
+
+Code: 11155-015, Coordinates: 5.288, 103.125
+
+#### MUKIM KEPUNG (KEPUNG)
+
+Code: 11155-018, Coordinates: 5.275, 103.094
+
+#### MUKIM KUALA IBAI (KUALA IBAI)
+
+Code: 11155-016, Coordinates: 5.286, 103.157
+
+#### MUKIM KUBANG PARIT (KUBANG PARIT)
+
+Code: 11155-002, Coordinates: 5.299, 103.113
+
+#### MUKIM LOSONG (LOSONG)
+
+Code: 11155-006, Coordinates: 5.316, 103.114
+
+#### MUKIM MANIR (MANIR)
+
+Code: 11155-019, Coordinates: 5.304, 103.066
+
+#### MUKIM PALUH (PALUH)
+
+Code: 11155-012, Coordinates: 5.309, 103.101
+
+#### PEKAN CABANG TIGA
+
+Code: 11155-005, Coordinates: 5.315, 103.122
+
+#### MUKIM PENGADANG BULUH (PENGADANG BULUH)
+
+Code: 11155-008, Coordinates: 5.244, 103.135
+
+#### MUKIM RENGAS (RENGAS)
+
+Code: 11155-011, Coordinates: 5.29, 103.101
+
+#### MUKIM SERADA (SERADA)
+
+Code: 11155-020, Coordinates: 5.244, 103.065
+
+#### MUKIM TUK JAMAL (TUK JAMAL)
+
+Code: 11155-017, Coordinates: 5.281, 103.114
+
+### Marang
+
+Code: 11156, Coordinates: 5.182, 103.214
+Subdistricts: 8
+
+#### MUKIM ALUR LIMBAT (ALUR LIMBAT)
+
+Code: 11156-004, Coordinates: 5.203, 103.075
+
+#### MUKIM BUKIT PAYUNG (BUKIT PAYUNG)
+
+Code: 11156-001, Coordinates: 5.194, 103.115
+
+#### MUKIM JERUNG (JERUNG)
+
+Code: 11156-005, Coordinates: 5.115, 103.157
+
+#### MUKIM MERCANG (MERCANG)
+
+Code: 11156-007, Coordinates: 4.957, 103.288
+
+#### PEKAN BUKIT PAYUNG
+
+Code: 11156-002, Coordinates: 5.233, 103.102
+
+#### PEKAN MARANG
+
+Code: 11156-003, Coordinates: 5.204, 103.207
+
+#### MUKIM PULAU KERENGGA (PULAU KERENGGA)
+
+Code: 11156-006, Coordinates: 5.108, 103.182
+
+#### MUKIM RUSILA (RUSILA)
+
+Code: 11156-008, Coordinates: 5.209, 103.193
+
+### Setiu
+
+Code: 11157, Coordinates: 5.396, 102.786
+Subdistricts: 6
+
+#### MUKIM BINJAI (BINJAI)
+
+Code: 11157-006, Coordinates: 5.319, 102.747
+
+#### MUKIM CALUK (CALUK)
+
+Code: 11157-003, Coordinates: 5.473, 102.839
+
+#### MUKIM GUNTUNG (GUNTUNG)
+
+Code: 11157-004, Coordinates: 5.579, 102.713
+
+#### MUKIM HULU NERUS (HULU NERUS)
+
+Code: 11157-002, Coordinates: 5.332, 102.839
+
+#### MUKIM HULU SETIU (HULU SETIU)
+
+Code: 11157-005, Coordinates: 5.465, 102.704
+
+#### MUKIM MERANG (MERANG)
+
+Code: 11157-001, Coordinates: 5.496, 102.929
+

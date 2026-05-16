@@ -1,0 +1,47 @@
+{
+  "id": "13101",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Asajaya",
+    "en": "Asajaya",
+    "slug": "asajaya-13101"
+  },
+  "code": {
+    "id": "13101",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "Sarawak",
+      "en": "Sarawak",
+      "slug": "sarawak-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.543",
+    "lon": "110.63"
+  },
+  "metadata": {},
+  "source": {}
+}

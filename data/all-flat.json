@@ -1,0 +1,8002 @@
+[
+  {
+    "id": "01",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "Johor",
+      "en": "Johor",
+      "slug": "johor-01"
+    },
+    "code": {
+      "id": "01",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 10,
+      "mukim": 95
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.852",
+      "lon": "103.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Batu Pahat",
+      "en": "Batu Pahat",
+      "slug": "batu-pahat-0101"
+    },
+    "code": {
+      "id": "0101",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Johor",
+        "en": "Johor",
+        "slug": "johor-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.878",
+      "lon": "103.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Johor Bahru",
+      "en": "Johor Bahru",
+      "slug": "johor-bahru-0102"
+    },
+    "code": {
+      "id": "0102",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Johor",
+        "en": "Johor",
+        "slug": "johor-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.532",
+      "lon": "103.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0103",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kluang",
+      "en": "Kluang",
+      "slug": "kluang-0103"
+    },
+    "code": {
+      "id": "0103",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Johor",
+        "en": "Johor",
+        "slug": "johor-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.976",
+      "lon": "103.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0104",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kota Tinggi",
+      "en": "Kota Tinggi",
+      "slug": "kota-tinggi-0104"
+    },
+    "code": {
+      "id": "0104",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Johor",
+        "en": "Johor",
+        "slug": "johor-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.67",
+      "lon": "103.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kulai",
+      "en": "Kulai",
+      "slug": "kulai-0105"
+    },
+    "code": {
+      "id": "0105",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Johor",
+        "en": "Johor",
+        "slug": "johor-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.655",
+      "lon": "103.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0106",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mersing",
+      "en": "Mersing",
+      "slug": "mersing-0106"
+    },
+    "code": {
+      "id": "0106",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Johor",
+        "en": "Johor",
+        "slug": "johor-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.425",
+      "lon": "104.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0107",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Muar",
+      "en": "Muar",
+      "slug": "muar-0107"
+    },
+    "code": {
+      "id": "0107",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Johor",
+        "en": "Johor",
+        "slug": "johor-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.199",
+      "lon": "102.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0108",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pontian",
+      "en": "Pontian",
+      "slug": "pontian-0108"
+    },
+    "code": {
+      "id": "0108",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Johor",
+        "en": "Johor",
+        "slug": "johor-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.502",
+      "lon": "103.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0109",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Segamat",
+      "en": "Segamat",
+      "slug": "segamat-0109"
+    },
+    "code": {
+      "id": "0109",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Johor",
+        "en": "Johor",
+        "slug": "johor-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.438",
+      "lon": "102.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tangkak",
+      "en": "Tangkak",
+      "slug": "tangkak-0110"
+    },
+    "code": {
+      "id": "0110",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Johor",
+        "en": "Johor",
+        "slug": "johor-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.25",
+      "lon": "102.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "Kedah",
+      "en": "Kedah",
+      "slug": "kedah-02"
+    },
+    "code": {
+      "id": "02",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 12,
+      "mukim": 212
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.128",
+      "lon": "100.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0211",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Baling",
+      "en": "Baling",
+      "slug": "baling-0211"
+    },
+    "code": {
+      "id": "0211",
+      "iso": null
+    },
+    "parent": {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "Kedah",
+        "en": "Kedah",
+        "slug": "kedah-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.645",
+      "lon": "100.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0212",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bandar Baharu",
+      "en": "Bandar Baharu",
+      "slug": "bandar-baharu-0212"
+    },
+    "code": {
+      "id": "0212",
+      "iso": null
+    },
+    "parent": {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "Kedah",
+        "en": "Kedah",
+        "slug": "kedah-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.193",
+      "lon": "100.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0213",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kota Setar",
+      "en": "Kota Setar",
+      "slug": "kota-setar-0213"
+    },
+    "code": {
+      "id": "0213",
+      "iso": null
+    },
+    "parent": {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "Kedah",
+        "en": "Kedah",
+        "slug": "kedah-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 27
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.125",
+      "lon": "100.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0214",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuala Muda",
+      "en": "Kuala Muda",
+      "slug": "kuala-muda-0214"
+    },
+    "code": {
+      "id": "0214",
+      "iso": null
+    },
+    "parent": {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "Kedah",
+        "en": "Kedah",
+        "slug": "kedah-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.66",
+      "lon": "100.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kubang Pasu",
+      "en": "Kubang Pasu",
+      "slug": "kubang-pasu-0215"
+    },
+    "code": {
+      "id": "0215",
+      "iso": null
+    },
+    "parent": {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "Kedah",
+        "en": "Kedah",
+        "slug": "kedah-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 34
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.345",
+      "lon": "100.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0216",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kulim",
+      "en": "Kulim",
+      "slug": "kulim-0216"
+    },
+    "code": {
+      "id": "0216",
+      "iso": null
+    },
+    "parent": {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "Kedah",
+        "en": "Kedah",
+        "slug": "kedah-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.41",
+      "lon": "100.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0217",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Langkawi",
+      "en": "Langkawi",
+      "slug": "langkawi-0217"
+    },
+    "code": {
+      "id": "0217",
+      "iso": null
+    },
+    "parent": {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "Kedah",
+        "en": "Kedah",
+        "slug": "kedah-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.298",
+      "lon": "99.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0218",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Padang Terap",
+      "en": "Padang Terap",
+      "slug": "padang-terap-0218"
+    },
+    "code": {
+      "id": "0218",
+      "iso": null
+    },
+    "parent": {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "Kedah",
+        "en": "Kedah",
+        "slug": "kedah-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.176",
+      "lon": "100.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0219",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pendang",
+      "en": "Pendang",
+      "slug": "pendang-0219"
+    },
+    "code": {
+      "id": "0219",
+      "iso": null
+    },
+    "parent": {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "Kedah",
+        "en": "Kedah",
+        "slug": "kedah-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.997",
+      "lon": "100.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0220",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pokok Sena",
+      "en": "Pokok Sena",
+      "slug": "pokok-sena-0220"
+    },
+    "code": {
+      "id": "0220",
+      "iso": null
+    },
+    "parent": {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "Kedah",
+        "en": "Kedah",
+        "slug": "kedah-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.178",
+      "lon": "100.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0221",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sik",
+      "en": "Sik",
+      "slug": "sik-0221"
+    },
+    "code": {
+      "id": "0221",
+      "iso": null
+    },
+    "parent": {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "Kedah",
+        "en": "Kedah",
+        "slug": "kedah-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.991",
+      "lon": "100.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0222",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yan",
+      "en": "Yan",
+      "slug": "yan-0222"
+    },
+    "code": {
+      "id": "0222",
+      "iso": null
+    },
+    "parent": {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "Kedah",
+        "en": "Kedah",
+        "slug": "kedah-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.833",
+      "lon": "100.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "Kelantan",
+      "en": "Kelantan",
+      "slug": "kelantan-03"
+    },
+    "code": {
+      "id": "03",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 11,
+      "mukim": 302
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.629",
+      "lon": "101.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0323",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bachok",
+      "en": "Bachok",
+      "slug": "bachok-0323"
+    },
+    "code": {
+      "id": "0323",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "Kelantan",
+        "en": "Kelantan",
+        "slug": "kelantan-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 31
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.958",
+      "lon": "102.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0324",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gua Musang",
+      "en": "Gua Musang",
+      "slug": "gua-musang-0324"
+    },
+    "code": {
+      "id": "0324",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "Kelantan",
+        "en": "Kelantan",
+        "slug": "kelantan-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.919",
+      "lon": "102.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0325",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jeli",
+      "en": "Jeli",
+      "slug": "jeli-0325"
+    },
+    "code": {
+      "id": "0325",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "Kelantan",
+        "en": "Kelantan",
+        "slug": "kelantan-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.655",
+      "lon": "101.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0326",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kecil Lojing",
+      "en": "Kecil Lojing",
+      "slug": "kecil-lojing-0326"
+    },
+    "code": {
+      "id": "0326",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "Kelantan",
+        "en": "Kelantan",
+        "slug": "kelantan-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.733",
+      "lon": "101.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kota Bharu",
+      "en": "Kota Bharu",
+      "slug": "kota-bharu-0327"
+    },
+    "code": {
+      "id": "0327",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "Kelantan",
+        "en": "Kelantan",
+        "slug": "kelantan-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 85
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.049",
+      "lon": "102.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0328",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuala Krai",
+      "en": "Kuala Krai",
+      "slug": "kuala-krai-0328"
+    },
+    "code": {
+      "id": "0328",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "Kelantan",
+        "en": "Kelantan",
+        "slug": "kelantan-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.533",
+      "lon": "102.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0329",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Machang",
+      "en": "Machang",
+      "slug": "machang-0329"
+    },
+    "code": {
+      "id": "0329",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "Kelantan",
+        "en": "Kelantan",
+        "slug": "kelantan-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.763",
+      "lon": "102.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0330",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pasir Mas",
+      "en": "Pasir Mas",
+      "slug": "pasir-mas-0330"
+    },
+    "code": {
+      "id": "0330",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "Kelantan",
+        "en": "Kelantan",
+        "slug": "kelantan-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 43
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.009",
+      "lon": "102.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0331",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pasir Puteh",
+      "en": "Pasir Puteh",
+      "slug": "pasir-puteh-0331"
+    },
+    "code": {
+      "id": "0331",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "Kelantan",
+        "en": "Kelantan",
+        "slug": "kelantan-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 34
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.873",
+      "lon": "102.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0332",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tanah Merah",
+      "en": "Tanah Merah",
+      "slug": "tanah-merah-0332"
+    },
+    "code": {
+      "id": "0332",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "Kelantan",
+        "en": "Kelantan",
+        "slug": "kelantan-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.75",
+      "lon": "102.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0333",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tumpat",
+      "en": "Tumpat",
+      "slug": "tumpat-0333"
+    },
+    "code": {
+      "id": "0333",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "Kelantan",
+        "en": "Kelantan",
+        "slug": "kelantan-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.166",
+      "lon": "102.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "Melaka",
+      "en": "Malacca",
+      "slug": "malacca-04"
+    },
+    "code": {
+      "id": "04",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 3,
+      "mukim": 107
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.264",
+      "lon": "102.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0434",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Alor Gajah",
+      "en": "Alor Gajah",
+      "slug": "alor-gajah-0434"
+    },
+    "code": {
+      "id": "0434",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Melaka",
+        "en": "Malacca",
+        "slug": "malacca-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 38
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.377",
+      "lon": "102.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jasin",
+      "en": "Jasin",
+      "slug": "jasin-0435"
+    },
+    "code": {
+      "id": "0435",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Melaka",
+        "en": "Malacca",
+        "slug": "malacca-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 30
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.218",
+      "lon": "102.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Melaka Tengah",
+      "en": "Melaka Tengah",
+      "slug": "melaka-tengah-0436"
+    },
+    "code": {
+      "id": "0436",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Melaka",
+        "en": "Malacca",
+        "slug": "malacca-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 39
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.244",
+      "lon": "102.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "Negeri Sembilan",
+      "en": "Negeri Sembilan",
+      "slug": "negeri-sembilan-05"
+    },
+    "code": {
+      "id": "05",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "mukim": 154
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.679",
+      "lon": "101.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0537",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jelebu",
+      "en": "Jelebu",
+      "slug": "jelebu-0537"
+    },
+    "code": {
+      "id": "0537",
+      "iso": null
+    },
+    "parent": {
+      "id": "05",
+      "level": 1,
+      "name": {
+        "local": "Negeri Sembilan",
+        "en": "Negeri Sembilan",
+        "slug": "negeri-sembilan-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.064",
+      "lon": "102.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0538",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jempol",
+      "en": "Jempol",
+      "slug": "jempol-0538"
+    },
+    "code": {
+      "id": "0538",
+      "iso": null
+    },
+    "parent": {
+      "id": "05",
+      "level": 1,
+      "name": {
+        "local": "Negeri Sembilan",
+        "en": "Negeri Sembilan",
+        "slug": "negeri-sembilan-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.829",
+      "lon": "102.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0539",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuala Pilah",
+      "en": "Kuala Pilah",
+      "slug": "kuala-pilah-0539"
+    },
+    "code": {
+      "id": "0539",
+      "iso": null
+    },
+    "parent": {
+      "id": "05",
+      "level": 1,
+      "name": {
+        "local": "Negeri Sembilan",
+        "en": "Negeri Sembilan",
+        "slug": "negeri-sembilan-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.731",
+      "lon": "102.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0540",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Port Dickson",
+      "en": "Port Dickson",
+      "slug": "port-dickson-0540"
+    },
+    "code": {
+      "id": "0540",
+      "iso": null
+    },
+    "parent": {
+      "id": "05",
+      "level": 1,
+      "name": {
+        "local": "Negeri Sembilan",
+        "en": "Negeri Sembilan",
+        "slug": "negeri-sembilan-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.549",
+      "lon": "101.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0541",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rembau",
+      "en": "Rembau",
+      "slug": "rembau-0541"
+    },
+    "code": {
+      "id": "0541",
+      "iso": null
+    },
+    "parent": {
+      "id": "05",
+      "level": 1,
+      "name": {
+        "local": "Negeri Sembilan",
+        "en": "Negeri Sembilan",
+        "slug": "negeri-sembilan-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.559",
+      "lon": "102.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seremban",
+      "en": "Seremban",
+      "slug": "seremban-0542"
+    },
+    "code": {
+      "id": "0542",
+      "iso": null
+    },
+    "parent": {
+      "id": "05",
+      "level": 1,
+      "name": {
+        "local": "Negeri Sembilan",
+        "en": "Negeri Sembilan",
+        "slug": "negeri-sembilan-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 41
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.745",
+      "lon": "101.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0543",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tampin",
+      "en": "Tampin",
+      "slug": "tampin-0543"
+    },
+    "code": {
+      "id": "0543",
+      "iso": null
+    },
+    "parent": {
+      "id": "05",
+      "level": 1,
+      "name": {
+        "local": "Negeri Sembilan",
+        "en": "Negeri Sembilan",
+        "slug": "negeri-sembilan-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.537",
+      "lon": "102.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "Pahang",
+      "en": "Pahang",
+      "slug": "pahang-06"
+    },
+    "code": {
+      "id": "06",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 11,
+      "mukim": 128
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.741",
+      "lon": "102.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0644",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bentong",
+      "en": "Bentong",
+      "slug": "bentong-0644"
+    },
+    "code": {
+      "id": "0644",
+      "iso": null
+    },
+    "parent": {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "Pahang",
+        "en": "Pahang",
+        "slug": "pahang-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.377",
+      "lon": "102.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0645",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bera",
+      "en": "Bera",
+      "slug": "bera-0645"
+    },
+    "code": {
+      "id": "0645",
+      "iso": null
+    },
+    "parent": {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "Pahang",
+        "en": "Pahang",
+        "slug": "pahang-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.205",
+      "lon": "102.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0646",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cameron Highlands",
+      "en": "Cameron Highlands",
+      "slug": "cameron-highlands-0646"
+    },
+    "code": {
+      "id": "0646",
+      "iso": null
+    },
+    "parent": {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "Pahang",
+        "en": "Pahang",
+        "slug": "pahang-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.473",
+      "lon": "101.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0647",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jerantut",
+      "en": "Jerantut",
+      "slug": "jerantut-0647"
+    },
+    "code": {
+      "id": "0647",
+      "iso": null
+    },
+    "parent": {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "Pahang",
+        "en": "Pahang",
+        "slug": "pahang-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.277",
+      "lon": "102.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0648",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuantan",
+      "en": "Kuantan",
+      "slug": "kuantan-0648"
+    },
+    "code": {
+      "id": "0648",
+      "iso": null
+    },
+    "parent": {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "Pahang",
+        "en": "Pahang",
+        "slug": "pahang-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.948",
+      "lon": "103.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0649",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lipis",
+      "en": "Lipis",
+      "slug": "lipis-0649"
+    },
+    "code": {
+      "id": "0649",
+      "iso": null
+    },
+    "parent": {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "Pahang",
+        "en": "Pahang",
+        "slug": "pahang-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.32",
+      "lon": "101.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0650",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Maran",
+      "en": "Maran",
+      "slug": "maran-0650"
+    },
+    "code": {
+      "id": "0650",
+      "iso": null
+    },
+    "parent": {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "Pahang",
+        "en": "Pahang",
+        "slug": "pahang-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.619",
+      "lon": "102.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0651",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pekan",
+      "en": "Pekan",
+      "slug": "pekan-0651"
+    },
+    "code": {
+      "id": "0651",
+      "iso": null
+    },
+    "parent": {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "Pahang",
+        "en": "Pahang",
+        "slug": "pahang-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.324",
+      "lon": "103.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0652",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Raub",
+      "en": "Raub",
+      "slug": "raub-0652"
+    },
+    "code": {
+      "id": "0652",
+      "iso": null
+    },
+    "parent": {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "Pahang",
+        "en": "Pahang",
+        "slug": "pahang-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.86",
+      "lon": "101.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0653",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rompin",
+      "en": "Rompin",
+      "slug": "rompin-0653"
+    },
+    "code": {
+      "id": "0653",
+      "iso": null
+    },
+    "parent": {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "Pahang",
+        "en": "Pahang",
+        "slug": "pahang-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.874",
+      "lon": "103.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0654",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Temerloh",
+      "en": "Temerloh",
+      "slug": "temerloh-0654"
+    },
+    "code": {
+      "id": "0654",
+      "iso": null
+    },
+    "parent": {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "Pahang",
+        "en": "Pahang",
+        "slug": "pahang-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.618",
+      "lon": "102.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "Pulau Pinang",
+      "en": "Penang",
+      "slug": "penang-07"
+    },
+    "code": {
+      "id": "07",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 5,
+      "mukim": 47
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.374",
+      "lon": "100.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0769",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Barat Daya",
+      "en": "Barat Daya",
+      "slug": "barat-daya-0769"
+    },
+    "code": {
+      "id": "0769",
+      "iso": null
+    },
+    "parent": {
+      "id": "07",
+      "level": 1,
+      "name": {
+        "local": "Pulau Pinang",
+        "en": "Penang",
+        "slug": "penang-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.355",
+      "lon": "100.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0770",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seberang Perai Selatan",
+      "en": "Seberang Perai Selatan",
+      "slug": "seberang-perai-selatan-0770"
+    },
+    "code": {
+      "id": "0770",
+      "iso": null
+    },
+    "parent": {
+      "id": "07",
+      "level": 1,
+      "name": {
+        "local": "Pulau Pinang",
+        "en": "Penang",
+        "slug": "penang-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.252",
+      "lon": "100.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0771",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seberang Perai Tengah",
+      "en": "Seberang Perai Tengah",
+      "slug": "seberang-perai-tengah-0771"
+    },
+    "code": {
+      "id": "0771",
+      "iso": null
+    },
+    "parent": {
+      "id": "07",
+      "level": 1,
+      "name": {
+        "local": "Pulau Pinang",
+        "en": "Penang",
+        "slug": "penang-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.384",
+      "lon": "100.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0772",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seberang Perai Utara",
+      "en": "Seberang Perai Utara",
+      "slug": "seberang-perai-utara-0772"
+    },
+    "code": {
+      "id": "0772",
+      "iso": null
+    },
+    "parent": {
+      "id": "07",
+      "level": 1,
+      "name": {
+        "local": "Pulau Pinang",
+        "en": "Penang",
+        "slug": "penang-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.467",
+      "lon": "100.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0773",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Timur Laut",
+      "en": "Timur Laut",
+      "slug": "timur-laut-0773"
+    },
+    "code": {
+      "id": "0773",
+      "iso": null
+    },
+    "parent": {
+      "id": "07",
+      "level": 1,
+      "name": {
+        "local": "Pulau Pinang",
+        "en": "Penang",
+        "slug": "penang-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.379",
+      "lon": "100.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "Perak",
+      "en": "Perak",
+      "slug": "perak-08"
+    },
+    "code": {
+      "id": "08",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 13,
+      "mukim": 185
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.711",
+      "lon": "100.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0855",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bagan Datuk",
+      "en": "Bagan Datuk",
+      "slug": "bagan-datuk-0855"
+    },
+    "code": {
+      "id": "0855",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.851",
+      "lon": "100.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0856",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Batang Padang",
+      "en": "Batang Padang",
+      "slug": "batang-padang-0856"
+    },
+    "code": {
+      "id": "0856",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.241",
+      "lon": "101.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0857",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hilir Perak",
+      "en": "Hilir Perak",
+      "slug": "hilir-perak-0857"
+    },
+    "code": {
+      "id": "0857",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.041",
+      "lon": "100.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0858",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hulu Perak",
+      "en": "Hulu Perak",
+      "slug": "hulu-perak-0858"
+    },
+    "code": {
+      "id": "0858",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.374",
+      "lon": "101.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0859",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kampar",
+      "en": "Kampar",
+      "slug": "kampar-0859"
+    },
+    "code": {
+      "id": "0859",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.412",
+      "lon": "101.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0860",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kerian",
+      "en": "Kerian",
+      "slug": "kerian-0860"
+    },
+    "code": {
+      "id": "0860",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.029",
+      "lon": "100.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0861",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kinta",
+      "en": "Kinta",
+      "slug": "kinta-0861"
+    },
+    "code": {
+      "id": "0861",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.568",
+      "lon": "101.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0862",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuala Kangsar",
+      "en": "Kuala Kangsar",
+      "slug": "kuala-kangsar-0862"
+    },
+    "code": {
+      "id": "0862",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.819",
+      "lon": "101.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0863",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Larut Dan Matang",
+      "en": "Larut Dan Matang",
+      "slug": "larut-dan-matang-0863"
+    },
+    "code": {
+      "id": "0863",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.806",
+      "lon": "100.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0864",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Manjung",
+      "en": "Manjung",
+      "slug": "manjung-0864"
+    },
+    "code": {
+      "id": "0864",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.23",
+      "lon": "100.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0865",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Muallim",
+      "en": "Muallim",
+      "slug": "muallim-0865"
+    },
+    "code": {
+      "id": "0865",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.852",
+      "lon": "101.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0866",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Perak Tengah",
+      "en": "Perak Tengah",
+      "slug": "perak-tengah-0866"
+    },
+    "code": {
+      "id": "0866",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.225",
+      "lon": "100.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0867",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Selama",
+      "en": "Selama",
+      "slug": "selama-0867"
+    },
+    "code": {
+      "id": "0867",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.223",
+      "lon": "100.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "Perlis",
+      "en": "Perlis",
+      "slug": "perlis-09"
+    },
+    "code": {
+      "id": "09",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 1,
+      "mukim": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.586",
+      "lon": "100.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0968",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Perlis",
+      "en": "Perlis",
+      "slug": "perlis-0968"
+    },
+    "code": {
+      "id": "0968",
+      "iso": null
+    },
+    "parent": {
+      "id": "09",
+      "level": 1,
+      "name": {
+        "local": "Perlis",
+        "en": "Perlis",
+        "slug": "perlis-09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "Perlis",
+          "en": "Perlis",
+          "slug": "perlis-09"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.542",
+      "lon": "100.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "Selangor",
+      "en": "Selangor",
+      "slug": "selangor-10"
+    },
+    "code": {
+      "id": "10",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9,
+      "mukim": 212
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.366",
+      "lon": "101.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10141",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gombak",
+      "en": "Gombak",
+      "slug": "gombak-10141"
+    },
+    "code": {
+      "id": "10141",
+      "iso": null
+    },
+    "parent": {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "Selangor",
+        "en": "Selangor",
+        "slug": "selangor-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.254",
+      "lon": "101.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10142",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Klang",
+      "en": "Klang",
+      "slug": "klang-10142"
+    },
+    "code": {
+      "id": "10142",
+      "iso": null
+    },
+    "parent": {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "Selangor",
+        "en": "Selangor",
+        "slug": "selangor-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.005",
+      "lon": "101.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10143",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuala Langat",
+      "en": "Kuala Langat",
+      "slug": "kuala-langat-10143"
+    },
+    "code": {
+      "id": "10143",
+      "iso": null
+    },
+    "parent": {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "Selangor",
+        "en": "Selangor",
+        "slug": "selangor-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.844",
+      "lon": "101.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10144",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuala Selangor",
+      "en": "Kuala Selangor",
+      "slug": "kuala-selangor-10144"
+    },
+    "code": {
+      "id": "10144",
+      "iso": null
+    },
+    "parent": {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "Selangor",
+        "en": "Selangor",
+        "slug": "selangor-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.321",
+      "lon": "101.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Petaling",
+      "en": "Petaling",
+      "slug": "petaling-10145"
+    },
+    "code": {
+      "id": "10145",
+      "iso": null
+    },
+    "parent": {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "Selangor",
+        "en": "Selangor",
+        "slug": "selangor-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 31
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.091",
+      "lon": "101.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10146",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sabak Bernam",
+      "en": "Sabak Bernam",
+      "slug": "sabak-bernam-10146"
+    },
+    "code": {
+      "id": "10146",
+      "iso": null
+    },
+    "parent": {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "Selangor",
+        "en": "Selangor",
+        "slug": "selangor-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.741",
+      "lon": "101.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10147",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sepang",
+      "en": "Sepang",
+      "slug": "sepang-10147"
+    },
+    "code": {
+      "id": "10147",
+      "iso": null
+    },
+    "parent": {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "Selangor",
+        "en": "Selangor",
+        "slug": "selangor-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.797",
+      "lon": "101.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ulu Langat",
+      "en": "Ulu Langat",
+      "slug": "ulu-langat-10148"
+    },
+    "code": {
+      "id": "10148",
+      "iso": null
+    },
+    "parent": {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "Selangor",
+        "en": "Selangor",
+        "slug": "selangor-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 40
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.113",
+      "lon": "101.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10149",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ulu Selangor",
+      "en": "Ulu Selangor",
+      "slug": "ulu-selangor-10149"
+    },
+    "code": {
+      "id": "10149",
+      "iso": null
+    },
+    "parent": {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "Selangor",
+        "en": "Selangor",
+        "slug": "selangor-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 27
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.572",
+      "lon": "101.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "Terengganu",
+      "en": "Terengganu",
+      "slug": "terengganu-11"
+    },
+    "code": {
+      "id": "11",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 8,
+      "mukim": 96
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.394",
+      "lon": "103.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11150",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Besut",
+      "en": "Besut",
+      "slug": "besut-11150"
+    },
+    "code": {
+      "id": "11150",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Terengganu",
+        "en": "Terengganu",
+        "slug": "terengganu-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.82",
+      "lon": "102.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11151",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dungun",
+      "en": "Dungun",
+      "slug": "dungun-11151"
+    },
+    "code": {
+      "id": "11151",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Terengganu",
+        "en": "Terengganu",
+        "slug": "terengganu-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.665",
+      "lon": "103.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11152",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hulu Terengganu",
+      "en": "Hulu Terengganu",
+      "slug": "hulu-terengganu-11152"
+    },
+    "code": {
+      "id": "11152",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Terengganu",
+        "en": "Terengganu",
+        "slug": "terengganu-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.082",
+      "lon": "102.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11153",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kemaman",
+      "en": "Kemaman",
+      "slug": "kemaman-11153"
+    },
+    "code": {
+      "id": "11153",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Terengganu",
+        "en": "Terengganu",
+        "slug": "terengganu-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.223",
+      "lon": "103.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11154",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuala Nerus",
+      "en": "Kuala Nerus",
+      "slug": "kuala-nerus-11154"
+    },
+    "code": {
+      "id": "11154",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Terengganu",
+        "en": "Terengganu",
+        "slug": "terengganu-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.668",
+      "lon": "103.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11155",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuala Terengganu",
+      "en": "Kuala Terengganu",
+      "slug": "kuala-terengganu-11155"
+    },
+    "code": {
+      "id": "11155",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Terengganu",
+        "en": "Terengganu",
+        "slug": "terengganu-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.274",
+      "lon": "103.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11156",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Marang",
+      "en": "Marang",
+      "slug": "marang-11156"
+    },
+    "code": {
+      "id": "11156",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Terengganu",
+        "en": "Terengganu",
+        "slug": "terengganu-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.182",
+      "lon": "103.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11157",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Setiu",
+      "en": "Setiu",
+      "slug": "setiu-11157"
+    },
+    "code": {
+      "id": "11157",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Terengganu",
+        "en": "Terengganu",
+        "slug": "terengganu-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.396",
+      "lon": "102.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "Sabah",
+      "en": "Sabah",
+      "slug": "sabah-12"
+    },
+    "code": {
+      "id": "12",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 27,
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.067",
+      "lon": "117.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12100",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tuaran",
+      "en": "Tuaran",
+      "slug": "tuaran-12100"
+    },
+    "code": {
+      "id": "12100",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.052",
+      "lon": "116.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1274",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Beaufort",
+      "en": "Beaufort",
+      "slug": "beaufort-1274"
+    },
+    "code": {
+      "id": "1274",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.287",
+      "lon": "115.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1275",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Beluran",
+      "en": "Beluran",
+      "slug": "beluran-1275"
+    },
+    "code": {
+      "id": "1275",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.238",
+      "lon": "117.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1276",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kalabakan",
+      "en": "Kalabakan",
+      "slug": "kalabakan-1276"
+    },
+    "code": {
+      "id": "1276",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.398",
+      "lon": "117.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1277",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Keningau",
+      "en": "Keningau",
+      "slug": "keningau-1277"
+    },
+    "code": {
+      "id": "1277",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.361",
+      "lon": "116.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1278",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kinabatangan",
+      "en": "Kinabatangan",
+      "slug": "kinabatangan-1278"
+    },
+    "code": {
+      "id": "1278",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.48",
+      "lon": "118.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1279",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kota Belud",
+      "en": "Kota Belud",
+      "slug": "kota-belud-1279"
+    },
+    "code": {
+      "id": "1279",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.393",
+      "lon": "116.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1280",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kota Kinabalu",
+      "en": "Kota Kinabalu",
+      "slug": "kota-kinabalu-1280"
+    },
+    "code": {
+      "id": "1280",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.015",
+      "lon": "116.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1281",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kota Marudu",
+      "en": "Kota Marudu",
+      "slug": "kota-marudu-1281"
+    },
+    "code": {
+      "id": "1281",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.47",
+      "lon": "116.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1282",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuala Penyu",
+      "en": "Kuala Penyu",
+      "slug": "kuala-penyu-1282"
+    },
+    "code": {
+      "id": "1282",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.469",
+      "lon": "115.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1283",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kudat",
+      "en": "Kudat",
+      "slug": "kudat-1283"
+    },
+    "code": {
+      "id": "1283",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.12",
+      "lon": "117.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1284",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kunak",
+      "en": "Kunak",
+      "slug": "kunak-1284"
+    },
+    "code": {
+      "id": "1284",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.709",
+      "lon": "118.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1285",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lahad Datu",
+      "en": "Lahad Datu",
+      "slug": "lahad-datu-1285"
+    },
+    "code": {
+      "id": "1285",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.03",
+      "lon": "118.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1286",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nabawan",
+      "en": "Nabawan",
+      "slug": "nabawan-1286"
+    },
+    "code": {
+      "id": "1286",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.584",
+      "lon": "116.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1287",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Papar",
+      "en": "Papar",
+      "slug": "papar-1287"
+    },
+    "code": {
+      "id": "1287",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.607",
+      "lon": "116.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1288",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Penampang",
+      "en": "Penampang",
+      "slug": "penampang-1288"
+    },
+    "code": {
+      "id": "1288",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.865",
+      "lon": "116.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1289",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pitas",
+      "en": "Pitas",
+      "slug": "pitas-1289"
+    },
+    "code": {
+      "id": "1289",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.783",
+      "lon": "117.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1290",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Putatan",
+      "en": "Putatan",
+      "slug": "putatan-1290"
+    },
+    "code": {
+      "id": "1290",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.892",
+      "lon": "116.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1291",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ranau",
+      "en": "Ranau",
+      "slug": "ranau-1291"
+    },
+    "code": {
+      "id": "1291",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.874",
+      "lon": "116.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1292",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sandakan",
+      "en": "Sandakan",
+      "slug": "sandakan-1292"
+    },
+    "code": {
+      "id": "1292",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.813",
+      "lon": "118.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1293",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Semporna",
+      "en": "Semporna",
+      "slug": "semporna-1293"
+    },
+    "code": {
+      "id": "1293",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.573",
+      "lon": "118.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1294",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sipitang",
+      "en": "Sipitang",
+      "slug": "sipitang-1294"
+    },
+    "code": {
+      "id": "1294",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.678",
+      "lon": "115.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1295",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tambunan",
+      "en": "Tambunan",
+      "slug": "tambunan-1295"
+    },
+    "code": {
+      "id": "1295",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.719",
+      "lon": "116.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1296",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tawau",
+      "en": "Tawau",
+      "slug": "tawau-1296"
+    },
+    "code": {
+      "id": "1296",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.457",
+      "lon": "118.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1297",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Telupid",
+      "en": "Telupid",
+      "slug": "telupid-1297"
+    },
+    "code": {
+      "id": "1297",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.827",
+      "lon": "117.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1298",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tenom",
+      "en": "Tenom",
+      "slug": "tenom-1298"
+    },
+    "code": {
+      "id": "1298",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.922",
+      "lon": "115.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1299",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tongod",
+      "en": "Tongod",
+      "slug": "tongod-1299"
+    },
+    "code": {
+      "id": "1299",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.045",
+      "lon": "116.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "Sarawak",
+      "en": "Sarawak",
+      "slug": "sarawak-13"
+    },
+    "code": {
+      "id": "13",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 40,
+      "mukim": 285
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.342",
+      "lon": "112.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13101",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Asajaya",
+      "en": "Asajaya",
+      "slug": "asajaya-13101"
+    },
+    "code": {
+      "id": "13101",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.543",
+      "lon": "110.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13102",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bau",
+      "en": "Bau",
+      "slug": "bau-13102"
+    },
+    "code": {
+      "id": "13102",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.375",
+      "lon": "110.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13103",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Belaga",
+      "en": "Belaga",
+      "slug": "belaga-13103"
+    },
+    "code": {
+      "id": "13103",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.67",
+      "lon": "114.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13104",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Beluru",
+      "en": "Beluru",
+      "slug": "beluru-13104"
+    },
+    "code": {
+      "id": "13104",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.512",
+      "lon": "114.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13105",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Betong",
+      "en": "Betong",
+      "slug": "betong-13105"
+    },
+    "code": {
+      "id": "13105",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.529",
+      "lon": "111.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13106",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bintulu",
+      "en": "Bintulu",
+      "slug": "bintulu-13106"
+    },
+    "code": {
+      "id": "13106",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.293",
+      "lon": "113.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13107",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bukit Mabong",
+      "en": "Bukit Mabong",
+      "slug": "bukit-mabong-13107"
+    },
+    "code": {
+      "id": "13107",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.681",
+      "lon": "113.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13108",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dalat",
+      "en": "Dalat",
+      "slug": "dalat-13108"
+    },
+    "code": {
+      "id": "13108",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.697",
+      "lon": "111.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13109",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Daro",
+      "en": "Daro",
+      "slug": "daro-13109"
+    },
+    "code": {
+      "id": "13109",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.459",
+      "lon": "111.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13110",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Julau",
+      "en": "Julau",
+      "slug": "julau-13110"
+    },
+    "code": {
+      "id": "13110",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.832",
+      "lon": "111.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13111",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kabong",
+      "en": "Kabong",
+      "slug": "kabong-13111"
+    },
+    "code": {
+      "id": "13111",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.912",
+      "lon": "111.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13112",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kanowit",
+      "en": "Kanowit",
+      "slug": "kanowit-13112"
+    },
+    "code": {
+      "id": "13112",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.922",
+      "lon": "112.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13113",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kapit",
+      "en": "Kapit",
+      "slug": "kapit-13113"
+    },
+    "code": {
+      "id": "13113",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.253",
+      "lon": "113.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13114",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuching",
+      "en": "Kuching",
+      "slug": "kuching-13114"
+    },
+    "code": {
+      "id": "13114",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.533",
+      "lon": "110.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13115",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lawas",
+      "en": "Lawas",
+      "slug": "lawas-13115"
+    },
+    "code": {
+      "id": "13115",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.504",
+      "lon": "115.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13116",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Limbang",
+      "en": "Limbang",
+      "slug": "limbang-13116"
+    },
+    "code": {
+      "id": "13116",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.374",
+      "lon": "115.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13117",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lubok Antu",
+      "en": "Lubok Antu",
+      "slug": "lubok-antu-13117"
+    },
+    "code": {
+      "id": "13117",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.307",
+      "lon": "111.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13118",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lundu",
+      "en": "Lundu",
+      "slug": "lundu-13118"
+    },
+    "code": {
+      "id": "13118",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.736",
+      "lon": "109.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13119",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Maradong",
+      "en": "Maradong",
+      "slug": "maradong-13119"
+    },
+    "code": {
+      "id": "13119",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.2",
+      "lon": "111.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13120",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Marudi",
+      "en": "Marudi",
+      "slug": "marudi-13120"
+    },
+    "code": {
+      "id": "13120",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.108",
+      "lon": "114.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13121",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Matu",
+      "en": "Matu",
+      "slug": "matu-13121"
+    },
+    "code": {
+      "id": "13121",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.64",
+      "lon": "111.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13122",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Miri",
+      "en": "Miri",
+      "slug": "miri-13122"
+    },
+    "code": {
+      "id": "13122",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.761",
+      "lon": "115.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13123",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mukah",
+      "en": "Mukah",
+      "slug": "mukah-13123"
+    },
+    "code": {
+      "id": "13123",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.825",
+      "lon": "112.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13124",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pakan",
+      "en": "Pakan",
+      "slug": "pakan-13124"
+    },
+    "code": {
+      "id": "13124",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.791",
+      "lon": "111.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13125",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pusa",
+      "en": "Pusa",
+      "slug": "pusa-13125"
+    },
+    "code": {
+      "id": "13125",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.546",
+      "lon": "111.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13126",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Samarahan",
+      "en": "Samarahan",
+      "slug": "samarahan-13126"
+    },
+    "code": {
+      "id": "13126",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.448",
+      "lon": "110.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13127",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Saratok",
+      "en": "Saratok",
+      "slug": "saratok-13127"
+    },
+    "code": {
+      "id": "13127",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.787",
+      "lon": "111.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13128",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sarikei",
+      "en": "Sarikei",
+      "slug": "sarikei-13128"
+    },
+    "code": {
+      "id": "13128",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.097",
+      "lon": "111.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13129",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sebauh",
+      "en": "Sebauh",
+      "slug": "sebauh-13129"
+    },
+    "code": {
+      "id": "13129",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.17",
+      "lon": "113.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13130",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Selangau",
+      "en": "Selangau",
+      "slug": "selangau-13130"
+    },
+    "code": {
+      "id": "13130",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.561",
+      "lon": "112.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13131",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Serian",
+      "en": "Serian",
+      "slug": "serian-13131"
+    },
+    "code": {
+      "id": "13131",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.1",
+      "lon": "110.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13132",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sibu",
+      "en": "Sibu",
+      "slug": "sibu-13132"
+    },
+    "code": {
+      "id": "13132",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.275",
+      "lon": "111.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13133",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Simunjan",
+      "en": "Simunjan",
+      "slug": "simunjan-13133"
+    },
+    "code": {
+      "id": "13133",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.284",
+      "lon": "110.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13134",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Song",
+      "en": "Song",
+      "slug": "song-13134"
+    },
+    "code": {
+      "id": "13134",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.743",
+      "lon": "112.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13135",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sri Aman",
+      "en": "Sri Aman",
+      "slug": "sri-aman-13135"
+    },
+    "code": {
+      "id": "13135",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.172",
+      "lon": "111.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13136",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Subis",
+      "en": "Subis",
+      "slug": "subis-13136"
+    },
+    "code": {
+      "id": "13136",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.658",
+      "lon": "113.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13137",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tanjung Manis",
+      "en": "Tanjung Manis",
+      "slug": "tanjung-manis-13137"
+    },
+    "code": {
+      "id": "13137",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.256",
+      "lon": "111.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13138",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tatau",
+      "en": "Tatau",
+      "slug": "tatau-13138"
+    },
+    "code": {
+      "id": "13138",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.644",
+      "lon": "112.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13139",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tebedu",
+      "en": "Tebedu",
+      "slug": "tebedu-13139"
+    },
+    "code": {
+      "id": "13139",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.987",
+      "lon": "110.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13140",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Telang Usan",
+      "en": "Telang Usan",
+      "slug": "telang-usan-13140"
+    },
+    "code": {
+      "id": "13140",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.389",
+      "lon": "114.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "W.P. Kuala Lumpur",
+      "en": "Federal Territory of Kuala Lumpur",
+      "slug": "federal-territory-of-kuala-lumpur-14"
+    },
+    "code": {
+      "id": "14",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 1,
+      "mukim": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.141",
+      "lon": "101.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14158",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "W.P. Kuala Lumpur",
+      "en": "W.P. Kuala Lumpur",
+      "slug": "wp-kuala-lumpur-14158"
+    },
+    "code": {
+      "id": "14158",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "W.P. Kuala Lumpur",
+        "en": "Federal Territory of Kuala Lumpur",
+        "slug": "federal-territory-of-kuala-lumpur-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "W.P. Kuala Lumpur",
+          "en": "Federal Territory of Kuala Lumpur",
+          "slug": "federal-territory-of-kuala-lumpur-14"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.142",
+      "lon": "101.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "W.P. Labuan",
+      "en": "Federal Territory of Labuan",
+      "slug": "federal-territory-of-labuan-15"
+    },
+    "code": {
+      "id": "15",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 1,
+      "mukim": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.284",
+      "lon": "115.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15159",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "W.P. Labuan",
+      "en": "W.P. Labuan",
+      "slug": "wp-labuan-15159"
+    },
+    "code": {
+      "id": "15159",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "W.P. Labuan",
+        "en": "Federal Territory of Labuan",
+        "slug": "federal-territory-of-labuan-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "W.P. Labuan",
+          "en": "Federal Territory of Labuan",
+          "slug": "federal-territory-of-labuan-15"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.275",
+      "lon": "115.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "W.P. Putrajaya",
+      "en": "Federal Territory of Putrajaya",
+      "slug": "federal-territory-of-putrajaya-16"
+    },
+    "code": {
+      "id": "16",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 1,
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.93",
+      "lon": "101.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16160",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "W.P. Putrajaya",
+      "en": "W.P. Putrajaya",
+      "slug": "wp-putrajaya-16160"
+    },
+    "code": {
+      "id": "16160",
+      "iso": null
+    },
+    "parent": {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "W.P. Putrajaya",
+        "en": "Federal Territory of Putrajaya",
+        "slug": "federal-territory-of-putrajaya-16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "W.P. Putrajaya",
+          "en": "Federal Territory of Putrajaya",
+          "slug": "federal-territory-of-putrajaya-16"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.938",
+      "lon": "101.692"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

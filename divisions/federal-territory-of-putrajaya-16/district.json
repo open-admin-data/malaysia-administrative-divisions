@@ -1,0 +1,49 @@
+[
+  {
+    "id": "16160",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "W.P. Putrajaya",
+      "en": "W.P. Putrajaya",
+      "slug": "wp-putrajaya-16160"
+    },
+    "code": {
+      "id": "16160",
+      "iso": null
+    },
+    "parent": {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "W.P. Putrajaya",
+        "en": "Federal Territory of Putrajaya",
+        "slug": "federal-territory-of-putrajaya-16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "W.P. Putrajaya",
+          "en": "Federal Territory of Putrajaya",
+          "slug": "federal-territory-of-putrajaya-16"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.938",
+      "lon": "101.692"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

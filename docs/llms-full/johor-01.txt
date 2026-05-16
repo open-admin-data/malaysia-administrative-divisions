@@ -1,0 +1,439 @@
+# Johor — Malaysia Administrative Divisions
+
+> 10 districts, 95 subdistricts
+> Code: 01
+> Coordinates: 1.852, 103.792
+> Last updated: 2026-05-16. License: CC-BY-4.0.
+
+## Districts
+
+### Batu Pahat
+
+Code: 0101, Coordinates: 1.878, 103.04
+Subdistricts: 15
+
+#### BANDAR BANDAR PENGGARAM
+
+Code: 0101-014, Coordinates: 1.848, 102.935
+
+#### BANDAR SENGGARANG
+
+Code: 0101-002, Coordinates: 1.748, 103.053
+
+#### MUKIM CHAAH BAHRU (CHAAH BAHRU)
+
+Code: 0101-001, Coordinates: 2.089, 103.079
+
+#### MUKIM KAMPUNG BAHRU (KAMPUNG BAHRU)
+
+Code: 0101-008, Coordinates: 1.771, 103.097
+
+#### MUKIM LINAU (LINAU)
+
+Code: 0101-007, Coordinates: 1.923, 102.974
+
+#### MUKIM LUBOK (LUBOK)
+
+Code: 0101-006, Coordinates: 1.904, 102.81
+
+#### MUKIM MINYAK BEKU (MINYAK BEKU)
+
+Code: 0101-015, Coordinates: 1.781, 103
+
+#### MUKIM PESERAI (PESERAI)
+
+Code: 0101-009, Coordinates: 1.857, 102.896
+
+#### MUKIM SIMPANG KANAN (SIMPANG KANAN)
+
+Code: 0101-005, Coordinates: 1.84, 102.966
+
+#### MUKIM SIMPANG KIRI (SIMPANG KIRI)
+
+Code: 0101-004, Coordinates: 1.926, 102.875
+
+#### MUKIM SRI GADING (SRI GADING)
+
+Code: 0101-012, Coordinates: 1.888, 103.149
+
+#### MUKIM SRI MEDAN (SRI MEDAN)
+
+Code: 0101-013, Coordinates: 2.003, 102.943
+
+#### MUKIM SUNGAI KLUANG (SUNGAI KLUANG)
+
+Code: 0101-011, Coordinates: 1.709, 103.168
+
+#### MUKIM SUNGAI PUNGGOR (SUNGAI PUNGGOR)
+
+Code: 0101-003, Coordinates: 1.741, 103.138
+
+#### MUKIM TANJUNG SEMBRONG (TANJUNG SEMBRONG)
+
+Code: 0101-010, Coordinates: 1.993, 103.099
+
+### Johor Bahru
+
+Code: 0102, Coordinates: 1.532, 103.741
+Subdistricts: 5
+
+#### BANDAR JOHOR BAHRU
+
+Code: 0102-005, Coordinates: 1.494, 103.75
+
+#### MUKIM PLENTONG (PLENTONG)
+
+Code: 0102-002, Coordinates: 1.534, 103.845
+
+#### MUKIM SUNGAI TIRAM (SUNGAI TIRAM)
+
+Code: 0102-001, Coordinates: 1.598, 103.923
+
+#### MUKIM TANJUNG KUPANG (TANJUNG KUPANG)
+
+Code: 0102-003, Coordinates: 1.411, 103.592
+
+#### MUKIM TEBRAU (TEBRAU)
+
+Code: 0102-004, Coordinates: 1.584, 103.75
+
+### Kluang
+
+Code: 0103, Coordinates: 1.976, 103.428
+Subdistricts: 7
+
+#### MUKIM KAHANG (KAHANG)
+
+Code: 0103-005, Coordinates: 2.304, 103.557
+
+#### MUKIM KLUANG (KLUANG)
+
+Code: 0103-003, Coordinates: 2.013, 103.293
+
+#### MUKIM LAYANG-LAYANG (LAYANG-LAYANG)
+
+Code: 0103-007, Coordinates: 1.808, 103.543
+
+#### MUKIM NIYOR (NIYOR)
+
+Code: 0103-001, Coordinates: 2.145, 103.307
+
+#### MUKIM PONTIAN (PONTIAN)
+
+Code: 0103-004, Coordinates: 2.094, 103.451
+
+#### MUKIM RENGAM (RENGAM)
+
+Code: 0103-002, Coordinates: 1.875, 103.357
+
+#### MUKIM ULU BENUT (ULU BENUT)
+
+Code: 0103-006, Coordinates: 1.802, 103.288
+
+### Kota Tinggi
+
+Code: 0104, Coordinates: 1.67, 103.994
+Subdistricts: 10
+
+#### MUKIM JOHOR LAMA (JOHOR LAMA)
+
+Code: 0104-003, Coordinates: 1.628, 104.045
+
+#### MUKIM KAMBAU (KAMBAU)
+
+Code: 0104-001, Coordinates: 1.986, 104.035
+
+#### MUKIM KOTA TINGGI (KOTA TINGGI)
+
+Code: 0104-004, Coordinates: 1.69, 103.905
+
+#### MUKIM PANTAI TIMUR (PANTAI TIMUR)
+
+Code: 0104-007, Coordinates: 1.457, 104.224
+
+#### MUKIM PENGERANG (PENGERANG)
+
+Code: 0104-002, Coordinates: 1.428, 104.174
+
+#### MUKIM SEDILI BESAR (SEDILI BESAR)
+
+Code: 0104-010, Coordinates: 1.871, 104.036
+
+#### MUKIM SEDILI KECHIL (SEDILI KECHIL)
+
+Code: 0104-008, Coordinates: 1.727, 104.112
+
+#### MUKIM TANJUNG SURAT (TANJUNG SURAT)
+
+Code: 0104-006, Coordinates: 1.557, 104.123
+
+#### MUKIM ULU SUNGAI JOHOR (ULU SUNGAI JOHOR)
+
+Code: 0104-009, Coordinates: 1.757, 103.729
+
+#### MUKIM ULU SUNGEI SEDILI BESAR (ULU SUNGEI SEDILI BESAR)
+
+Code: 0104-005, Coordinates: 1.856, 103.973
+
+### Kulai
+
+Code: 0105, Coordinates: 1.655, 103.587
+Subdistricts: 5
+
+#### BANDAR KULAI
+
+Code: 0105-001, Coordinates: 1.655, 103.602
+
+#### MUKIM BUKIT BATU (BUKIT BATU)
+
+Code: 0105-005, Coordinates: 1.691, 103.456
+
+#### MUKIM KULAI (KULAI)
+
+Code: 0105-003, Coordinates: 1.608, 103.561
+
+#### MUKIM SEDENAK (SEDENAK)
+
+Code: 0105-002, Coordinates: 1.774, 103.537
+
+#### MUKIM SENAI (SENAI)
+
+Code: 0105-004, Coordinates: 1.669, 103.632
+
+### Mersing
+
+Code: 0106, Coordinates: 2.425, 104.05
+Subdistricts: 7
+
+#### BANDAR MERSING
+
+Code: 0106-007, Coordinates: 2.431, 103.85
+
+#### MUKIM LENGGOR (LENGGOR)
+
+Code: 0106-003, Coordinates: 2.313, 103.699
+
+#### MUKIM MERSING (MERSING)
+
+Code: 0106-004, Coordinates: 2.346, 103.791
+
+#### MUKIM PADANG ENDAU (PADANG ENDAU)
+
+Code: 0106-001, Coordinates: 2.596, 103.628
+
+#### MUKIM PULAU AUR (PULAU AUR)
+
+Code: 0106-006, Coordinates: 2.33, 104.182
+
+#### MUKIM SEMBRONG (SEMBRONG)
+
+Code: 0106-002, Coordinates: 2.481, 103.52
+
+#### MUKIM TENGGAROH (TENGGAROH)
+
+Code: 0106-005, Coordinates: 2.174, 103.968
+
+### Muar
+
+Code: 0107, Coordinates: 2.199, 102.758
+Subdistricts: 14
+
+#### MUKIM AYER HITAM (AYER HITAM)
+
+Code: 0107-006, Coordinates: 2.005, 102.78
+
+#### BANDAR BANDAR MAHARANI
+
+Code: 0107-011, Coordinates: 2.048, 102.573
+
+#### BANDAR BUKIT KEPONG
+
+Code: 0107-007, Coordinates: 2.346, 102.829
+
+#### BANDAR PARIT BUNGA
+
+Code: 0107-012, Coordinates: 2.074, 102.551
+
+#### MUKIM BUKIT KEPONG (BUKIT KEPONG)
+
+Code: 0107-003, Coordinates: 2.366, 102.892
+
+#### MUKIM GRISEK (GRISEK)
+
+Code: 0107-014, Coordinates: 2.213, 102.68
+
+#### MUKIM JALAN BAKRI (JALAN BAKRI)
+
+Code: 0107-001, Coordinates: 2.05, 102.636
+
+#### MUKIM JORAK (JORAK)
+
+Code: 0107-002, Coordinates: 2.14, 102.732
+
+#### MUKIM LENGA (LENGA)
+
+Code: 0107-009, Coordinates: 2.248, 102.81
+
+#### MUKIM MACHAP (MACHAP)
+
+Code: 0107-005, Coordinates: 2.143, 102.72
+
+#### MUKIM PARIT BAKAR (PARIT BAKAR)
+
+Code: 0107-004, Coordinates: 2.008, 102.632
+
+#### MUKIM PARIT JAWA (PARIT JAWA)
+
+Code: 0107-008, Coordinates: 1.994, 102.691
+
+#### PEKAN GRISEK
+
+Code: 0107-013, Coordinates: 2.208, 102.71
+
+#### MUKIM SUNGAI BALANG (SUNGAI BALANG)
+
+Code: 0107-010, Coordinates: 1.907, 102.749
+
+### Pontian
+
+Code: 0108, Coordinates: 1.502, 103.414
+Subdistricts: 11
+
+#### MUKIM AIR MASIN (AIR MASIN)
+
+Code: 0108-007, Coordinates: 1.381, 103.455
+
+#### MUKIM AYER BALOI (AYER BALOI)
+
+Code: 0108-002, Coordinates: 1.622, 103.341
+
+#### BANDAR BENUT
+
+Code: 0108-004, Coordinates: 1.645, 103.258
+
+#### BANDAR PONTIAN KECHIL
+
+Code: 0108-011, Coordinates: 1.483, 103.392
+
+#### MUKIM BENUT (BENUT)
+
+Code: 0108-008, Coordinates: 1.687, 103.237
+
+#### MUKIM JERAM BATU (JERAM BATU)
+
+Code: 0108-010, Coordinates: 1.48, 103.509
+
+#### PEKAN PEKAN NENAS
+
+Code: 0108-001, Coordinates: 1.507, 103.51
+
+#### MUKIM PENGKALAN RAJA (PENGKALAN RAJA)
+
+Code: 0108-009, Coordinates: 1.533, 103.492
+
+#### MUKIM RIMBA TERJUN (RIMBA TERJUN)
+
+Code: 0108-003, Coordinates: 1.47, 103.445
+
+#### MUKIM SERKAT (SERKAT)
+
+Code: 0108-005, Coordinates: 1.344, 103.496
+
+#### MUKIM SUNGEI PINGGAN (SUNGEI PINGGAN)
+
+Code: 0108-006, Coordinates: 1.676, 103.296
+
+### Segamat
+
+Code: 0109, Coordinates: 2.438, 102.787
+Subdistricts: 13
+
+#### BANDAR BATU ANAM
+
+Code: 0109-004, Coordinates: 2.575, 102.709
+
+#### BANDAR SEGAMAT
+
+Code: 0109-011, Coordinates: 2.511, 102.816
+
+#### MUKIM BEKOK (BEKOK)
+
+Code: 0109-002, Coordinates: 2.398, 103.156
+
+#### MUKIM BUKIT SERAMPANG (BUKIT SERAMPANG)
+
+Code: 0109-013, Coordinates: 2.355, 102.789
+
+#### MUKIM BULOH KASAP (BULOH KASAP)
+
+Code: 0109-008, Coordinates: 2.695, 102.752
+
+#### MUKIM CHAAH (CHAAH)
+
+Code: 0109-012, Coordinates: 2.244, 103.06
+
+#### MUKIM GEMAS (GEMAS)
+
+Code: 0109-001, Coordinates: 2.686, 102.672
+
+#### MUKIM GEMEREH (GEMEREH)
+
+Code: 0109-005, Coordinates: 2.494, 102.775
+
+#### MUKIM JEMENTAH (JEMENTAH)
+
+Code: 0109-009, Coordinates: 2.458, 102.755
+
+#### MUKIM LABIS (LABIS)
+
+Code: 0109-003, Coordinates: 2.403, 102.978
+
+#### MUKIM POGOH (POGOH)
+
+Code: 0109-010, Coordinates: 2.416, 102.843
+
+#### MUKIM SERMIN (SERMIN)
+
+Code: 0109-006, Coordinates: 2.6, 102.818
+
+#### MUKIM SUNGAI SEGAMAT (SUNGAI SEGAMAT)
+
+Code: 0109-007, Coordinates: 2.529, 102.86
+
+### Tangkak
+
+Code: 0110, Coordinates: 2.25, 102.583
+Subdistricts: 8
+
+#### MUKIM API-API (API-API)
+
+Code: 0110-004, Coordinates: 2.185, 102.655
+
+#### BANDAR BUKIT KANGKAR
+
+Code: 0110-001, Coordinates: 2.172, 102.555
+
+#### BANDAR SEROM
+
+Code: 0110-007, Coordinates: 2.164, 102.586
+
+#### BANDAR SUNGAI MATI
+
+Code: 0110-005, Coordinates: 2.147, 102.563
+
+#### BANDAR TANGKAK
+
+Code: 0110-008, Coordinates: 2.268, 102.539
+
+#### PEKAN ASAHAN
+
+Code: 0110-006, Coordinates: 2.393, 102.546
+
+#### MUKIM SEROM (SEROM)
+
+Code: 0110-002, Coordinates: 2.168, 102.592
+
+#### MUKIM TANGKAK (TANGKAK)
+
+Code: 0110-003, Coordinates: 2.339, 102.562
+

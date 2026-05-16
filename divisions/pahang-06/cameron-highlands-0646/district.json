@@ -1,0 +1,47 @@
+{
+  "id": "0646",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cameron Highlands",
+    "en": "Cameron Highlands",
+    "slug": "cameron-highlands-0646"
+  },
+  "code": {
+    "id": "0646",
+    "iso": null
+  },
+  "parent": {
+    "id": "06",
+    "level": 1,
+    "name": {
+      "local": "Pahang",
+      "en": "Pahang",
+      "slug": "pahang-06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "Pahang",
+        "en": "Pahang",
+        "slug": "pahang-06"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.473",
+    "lon": "101.433"
+  },
+  "metadata": {},
+  "source": {}
+}

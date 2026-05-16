@@ -1,0 +1,47 @@
+{
+  "id": "0215",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kubang Pasu",
+    "en": "Kubang Pasu",
+    "slug": "kubang-pasu-0215"
+  },
+  "code": {
+    "id": "0215",
+    "iso": null
+  },
+  "parent": {
+    "id": "02",
+    "level": 1,
+    "name": {
+      "local": "Kedah",
+      "en": "Kedah",
+      "slug": "kedah-02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "Kedah",
+        "en": "Kedah",
+        "slug": "kedah-02"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 34
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.345",
+    "lon": "100.431"
+  },
+  "metadata": {},
+  "source": {}
+}

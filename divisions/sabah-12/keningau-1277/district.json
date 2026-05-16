@@ -1,0 +1,47 @@
+{
+  "id": "1277",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Keningau",
+    "en": "Keningau",
+    "slug": "keningau-1277"
+  },
+  "code": {
+    "id": "1277",
+    "iso": null
+  },
+  "parent": {
+    "id": "12",
+    "level": 1,
+    "name": {
+      "local": "Sabah",
+      "en": "Sabah",
+      "slug": "sabah-12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.361",
+    "lon": "116.308"
+  },
+  "metadata": {},
+  "source": {}
+}

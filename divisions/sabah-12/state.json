@@ -1,0 +1,30 @@
+{
+  "id": "12",
+  "level": 1,
+  "level_name": {
+    "local": "Negeri",
+    "en": "State"
+  },
+  "name": {
+    "local": "Sabah",
+    "en": "Sabah",
+    "slug": "sabah-12"
+  },
+  "code": {
+    "id": "12",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 27,
+    "mukim": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.067",
+    "lon": "117.129"
+  },
+  "metadata": {},
+  "source": {}
+}

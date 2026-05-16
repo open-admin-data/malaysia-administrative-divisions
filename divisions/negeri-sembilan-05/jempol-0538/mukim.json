@@ -1,0 +1,650 @@
+[
+  {
+    "id": "0538-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BAHAU",
+      "en": "BANDAR BAHAU",
+      "slug": "bandar-bahau-0538-003"
+    },
+    "code": {
+      "id": "0538-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0538",
+      "level": 2,
+      "name": {
+        "local": "Jempol",
+        "en": "Jempol",
+        "slug": "jempol-0538"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0538",
+        "level": 2,
+        "name": {
+          "local": "Jempol",
+          "en": "Jempol",
+          "slug": "jempol-0538"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.808",
+      "lon": "102.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0538-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SERI JEMPOL",
+      "en": "BANDAR SERI JEMPOL",
+      "slug": "bandar-seri-jempol-0538-009"
+    },
+    "code": {
+      "id": "0538-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0538",
+      "level": 2,
+      "name": {
+        "local": "Jempol",
+        "en": "Jempol",
+        "slug": "jempol-0538"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0538",
+        "level": 2,
+        "name": {
+          "local": "Jempol",
+          "en": "Jempol",
+          "slug": "jempol-0538"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.881",
+      "lon": "102.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0538-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SERTING",
+      "en": "BANDAR SERTING",
+      "slug": "bandar-serting-0538-002"
+    },
+    "code": {
+      "id": "0538-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0538",
+      "level": 2,
+      "name": {
+        "local": "Jempol",
+        "en": "Jempol",
+        "slug": "jempol-0538"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0538",
+        "level": 2,
+        "name": {
+          "local": "Jempol",
+          "en": "Jempol",
+          "slug": "jempol-0538"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.899",
+      "lon": "102.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0538-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM JELAI",
+      "en": "JELAI",
+      "slug": "jelai-0538-008"
+    },
+    "code": {
+      "id": "0538-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0538",
+      "level": 2,
+      "name": {
+        "local": "Jempol",
+        "en": "Jempol",
+        "slug": "jempol-0538"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0538",
+        "level": 2,
+        "name": {
+          "local": "Jempol",
+          "en": "Jempol",
+          "slug": "jempol-0538"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.707",
+      "lon": "102.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0538-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUALA JEMPOL",
+      "en": "KUALA JEMPOL",
+      "slug": "kuala-jempol-0538-006"
+    },
+    "code": {
+      "id": "0538-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0538",
+      "level": 2,
+      "name": {
+        "local": "Jempol",
+        "en": "Jempol",
+        "slug": "jempol-0538"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0538",
+        "level": 2,
+        "name": {
+          "local": "Jempol",
+          "en": "Jempol",
+          "slug": "jempol-0538"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.812",
+      "lon": "102.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0538-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BAHAU",
+      "en": "PEKAN BAHAU",
+      "slug": "pekan-bahau-0538-001"
+    },
+    "code": {
+      "id": "0538-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0538",
+      "level": 2,
+      "name": {
+        "local": "Jempol",
+        "en": "Jempol",
+        "slug": "jempol-0538"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0538",
+        "level": 2,
+        "name": {
+          "local": "Jempol",
+          "en": "Jempol",
+          "slug": "jempol-0538"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.8",
+      "lon": "102.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0538-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BATU KIKIR",
+      "en": "PEKAN BATU KIKIR",
+      "slug": "pekan-batu-kikir-0538-010"
+    },
+    "code": {
+      "id": "0538-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0538",
+      "level": 2,
+      "name": {
+        "local": "Jempol",
+        "en": "Jempol",
+        "slug": "jempol-0538"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0538",
+        "level": 2,
+        "name": {
+          "local": "Jempol",
+          "en": "Jempol",
+          "slug": "jempol-0538"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.828",
+      "lon": "102.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0538-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN MAHSAN",
+      "en": "PEKAN MAHSAN",
+      "slug": "pekan-mahsan-0538-005"
+    },
+    "code": {
+      "id": "0538-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0538",
+      "level": 2,
+      "name": {
+        "local": "Jempol",
+        "en": "Jempol",
+        "slug": "jempol-0538"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0538",
+        "level": 2,
+        "name": {
+          "local": "Jempol",
+          "en": "Jempol",
+          "slug": "jempol-0538"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.833",
+      "lon": "102.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0538-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN ROMPIN",
+      "en": "PEKAN ROMPIN",
+      "slug": "pekan-rompin-0538-004"
+    },
+    "code": {
+      "id": "0538-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0538",
+      "level": 2,
+      "name": {
+        "local": "Jempol",
+        "en": "Jempol",
+        "slug": "jempol-0538"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0538",
+        "level": 2,
+        "name": {
+          "local": "Jempol",
+          "en": "Jempol",
+          "slug": "jempol-0538"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.705",
+      "lon": "102.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0538-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SERTING TENGAH",
+      "en": "PEKAN SERTING TENGAH",
+      "slug": "pekan-serting-tengah-0538-007"
+    },
+    "code": {
+      "id": "0538-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0538",
+      "level": 2,
+      "name": {
+        "local": "Jempol",
+        "en": "Jempol",
+        "slug": "jempol-0538"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0538",
+        "level": 2,
+        "name": {
+          "local": "Jempol",
+          "en": "Jempol",
+          "slug": "jempol-0538"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.853",
+      "lon": "102.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0538-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SERTING HILIR",
+      "en": "SERTING HILIR",
+      "slug": "serting-hilir-0538-012"
+    },
+    "code": {
+      "id": "0538-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0538",
+      "level": 2,
+      "name": {
+        "local": "Jempol",
+        "en": "Jempol",
+        "slug": "jempol-0538"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0538",
+        "level": 2,
+        "name": {
+          "local": "Jempol",
+          "en": "Jempol",
+          "slug": "jempol-0538"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.925",
+      "lon": "102.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0538-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SERTING ULU",
+      "en": "SERTING ULU",
+      "slug": "serting-ulu-0538-011"
+    },
+    "code": {
+      "id": "0538-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0538",
+      "level": 2,
+      "name": {
+        "local": "Jempol",
+        "en": "Jempol",
+        "slug": "jempol-0538"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0538",
+        "level": 2,
+        "name": {
+          "local": "Jempol",
+          "en": "Jempol",
+          "slug": "jempol-0538"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.927",
+      "lon": "102.339"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

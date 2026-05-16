@@ -1,0 +1,326 @@
+[
+  {
+    "id": "13140-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "AKAH LAND DISTRICT",
+      "en": "AKAH LAND DISTRICT",
+      "slug": "akah-land-district-13140-004"
+    },
+    "code": {
+      "id": "13140-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13140",
+      "level": 2,
+      "name": {
+        "local": "Telang Usan",
+        "en": "Telang Usan",
+        "slug": "telang-usan-13140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13140",
+        "level": 2,
+        "name": {
+          "local": "Telang Usan",
+          "en": "Telang Usan",
+          "slug": "telang-usan-13140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.353",
+      "lon": "114.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13140-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "LONG AKAH TOWN DISTRICT",
+      "en": "LONG AKAH TOWN DISTRICT",
+      "slug": "long-akah-town-district-13140-005"
+    },
+    "code": {
+      "id": "13140-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "13140",
+      "level": 2,
+      "name": {
+        "local": "Telang Usan",
+        "en": "Telang Usan",
+        "slug": "telang-usan-13140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13140",
+        "level": 2,
+        "name": {
+          "local": "Telang Usan",
+          "en": "Telang Usan",
+          "slug": "telang-usan-13140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.315",
+      "lon": "114.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13140-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "LONG LAMA TOWN DISTRICT",
+      "en": "LONG LAMA TOWN DISTRICT",
+      "slug": "long-lama-town-district-13140-002"
+    },
+    "code": {
+      "id": "13140-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13140",
+      "level": 2,
+      "name": {
+        "local": "Telang Usan",
+        "en": "Telang Usan",
+        "slug": "telang-usan-13140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13140",
+        "level": 2,
+        "name": {
+          "local": "Telang Usan",
+          "en": "Telang Usan",
+          "slug": "telang-usan-13140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.763",
+      "lon": "114.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13140-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PATAH LAND DISTRICT",
+      "en": "PATAH LAND DISTRICT",
+      "slug": "patah-land-district-13140-001"
+    },
+    "code": {
+      "id": "13140-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13140",
+      "level": 2,
+      "name": {
+        "local": "Telang Usan",
+        "en": "Telang Usan",
+        "slug": "telang-usan-13140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13140",
+        "level": 2,
+        "name": {
+          "local": "Telang Usan",
+          "en": "Telang Usan",
+          "slug": "telang-usan-13140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.604",
+      "lon": "114.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13140-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SILAT LAND DISTRICT",
+      "en": "SILAT LAND DISTRICT",
+      "slug": "silat-land-district-13140-006"
+    },
+    "code": {
+      "id": "13140-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "13140",
+      "level": 2,
+      "name": {
+        "local": "Telang Usan",
+        "en": "Telang Usan",
+        "slug": "telang-usan-13140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13140",
+        "level": 2,
+        "name": {
+          "local": "Telang Usan",
+          "en": "Telang Usan",
+          "slug": "telang-usan-13140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.889",
+      "lon": "114.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13140-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "TELANG USANG LAND DISTRICT",
+      "en": "TELANG USANG LAND DISTRICT",
+      "slug": "telang-usang-land-district-13140-003"
+    },
+    "code": {
+      "id": "13140-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13140",
+      "level": 2,
+      "name": {
+        "local": "Telang Usan",
+        "en": "Telang Usan",
+        "slug": "telang-usan-13140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13140",
+        "level": 2,
+        "name": {
+          "local": "Telang Usan",
+          "en": "Telang Usan",
+          "slug": "telang-usan-13140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.673",
+      "lon": "114.437"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,2108 @@
+[
+  {
+    "id": "0436-038",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM ALAI",
+      "en": "ALAI",
+      "slug": "alai-0436-038"
+    },
+    "code": {
+      "id": "0436-038",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.179",
+      "lon": "102.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM AYER MOLEK",
+      "en": "AYER MOLEK",
+      "slug": "ayer-molek-0436-015"
+    },
+    "code": {
+      "id": "0436-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.223",
+      "lon": "102.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-030",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BACHANG",
+      "en": "BACHANG",
+      "slug": "bachang-0436-030"
+    },
+    "code": {
+      "id": "0436-030",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.234",
+      "lon": "102.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-027",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BALAI PANJANG",
+      "en": "BALAI PANJANG",
+      "slug": "balai-panjang-0436-027"
+    },
+    "code": {
+      "id": "0436-027",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.224",
+      "lon": "102.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-031",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BUKIT BARU",
+      "en": "BANDAR BUKIT BARU",
+      "slug": "bandar-bukit-baru-0436-031"
+    },
+    "code": {
+      "id": "0436-031",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.221",
+      "lon": "102.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR MELAKA",
+      "en": "BANDAR MELAKA",
+      "slug": "bandar-melaka-0436-004"
+    },
+    "code": {
+      "id": "0436-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.198",
+      "lon": "102.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-028",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BATU BERENDAM",
+      "en": "BATU BERENDAM",
+      "slug": "batu-berendam-0436-028"
+    },
+    "code": {
+      "id": "0436-028",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.258",
+      "lon": "102.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-022",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BERTAM",
+      "en": "BERTAM",
+      "slug": "bertam-0436-022"
+    },
+    "code": {
+      "id": "0436-022",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.246",
+      "lon": "102.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-025",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BUKIT BARU",
+      "en": "BUKIT BARU",
+      "slug": "bukit-baru-0436-025"
+    },
+    "code": {
+      "id": "0436-025",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.237",
+      "lon": "102.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-034",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BUKIT KATIL",
+      "en": "BUKIT KATIL",
+      "slug": "bukit-katil-0436-034"
+    },
+    "code": {
+      "id": "0436-034",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.252",
+      "lon": "102.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-035",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BUKIT LINTANG",
+      "en": "BUKIT LINTANG",
+      "slug": "bukit-lintang-0436-035"
+    },
+    "code": {
+      "id": "0436-035",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.199",
+      "lon": "102.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BUKIT PIATU",
+      "en": "BUKIT PIATU",
+      "slug": "bukit-piatu-0436-005"
+    },
+    "code": {
+      "id": "0436-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.21",
+      "lon": "102.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-021",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BUKIT RAMBAI",
+      "en": "BUKIT RAMBAI",
+      "slug": "bukit-rambai-0436-021"
+    },
+    "code": {
+      "id": "0436-021",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.241",
+      "lon": "102.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM CHENG",
+      "en": "CHENG",
+      "slug": "cheng-0436-002"
+    },
+    "code": {
+      "id": "0436-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.272",
+      "lon": "102.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-023",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM DUYONG",
+      "en": "DUYONG",
+      "slug": "duyong-0436-023"
+    },
+    "code": {
+      "id": "0436-023",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.205",
+      "lon": "102.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KANDANG",
+      "en": "KANDANG",
+      "slug": "kandang-0436-016"
+    },
+    "code": {
+      "id": "0436-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.189",
+      "lon": "102.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-026",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KLEBANG BESAR",
+      "en": "KLEBANG BESAR",
+      "slug": "klebang-besar-0436-026"
+    },
+    "code": {
+      "id": "0436-026",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.225",
+      "lon": "102.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-036",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KLEBANG KECHIL",
+      "en": "KLEBANG KECHIL",
+      "slug": "klebang-kechil-0436-036"
+    },
+    "code": {
+      "id": "0436-036",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.213",
+      "lon": "102.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KRUBONG",
+      "en": "KRUBONG",
+      "slug": "krubong-0436-001"
+    },
+    "code": {
+      "id": "0436-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.307",
+      "lon": "102.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PADANG SEMABOK",
+      "en": "PADANG SEMABOK",
+      "slug": "padang-semabok-0436-006"
+    },
+    "code": {
+      "id": "0436-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.2",
+      "lon": "102.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PADANG TEMU",
+      "en": "PADANG TEMU",
+      "slug": "padang-temu-0436-010"
+    },
+    "code": {
+      "id": "0436-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.184",
+      "lon": "102.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PAYA RUMPUT",
+      "en": "PAYA RUMPUT",
+      "slug": "paya-rumput-0436-003"
+    },
+    "code": {
+      "id": "0436-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.295",
+      "lon": "102.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN AYER MOLEK",
+      "en": "PEKAN AYER MOLEK",
+      "slug": "pekan-ayer-molek-0436-008"
+    },
+    "code": {
+      "id": "0436-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.204",
+      "lon": "102.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BATU BERENDAM",
+      "en": "PEKAN BATU BERENDAM",
+      "slug": "pekan-batu-berendam-0436-007"
+    },
+    "code": {
+      "id": "0436-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.251",
+      "lon": "102.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-019",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BUKIT RAMBAI",
+      "en": "PEKAN BUKIT RAMBAI",
+      "slug": "pekan-bukit-rambai-0436-019"
+    },
+    "code": {
+      "id": "0436-019",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.256",
+      "lon": "102.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KANDANG",
+      "en": "PEKAN KANDANG",
+      "slug": "pekan-kandang-0436-013"
+    },
+    "code": {
+      "id": "0436-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.185",
+      "lon": "102.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KLEBANG",
+      "en": "PEKAN KLEBANG",
+      "slug": "pekan-klebang-0436-009"
+    },
+    "code": {
+      "id": "0436-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.215",
+      "lon": "102.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-029",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PAYA RUMPUT",
+      "en": "PEKAN PAYA RUMPUT",
+      "slug": "pekan-paya-rumput-0436-029"
+    },
+    "code": {
+      "id": "0436-029",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.295",
+      "lon": "102.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-032",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SUNGAI UDANG",
+      "en": "PEKAN SUNGAI UDANG",
+      "slug": "pekan-sungai-udang-0436-032"
+    },
+    "code": {
+      "id": "0436-032",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.284",
+      "lon": "102.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-018",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TANGGA BATU",
+      "en": "PEKAN TANGGA BATU",
+      "slug": "pekan-tangga-batu-0436-018"
+    },
+    "code": {
+      "id": "0436-018",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.248",
+      "lon": "102.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TANJONG KLING",
+      "en": "PEKAN TANJONG KLING",
+      "slug": "pekan-tanjong-kling-0436-014"
+    },
+    "code": {
+      "id": "0436-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.221",
+      "lon": "102.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-039",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PERNU",
+      "en": "PERNU",
+      "slug": "pernu-xx-900"
+    },
+    "code": {
+      "id": "0436-039",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.153",
+      "lon": "102.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-017",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PRINGGIT",
+      "en": "PRINGGIT",
+      "slug": "pringgit-0436-017"
+    },
+    "code": {
+      "id": "0436-017",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.221",
+      "lon": "102.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SEMABOK",
+      "en": "SEMABOK",
+      "slug": "semabok-0436-011"
+    },
+    "code": {
+      "id": "0436-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.2",
+      "lon": "102.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-024",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SUNGEI UDANG",
+      "en": "SUNGEI UDANG",
+      "slug": "sungei-udang-0436-024"
+    },
+    "code": {
+      "id": "0436-024",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.282",
+      "lon": "102.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-033",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TANGGA BATU",
+      "en": "TANGGA BATU",
+      "slug": "tangga-batu-0436-033"
+    },
+    "code": {
+      "id": "0436-033",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.255",
+      "lon": "102.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-020",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TANJONG MINYAK",
+      "en": "TANJONG MINYAK",
+      "slug": "tanjong-minyak-0436-020"
+    },
+    "code": {
+      "id": "0436-020",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.289",
+      "lon": "102.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TELOK MAS",
+      "en": "TELOK MAS",
+      "slug": "telok-mas-0436-012"
+    },
+    "code": {
+      "id": "0436-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.172",
+      "lon": "102.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436-037",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM UJONG PASIR",
+      "en": "UJONG PASIR",
+      "slug": "ujong-pasir-0436-037"
+    },
+    "code": {
+      "id": "0436-037",
+      "iso": null
+    },
+    "parent": {
+      "id": "0436",
+      "level": 2,
+      "name": {
+        "local": "Melaka Tengah",
+        "en": "Melaka Tengah",
+        "slug": "melaka-tengah-0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0436",
+        "level": 2,
+        "name": {
+          "local": "Melaka Tengah",
+          "en": "Melaka Tengah",
+          "slug": "melaka-tengah-0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.192",
+      "lon": "102.272"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

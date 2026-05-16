@@ -1,0 +1,47 @@
+{
+  "id": "13102",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bau",
+    "en": "Bau",
+    "slug": "bau-13102"
+  },
+  "code": {
+    "id": "13102",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "Sarawak",
+      "en": "Sarawak",
+      "slug": "sarawak-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.375",
+    "lon": "110.089"
+  },
+  "metadata": {},
+  "source": {}
+}

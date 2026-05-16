@@ -1,0 +1,596 @@
+[
+  {
+    "id": "0222-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR GUAR CHEMPEDAK",
+      "en": "BANDAR GUAR CHEMPEDAK",
+      "slug": "bandar-guar-chempedak-0222-002"
+    },
+    "code": {
+      "id": "0222-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0222",
+      "level": 2,
+      "name": {
+        "local": "Yan",
+        "en": "Yan",
+        "slug": "yan-0222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0222",
+        "level": 2,
+        "name": {
+          "local": "Yan",
+          "en": "Yan",
+          "slug": "yan-0222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.864",
+      "lon": "100.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0222-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR YAN",
+      "en": "BANDAR YAN",
+      "slug": "bandar-yan-0222-003"
+    },
+    "code": {
+      "id": "0222-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0222",
+      "level": 2,
+      "name": {
+        "local": "Yan",
+        "en": "Yan",
+        "slug": "yan-0222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0222",
+        "level": 2,
+        "name": {
+          "local": "Yan",
+          "en": "Yan",
+          "slug": "yan-0222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.809",
+      "lon": "100.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0222-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM DULANG",
+      "en": "DULANG",
+      "slug": "dulang-0222-005"
+    },
+    "code": {
+      "id": "0222-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0222",
+      "level": 2,
+      "name": {
+        "local": "Yan",
+        "en": "Yan",
+        "slug": "yan-0222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0222",
+        "level": 2,
+        "name": {
+          "local": "Yan",
+          "en": "Yan",
+          "slug": "yan-0222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.849",
+      "lon": "100.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0222-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SIMPANG TIGA SUNGAI LIMAU",
+      "en": "PEKAN SIMPANG TIGA SUNGAI LIMAU",
+      "slug": "pekan-simpang-tiga-sungai-limau-0222-010"
+    },
+    "code": {
+      "id": "0222-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0222",
+      "level": 2,
+      "name": {
+        "local": "Yan",
+        "en": "Yan",
+        "slug": "yan-0222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0222",
+        "level": 2,
+        "name": {
+          "local": "Yan",
+          "en": "Yan",
+          "slug": "yan-0222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.915",
+      "lon": "100.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0222-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SINGKIR",
+      "en": "PEKAN SINGKIR",
+      "slug": "pekan-singkir-0222-004"
+    },
+    "code": {
+      "id": "0222-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0222",
+      "level": 2,
+      "name": {
+        "local": "Yan",
+        "en": "Yan",
+        "slug": "yan-0222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0222",
+        "level": 2,
+        "name": {
+          "local": "Yan",
+          "en": "Yan",
+          "slug": "yan-0222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.732",
+      "lon": "100.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0222-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SUNGAI LIMAU DALAM",
+      "en": "PEKAN SUNGAI LIMAU DALAM",
+      "slug": "pekan-sungai-limau-dalam-0222-008"
+    },
+    "code": {
+      "id": "0222-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0222",
+      "level": 2,
+      "name": {
+        "local": "Yan",
+        "en": "Yan",
+        "slug": "yan-0222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0222",
+        "level": 2,
+        "name": {
+          "local": "Yan",
+          "en": "Yan",
+          "slug": "yan-0222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.899",
+      "lon": "100.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0222-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TEROI",
+      "en": "PEKAN TEROI",
+      "slug": "pekan-teroi-0222-001"
+    },
+    "code": {
+      "id": "0222-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0222",
+      "level": 2,
+      "name": {
+        "local": "Yan",
+        "en": "Yan",
+        "slug": "yan-0222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0222",
+        "level": 2,
+        "name": {
+          "local": "Yan",
+          "en": "Yan",
+          "slug": "yan-0222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.849",
+      "lon": "100.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0222-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SALA BESAR",
+      "en": "SALA BESAR",
+      "slug": "sala-besar-0222-011"
+    },
+    "code": {
+      "id": "0222-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0222",
+      "level": 2,
+      "name": {
+        "local": "Yan",
+        "en": "Yan",
+        "slug": "yan-0222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0222",
+        "level": 2,
+        "name": {
+          "local": "Yan",
+          "en": "Yan",
+          "slug": "yan-0222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.943",
+      "lon": "100.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0222-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SINGKIR",
+      "en": "SINGKIR",
+      "slug": "singkir-0222-009"
+    },
+    "code": {
+      "id": "0222-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0222",
+      "level": 2,
+      "name": {
+        "local": "Yan",
+        "en": "Yan",
+        "slug": "yan-0222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0222",
+        "level": 2,
+        "name": {
+          "local": "Yan",
+          "en": "Yan",
+          "slug": "yan-0222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.74",
+      "lon": "100.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0222-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SUNGAI DAUN",
+      "en": "SUNGAI DAUN",
+      "slug": "sungai-daun-0222-006"
+    },
+    "code": {
+      "id": "0222-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0222",
+      "level": 2,
+      "name": {
+        "local": "Yan",
+        "en": "Yan",
+        "slug": "yan-0222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0222",
+        "level": 2,
+        "name": {
+          "local": "Yan",
+          "en": "Yan",
+          "slug": "yan-0222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.899",
+      "lon": "100.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0222-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM YAN",
+      "en": "YAN",
+      "slug": "yan-0222-007"
+    },
+    "code": {
+      "id": "0222-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0222",
+      "level": 2,
+      "name": {
+        "local": "Yan",
+        "en": "Yan",
+        "slug": "yan-0222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0222",
+        "level": 2,
+        "name": {
+          "local": "Yan",
+          "en": "Yan",
+          "slug": "yan-0222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.804",
+      "lon": "100.394"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

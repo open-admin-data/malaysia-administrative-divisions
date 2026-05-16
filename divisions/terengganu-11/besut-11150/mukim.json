@@ -1,0 +1,974 @@
+[
+  {
+    "id": "11150-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BUKIT KENAK",
+      "en": "BUKIT KENAK",
+      "slug": "bukit-kenak-11150-015"
+    },
+    "code": {
+      "id": "11150-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "11150",
+      "level": 2,
+      "name": {
+        "local": "Besut",
+        "en": "Besut",
+        "slug": "besut-11150"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11150",
+        "level": 2,
+        "name": {
+          "local": "Besut",
+          "en": "Besut",
+          "slug": "besut-11150"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.729",
+      "lon": "102.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11150-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BUKIT PETERI",
+      "en": "BUKIT PETERI",
+      "slug": "bukit-peteri-11150-006"
+    },
+    "code": {
+      "id": "11150-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "11150",
+      "level": 2,
+      "name": {
+        "local": "Besut",
+        "en": "Besut",
+        "slug": "besut-11150"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11150",
+        "level": 2,
+        "name": {
+          "local": "Besut",
+          "en": "Besut",
+          "slug": "besut-11150"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.769",
+      "lon": "102.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11150-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM HULU BESUT",
+      "en": "HULU BESUT",
+      "slug": "hulu-besut-11150-004"
+    },
+    "code": {
+      "id": "11150-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "11150",
+      "level": 2,
+      "name": {
+        "local": "Besut",
+        "en": "Besut",
+        "slug": "besut-11150"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11150",
+        "level": 2,
+        "name": {
+          "local": "Besut",
+          "en": "Besut",
+          "slug": "besut-11150"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.46",
+      "lon": "102.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11150-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KAMPUNG RAJA",
+      "en": "KAMPUNG RAJA",
+      "slug": "kampung-raja-11150-011"
+    },
+    "code": {
+      "id": "11150-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "11150",
+      "level": 2,
+      "name": {
+        "local": "Besut",
+        "en": "Besut",
+        "slug": "besut-11150"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11150",
+        "level": 2,
+        "name": {
+          "local": "Besut",
+          "en": "Besut",
+          "slug": "besut-11150"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.786",
+      "lon": "102.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11150-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KELUANG",
+      "en": "KELUANG",
+      "slug": "keluang-11150-007"
+    },
+    "code": {
+      "id": "11150-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "11150",
+      "level": 2,
+      "name": {
+        "local": "Besut",
+        "en": "Besut",
+        "slug": "besut-11150"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11150",
+        "level": 2,
+        "name": {
+          "local": "Besut",
+          "en": "Besut",
+          "slug": "besut-11150"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.797",
+      "lon": "102.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11150-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KERANDANG",
+      "en": "KERANDANG",
+      "slug": "kerandang-11150-002"
+    },
+    "code": {
+      "id": "11150-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "11150",
+      "level": 2,
+      "name": {
+        "local": "Besut",
+        "en": "Besut",
+        "slug": "besut-11150"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11150",
+        "level": 2,
+        "name": {
+          "local": "Besut",
+          "en": "Besut",
+          "slug": "besut-11150"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.717",
+      "lon": "102.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11150-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUALA BESUT",
+      "en": "KUALA BESUT",
+      "slug": "kuala-besut-11150-001"
+    },
+    "code": {
+      "id": "11150-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "11150",
+      "level": 2,
+      "name": {
+        "local": "Besut",
+        "en": "Besut",
+        "slug": "besut-11150"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11150",
+        "level": 2,
+        "name": {
+          "local": "Besut",
+          "en": "Besut",
+          "slug": "besut-11150"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.819",
+      "lon": "102.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11150-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM LUBUK KAWAH",
+      "en": "LUBUK KAWAH",
+      "slug": "lubuk-kawah-11150-012"
+    },
+    "code": {
+      "id": "11150-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "11150",
+      "level": 2,
+      "name": {
+        "local": "Besut",
+        "en": "Besut",
+        "slug": "besut-11150"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11150",
+        "level": 2,
+        "name": {
+          "local": "Besut",
+          "en": "Besut",
+          "slug": "besut-11150"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.694",
+      "lon": "102.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11150-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PANGKALAN NANGKA",
+      "en": "PANGKALAN NANGKA",
+      "slug": "pangkalan-nangka-11150-005"
+    },
+    "code": {
+      "id": "11150-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "11150",
+      "level": 2,
+      "name": {
+        "local": "Besut",
+        "en": "Besut",
+        "slug": "besut-11150"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11150",
+        "level": 2,
+        "name": {
+          "local": "Besut",
+          "en": "Besut",
+          "slug": "besut-11150"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.807",
+      "lon": "102.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11150-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PASIR AKAR",
+      "en": "PASIR AKAR",
+      "slug": "pasir-akar-11150-014"
+    },
+    "code": {
+      "id": "11150-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "11150",
+      "level": 2,
+      "name": {
+        "local": "Besut",
+        "en": "Besut",
+        "slug": "besut-11150"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11150",
+        "level": 2,
+        "name": {
+          "local": "Besut",
+          "en": "Besut",
+          "slug": "besut-11150"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.639",
+      "lon": "102.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11150-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN JERTIH",
+      "en": "PEKAN JERTIH",
+      "slug": "pekan-jertih-11150-003"
+    },
+    "code": {
+      "id": "11150-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "11150",
+      "level": 2,
+      "name": {
+        "local": "Besut",
+        "en": "Besut",
+        "slug": "besut-11150"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11150",
+        "level": 2,
+        "name": {
+          "local": "Besut",
+          "en": "Besut",
+          "slug": "besut-11150"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.737",
+      "lon": "102.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11150-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KAMPUNG RAJA",
+      "en": "PEKAN KAMPUNG RAJA",
+      "slug": "pekan-kampung-raja-11150-013"
+    },
+    "code": {
+      "id": "11150-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "11150",
+      "level": 2,
+      "name": {
+        "local": "Besut",
+        "en": "Besut",
+        "slug": "besut-11150"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11150",
+        "level": 2,
+        "name": {
+          "local": "Besut",
+          "en": "Besut",
+          "slug": "besut-11150"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.795",
+      "lon": "102.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11150-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KUALA BESUT",
+      "en": "PEKAN KUALA BESUT",
+      "slug": "pekan-kuala-besut-11150-009"
+    },
+    "code": {
+      "id": "11150-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "11150",
+      "level": 2,
+      "name": {
+        "local": "Besut",
+        "en": "Besut",
+        "slug": "besut-11150"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11150",
+        "level": 2,
+        "name": {
+          "local": "Besut",
+          "en": "Besut",
+          "slug": "besut-11150"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.83",
+      "lon": "102.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11150-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PELAGAT",
+      "en": "PELAGAT",
+      "slug": "pelagat-11150-010"
+    },
+    "code": {
+      "id": "11150-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "11150",
+      "level": 2,
+      "name": {
+        "local": "Besut",
+        "en": "Besut",
+        "slug": "besut-11150"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11150",
+        "level": 2,
+        "name": {
+          "local": "Besut",
+          "en": "Besut",
+          "slug": "besut-11150"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.699",
+      "lon": "102.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11150-018",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PULAU PERHENTIAN",
+      "en": "PULAU PERHENTIAN",
+      "slug": "pulau-perhentian-xx-1788"
+    },
+    "code": {
+      "id": "11150-018",
+      "iso": null
+    },
+    "parent": {
+      "id": "11150",
+      "level": 2,
+      "name": {
+        "local": "Besut",
+        "en": "Besut",
+        "slug": "besut-11150"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11150",
+        "level": 2,
+        "name": {
+          "local": "Besut",
+          "en": "Besut",
+          "slug": "besut-11150"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.921",
+      "lon": "102.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11150-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TASIK",
+      "en": "TASIK",
+      "slug": "tasik-11150-016"
+    },
+    "code": {
+      "id": "11150-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "11150",
+      "level": 2,
+      "name": {
+        "local": "Besut",
+        "en": "Besut",
+        "slug": "besut-11150"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11150",
+        "level": 2,
+        "name": {
+          "local": "Besut",
+          "en": "Besut",
+          "slug": "besut-11150"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.691",
+      "lon": "102.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11150-017",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TEMBILA",
+      "en": "TEMBILA",
+      "slug": "tembila-11150-017"
+    },
+    "code": {
+      "id": "11150-017",
+      "iso": null
+    },
+    "parent": {
+      "id": "11150",
+      "level": 2,
+      "name": {
+        "local": "Besut",
+        "en": "Besut",
+        "slug": "besut-11150"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11150",
+        "level": 2,
+        "name": {
+          "local": "Besut",
+          "en": "Besut",
+          "slug": "besut-11150"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.743",
+      "lon": "102.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11150-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TENANG",
+      "en": "TENANG",
+      "slug": "tenang-11150-008"
+    },
+    "code": {
+      "id": "11150-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "11150",
+      "level": 2,
+      "name": {
+        "local": "Besut",
+        "en": "Besut",
+        "slug": "besut-11150"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11150",
+        "level": 2,
+        "name": {
+          "local": "Besut",
+          "en": "Besut",
+          "slug": "besut-11150"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.583",
+      "lon": "102.495"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

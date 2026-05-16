@@ -1,0 +1,814 @@
+# Perak — Malaysia Administrative Divisions
+
+> 13 districts, 185 subdistricts
+> Code: 08
+> Coordinates: 4.711, 100.922
+> Last updated: 2026-05-16. License: CC-BY-4.0.
+
+## Districts
+
+### Bagan Datuk
+
+Code: 0855, Coordinates: 3.851, 100.991
+Subdistricts: 10
+
+#### MUKIM BAGAN DATUK (BAGAN DATUK)
+
+Code: 0855-002, Coordinates: 3.97, 100.782
+
+#### PEKAN BAGAN DATUK
+
+Code: 0855-010, Coordinates: 3.991, 100.786
+
+#### PEKAN BATU DUA PULOH
+
+Code: 0855-008, Coordinates: 3.891, 100.816
+
+#### PEKAN HUTAN MELINTANG
+
+Code: 0855-006, Coordinates: 3.875, 100.934
+
+#### PEKAN JENDARATA
+
+Code: 0855-001, Coordinates: 3.911, 100.945
+
+#### PEKAN KAMPONG SUNGAI HAJI MOHAMED
+
+Code: 0855-007, Coordinates: 3.903, 100.783
+
+#### PEKAN SELEKOH
+
+Code: 0855-009, Coordinates: 3.908, 100.772
+
+#### PEKAN SUNGAI SUMUN
+
+Code: 0855-005, Coordinates: 3.868, 100.861
+
+#### MUKIM RUNGKUP (RUNGKUP)
+
+Code: 0855-004, Coordinates: 3.884, 100.756
+
+#### MUKIM TELUK BARU (TELUK BARU)
+
+Code: 0855-003, Coordinates: 3.963, 100.93
+
+### Batang Padang
+
+Code: 0856, Coordinates: 4.241, 101.36
+Subdistricts: 16
+
+#### BANDAR BIDOR
+
+Code: 0856-007, Coordinates: 4.112, 101.287
+
+#### BANDAR CHENDERIANG
+
+Code: 0856-008, Coordinates: 4.264, 101.238
+
+#### BANDAR SUNGKAI
+
+Code: 0856-009, Coordinates: 3.995, 101.311
+
+#### BANDAR TAPAH
+
+Code: 0856-015, Coordinates: 4.198, 101.259
+
+#### BANDAR TEMOH
+
+Code: 0856-010, Coordinates: 4.243, 101.195
+
+#### MUKIM BATANG PADANG (BATANG PADANG)
+
+Code: 0856-004, Coordinates: 4.287, 101.339
+
+#### MUKIM BIDOR (BIDOR)
+
+Code: 0856-012, Coordinates: 4.08, 101.274
+
+#### MUKIM CHENDERIANG (CHENDERIANG)
+
+Code: 0856-006, Coordinates: 4.233, 101.163
+
+#### PEKAN AYER KUNING
+
+Code: 0856-013, Coordinates: 4.189, 101.142
+
+#### PEKAN BANIR
+
+Code: 0856-016, Coordinates: 4.208, 101.18
+
+#### PEKAN BIKAM
+
+Code: 0856-005, Coordinates: 4.043, 101.298
+
+#### PEKAN SUNGAI LESONG
+
+Code: 0856-002, Coordinates: 4.235, 101.145
+
+#### PEKAN TAPAH ROAD
+
+Code: 0856-011, Coordinates: 4.173, 101.192
+
+#### PEKAN TEMOH STATION
+
+Code: 0856-014, Coordinates: 4.24, 101.177
+
+#### MUKIM SABAK (SABAK)
+
+Code: 0856-001, Coordinates: 4.338, 101.27
+
+#### MUKIM SUNGKAI (SUNGKAI)
+
+Code: 0856-003, Coordinates: 4.031, 101.385
+
+### Hilir Perak
+
+Code: 0857, Coordinates: 4.041, 100.994
+Subdistricts: 10
+
+#### BANDAR TELUK INTAN
+
+Code: 0857-009, Coordinates: 4.015, 101.021
+
+#### MUKIM CHANGKAT JONG (CHANGKAT JONG)
+
+Code: 0857-001, Coordinates: 4.025, 101.143
+
+#### MUKIM DURIAN SEBATANG (DURIAN SEBATANG)
+
+Code: 0857-006, Coordinates: 3.988, 101.095
+
+#### MUKIM LABU KUBONG (LABU KUBONG)
+
+Code: 0857-004, Coordinates: 4.134, 101.1
+
+#### PEKAN BATAK RABIT
+
+Code: 0857-003, Coordinates: 3.996, 101.006
+
+#### PEKAN CHIKUS
+
+Code: 0857-007, Coordinates: 4.076, 101.125
+
+#### PEKAN DEGONG
+
+Code: 0857-002, Coordinates: 4.095, 101.138
+
+#### PEKAN LANGKAP
+
+Code: 0857-005, Coordinates: 4.073, 101.148
+
+#### MUKIM SUNGAI DURIAN (SUNGAI DURIAN)
+
+Code: 0857-008, Coordinates: 4.011, 100.938
+
+#### MUKIM SUNGAI MANIK (SUNGAI MANIK)
+
+Code: 0857-010, Coordinates: 4.065, 101.103
+
+### Hulu Perak
+
+Code: 0858, Coordinates: 5.374, 101.278
+Subdistricts: 20
+
+#### BANDAR GERIK
+
+Code: 0858-003, Coordinates: 5.429, 101.126
+
+#### BANDAR KELIAN INTAN
+
+Code: 0858-009, Coordinates: 5.636, 101.022
+
+#### BANDAR LAWIN
+
+Code: 0858-014, Coordinates: 5.298, 101.057
+
+#### BANDAR LENGGONG
+
+Code: 0858-010, Coordinates: 5.108, 100.968
+
+#### BANDAR PENGKALAN HULU
+
+Code: 0858-007, Coordinates: 5.706, 100.999
+
+#### MUKIM BELUKAR SEMANG (BELUKAR SEMANG)
+
+Code: 0858-005, Coordinates: 5.621, 100.953
+
+#### MUKIM BELUM (BELUM)
+
+Code: 0858-015, Coordinates: 5.835, 101.597
+
+#### MUKIM DURIAN PIPIT (DURIAN PIPIT)
+
+Code: 0858-017, Coordinates: 5.005, 100.951
+
+#### MUKIM GERIK (GERIK)
+
+Code: 0858-011, Coordinates: 5.413, 101.176
+
+#### MUKIM JERAM (JERAM)
+
+Code: 0858-001, Coordinates: 5.481, 101.235
+
+#### MUKIM KENERING (KENERING)
+
+Code: 0858-006, Coordinates: 5.398, 100.988
+
+#### MUKIM KERUNAI (KERUNAI)
+
+Code: 0858-016, Coordinates: 5.571, 101.161
+
+#### MUKIM KOTA (KOTA)
+
+Code: 0858-020, Coordinates: 5.813, 101.225
+
+#### MUKIM LENGGONG (LENGGONG)
+
+Code: 0858-002, Coordinates: 5.123, 101.085
+
+#### PEKAN RANTAU PANJANG
+
+Code: 0858-008, Coordinates: 5.812, 101.645
+
+#### MUKIM PENGKALAN HULU (PENGKALAN HULU)
+
+Code: 0858-004, Coordinates: 5.713, 101.028
+
+#### MUKIM RANTAU PANJANG (RANTAU PANJANG)
+
+Code: 0858-019, Coordinates: 5.782, 101.195
+
+#### MUKIM SERDANG (SERDANG)
+
+Code: 0858-013, Coordinates: 5.368, 100.985
+
+#### MUKIM TEMELONG (TEMELONG)
+
+Code: 0858-018, Coordinates: 5.066, 100.973
+
+#### MUKIM TEMENGOR (TEMENGOR)
+
+Code: 0858-012, Coordinates: 5.425, 101.586
+
+### Kampar
+
+Code: 0859, Coordinates: 4.412, 101.24
+Subdistricts: 6
+
+#### BANDAR GOPENG
+
+Code: 0859-001, Coordinates: 4.474, 101.165
+
+#### BANDAR KAMPAR
+
+Code: 0859-005, Coordinates: 4.309, 101.153
+
+#### MUKIM KAMPAR (KAMPAR)
+
+Code: 0859-004, Coordinates: 4.387, 101.221
+
+#### PEKAN KOTA BAHARU
+
+Code: 0859-006, Coordinates: 4.399, 101.078
+
+#### PEKAN MALIM NAWAR
+
+Code: 0859-002, Coordinates: 4.351, 101.116
+
+#### MUKIM TEJA (TEJA)
+
+Code: 0859-003, Coordinates: 4.453, 101.216
+
+### Kerian
+
+Code: 0860, Coordinates: 5.029, 100.545
+Subdistricts: 18
+
+#### MUKIM BAGAN SERAI (BAGAN SERAI)
+
+Code: 0860-011, Coordinates: 5.05, 100.556
+
+#### MUKIM BAGAN TIANG (BAGAN TIANG)
+
+Code: 0860-014, Coordinates: 5.103, 100.414
+
+#### BANDAR BAGAN SERAI
+
+Code: 0860-005, Coordinates: 5.01, 100.535
+
+#### BANDAR KUALA KURAU
+
+Code: 0860-003, Coordinates: 5.018, 100.433
+
+#### BANDAR PARIT BUNTAR
+
+Code: 0860-015, Coordinates: 5.13, 100.491
+
+#### MUKIM BERIAH (BERIAH)
+
+Code: 0860-002, Coordinates: 5.093, 100.607
+
+#### MUKIM GUNONG SEMANGGOL (GUNONG SEMANGGOL)
+
+Code: 0860-016, Coordinates: 4.989, 100.678
+
+#### MUKIM JEBONG (JEBONG)
+
+Code: 0860-007, Coordinates: 4.841, 100.613
+
+#### MUKIM KUALA KURAU (KUALA KURAU)
+
+Code: 0860-018, Coordinates: 4.989, 100.458
+
+#### MUKIM PARIT BUNTAR (PARIT BUNTAR)
+
+Code: 0860-017, Coordinates: 5.103, 100.499
+
+#### PEKAN BUKIT MERAH
+
+Code: 0860-013, Coordinates: 5.043, 100.654
+
+#### PEKAN JALAN BARU
+
+Code: 0860-012, Coordinates: 5.068, 100.474
+
+#### PEKAN PONDOK TANJONG
+
+Code: 0860-001, Coordinates: 5.01, 100.731
+
+#### PEKAN SIMPANG LIMA
+
+Code: 0860-009, Coordinates: 5.093, 100.491
+
+#### PEKAN SUNGAI GEDONG
+
+Code: 0860-008, Coordinates: 4.977, 100.603
+
+#### PEKAN TANJONG PIANDANG
+
+Code: 0860-004, Coordinates: 5.075, 100.391
+
+#### MUKIM SELINSING (SELINSING)
+
+Code: 0860-006, Coordinates: 4.896, 100.557
+
+#### MUKIM TANJONG PIANDANG (TANJONG PIANDANG)
+
+Code: 0860-010, Coordinates: 5.061, 100.409
+
+### Kinta
+
+Code: 0861, Coordinates: 4.568, 101.136
+Subdistricts: 20
+
+#### BANDAR BATU GAJAH
+
+Code: 0861-007, Coordinates: 4.471, 101.041
+
+#### BANDAR CHEMOR
+
+Code: 0861-020, Coordinates: 4.719, 101.12
+
+#### BANDAR IPOH (S)
+
+Code: 0861-011, Coordinates: 4.586, 101.08
+
+#### BANDAR IPOH (U)
+
+Code: 0861-002, Coordinates: 4.62, 101.086
+
+#### BANDAR JELAPANG
+
+Code: 0861-014, Coordinates: 4.638, 101.063
+
+#### BANDAR LAHAT
+
+Code: 0861-009, Coordinates: 4.54, 101.036
+
+#### BANDAR MENGLEMBU
+
+Code: 0861-003, Coordinates: 4.565, 101.046
+
+#### BANDAR PAPAN
+
+Code: 0861-012, Coordinates: 4.516, 101.012
+
+#### BANDAR PUSING
+
+Code: 0861-008, Coordinates: 4.495, 101.01
+
+#### BANDAR SEPUTEH
+
+Code: 0861-018, Coordinates: 4.465, 100.995
+
+#### BANDAR SUNGAI RAYA
+
+Code: 0861-005, Coordinates: 4.52, 101.135
+
+#### BANDAR TAMBUN
+
+Code: 0861-010, Coordinates: 4.61, 101.141
+
+#### BANDAR TANJONG RAMBUTAN
+
+Code: 0861-017, Coordinates: 4.671, 101.157
+
+#### BANDAR TERONOH
+
+Code: 0861-004, Coordinates: 4.422, 100.989
+
+#### MUKIM BELANJA (BELANJA)
+
+Code: 0861-016, Coordinates: 4.476, 100.959
+
+#### MUKIM HULU KINTA (HULU KINTA)
+
+Code: 0861-006, Coordinates: 4.633, 101.207
+
+#### PEKAN KANTHAN
+
+Code: 0861-019, Coordinates: 4.759, 101.118
+
+#### PEKAN SIMPANG PULAI
+
+Code: 0861-001, Coordinates: 4.531, 101.128
+
+#### PEKAN TANJONG TUALANG
+
+Code: 0861-015, Coordinates: 4.326, 101.055
+
+#### MUKIM TANJONG TUALANG (TANJONG TUALANG)
+
+Code: 0861-013, Coordinates: 4.351, 101.041
+
+### Kuala Kangsar
+
+Code: 0862, Coordinates: 4.819, 101.145
+Subdistricts: 17
+
+#### BANDAR KUALA KANGSAR
+
+Code: 0862-006, Coordinates: 4.771, 100.941
+
+#### BANDAR SUNGAI SIPUT
+
+Code: 0862-012, Coordinates: 4.82, 101.072
+
+#### MUKIM CHEGAR GALAH (CHEGAR GALAH)
+
+Code: 0862-011, Coordinates: 4.901, 100.921
+
+#### MUKIM KAMPONG BUAYA (KAMPONG BUAYA)
+
+Code: 0862-004, Coordinates: 4.774, 100.866
+
+#### MUKIM KOTA LAMA KANAN (KOTA LAMA KANAN)
+
+Code: 0862-016, Coordinates: 4.816, 100.984
+
+#### MUKIM KOTA LAMA KIRI (KOTA LAMA KIRI)
+
+Code: 0862-002, Coordinates: 4.852, 100.916
+
+#### MUKIM LUBOK MERBAU (LUBOK MERBAU)
+
+Code: 0862-014, Coordinates: 4.815, 100.894
+
+#### PEKAN GUNONG PONDOK
+
+Code: 0862-015, Coordinates: 4.781, 100.843
+
+#### PEKAN JERLUN
+
+Code: 0862-003, Coordinates: 4.729, 100.909
+
+#### PEKAN KARAI
+
+Code: 0862-009, Coordinates: 4.835, 100.967
+
+#### PEKAN KATI
+
+Code: 0862-013, Coordinates: 4.876, 100.907
+
+#### PEKAN MANONG
+
+Code: 0862-001, Coordinates: 4.594, 100.882
+
+#### PEKAN PADANG RENGAS
+
+Code: 0862-005, Coordinates: 4.776, 100.843
+
+#### MUKIM PULAU KAMIRI (PULAU KAMIRI)
+
+Code: 0862-017, Coordinates: 4.977, 101.155
+
+#### MUKIM SAYUNG (SAYUNG)
+
+Code: 0862-008, Coordinates: 4.75, 100.952
+
+#### MUKIM SENGGANG (SENGGANG)
+
+Code: 0862-007, Coordinates: 4.626, 100.912
+
+#### MUKIM SUNGAI SIPUT (SUNGAI SIPUT)
+
+Code: 0862-010, Coordinates: 4.842, 101.267
+
+### Larut Dan Matang
+
+Code: 0863, Coordinates: 4.806, 100.721
+Subdistricts: 17
+
+#### MUKIM ASAM KUMBANG (ASAM KUMBANG)
+
+Code: 0863-013, Coordinates: 4.905, 100.711
+
+#### BANDAR KAMUNTING
+
+Code: 0863-002, Coordinates: 4.89, 100.733
+
+#### BANDAR KUALA SEPETANG
+
+Code: 0863-017, Coordinates: 4.836, 100.629
+
+#### BANDAR MATANG
+
+Code: 0863-006, Coordinates: 4.817, 100.674
+
+#### BANDAR TAIPING
+
+Code: 0863-004, Coordinates: 4.854, 100.74
+
+#### MUKIM BATU KURAU (BATU KURAU)
+
+Code: 0863-011, Coordinates: 5.013, 100.808
+
+#### MUKIM BUKIT GANTANG (BUKIT GANTANG)
+
+Code: 0863-016, Coordinates: 4.71, 100.734
+
+#### MUKIM KAMUNTING (KAMUNTING)
+
+Code: 0863-008, Coordinates: 4.888, 100.757
+
+#### PEKAN BATU KURAU
+
+Code: 0863-003, Coordinates: 4.975, 100.799
+
+#### PEKAN CHANGKAT JERING
+
+Code: 0863-015, Coordinates: 4.787, 100.722
+
+#### PEKAN SIMPANG
+
+Code: 0863-009, Coordinates: 4.82, 100.706
+
+#### PEKAN TERUNG
+
+Code: 0863-010, Coordinates: 4.71, 100.72
+
+#### MUKIM PENGKALAN AOR (PENGKALAN AOR)
+
+Code: 0863-007, Coordinates: 4.806, 100.728
+
+#### MUKIM SIMPANG (SIMPANG)
+
+Code: 0863-005, Coordinates: 4.768, 100.705
+
+#### MUKIM SUNGAI LIMAU (SUNGAI LIMAU)
+
+Code: 0863-014, Coordinates: 4.78, 100.67
+
+#### MUKIM TERUNG (TERUNG)
+
+Code: 0863-012, Coordinates: 4.693, 100.685
+
+#### MUKIM TUPAI (TUPAI)
+
+Code: 0863-001, Coordinates: 4.843, 100.761
+
+### Manjung
+
+Code: 0864, Coordinates: 4.23, 100.622
+Subdistricts: 21
+
+#### BANDAR LUMUT
+
+Code: 0864-016, Coordinates: 4.227, 100.639
+
+#### MUKIM BERUAS (BERUAS)
+
+Code: 0864-011, Coordinates: 4.444, 100.793
+
+#### MUKIM LEKIR (LEKIR)
+
+Code: 0864-008, Coordinates: 4.089, 100.774
+
+#### MUKIM LUMUT (LUMUT)
+
+Code: 0864-014, Coordinates: 4.256, 100.601
+
+#### PEKAN AYER TAWAR
+
+Code: 0864-010, Coordinates: 4.298, 100.758
+
+#### PEKAN BERUAS
+
+Code: 0864-020, Coordinates: 4.501, 100.782
+
+#### PEKAN CHANGKAT KERUING
+
+Code: 0864-003, Coordinates: 4.376, 100.687
+
+#### PEKAN DAMAR LAUT
+
+Code: 0864-001, Coordinates: 4.249, 100.63
+
+#### PEKAN GURNEY
+
+Code: 0864-002, Coordinates: 4.222, 100.746
+
+#### PEKAN KAMPONG BAHARU
+
+Code: 0864-005, Coordinates: 4.294, 100.671
+
+#### PEKAN KAMPONG KOH
+
+Code: 0864-004, Coordinates: 4.192, 100.704
+
+#### PEKAN KAMPONG SITIAWAN
+
+Code: 0864-017, Coordinates: 4.243, 100.694
+
+#### PEKAN PANGKOR
+
+Code: 0864-012, Coordinates: 4.211, 100.574
+
+#### PEKAN PANTAI REMIS
+
+Code: 0864-015, Coordinates: 4.458, 100.63
+
+#### PEKAN PASIR BOGAK
+
+Code: 0864-009, Coordinates: 4.212, 100.558
+
+#### PEKAN PENGKALAN BAHARU
+
+Code: 0864-013, Coordinates: 4.479, 100.636
+
+#### PEKAN SEGARI
+
+Code: 0864-019, Coordinates: 4.352, 100.625
+
+#### PEKAN SITIAWAN
+
+Code: 0864-006, Coordinates: 4.215, 100.694
+
+#### PEKAN SUNGAI PINANG KECHIL
+
+Code: 0864-018, Coordinates: 4.226, 100.574
+
+#### MUKIM PENGKALAN BAHARU (PENGKALAN BAHARU)
+
+Code: 0864-007, Coordinates: 4.402, 100.648
+
+#### MUKIM SITIAWAN (SITIAWAN)
+
+Code: 0864-021, Coordinates: 4.281, 100.735
+
+### Muallim
+
+Code: 0865, Coordinates: 3.852, 101.452
+Subdistricts: 7
+
+#### MUKIM HULU BERNAM BARAT (HULU BERNAM BARAT)
+
+Code: 0865-001, Coordinates: 3.747, 101.294
+
+#### MUKIM HULU BERNAM TIMUR (HULU BERNAM TIMUR)
+
+Code: 0865-005, Coordinates: 3.757, 101.514
+
+#### PEKAN BANTANG
+
+Code: 0865-002, Coordinates: 3.829, 101.404
+
+#### PEKAN SLIM
+
+Code: 0865-003, Coordinates: 3.85, 101.48
+
+#### PEKAN TEROLAK
+
+Code: 0865-004, Coordinates: 3.891, 101.377
+
+#### MUKIM SLIM (SLIM)
+
+Code: 0865-006, Coordinates: 3.899, 101.507
+
+#### MUKIM ULU BERNAM (ULU BERNAM)
+
+Code: 0865-007, Coordinates: 3.734, 101.469
+
+### Perak Tengah
+
+Code: 0866, Coordinates: 4.225, 100.916
+Subdistricts: 18
+
+#### BANDAR BANDAR SERI ISKANDAR
+
+Code: 0866-011, Coordinates: 4.365, 100.957
+
+#### MUKIM BOTA (BOTA)
+
+Code: 0866-005, Coordinates: 4.348, 100.907
+
+#### MUKIM JAYA BARU (JAYA BARU)
+
+Code: 0866-006, Coordinates: 4.142, 100.817
+
+#### MUKIM KAMPONG GAJAH (KAMPONG GAJAH)
+
+Code: 0866-002, Coordinates: 4.21, 101
+
+#### MUKIM KOTA SETIA (KOTA SETIA)
+
+Code: 0866-010, Coordinates: 4.036, 100.874
+
+#### MUKIM LAMBOR KANAN (LAMBOR KANAN)
+
+Code: 0866-007, Coordinates: 4.286, 100.937
+
+#### MUKIM LAMBOR KIRI (LAMBOR KIRI)
+
+Code: 0866-015, Coordinates: 4.285, 100.879
+
+#### MUKIM LAYANG LAYANG (LAYANG LAYANG)
+
+Code: 0866-017, Coordinates: 4.401, 100.885
+
+#### MUKIM PASIR PANJANG HULU (PASIR PANJANG HULU)
+
+Code: 0866-012, Coordinates: 4.177, 101.03
+
+#### MUKIM PASIR SALAK (PASIR SALAK)
+
+Code: 0866-014, Coordinates: 4.132, 100.9
+
+#### PEKAN BOTA KANAN
+
+Code: 0866-003, Coordinates: 4.35, 100.882
+
+#### PEKAN KAMPONG BULOH AKAR
+
+Code: 0866-018, Coordinates: 4.526, 100.866
+
+#### PEKAN KOTA SETIA
+
+Code: 0866-008, Coordinates: 4.02, 100.87
+
+#### PEKAN PARIT
+
+Code: 0866-013, Coordinates: 4.477, 100.911
+
+#### PEKAN SIMPANG EMPAT
+
+Code: 0866-004, Coordinates: 4.183, 100.853
+
+#### PEKAN TANJONG BELANJA
+
+Code: 0866-009, Coordinates: 4.507, 100.922
+
+#### MUKIM PULAU TIGA (PULAU TIGA)
+
+Code: 0866-001, Coordinates: 4.228, 100.945
+
+#### MUKIM SUNGAI TINGGI (SUNGAI TINGGI)
+
+Code: 0866-016, Coordinates: 4.372, 100.857
+
+### Selama
+
+Code: 0867, Coordinates: 5.223, 100.834
+Subdistricts: 5
+
+#### BANDAR SELAMA
+
+Code: 0867-001, Coordinates: 5.218, 100.694
+
+#### MUKIM HULU IJOK (HULU IJOK)
+
+Code: 0867-005, Coordinates: 5.143, 100.775
+
+#### MUKIM HULU SELAMA (HULU SELAMA)
+
+Code: 0867-002, Coordinates: 5.312, 100.81
+
+#### PEKAN SUNGAI BAYUR
+
+Code: 0867-004, Coordinates: 5.258, 100.783
+
+#### MUKIM SELAMA (SELAMA)
+
+Code: 0867-003, Coordinates: 5.203, 100.704
+

@@ -1,0 +1,47 @@
+{
+  "id": "13140",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Telang Usan",
+    "en": "Telang Usan",
+    "slug": "telang-usan-13140"
+  },
+  "code": {
+    "id": "13140",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "Sarawak",
+      "en": "Sarawak",
+      "slug": "sarawak-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.389",
+    "lon": "114.732"
+  },
+  "metadata": {},
+  "source": {}
+}

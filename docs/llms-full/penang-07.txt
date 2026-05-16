@@ -1,0 +1,222 @@
+# Penang — Malaysia Administrative Divisions
+
+> 5 districts, 47 subdistricts
+> Code: 07
+> Coordinates: 5.374, 100.288
+> Last updated: 2026-05-16. License: CC-BY-4.0.
+
+## Districts
+
+### Barat Daya
+
+Code: 0769, Coordinates: 5.355, 100.233
+Subdistricts: 12
+
+#### MUKIM A (A)
+
+Code: 0769-006, Coordinates: 5.398, 100.205
+
+#### MUKIM B (B)
+
+Code: 0769-005, Coordinates: 5.386, 100.205
+
+#### BANDAR BALIK PULAU
+
+Code: 0769-012, Coordinates: 5.351, 100.235
+
+#### BANDAR BAYAN LEPAS
+
+Code: 0769-011, Coordinates: 5.295, 100.259
+
+#### MUKIM C (C)
+
+Code: 0769-004, Coordinates: 5.365, 100.204
+
+#### MUKIM D (D)
+
+Code: 0769-010, Coordinates: 5.356, 100.204
+
+#### MUKIM E (E)
+
+Code: 0769-009, Coordinates: 5.355, 100.222
+
+#### MUKIM F (F)
+
+Code: 0769-008, Coordinates: 5.35, 100.227
+
+#### MUKIM G (G)
+
+Code: 0769-007, Coordinates: 5.337, 100.215
+
+#### MUKIM H (H)
+
+Code: 0769-003, Coordinates: 5.339, 100.202
+
+#### MUKIM I (I)
+
+Code: 0769-002, Coordinates: 5.316, 100.2
+
+#### MUKIM J (J)
+
+Code: 0769-001, Coordinates: 5.323, 100.214
+
+### Seberang Perai Selatan
+
+Code: 0770, Coordinates: 5.252, 100.455
+Subdistricts: 6
+
+#### MUKIM 10 (10)
+
+Code: 0770-006, Coordinates: 5.271, 100.368
+
+#### MUKIM 11 (11)
+
+Code: 0770-001, Coordinates: 5.259, 100.417
+
+#### MUKIM 7 (7)
+
+Code: 0770-005, Coordinates: 5.274, 100.379
+
+#### MUKIM 9 (9)
+
+Code: 0770-004, Coordinates: 5.243, 100.396
+
+#### BANDAR NIBONG TEBAL
+
+Code: 0770-002, Coordinates: 5.166, 100.477
+
+#### BANDAR SUNGAI BAKAP
+
+Code: 0770-003, Coordinates: 5.224, 100.497
+
+### Seberang Perai Tengah
+
+Code: 0771, Coordinates: 5.384, 100.443
+Subdistricts: 11
+
+#### MUKIM 12 (12)
+
+Code: 0771-011, Coordinates: 5.316, 100.396
+
+#### MUKIM 13 (13)
+
+Code: 0771-006, Coordinates: 5.372, 100.409
+
+#### MUKIM 14 (14)
+
+Code: 0771-005, Coordinates: 5.331, 100.411
+
+#### MUKIM 15 (15)
+
+Code: 0771-004, Coordinates: 5.345, 100.4
+
+#### MUKIM 16 (16)
+
+Code: 0771-003, Coordinates: 5.354, 100.399
+
+#### MUKIM 19 (19)
+
+Code: 0771-002, Coordinates: 5.428, 100.506
+
+#### MUKIM 20 (20)
+
+Code: 0771-008, Coordinates: 5.416, 100.474
+
+#### MUKIM 21 (21)
+
+Code: 0771-007, Coordinates: 5.438, 100.456
+
+#### MUKIM 5 (5)
+
+Code: 0771-010, Coordinates: 5.334, 100.383
+
+#### MUKIM 6 (6)
+
+Code: 0771-001, Coordinates: 5.367, 100.405
+
+#### BANDAR BUKIT MERTAJAM
+
+Code: 0771-009, Coordinates: 5.361, 100.464
+
+### Seberang Perai Utara
+
+Code: 0772, Coordinates: 5.467, 100.433
+Subdistricts: 3
+
+#### MUKIM 3 (3)
+
+Code: 0772-001, Coordinates: 5.447, 100.408
+
+#### BANDAR BUTTERWORTH
+
+Code: 0772-002, Coordinates: 5.411, 100.388
+
+#### BANDAR PRAI
+
+Code: 0772-003, Coordinates: 5.401, 100.391
+
+### Timur Laut
+
+Code: 0773, Coordinates: 5.379, 100.297
+Subdistricts: 15
+
+#### MUKIM 1 (1)
+
+Code: 0773-001, Coordinates: 5.421, 100.302
+
+#### MUKIM 17 (17)
+
+Code: 0773-004, Coordinates: 5.417, 100.32
+
+#### MUKIM 18 (18)
+
+Code: 0773-015, Coordinates: 5.429, 100.349
+
+#### MUKIM 2 (2)
+
+Code: 0773-002, Coordinates: 5.44, 100.312
+
+#### MUKIM 4 (4)
+
+Code: 0773-014, Coordinates: 5.371, 100.359
+
+#### MUKIM 8 (8)
+
+Code: 0773-013, Coordinates: 5.31, 100.365
+
+#### BANDAR AYER ITAM
+
+Code: 0773-010, Coordinates: 5.405, 100.282
+
+#### BANDAR BATU FERRINGGI
+
+Code: 0773-009, Coordinates: 5.475, 100.26
+
+#### BANDAR BUKIT BENDERA
+
+Code: 0773-011, Coordinates: 5.42, 100.272
+
+#### BANDAR GEORGE TOWN
+
+Code: 0773-007, Coordinates: 5.41, 100.31
+
+#### BANDAR GLUGOR
+
+Code: 0773-005, Coordinates: 5.366, 100.304
+
+#### BANDAR JELUTONG
+
+Code: 0773-012, Coordinates: 5.391, 100.311
+
+#### BANDAR TANJONG BUNGAH
+
+Code: 0773-006, Coordinates: 5.465, 100.288
+
+#### BANDAR TANJONG PINANG
+
+Code: 0773-008, Coordinates: 5.454, 100.31
+
+#### BANDAR TANJONG TOKONG
+
+Code: 0773-003, Coordinates: 5.455, 100.304
+

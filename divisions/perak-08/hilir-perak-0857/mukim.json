@@ -1,0 +1,542 @@
+[
+  {
+    "id": "0857-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR TELUK INTAN",
+      "en": "BANDAR TELUK INTAN",
+      "slug": "bandar-teluk-intan-0857-009"
+    },
+    "code": {
+      "id": "0857-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0857",
+      "level": 2,
+      "name": {
+        "local": "Hilir Perak",
+        "en": "Hilir Perak",
+        "slug": "hilir-perak-0857"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0857",
+        "level": 2,
+        "name": {
+          "local": "Hilir Perak",
+          "en": "Hilir Perak",
+          "slug": "hilir-perak-0857"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.015",
+      "lon": "101.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0857-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM CHANGKAT JONG",
+      "en": "CHANGKAT JONG",
+      "slug": "changkat-jong-0857-001"
+    },
+    "code": {
+      "id": "0857-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0857",
+      "level": 2,
+      "name": {
+        "local": "Hilir Perak",
+        "en": "Hilir Perak",
+        "slug": "hilir-perak-0857"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0857",
+        "level": 2,
+        "name": {
+          "local": "Hilir Perak",
+          "en": "Hilir Perak",
+          "slug": "hilir-perak-0857"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.025",
+      "lon": "101.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0857-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM DURIAN SEBATANG",
+      "en": "DURIAN SEBATANG",
+      "slug": "durian-sebatang-0857-006"
+    },
+    "code": {
+      "id": "0857-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0857",
+      "level": 2,
+      "name": {
+        "local": "Hilir Perak",
+        "en": "Hilir Perak",
+        "slug": "hilir-perak-0857"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0857",
+        "level": 2,
+        "name": {
+          "local": "Hilir Perak",
+          "en": "Hilir Perak",
+          "slug": "hilir-perak-0857"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.988",
+      "lon": "101.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0857-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM LABU KUBONG",
+      "en": "LABU KUBONG",
+      "slug": "labu-kubong-0857-004"
+    },
+    "code": {
+      "id": "0857-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0857",
+      "level": 2,
+      "name": {
+        "local": "Hilir Perak",
+        "en": "Hilir Perak",
+        "slug": "hilir-perak-0857"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0857",
+        "level": 2,
+        "name": {
+          "local": "Hilir Perak",
+          "en": "Hilir Perak",
+          "slug": "hilir-perak-0857"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.134",
+      "lon": "101.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0857-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BATAK RABIT",
+      "en": "PEKAN BATAK RABIT",
+      "slug": "pekan-batak-rabit-0857-003"
+    },
+    "code": {
+      "id": "0857-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0857",
+      "level": 2,
+      "name": {
+        "local": "Hilir Perak",
+        "en": "Hilir Perak",
+        "slug": "hilir-perak-0857"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0857",
+        "level": 2,
+        "name": {
+          "local": "Hilir Perak",
+          "en": "Hilir Perak",
+          "slug": "hilir-perak-0857"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.996",
+      "lon": "101.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0857-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN CHIKUS",
+      "en": "PEKAN CHIKUS",
+      "slug": "pekan-chikus-0857-007"
+    },
+    "code": {
+      "id": "0857-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0857",
+      "level": 2,
+      "name": {
+        "local": "Hilir Perak",
+        "en": "Hilir Perak",
+        "slug": "hilir-perak-0857"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0857",
+        "level": 2,
+        "name": {
+          "local": "Hilir Perak",
+          "en": "Hilir Perak",
+          "slug": "hilir-perak-0857"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.076",
+      "lon": "101.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0857-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN DEGONG",
+      "en": "PEKAN DEGONG",
+      "slug": "pekan-degong-0857-002"
+    },
+    "code": {
+      "id": "0857-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0857",
+      "level": 2,
+      "name": {
+        "local": "Hilir Perak",
+        "en": "Hilir Perak",
+        "slug": "hilir-perak-0857"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0857",
+        "level": 2,
+        "name": {
+          "local": "Hilir Perak",
+          "en": "Hilir Perak",
+          "slug": "hilir-perak-0857"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.095",
+      "lon": "101.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0857-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN LANGKAP",
+      "en": "PEKAN LANGKAP",
+      "slug": "pekan-langkap-0857-005"
+    },
+    "code": {
+      "id": "0857-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0857",
+      "level": 2,
+      "name": {
+        "local": "Hilir Perak",
+        "en": "Hilir Perak",
+        "slug": "hilir-perak-0857"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0857",
+        "level": 2,
+        "name": {
+          "local": "Hilir Perak",
+          "en": "Hilir Perak",
+          "slug": "hilir-perak-0857"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.073",
+      "lon": "101.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0857-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SUNGAI DURIAN",
+      "en": "SUNGAI DURIAN",
+      "slug": "sungai-durian-0857-008"
+    },
+    "code": {
+      "id": "0857-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0857",
+      "level": 2,
+      "name": {
+        "local": "Hilir Perak",
+        "en": "Hilir Perak",
+        "slug": "hilir-perak-0857"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0857",
+        "level": 2,
+        "name": {
+          "local": "Hilir Perak",
+          "en": "Hilir Perak",
+          "slug": "hilir-perak-0857"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.011",
+      "lon": "100.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0857-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SUNGAI MANIK",
+      "en": "SUNGAI MANIK",
+      "slug": "sungai-manik-0857-010"
+    },
+    "code": {
+      "id": "0857-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0857",
+      "level": 2,
+      "name": {
+        "local": "Hilir Perak",
+        "en": "Hilir Perak",
+        "slug": "hilir-perak-0857"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0857",
+        "level": 2,
+        "name": {
+          "local": "Hilir Perak",
+          "en": "Hilir Perak",
+          "slug": "hilir-perak-0857"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.065",
+      "lon": "101.103"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

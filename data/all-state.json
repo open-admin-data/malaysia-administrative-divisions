@@ -1,0 +1,482 @@
+[
+  {
+    "id": "01",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "Johor",
+      "en": "Johor",
+      "slug": "johor-01"
+    },
+    "code": {
+      "id": "01",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 10,
+      "mukim": 95
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.852",
+      "lon": "103.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "Kedah",
+      "en": "Kedah",
+      "slug": "kedah-02"
+    },
+    "code": {
+      "id": "02",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 12,
+      "mukim": 212
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.128",
+      "lon": "100.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "Kelantan",
+      "en": "Kelantan",
+      "slug": "kelantan-03"
+    },
+    "code": {
+      "id": "03",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 11,
+      "mukim": 302
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.629",
+      "lon": "101.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "Melaka",
+      "en": "Malacca",
+      "slug": "malacca-04"
+    },
+    "code": {
+      "id": "04",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 3,
+      "mukim": 107
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.264",
+      "lon": "102.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "Negeri Sembilan",
+      "en": "Negeri Sembilan",
+      "slug": "negeri-sembilan-05"
+    },
+    "code": {
+      "id": "05",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "mukim": 154
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.679",
+      "lon": "101.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "Pahang",
+      "en": "Pahang",
+      "slug": "pahang-06"
+    },
+    "code": {
+      "id": "06",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 11,
+      "mukim": 128
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.741",
+      "lon": "102.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "Pulau Pinang",
+      "en": "Penang",
+      "slug": "penang-07"
+    },
+    "code": {
+      "id": "07",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 5,
+      "mukim": 47
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.374",
+      "lon": "100.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "Perak",
+      "en": "Perak",
+      "slug": "perak-08"
+    },
+    "code": {
+      "id": "08",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 13,
+      "mukim": 185
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.711",
+      "lon": "100.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "Perlis",
+      "en": "Perlis",
+      "slug": "perlis-09"
+    },
+    "code": {
+      "id": "09",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 1,
+      "mukim": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.586",
+      "lon": "100.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "Selangor",
+      "en": "Selangor",
+      "slug": "selangor-10"
+    },
+    "code": {
+      "id": "10",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9,
+      "mukim": 212
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.366",
+      "lon": "101.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "Terengganu",
+      "en": "Terengganu",
+      "slug": "terengganu-11"
+    },
+    "code": {
+      "id": "11",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 8,
+      "mukim": 96
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.394",
+      "lon": "103.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "Sabah",
+      "en": "Sabah",
+      "slug": "sabah-12"
+    },
+    "code": {
+      "id": "12",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 27,
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.067",
+      "lon": "117.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "Sarawak",
+      "en": "Sarawak",
+      "slug": "sarawak-13"
+    },
+    "code": {
+      "id": "13",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 40,
+      "mukim": 285
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.342",
+      "lon": "112.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "W.P. Kuala Lumpur",
+      "en": "Federal Territory of Kuala Lumpur",
+      "slug": "federal-territory-of-kuala-lumpur-14"
+    },
+    "code": {
+      "id": "14",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 1,
+      "mukim": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.141",
+      "lon": "101.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "W.P. Labuan",
+      "en": "Federal Territory of Labuan",
+      "slug": "federal-territory-of-labuan-15"
+    },
+    "code": {
+      "id": "15",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 1,
+      "mukim": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.284",
+      "lon": "115.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16",
+    "level": 1,
+    "level_name": {
+      "local": "Negeri",
+      "en": "State"
+    },
+    "name": {
+      "local": "W.P. Putrajaya",
+      "en": "Federal Territory of Putrajaya",
+      "slug": "federal-territory-of-putrajaya-16"
+    },
+    "code": {
+      "id": "16",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 1,
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.93",
+      "lon": "101.683"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

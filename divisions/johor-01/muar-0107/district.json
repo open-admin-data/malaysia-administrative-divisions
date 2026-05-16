@@ -1,0 +1,47 @@
+{
+  "id": "0107",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Muar",
+    "en": "Muar",
+    "slug": "muar-0107"
+  },
+  "code": {
+    "id": "0107",
+    "iso": null
+  },
+  "parent": {
+    "id": "01",
+    "level": 1,
+    "name": {
+      "local": "Johor",
+      "en": "Johor",
+      "slug": "johor-01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Johor",
+        "en": "Johor",
+        "slug": "johor-01"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.199",
+    "lon": "102.758"
+  },
+  "metadata": {},
+  "source": {}
+}

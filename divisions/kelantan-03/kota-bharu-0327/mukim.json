@@ -1,0 +1,4592 @@
+[
+  {
+    "id": "0327-019",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM AUR DURI",
+      "en": "AUR DURI",
+      "slug": "aur-duri-0327-019"
+    },
+    "code": {
+      "id": "0327-019",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.026",
+      "lon": "102.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-065",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BADAK",
+      "en": "BADAK",
+      "slug": "badak-0327-065"
+    },
+    "code": {
+      "id": "0327-065",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.958",
+      "lon": "102.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-060",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BADAK MATI",
+      "en": "BADAK MATI",
+      "slug": "badak-mati-0327-060"
+    },
+    "code": {
+      "id": "0327-060",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.015",
+      "lon": "102.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-082",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BADANG",
+      "en": "BADANG",
+      "slug": "badang-0327-082"
+    },
+    "code": {
+      "id": "0327-082",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.186",
+      "lon": "102.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BARU KUBANG KERIAN",
+      "en": "BANDAR BARU KUBANG KERIAN",
+      "slug": "bandar-baru-kubang-kerian-0327-010"
+    },
+    "code": {
+      "id": "0327-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.098",
+      "lon": "102.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-024",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR KOTA BHARU",
+      "en": "BANDAR KOTA BHARU",
+      "slug": "bandar-kota-bharu-0327-024"
+    },
+    "code": {
+      "id": "0327-024",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.12",
+      "lon": "102.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-028",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BANGGOL",
+      "en": "BANGGOL",
+      "slug": "banggol-0327-028"
+    },
+    "code": {
+      "id": "0327-028",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.152",
+      "lon": "102.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-038",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BANGGU",
+      "en": "BANGGU",
+      "slug": "banggu-0327-038"
+    },
+    "code": {
+      "id": "0327-038",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.059",
+      "lon": "102.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-081",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BAUNG",
+      "en": "BAUNG",
+      "slug": "baung-0327-081"
+    },
+    "code": {
+      "id": "0327-081",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.158",
+      "lon": "102.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-078",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BAYANG",
+      "en": "BAYANG",
+      "slug": "bayang-0327-078"
+    },
+    "code": {
+      "id": "0327-078",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.12",
+      "lon": "102.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-041",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BECHAH MULONG",
+      "en": "BECHAH MULONG",
+      "slug": "bechah-mulong-0327-041"
+    },
+    "code": {
+      "id": "0327-041",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.998",
+      "lon": "102.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-033",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BETA HILIR",
+      "en": "BETA HILIR",
+      "slug": "beta-hilir-0327-033"
+    },
+    "code": {
+      "id": "0327-033",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.03",
+      "lon": "102.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-056",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BETA HULU",
+      "en": "BETA HULU",
+      "slug": "beta-hulu-0327-056"
+    },
+    "code": {
+      "id": "0327-056",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.989",
+      "lon": "102.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BETING",
+      "en": "BETING",
+      "slug": "beting-0327-014"
+    },
+    "code": {
+      "id": "0327-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.152",
+      "lon": "102.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-035",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BIAH",
+      "en": "BIAH",
+      "slug": "biah-0327-035"
+    },
+    "code": {
+      "id": "0327-035",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.019",
+      "lon": "102.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-064",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BULOH POH",
+      "en": "BULOH POH",
+      "slug": "buloh-poh-0327-064"
+    },
+    "code": {
+      "id": "0327-064",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.962",
+      "lon": "102.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-077",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BUNUT PAYONG",
+      "en": "BUNUT PAYONG",
+      "slug": "bunut-payong-0327-077"
+    },
+    "code": {
+      "id": "0327-077",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.099",
+      "lon": "102.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-046",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BUT",
+      "en": "BUT",
+      "slug": "but-0327-046"
+    },
+    "code": {
+      "id": "0327-046",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.986",
+      "lon": "102.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-050",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM CHE LATIFF",
+      "en": "CHE LATIFF",
+      "slug": "che-latiff-0327-050"
+    },
+    "code": {
+      "id": "0327-050",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.207",
+      "lon": "102.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-072",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM CHEKLI",
+      "en": "CHEKLI",
+      "slug": "chekli-0327-072"
+    },
+    "code": {
+      "id": "0327-072",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.006",
+      "lon": "102.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-074",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM CHEKOK",
+      "en": "CHEKOK",
+      "slug": "chekok-0327-074"
+    },
+    "code": {
+      "id": "0327-074",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.145",
+      "lon": "102.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM CHICHA",
+      "en": "CHICHA",
+      "slug": "chicha-0327-007"
+    },
+    "code": {
+      "id": "0327-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.073",
+      "lon": "102.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-070",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM DAL",
+      "en": "DAL",
+      "slug": "dal-0327-070"
+    },
+    "code": {
+      "id": "0327-070",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.178",
+      "lon": "102.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM DEMIT",
+      "en": "DEMIT",
+      "slug": "demit-0327-013"
+    },
+    "code": {
+      "id": "0327-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.103",
+      "lon": "102.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM DUSON RENDAH",
+      "en": "DUSON RENDAH",
+      "slug": "duson-rendah-0327-015"
+    },
+    "code": {
+      "id": "0327-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.958",
+      "lon": "102.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-037",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM GUNTONG",
+      "en": "GUNTONG",
+      "slug": "guntong-0327-037"
+    },
+    "code": {
+      "id": "0327-037",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.041",
+      "lon": "102.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-020",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KADOK",
+      "en": "KADOK",
+      "slug": "kadok-0327-020"
+    },
+    "code": {
+      "id": "0327-020",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.001",
+      "lon": "102.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-069",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KAMPONG SIREH",
+      "en": "KAMPONG SIREH",
+      "slug": "kampong-sireh-0327-069"
+    },
+    "code": {
+      "id": "0327-069",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.104",
+      "lon": "102.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-054",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KARANG",
+      "en": "KARANG",
+      "slug": "karang-0327-054"
+    },
+    "code": {
+      "id": "0327-054",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.058",
+      "lon": "102.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-025",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KEDAI BULOH",
+      "en": "KEDAI BULOH",
+      "slug": "kedai-buloh-0327-025"
+    },
+    "code": {
+      "id": "0327-025",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.183",
+      "lon": "102.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-080",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KEMUBU",
+      "en": "KEMUBU",
+      "slug": "kemubu-0327-080"
+    },
+    "code": {
+      "id": "0327-080",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.922",
+      "lon": "102.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KEMUMIN",
+      "en": "KEMUMIN",
+      "slug": "kemumin-0327-004"
+    },
+    "code": {
+      "id": "0327-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.156",
+      "lon": "102.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-068",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KENALI",
+      "en": "KENALI",
+      "slug": "kenali-0327-068"
+    },
+    "code": {
+      "id": "0327-068",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.093",
+      "lon": "102.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-043",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KETEREH BARAT",
+      "en": "KETEREH BARAT",
+      "slug": "ketereh-barat-0327-043"
+    },
+    "code": {
+      "id": "0327-043",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.947",
+      "lon": "102.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-027",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KETEREH TIMOR",
+      "en": "KETEREH TIMOR",
+      "slug": "ketereh-timor-0327-027"
+    },
+    "code": {
+      "id": "0327-027",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.941",
+      "lon": "102.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-084",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KIJANG",
+      "en": "KIJANG",
+      "slug": "kijang-0327-084"
+    },
+    "code": {
+      "id": "0327-084",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.169",
+      "lon": "102.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-063",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KOH",
+      "en": "KOH",
+      "slug": "koh-0327-063"
+    },
+    "code": {
+      "id": "0327-063",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.016",
+      "lon": "102.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-071",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM LEMBU",
+      "en": "LEMBU",
+      "slug": "lembu-0327-071"
+    },
+    "code": {
+      "id": "0327-071",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.034",
+      "lon": "102.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM LUBOK JAMBU",
+      "en": "LUBOK JAMBU",
+      "slug": "lubok-jambu-0327-002"
+    },
+    "code": {
+      "id": "0327-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.03",
+      "lon": "102.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-029",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM LUBOK PUKOL",
+      "en": "LUBOK PUKOL",
+      "slug": "lubok-pukol-0327-029"
+    },
+    "code": {
+      "id": "0327-029",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.078",
+      "lon": "102.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM LUNDANG",
+      "en": "LUNDANG",
+      "slug": "lundang-0327-005"
+    },
+    "code": {
+      "id": "0327-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.103",
+      "lon": "102.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-047",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM LUNDANG PAKU",
+      "en": "LUNDANG PAKU",
+      "slug": "lundang-paku-0327-047"
+    },
+    "code": {
+      "id": "0327-047",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.991",
+      "lon": "102.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM MAHANG BARAT",
+      "en": "MAHANG BARAT",
+      "slug": "mahang-barat-0327-012"
+    },
+    "code": {
+      "id": "0327-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.913",
+      "lon": "102.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-021",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM MAHANG TIMOR",
+      "en": "MAHANG TIMOR",
+      "slug": "mahang-timor-0327-021"
+    },
+    "code": {
+      "id": "0327-021",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.913",
+      "lon": "102.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-067",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM MELOR",
+      "en": "MELOR",
+      "slug": "melor-0327-067"
+    },
+    "code": {
+      "id": "0327-067",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.98",
+      "lon": "102.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-051",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM MENTUAN",
+      "en": "MENTUAN",
+      "slug": "mentuan-0327-051"
+    },
+    "code": {
+      "id": "0327-051",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.091",
+      "lon": "102.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-042",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PADANG BONGOR",
+      "en": "PADANG BONGOR",
+      "slug": "padang-bongor-0327-042"
+    },
+    "code": {
+      "id": "0327-042",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.13",
+      "lon": "102.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-052",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PADANG ENGGANG",
+      "en": "PADANG ENGGANG",
+      "slug": "padang-enggang-0327-052"
+    },
+    "code": {
+      "id": "0327-052",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.083",
+      "lon": "102.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-017",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PADANG GARONG",
+      "en": "PADANG GARONG",
+      "slug": "padang-garong-0327-017"
+    },
+    "code": {
+      "id": "0327-017",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.128",
+      "lon": "102.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PADANG LEBAN",
+      "en": "PADANG LEBAN",
+      "slug": "padang-leban-0327-016"
+    },
+    "code": {
+      "id": "0327-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.986",
+      "lon": "102.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-026",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PADANG RAJA",
+      "en": "PADANG RAJA",
+      "slug": "padang-raja-0327-026"
+    },
+    "code": {
+      "id": "0327-026",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.967",
+      "lon": "102.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-055",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PADANG SAKAR",
+      "en": "PADANG SAKAR",
+      "slug": "padang-sakar-0327-055"
+    },
+    "code": {
+      "id": "0327-055",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.035",
+      "lon": "102.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-085",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PADANG TENGAH",
+      "en": "PADANG TENGAH",
+      "slug": "padang-tengah-0327-085"
+    },
+    "code": {
+      "id": "0327-085",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.022",
+      "lon": "102.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PANCHOR",
+      "en": "PANCHOR",
+      "slug": "panchor-0327-011"
+    },
+    "code": {
+      "id": "0327-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.142",
+      "lon": "102.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PANGKAL PISANG",
+      "en": "PANGKAL PISANG",
+      "slug": "pangkal-pisang-0327-006"
+    },
+    "code": {
+      "id": "0327-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.009",
+      "lon": "102.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PARIT",
+      "en": "PARIT",
+      "slug": "parit-0327-003"
+    },
+    "code": {
+      "id": "0327-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.058",
+      "lon": "102.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-023",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PASIR HA",
+      "en": "PASIR HA",
+      "slug": "pasir-ha-0327-023"
+    },
+    "code": {
+      "id": "0327-023",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.087",
+      "lon": "102.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-076",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PASIR MAS",
+      "en": "PASIR MAS",
+      "slug": "pasir-mas-0327-076"
+    },
+    "code": {
+      "id": "0327-076",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.032",
+      "lon": "102.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-075",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PATEK",
+      "en": "PATEK",
+      "slug": "patek-0327-075"
+    },
+    "code": {
+      "id": "0327-075",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.981",
+      "lon": "102.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-083",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PAUH",
+      "en": "PAUH",
+      "slug": "pauh-0327-083"
+    },
+    "code": {
+      "id": "0327-083",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.117",
+      "lon": "102.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-053",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN MULONG",
+      "en": "PEKAN MULONG",
+      "slug": "pekan-mulong-0327-053"
+    },
+    "code": {
+      "id": "0327-053",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.038",
+      "lon": "102.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-048",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PENDEK",
+      "en": "PENDEK",
+      "slug": "pendek-0327-048"
+    },
+    "code": {
+      "id": "0327-048",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.049",
+      "lon": "102.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-032",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PENGKALAN CHEPA",
+      "en": "PENGKALAN CHEPA",
+      "slug": "pengkalan-chepa-0327-032"
+    },
+    "code": {
+      "id": "0327-032",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.169",
+      "lon": "102.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-040",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PERINGAT",
+      "en": "PERINGAT",
+      "slug": "peringat-0327-040"
+    },
+    "code": {
+      "id": "0327-040",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.017",
+      "lon": "102.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-031",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PEROL",
+      "en": "PEROL",
+      "slug": "perol-0327-031"
+    },
+    "code": {
+      "id": "0327-031",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.018",
+      "lon": "102.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-039",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PINTU GANG",
+      "en": "PINTU GANG",
+      "slug": "pintu-gang-0327-039"
+    },
+    "code": {
+      "id": "0327-039",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.094",
+      "lon": "102.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-066",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PULAU",
+      "en": "PULAU",
+      "slug": "pulau-0327-066"
+    },
+    "code": {
+      "id": "0327-066",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.086",
+      "lon": "102.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-018",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PULAU BELANGA",
+      "en": "PULAU BELANGA",
+      "slug": "pulau-belanga-0327-018"
+    },
+    "code": {
+      "id": "0327-018",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.123",
+      "lon": "102.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PULAU GAJAH",
+      "en": "PULAU GAJAH",
+      "slug": "pulau-gajah-0327-009"
+    },
+    "code": {
+      "id": "0327-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.161",
+      "lon": "102.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-030",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PULAU KUNDOR",
+      "en": "PULAU KUNDOR",
+      "slug": "pulau-kundor-0327-030"
+    },
+    "code": {
+      "id": "0327-030",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.192",
+      "lon": "102.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PULAU PANJANG",
+      "en": "PULAU PANJANG",
+      "slug": "pulau-panjang-0327-008"
+    },
+    "code": {
+      "id": "0327-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.178",
+      "lon": "102.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PULAU PISANG",
+      "en": "PULAU PISANG",
+      "slug": "pulau-pisang-0327-001"
+    },
+    "code": {
+      "id": "0327-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.193",
+      "lon": "102.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-079",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SALOR",
+      "en": "SALOR",
+      "slug": "salor-0327-079"
+    },
+    "code": {
+      "id": "0327-079",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.037",
+      "lon": "102.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-034",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SEMUT API",
+      "en": "SEMUT API",
+      "slug": "semut-api-0327-034"
+    },
+    "code": {
+      "id": "0327-034",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.186",
+      "lon": "102.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-049",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SERING",
+      "en": "SERING",
+      "slug": "sering-0327-049"
+    },
+    "code": {
+      "id": "0327-049",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.126",
+      "lon": "102.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-044",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SETERPA",
+      "en": "SETERPA",
+      "slug": "seterpa-0327-044"
+    },
+    "code": {
+      "id": "0327-044",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.037",
+      "lon": "102.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-057",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TANJONG CHAT",
+      "en": "TANJONG CHAT",
+      "slug": "tanjong-chat-0327-057"
+    },
+    "code": {
+      "id": "0327-057",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.144",
+      "lon": "102.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-073",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TAPANG",
+      "en": "TAPANG",
+      "slug": "tapang-0327-073"
+    },
+    "code": {
+      "id": "0327-073",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.133",
+      "lon": "102.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-061",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TELOK",
+      "en": "TELOK",
+      "slug": "telok-0327-061"
+    },
+    "code": {
+      "id": "0327-061",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.129",
+      "lon": "102.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-045",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TELOK BHARU",
+      "en": "TELOK BHARU",
+      "slug": "telok-bharu-0327-045"
+    },
+    "code": {
+      "id": "0327-045",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.111",
+      "lon": "102.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-022",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TELOK KITANG",
+      "en": "TELOK KITANG",
+      "slug": "telok-kitang-0327-022"
+    },
+    "code": {
+      "id": "0327-022",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.169",
+      "lon": "102.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-036",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TIONG",
+      "en": "TIONG",
+      "slug": "tiong-0327-036"
+    },
+    "code": {
+      "id": "0327-036",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.063",
+      "lon": "102.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-062",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TOK KU",
+      "en": "TOK KU",
+      "slug": "tok-ku-0327-062"
+    },
+    "code": {
+      "id": "0327-062",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.112",
+      "lon": "102.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-059",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM WAKAF SIKU",
+      "en": "WAKAF SIKU",
+      "slug": "wakaf-siku-0327-059"
+    },
+    "code": {
+      "id": "0327-059",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.104",
+      "lon": "102.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327-058",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM WAKAF STAN",
+      "en": "WAKAF STAN",
+      "slug": "wakaf-stan-0327-058"
+    },
+    "code": {
+      "id": "0327-058",
+      "iso": null
+    },
+    "parent": {
+      "id": "0327",
+      "level": 2,
+      "name": {
+        "local": "Kota Bharu",
+        "en": "Kota Bharu",
+        "slug": "kota-bharu-0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0327",
+        "level": 2,
+        "name": {
+          "local": "Kota Bharu",
+          "en": "Kota Bharu",
+          "slug": "kota-bharu-0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.072",
+      "lon": "102.286"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

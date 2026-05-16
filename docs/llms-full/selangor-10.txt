@@ -1,0 +1,902 @@
+# Selangor — Malaysia Administrative Divisions
+
+> 9 districts, 212 subdistricts
+> Code: 10
+> Coordinates: 3.366, 101.321
+> Last updated: 2026-05-16. License: CC-BY-4.0.
+
+## Districts
+
+### Gombak
+
+Code: 10141, Coordinates: 3.254, 101.678
+Subdistricts: 17
+
+#### BANDAR BATU ARANG
+
+Code: 10141-014, Coordinates: 3.316, 101.46
+
+#### BANDAR KEPONG
+
+Code: 10141-008, Coordinates: 3.212, 101.621
+
+#### BANDAR KUANG
+
+Code: 10141-017, Coordinates: 3.258, 101.555
+
+#### BANDAR KUNDANG
+
+Code: 10141-012, Coordinates: 3.302, 101.525
+
+#### BANDAR RAWANG
+
+Code: 10141-007, Coordinates: 3.318, 101.579
+
+#### BANDAR SELAYANG
+
+Code: 10141-005, Coordinates: 3.252, 101.667
+
+#### BANDAR SUNGAI BULOH
+
+Code: 10141-002, Coordinates: 3.215, 101.589
+
+#### BANDAR SUNGAI PUSU
+
+Code: 10141-016, Coordinates: 3.249, 101.727
+
+#### PEKAN BATU 20
+
+Code: 10141-004, Coordinates: 3.234, 101.494
+
+#### PEKAN KUANG
+
+Code: 10141-011, Coordinates: 3.261, 101.558
+
+#### PEKAN MIMALAND
+
+Code: 10141-009, Coordinates: 3.284, 101.718
+
+#### PEKAN PENGKALAN KUNDANG
+
+Code: 10141-006, Coordinates: 3.266, 101.52
+
+#### PEKAN SUNGAI BULOH
+
+Code: 10141-010, Coordinates: 3.22, 101.577
+
+#### PEKAN TEMPLER
+
+Code: 10141-015, Coordinates: 3.293, 101.635
+
+#### MUKIM RAWANG (RAWANG)
+
+Code: 10141-001, Coordinates: 3.309, 101.564
+
+#### MUKIM SETAPAK (SETAPAK)
+
+Code: 10141-013, Coordinates: 3.237, 101.737
+
+#### MUKIM ULU KELANG (ULU KELANG)
+
+Code: 10141-003, Coordinates: 3.226, 101.778
+
+### Klang
+
+Code: 10142, Coordinates: 3.005, 101.362
+Subdistricts: 12
+
+#### BANDAR KLANG
+
+Code: 10142-004, Coordinates: 3.044, 101.448
+
+#### BANDAR PORT SWETTENHAM
+
+Code: 10142-012, Coordinates: 3.007, 101.395
+
+#### BANDAR SULTAN SULAIMAN
+
+Code: 10142-011, Coordinates: 3.017, 101.37
+
+#### MUKIM KAPAR (KAPAR)
+
+Code: 10142-008, Coordinates: 3.067, 101.437
+
+#### MUKIM KLANG (KLANG)
+
+Code: 10142-003, Coordinates: 2.997, 101.404
+
+#### PEKAN BATU EMPAT
+
+Code: 10142-002, Coordinates: 3.085, 101.41
+
+#### PEKAN BUKIT KEMUNING
+
+Code: 10142-005, Coordinates: 3.016, 101.528
+
+#### PEKAN HICOM
+
+Code: 10142-006, Coordinates: 3.018, 101.553
+
+#### PEKAN KAPAR
+
+Code: 10142-001, Coordinates: 3.135, 101.371
+
+#### PEKAN MERU
+
+Code: 10142-010, Coordinates: 3.135, 101.44
+
+#### PEKAN PANDAMARAN
+
+Code: 10142-009, Coordinates: 3.005, 101.426
+
+#### PEKAN TELOK  MENEGUN
+
+Code: 10142-007, Coordinates: 3.031, 101.478
+
+### Kuala Langat
+
+Code: 10143, Coordinates: 2.844, 101.422
+Subdistricts: 26
+
+#### BANDAR BANTING
+
+Code: 10143-015, Coordinates: 2.811, 101.5
+
+#### BANDAR JENJAROM
+
+Code: 10143-012, Coordinates: 2.874, 101.497
+
+#### BANDAR SIJANGKANG
+
+Code: 10143-010, Coordinates: 2.942, 101.474
+
+#### BANDAR TANJONG SEPAT
+
+Code: 10143-011, Coordinates: 2.659, 101.56
+
+#### BANDAR TELOK PANGLIMA GARANG
+
+Code: 10143-016, Coordinates: 2.912, 101.47
+
+#### MUKIM JUGRA (JUGRA)
+
+Code: 10143-001, Coordinates: 2.867, 101.407
+
+#### MUKIM KELANANG (KELANANG)
+
+Code: 10143-009, Coordinates: 2.794, 101.448
+
+#### MUKIM MORIB (MORIB)
+
+Code: 10143-019, Coordinates: 2.737, 101.456
+
+#### PEKAN BUKIT CHANGGANG
+
+Code: 10143-002, Coordinates: 2.825, 101.612
+
+#### PEKAN CHODOI
+
+Code: 10143-024, Coordinates: 2.842, 101.441
+
+#### PEKAN JENJAROM
+
+Code: 10143-022, Coordinates: 2.872, 101.491
+
+#### PEKAN KANCHONG
+
+Code: 10143-003, Coordinates: 2.728, 101.457
+
+#### PEKAN KANCHONG DARAT
+
+Code: 10143-004, Coordinates: 2.777, 101.472
+
+#### PEKAN KELANANG BATU ENAM
+
+Code: 10143-026, Coordinates: 2.797, 101.444
+
+#### PEKAN MORIB
+
+Code: 10143-018, Coordinates: 2.747, 101.446
+
+#### PEKAN PERMATANG PASIR
+
+Code: 10143-021, Coordinates: 2.836, 101.43
+
+#### PEKAN SIJANGKANG
+
+Code: 10143-025, Coordinates: 2.94, 101.456
+
+#### PEKAN SIMPANG MORIB
+
+Code: 10143-014, Coordinates: 2.782, 101.462
+
+#### PEKAN SUNGAI MANGGIS
+
+Code: 10143-020, Coordinates: 2.836, 101.528
+
+#### PEKAN SUNGAI RABA
+
+Code: 10143-005, Coordinates: 2.82, 101.448
+
+#### PEKAN TANJONG DUABELAS
+
+Code: 10143-006, Coordinates: 2.855, 101.515
+
+#### PEKAN TELOK
+
+Code: 10143-008, Coordinates: 2.907, 101.47
+
+#### PEKAN TELOK DATOK
+
+Code: 10143-023, Coordinates: 2.819, 101.523
+
+#### PEKAN TONGKAH
+
+Code: 10143-013, Coordinates: 2.763, 101.45
+
+#### MUKIM TANJONG DUABELAS (TANJONG DUABELAS)
+
+Code: 10143-017, Coordinates: 2.843, 101.523
+
+#### MUKIM TELOK PANGLIMA GARANG (TELOK PANGLIMA GARANG)
+
+Code: 10143-007, Coordinates: 2.899, 101.455
+
+### Kuala Selangor
+
+Code: 10144, Coordinates: 3.321, 101.325
+Subdistricts: 25
+
+#### BANDAR KUALA SELANGOR
+
+Code: 10144-022, Coordinates: 3.333, 101.263
+
+#### BANDAR TANJONG KARANG
+
+Code: 10144-010, Coordinates: 3.422, 101.179
+
+#### MUKIM BESTARI JAYA (BESTARI JAYA)
+
+Code: 10144-002, Coordinates: 3.381, 101.406
+
+#### MUKIM IJOK (IJOK)
+
+Code: 10144-014, Coordinates: 3.276, 101.437
+
+#### MUKIM KUALA SELANGOR (KUALA SELANGOR)
+
+Code: 10144-009, Coordinates: 3.35, 101.254
+
+#### MUKIM PASANGAN (PASANGAN)
+
+Code: 10144-016, Coordinates: 3.363, 101.301
+
+#### PEKAN ASAM JAWA
+
+Code: 10144-011, Coordinates: 3.296, 101.296
+
+#### PEKAN BESTARI JAYA
+
+Code: 10144-024, Coordinates: 3.386, 101.414
+
+#### PEKAN BUKIT BELIMBING
+
+Code: 10144-007, Coordinates: 3.391, 101.273
+
+#### PEKAN BUKIT ROTAN
+
+Code: 10144-005, Coordinates: 3.312, 101.318
+
+#### PEKAN BUKIT TALANG
+
+Code: 10144-025, Coordinates: 3.407, 101.318
+
+#### PEKAN JERAM
+
+Code: 10144-003, Coordinates: 3.226, 101.313
+
+#### PEKAN KAMPONG KUANTAN
+
+Code: 10144-023, Coordinates: 3.361, 101.303
+
+#### PEKAN KAMPUNG BARU HULU TIRAM BURUK
+
+Code: 10144-018, Coordinates: 3.429, 101.247
+
+#### PEKAN KUALA SUNGAI BULOH
+
+Code: 10144-017, Coordinates: 3.261, 101.304
+
+#### PEKAN PARIT MAHANG
+
+Code: 10144-006, Coordinates: 3.281, 101.375
+
+#### PEKAN PASIR PENAMBANG
+
+Code: 10144-012, Coordinates: 3.352, 101.253
+
+#### PEKAN SIMPANG TIGA IJOK
+
+Code: 10144-004, Coordinates: 3.305, 101.417
+
+#### PEKAN SUNGAI SEMBILANG
+
+Code: 10144-020, Coordinates: 3.195, 101.316
+
+#### PEKAN TAMAN PKNS
+
+Code: 10144-021, Coordinates: 3.226, 101.371
+
+#### PEKAN TAMBAK JAWA
+
+Code: 10144-013, Coordinates: 3.171, 101.318
+
+#### PEKAN TANJONG KARANG
+
+Code: 10144-008, Coordinates: 3.418, 101.178
+
+#### MUKIM TANJONG KARANG (TANJONG KARANG)
+
+Code: 10144-015, Coordinates: 3.437, 101.18
+
+#### MUKIM UJONG PERMATANG (UJONG PERMATANG)
+
+Code: 10144-001, Coordinates: 3.389, 101.211
+
+#### MUKIM ULU TINGGI (ULU TINGGI)
+
+Code: 10144-019, Coordinates: 3.467, 101.435
+
+### Petaling
+
+Code: 10145, Coordinates: 3.091, 101.591
+Subdistricts: 31
+
+#### BANDAR DAMANSARA
+
+Code: 10145-004, Coordinates: 3.132, 101.594
+
+#### BANDAR GLENMARIE
+
+Code: 10145-023, Coordinates: 3.086, 101.574
+
+#### BANDAR PETALING JAYA
+
+Code: 10145-017, Coordinates: 3.115, 101.629
+
+#### BANDAR PETALING JAYA SELATAN
+
+Code: 10145-018, Coordinates: 3.076, 101.638
+
+#### BANDAR SAUJANA
+
+Code: 10145-001, Coordinates: 3.107, 101.568
+
+#### BANDAR SHAH ALAM
+
+Code: 10145-020, Coordinates: 3.055, 101.527
+
+#### BANDAR SRI DAMANSARA
+
+Code: 10145-003, Coordinates: 3.198, 101.618
+
+#### BANDAR SUBANG JAYA
+
+Code: 10145-005, Coordinates: 3.076, 101.59
+
+#### BANDAR SUNWAY
+
+Code: 10145-029, Coordinates: 3.072, 101.609
+
+#### MUKIM BUKIT RAJA (BUKIT RAJA)
+
+Code: 10145-031, Coordinates: 3.15, 101.482
+
+#### MUKIM DAMANSARA (DAMANSARA)
+
+Code: 10145-002, Coordinates: 3.055, 101.568
+
+#### PEKAN BARU HICOM
+
+Code: 10145-027, Coordinates: 3.045, 101.549
+
+#### PEKAN BARU SUBANG
+
+Code: 10145-011, Coordinates: 3.15, 101.544
+
+#### PEKAN BARU SUNGAI BESI
+
+Code: 10145-014, Coordinates: 3.036, 101.716
+
+#### PEKAN BARU SUNGAI BULOH
+
+Code: 10145-013, Coordinates: 3.191, 101.571
+
+#### PEKAN BATU
+
+Code: 10145-008, Coordinates: 3.003, 101.612
+
+#### PEKAN BATU TIGA
+
+Code: 10145-015, Coordinates: 3.075, 101.558
+
+#### PEKAN CEMPAKA
+
+Code: 10145-021, Coordinates: 3.12, 101.598
+
+#### PEKAN COUNTRY HEIGHT
+
+Code: 10145-010, Coordinates: 3.074, 101.569
+
+#### PEKAN DESA PUCHONG
+
+Code: 10145-026, Coordinates: 3.038, 101.612
+
+#### PEKAN KAYU ARA
+
+Code: 10145-028, Coordinates: 3.132, 101.614
+
+#### PEKAN KINRARA
+
+Code: 10145-030, Coordinates: 3.045, 101.637
+
+#### PEKAN MERBAU SEMPAK
+
+Code: 10145-007, Coordinates: 3.218, 101.515
+
+#### PEKAN PENAGA
+
+Code: 10145-006, Coordinates: 3.05, 101.604
+
+#### PEKAN PUCHONG
+
+Code: 10145-009, Coordinates: 3.02, 101.613
+
+#### PEKAN PUCHONG JAYA
+
+Code: 10145-012, Coordinates: 3.058, 101.628
+
+#### PEKAN PUCHONG PERDANA
+
+Code: 10145-022, Coordinates: 3.004, 101.608
+
+#### PEKAN SERDANG
+
+Code: 10145-024, Coordinates: 3.024, 101.709
+
+#### PEKAN SUBANG
+
+Code: 10145-025, Coordinates: 3.136, 101.539
+
+#### PEKAN SUBANG JAYA
+
+Code: 10145-019, Coordinates: 3.042, 101.59
+
+#### MUKIM SUNGAI BULOH (SUNGAI BULOH)
+
+Code: 10145-016, Coordinates: 3.187, 101.558
+
+### Sabak Bernam
+
+Code: 10146, Coordinates: 3.741, 101.106
+Subdistricts: 18
+
+#### MUKIM BAGAN NAKHODA OMAR (BAGAN NAKHODA OMAR)
+
+Code: 10146-001, Coordinates: 3.773, 100.869
+
+#### MUKIM HUTAN MELINTANG (HUTAN MELINTANG)
+
+Code: 10146-002, Coordinates: 3.773, 101.09
+
+#### PEKAN BAGAN NAKHODA OMAR
+
+Code: 10146-008, Coordinates: 3.676, 100.983
+
+#### PEKAN BAGAN TERAP TAMBAHAN
+
+Code: 10146-004, Coordinates: 3.749, 101.054
+
+#### PEKAN PARIT BARU
+
+Code: 10146-005, Coordinates: 3.815, 100.845
+
+#### PEKAN PARIT ENAM
+
+Code: 10146-007, Coordinates: 3.71, 101.011
+
+#### PEKAN PARIT SEMBILAN
+
+Code: 10146-013, Coordinates: 3.73, 101.03
+
+#### PEKAN SABAK
+
+Code: 10146-015, Coordinates: 3.769, 100.98
+
+#### PEKAN SEKINCHAN SITE A
+
+Code: 10146-006, Coordinates: 3.527, 101.141
+
+#### PEKAN SEKINCHAN TAMBAHAN
+
+Code: 10146-009, Coordinates: 3.507, 101.097
+
+#### PEKAN SIMPANG LIMA TAMBAHAN
+
+Code: 10146-012, Coordinates: 3.624, 101.052
+
+#### PEKAN SIMPANG TIGA
+
+Code: 10146-018, Coordinates: 3.624, 101.023
+
+#### PEKAN SUNGAI AIR TAWAR TAMBAHAN
+
+Code: 10146-016, Coordinates: 3.846, 100.898
+
+#### PEKAN SUNGAI BESAR
+
+Code: 10146-011, Coordinates: 3.681, 100.975
+
+#### PEKAN SUNGAI HAJI DORANI
+
+Code: 10146-010, Coordinates: 3.641, 101.025
+
+#### PEKAN SUNGAI NIBONG
+
+Code: 10146-014, Coordinates: 3.605, 101.061
+
+#### PEKAN SUNGAI SEPINTAS
+
+Code: 10146-017, Coordinates: 3.781, 101.028
+
+#### MUKIM SUNGAI PANJANG (SUNGAI PANJANG)
+
+Code: 10146-003, Coordinates: 3.728, 101.168
+
+### Sepang
+
+Code: 10147, Coordinates: 2.797, 101.701
+Subdistricts: 16
+
+#### BANDAR BARU SALAK TINGGI
+
+Code: 10147-011, Coordinates: 2.819, 101.728
+
+#### BANDAR CYBERJAYA
+
+Code: 10147-003, Coordinates: 2.928, 101.656
+
+#### BANDAR LAPANGAN TERBANG ANTARABANGSA SEPANG
+
+Code: 10147-002, Coordinates: 2.75, 101.712
+
+#### BANDAR PUTRAJAYA
+
+Code: 10147-009, Coordinates: 2.933, 101.681
+
+#### BANDAR SEPANG
+
+Code: 10147-015, Coordinates: 2.69, 101.75
+
+#### BANDAR SUNGAI MERAB
+
+Code: 10147-005, Coordinates: 2.948, 101.75
+
+#### MUKIM DENGKIL (DENGKIL)
+
+Code: 10147-016, Coordinates: 2.923, 101.696
+
+#### PEKAN BARU SALAK TINGGI
+
+Code: 10147-014, Coordinates: 2.813, 101.71
+
+#### PEKAN BATU 1 SEPANG
+
+Code: 10147-007, Coordinates: 2.679, 101.736
+
+#### PEKAN BUKIT BISA
+
+Code: 10147-004, Coordinates: 2.968, 101.709
+
+#### PEKAN DATO&#39; BAKAR BAGINDA
+
+Code: 10147-008, Coordinates: 2.963, 101.731
+
+#### PEKAN DENGKIL
+
+Code: 10147-010, Coordinates: 2.861, 101.678
+
+#### PEKAN SUNGAI MERAB
+
+Code: 10147-006, Coordinates: 2.939, 101.748
+
+#### PEKAN SUNGAI PELEK
+
+Code: 10147-001, Coordinates: 2.642, 101.717
+
+#### PEKAN TANJUNG MAS
+
+Code: 10147-012, Coordinates: 2.667, 101.734
+
+#### MUKIM SEPANG (SEPANG)
+
+Code: 10147-013, Coordinates: 2.657, 101.702
+
+### Ulu Langat
+
+Code: 10148, Coordinates: 3.113, 101.834
+Subdistricts: 40
+
+#### MUKIM AMPANG (AMPANG)
+
+Code: 10148-019, Coordinates: 3.138, 101.754
+
+#### MUKIM BANDAR (BANDAR)
+
+Code: 10148-020, Coordinates: 2.931, 101.789
+
+#### BANDAR AMPANG
+
+Code: 10148-018, Coordinates: 3.131, 101.766
+
+#### BANDAR BALAKONG
+
+Code: 10148-001, Coordinates: 3.029, 101.748
+
+#### BANDAR BARU BANGI
+
+Code: 10148-007, Coordinates: 2.966, 101.765
+
+#### BANDAR BATU 18, SEMENYIH
+
+Code: 10148-014, Coordinates: 2.971, 101.819
+
+#### BANDAR BATU 26, BERANANG
+
+Code: 10148-030, Coordinates: 2.896, 101.862
+
+#### BANDAR BATU 9, CHERAS
+
+Code: 10148-038, Coordinates: 3.069, 101.77
+
+#### BANDAR CHERAS
+
+Code: 10148-023, Coordinates: 3.035, 101.773
+
+#### BANDAR COUNTRY HEIGHT
+
+Code: 10148-028, Coordinates: 2.988, 101.748
+
+#### BANDAR KAJANG
+
+Code: 10148-024, Coordinates: 2.984, 101.795
+
+#### BANDAR SEMENYIH
+
+Code: 10148-003, Coordinates: 2.949, 101.847
+
+#### BANDAR ULU LANGAT
+
+Code: 10148-031, Coordinates: 3.111, 101.816
+
+#### MUKIM BERANANG (BERANANG)
+
+Code: 10148-033, Coordinates: 2.906, 101.845
+
+#### MUKIM CHERAS (CHERAS)
+
+Code: 10148-037, Coordinates: 3.043, 101.789
+
+#### MUKIM KAJANG (KAJANG)
+
+Code: 10148-008, Coordinates: 2.947, 101.778
+
+#### PEKAN BANGI LAMA
+
+Code: 10148-025, Coordinates: 2.894, 101.775
+
+#### PEKAN BATU 18, ULU LANGAT
+
+Code: 10148-017, Coordinates: 3.165, 101.848
+
+#### PEKAN BATU 23, SUNGAI LALANG
+
+Code: 10148-015, Coordinates: 2.983, 101.876
+
+#### PEKAN BATU 26, BERANANG
+
+Code: 10148-022, Coordinates: 2.895, 101.873
+
+#### PEKAN BERANANG
+
+Code: 10148-036, Coordinates: 2.869, 101.87
+
+#### PEKAN BUKIT SUNGAI RAYA
+
+Code: 10148-013, Coordinates: 3.084, 101.787
+
+#### PEKAN CHERAS
+
+Code: 10148-035, Coordinates: 3.055, 101.755
+
+#### PEKAN DESA RAYA
+
+Code: 10148-009, Coordinates: 3.101, 101.803
+
+#### PEKAN DUSUN TUA ULU LANGAT
+
+Code: 10148-032, Coordinates: 3.14, 101.832
+
+#### PEKAN KACAU
+
+Code: 10148-026, Coordinates: 2.996, 101.872
+
+#### PEKAN KAJANG
+
+Code: 10148-040, Coordinates: 3.005, 101.761
+
+#### PEKAN KAMPONG PASIR, BATU 14, SEMENYIH
+
+Code: 10148-016, Coordinates: 3.007, 101.871
+
+#### PEKAN KAMPONG SUNGAI TANGKAS
+
+Code: 10148-002, Coordinates: 2.947, 101.8
+
+#### PEKAN RUMAH MURAH SUNGAI LUI
+
+Code: 10148-034, Coordinates: 3.16, 101.89
+
+#### PEKAN SEMENYIH
+
+Code: 10148-021, Coordinates: 2.952, 101.84
+
+#### PEKAN SIMPANG BALAK
+
+Code: 10148-027, Coordinates: 3.015, 101.78
+
+#### PEKAN SRI NANDING
+
+Code: 10148-010, Coordinates: 3.103, 101.807
+
+#### PEKAN SUNGAI KEMBONG BERANANG
+
+Code: 10148-012, Coordinates: 2.884, 101.829
+
+#### PEKAN SUNGAI LUI
+
+Code: 10148-039, Coordinates: 3.166, 101.886
+
+#### PEKAN SUNGAI MAKAU
+
+Code: 10148-011, Coordinates: 3.115, 101.829
+
+#### PEKAN TARUN
+
+Code: 10148-029, Coordinates: 2.937, 101.909
+
+#### MUKIM SEMENYIH (SEMENYIH)
+
+Code: 10148-005, Coordinates: 2.956, 101.836
+
+#### MUKIM ULU LANGAT (ULU LANGAT)
+
+Code: 10148-006, Coordinates: 3.154, 101.86
+
+#### MUKIM ULU SEMENYIH (ULU SEMENYIH)
+
+Code: 10148-004, Coordinates: 3.03, 101.874
+
+### Ulu Selangor
+
+Code: 10149, Coordinates: 3.572, 101.562
+Subdistricts: 27
+
+#### MUKIM AMPANG PECHAH (AMPANG PECHAH)
+
+Code: 10149-006, Coordinates: 3.569, 101.653
+
+#### BANDAR BATANG KALI
+
+Code: 10149-002, Coordinates: 3.485, 101.629
+
+#### BANDAR KALUMPANG
+
+Code: 10149-027, Coordinates: 3.649, 101.559
+
+#### BANDAR KUALA KUBU BAHARU
+
+Code: 10149-022, Coordinates: 3.553, 101.659
+
+#### BANDAR RASA
+
+Code: 10149-019, Coordinates: 3.504, 101.629
+
+#### BANDAR SERENDAH
+
+Code: 10149-014, Coordinates: 3.382, 101.58
+
+#### BANDAR SUNGAI CHIK
+
+Code: 10149-020, Coordinates: 3.427, 101.643
+
+#### BANDAR TANJONG MALIM
+
+Code: 10149-010, Coordinates: 3.681, 101.52
+
+#### BANDAR ULU BERNAM I
+
+Code: 10149-025, Coordinates: 3.673, 101.524
+
+#### BANDAR ULU BERNAM II
+
+Code: 10149-004, Coordinates: 3.669, 101.538
+
+#### BANDAR ULU YAM
+
+Code: 10149-007, Coordinates: 3.416, 101.659
+
+#### BANDAR ULU YAM BAHARU
+
+Code: 10149-013, Coordinates: 3.435, 101.657
+
+#### MUKIM BATANG KALI (BATANG KALI)
+
+Code: 10149-012, Coordinates: 3.457, 101.675
+
+#### MUKIM BULOH TELOR (BULOH TELOR)
+
+Code: 10149-026, Coordinates: 3.548, 101.682
+
+#### MUKIM KALUMPANG (KALUMPANG)
+
+Code: 10149-008, Coordinates: 3.656, 101.601
+
+#### MUKIM KERLING (KERLING)
+
+Code: 10149-003, Coordinates: 3.622, 101.644
+
+#### MUKIM KUALA KALUMPANG (KUALA KALUMPANG)
+
+Code: 10149-021, Coordinates: 3.64, 101.555
+
+#### PEKAN KERLING
+
+Code: 10149-005, Coordinates: 3.59, 101.605
+
+#### PEKAN PERETAK
+
+Code: 10149-016, Coordinates: 3.583, 101.723
+
+#### PEKAN SALAK
+
+Code: 10149-015, Coordinates: 3.687, 101.425
+
+#### PEKAN SIMPANG SUNGAI CHOH
+
+Code: 10149-023, Coordinates: 3.346, 101.59
+
+#### MUKIM PERETAK (PERETAK)
+
+Code: 10149-001, Coordinates: 3.631, 101.743
+
+#### MUKIM RASA (RASA)
+
+Code: 10149-017, Coordinates: 3.508, 101.688
+
+#### MUKIM SERENDAH (SERENDAH)
+
+Code: 10149-009, Coordinates: 3.382, 101.574
+
+#### MUKIM SUNGAI GUMUT (SUNGAI GUMUT)
+
+Code: 10149-024, Coordinates: 3.615, 101.582
+
+#### MUKIM SUNGAI TERAP (SUNGAI TERAP)
+
+Code: 10149-018, Coordinates: 3.672, 101.57
+
+#### MUKIM ULU YAM (ULU YAM)
+
+Code: 10149-011, Coordinates: 3.427, 101.624
+

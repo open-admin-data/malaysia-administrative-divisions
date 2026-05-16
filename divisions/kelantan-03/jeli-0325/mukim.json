@@ -1,0 +1,326 @@
+[
+  {
+    "id": "0325-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BUNGA TANJONG",
+      "en": "BUNGA TANJONG",
+      "slug": "bunga-tanjong-0325-004"
+    },
+    "code": {
+      "id": "0325-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0325",
+      "level": 2,
+      "name": {
+        "local": "Jeli",
+        "en": "Jeli",
+        "slug": "jeli-0325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0325",
+        "level": 2,
+        "name": {
+          "local": "Jeli",
+          "en": "Jeli",
+          "slug": "jeli-0325"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.468",
+      "lon": "101.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0325-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM JELI",
+      "en": "JELI",
+      "slug": "jeli-0325-001"
+    },
+    "code": {
+      "id": "0325-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0325",
+      "level": 2,
+      "name": {
+        "local": "Jeli",
+        "en": "Jeli",
+        "slug": "jeli-0325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0325",
+        "level": 2,
+        "name": {
+          "local": "Jeli",
+          "en": "Jeli",
+          "slug": "jeli-0325"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.751",
+      "lon": "101.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0325-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM JELI TEPI SUNGAI",
+      "en": "JELI TEPI SUNGAI",
+      "slug": "jeli-tepi-sungai-0325-003"
+    },
+    "code": {
+      "id": "0325-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0325",
+      "level": 2,
+      "name": {
+        "local": "Jeli",
+        "en": "Jeli",
+        "slug": "jeli-0325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0325",
+        "level": 2,
+        "name": {
+          "local": "Jeli",
+          "en": "Jeli",
+          "slug": "jeli-0325"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.659",
+      "lon": "101.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0325-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KALAI",
+      "en": "KALAI",
+      "slug": "kalai-0325-005"
+    },
+    "code": {
+      "id": "0325-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0325",
+      "level": 2,
+      "name": {
+        "local": "Jeli",
+        "en": "Jeli",
+        "slug": "jeli-0325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0325",
+        "level": 2,
+        "name": {
+          "local": "Jeli",
+          "en": "Jeli",
+          "slug": "jeli-0325"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.752",
+      "lon": "101.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0325-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUALA BALAH",
+      "en": "KUALA BALAH",
+      "slug": "kuala-balah-0325-002"
+    },
+    "code": {
+      "id": "0325-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0325",
+      "level": 2,
+      "name": {
+        "local": "Jeli",
+        "en": "Jeli",
+        "slug": "jeli-0325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0325",
+        "level": 2,
+        "name": {
+          "local": "Jeli",
+          "en": "Jeli",
+          "slug": "jeli-0325"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.46",
+      "lon": "101.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0325-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM LUBOK BONGOR",
+      "en": "LUBOK BONGOR",
+      "slug": "lubok-bongor-0325-006"
+    },
+    "code": {
+      "id": "0325-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0325",
+      "level": 2,
+      "name": {
+        "local": "Jeli",
+        "en": "Jeli",
+        "slug": "jeli-0325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0325",
+        "level": 2,
+        "name": {
+          "local": "Jeli",
+          "en": "Jeli",
+          "slug": "jeli-0325"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.555",
+      "lon": "101.802"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

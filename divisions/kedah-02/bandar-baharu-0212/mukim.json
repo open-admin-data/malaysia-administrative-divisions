@@ -1,0 +1,650 @@
+[
+  {
+    "id": "0212-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BAGAN SAMAK",
+      "en": "BAGAN SAMAK",
+      "slug": "bagan-samak-0212-005"
+    },
+    "code": {
+      "id": "0212-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0212",
+      "level": 2,
+      "name": {
+        "local": "Bandar Baharu",
+        "en": "Bandar Baharu",
+        "slug": "bandar-baharu-0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0212",
+        "level": 2,
+        "name": {
+          "local": "Bandar Baharu",
+          "en": "Bandar Baharu",
+          "slug": "bandar-baharu-0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.118",
+      "lon": "100.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0212-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BANDAR BAHARU",
+      "en": "BANDAR BANDAR BAHARU",
+      "slug": "bandar-bandar-baharu-0212-002"
+    },
+    "code": {
+      "id": "0212-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0212",
+      "level": 2,
+      "name": {
+        "local": "Bandar Baharu",
+        "en": "Bandar Baharu",
+        "slug": "bandar-baharu-0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0212",
+        "level": 2,
+        "name": {
+          "local": "Bandar Baharu",
+          "en": "Bandar Baharu",
+          "slug": "bandar-baharu-0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.117",
+      "lon": "100.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0212-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SERDANG",
+      "en": "BANDAR SERDANG",
+      "slug": "bandar-serdang-0212-010"
+    },
+    "code": {
+      "id": "0212-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0212",
+      "level": 2,
+      "name": {
+        "local": "Bandar Baharu",
+        "en": "Bandar Baharu",
+        "slug": "bandar-baharu-0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0212",
+        "level": 2,
+        "name": {
+          "local": "Bandar Baharu",
+          "en": "Bandar Baharu",
+          "slug": "bandar-baharu-0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.21",
+      "lon": "100.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0212-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUALA SELAMA",
+      "en": "KUALA SELAMA",
+      "slug": "kuala-selama-0212-003"
+    },
+    "code": {
+      "id": "0212-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0212",
+      "level": 2,
+      "name": {
+        "local": "Bandar Baharu",
+        "en": "Bandar Baharu",
+        "slug": "bandar-baharu-0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0212",
+        "level": 2,
+        "name": {
+          "local": "Bandar Baharu",
+          "en": "Bandar Baharu",
+          "slug": "bandar-baharu-0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.246",
+      "lon": "100.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0212-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN LUBUK BUNTAR",
+      "en": "PEKAN LUBUK BUNTAR",
+      "slug": "pekan-lubuk-buntar-0212-011"
+    },
+    "code": {
+      "id": "0212-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0212",
+      "level": 2,
+      "name": {
+        "local": "Bandar Baharu",
+        "en": "Bandar Baharu",
+        "slug": "bandar-baharu-0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0212",
+        "level": 2,
+        "name": {
+          "local": "Bandar Baharu",
+          "en": "Bandar Baharu",
+          "slug": "bandar-baharu-0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.141",
+      "lon": "100.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0212-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN RELAU",
+      "en": "PEKAN RELAU",
+      "slug": "pekan-relau-0212-007"
+    },
+    "code": {
+      "id": "0212-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0212",
+      "level": 2,
+      "name": {
+        "local": "Bandar Baharu",
+        "en": "Bandar Baharu",
+        "slug": "bandar-baharu-0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0212",
+        "level": 2,
+        "name": {
+          "local": "Bandar Baharu",
+          "en": "Bandar Baharu",
+          "slug": "bandar-baharu-0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.23",
+      "lon": "100.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0212-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SELAMA",
+      "en": "PEKAN SELAMA",
+      "slug": "pekan-selama-0212-004"
+    },
+    "code": {
+      "id": "0212-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0212",
+      "level": 2,
+      "name": {
+        "local": "Bandar Baharu",
+        "en": "Bandar Baharu",
+        "slug": "bandar-baharu-0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0212",
+        "level": 2,
+        "name": {
+          "local": "Bandar Baharu",
+          "en": "Bandar Baharu",
+          "slug": "bandar-baharu-0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.233",
+      "lon": "100.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0212-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SUNGAI KECIL ILLIR",
+      "en": "PEKAN SUNGAI KECIL ILLIR",
+      "slug": "pekan-sungai-kecil-illir-0212-001"
+    },
+    "code": {
+      "id": "0212-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0212",
+      "level": 2,
+      "name": {
+        "local": "Bandar Baharu",
+        "en": "Bandar Baharu",
+        "slug": "bandar-baharu-0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0212",
+        "level": 2,
+        "name": {
+          "local": "Bandar Baharu",
+          "en": "Bandar Baharu",
+          "slug": "bandar-baharu-0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.175",
+      "lon": "100.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0212-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PERMATANG PASIR",
+      "en": "PERMATANG PASIR",
+      "slug": "permatang-pasir-0212-008"
+    },
+    "code": {
+      "id": "0212-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0212",
+      "level": 2,
+      "name": {
+        "local": "Bandar Baharu",
+        "en": "Bandar Baharu",
+        "slug": "bandar-baharu-0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0212",
+        "level": 2,
+        "name": {
+          "local": "Bandar Baharu",
+          "en": "Bandar Baharu",
+          "slug": "bandar-baharu-0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.136",
+      "lon": "100.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0212-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM RELAU",
+      "en": "RELAU",
+      "slug": "relau-0212-012"
+    },
+    "code": {
+      "id": "0212-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0212",
+      "level": 2,
+      "name": {
+        "local": "Bandar Baharu",
+        "en": "Bandar Baharu",
+        "slug": "bandar-baharu-0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0212",
+        "level": 2,
+        "name": {
+          "local": "Bandar Baharu",
+          "en": "Bandar Baharu",
+          "slug": "bandar-baharu-0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.232",
+      "lon": "100.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0212-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SUNGAI BATU",
+      "en": "SUNGAI BATU",
+      "slug": "sungai-batu-0212-006"
+    },
+    "code": {
+      "id": "0212-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0212",
+      "level": 2,
+      "name": {
+        "local": "Bandar Baharu",
+        "en": "Bandar Baharu",
+        "slug": "bandar-baharu-0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0212",
+        "level": 2,
+        "name": {
+          "local": "Bandar Baharu",
+          "en": "Bandar Baharu",
+          "slug": "bandar-baharu-0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.283",
+      "lon": "100.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0212-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SUNGAI KECHIL",
+      "en": "SUNGAI KECHIL",
+      "slug": "sungai-kechil-0212-009"
+    },
+    "code": {
+      "id": "0212-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0212",
+      "level": 2,
+      "name": {
+        "local": "Bandar Baharu",
+        "en": "Bandar Baharu",
+        "slug": "bandar-baharu-0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0212",
+        "level": 2,
+        "name": {
+          "local": "Bandar Baharu",
+          "en": "Bandar Baharu",
+          "slug": "bandar-baharu-0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.182",
+      "lon": "100.562"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

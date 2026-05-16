@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "0649-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BENTA",
+      "en": "BANDAR BENTA",
+      "slug": "bandar-benta-0649-010"
+    },
+    "code": {
+      "id": "0649-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0649",
+      "level": 2,
+      "name": {
+        "local": "Lipis",
+        "en": "Lipis",
+        "slug": "lipis-0649"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0649",
+        "level": 2,
+        "name": {
+          "local": "Lipis",
+          "en": "Lipis",
+          "slug": "lipis-0649"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.016",
+      "lon": "101.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0649-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR KUALA LIPIS",
+      "en": "BANDAR KUALA LIPIS",
+      "slug": "bandar-kuala-lipis-0649-014"
+    },
+    "code": {
+      "id": "0649-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "0649",
+      "level": 2,
+      "name": {
+        "local": "Lipis",
+        "en": "Lipis",
+        "slug": "lipis-0649"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0649",
+        "level": 2,
+        "name": {
+          "local": "Lipis",
+          "en": "Lipis",
+          "slug": "lipis-0649"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.177",
+      "lon": "102.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0649-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR PADANG TENGKU",
+      "en": "BANDAR PADANG TENGKU",
+      "slug": "bandar-padang-tengku-0649-011"
+    },
+    "code": {
+      "id": "0649-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0649",
+      "level": 2,
+      "name": {
+        "local": "Lipis",
+        "en": "Lipis",
+        "slug": "lipis-0649"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0649",
+        "level": 2,
+        "name": {
+          "local": "Lipis",
+          "en": "Lipis",
+          "slug": "lipis-0649"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.233",
+      "lon": "101.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0649-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BATU YON",
+      "en": "BATU YON",
+      "slug": "batu-yon-0649-004"
+    },
+    "code": {
+      "id": "0649-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0649",
+      "level": 2,
+      "name": {
+        "local": "Lipis",
+        "en": "Lipis",
+        "slug": "lipis-0649"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0649",
+        "level": 2,
+        "name": {
+          "local": "Lipis",
+          "en": "Lipis",
+          "slug": "lipis-0649"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.531",
+      "lon": "101.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0649-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BUDU",
+      "en": "BUDU",
+      "slug": "budu-0649-008"
+    },
+    "code": {
+      "id": "0649-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0649",
+      "level": 2,
+      "name": {
+        "local": "Lipis",
+        "en": "Lipis",
+        "slug": "lipis-0649"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0649",
+        "level": 2,
+        "name": {
+          "local": "Lipis",
+          "en": "Lipis",
+          "slug": "lipis-0649"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.987",
+      "lon": "101.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0649-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM CHEKA",
+      "en": "CHEKA",
+      "slug": "cheka-0649-001"
+    },
+    "code": {
+      "id": "0649-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0649",
+      "level": 2,
+      "name": {
+        "local": "Lipis",
+        "en": "Lipis",
+        "slug": "lipis-0649"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0649",
+        "level": 2,
+        "name": {
+          "local": "Lipis",
+          "en": "Lipis",
+          "slug": "lipis-0649"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.135",
+      "lon": "102.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0649-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM HULU JELAI",
+      "en": "HULU JELAI",
+      "slug": "hulu-jelai-0649-005"
+    },
+    "code": {
+      "id": "0649-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0649",
+      "level": 2,
+      "name": {
+        "local": "Lipis",
+        "en": "Lipis",
+        "slug": "lipis-0649"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0649",
+        "level": 2,
+        "name": {
+          "local": "Lipis",
+          "en": "Lipis",
+          "slug": "lipis-0649"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.37",
+      "lon": "101.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0649-018",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KECHAU",
+      "en": "KECHAU",
+      "slug": "kechau-0649-018"
+    },
+    "code": {
+      "id": "0649-018",
+      "iso": null
+    },
+    "parent": {
+      "id": "0649",
+      "level": 2,
+      "name": {
+        "local": "Lipis",
+        "en": "Lipis",
+        "slug": "lipis-0649"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0649",
+        "level": 2,
+        "name": {
+          "local": "Lipis",
+          "en": "Lipis",
+          "slug": "lipis-0649"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.316",
+      "lon": "102.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0649-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUALA LIPIS",
+      "en": "KUALA LIPIS",
+      "slug": "kuala-lipis-0649-016"
+    },
+    "code": {
+      "id": "0649-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "0649",
+      "level": 2,
+      "name": {
+        "local": "Lipis",
+        "en": "Lipis",
+        "slug": "lipis-0649"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0649",
+        "level": 2,
+        "name": {
+          "local": "Lipis",
+          "en": "Lipis",
+          "slug": "lipis-0649"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.15",
+      "lon": "102.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0649-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KECHAU TUI",
+      "en": "PEKAN KECHAU TUI",
+      "slug": "pekan-kechau-tui-0649-007"
+    },
+    "code": {
+      "id": "0649-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0649",
+      "level": 2,
+      "name": {
+        "local": "Lipis",
+        "en": "Lipis",
+        "slug": "lipis-0649"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0649",
+        "level": 2,
+        "name": {
+          "local": "Lipis",
+          "en": "Lipis",
+          "slug": "lipis-0649"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.281",
+      "lon": "101.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0649-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KERAMBIT",
+      "en": "PEKAN KERAMBIT",
+      "slug": "pekan-kerambit-0649-009"
+    },
+    "code": {
+      "id": "0649-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0649",
+      "level": 2,
+      "name": {
+        "local": "Lipis",
+        "en": "Lipis",
+        "slug": "lipis-0649"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0649",
+        "level": 2,
+        "name": {
+          "local": "Lipis",
+          "en": "Lipis",
+          "slug": "lipis-0649"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.117",
+      "lon": "102.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0649-019",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN MELA",
+      "en": "PEKAN MELA",
+      "slug": "pekan-mela-0649-019"
+    },
+    "code": {
+      "id": "0649-019",
+      "iso": null
+    },
+    "parent": {
+      "id": "0649",
+      "level": 2,
+      "name": {
+        "local": "Lipis",
+        "en": "Lipis",
+        "slug": "lipis-0649"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0649",
+        "level": 2,
+        "name": {
+          "local": "Lipis",
+          "en": "Lipis",
+          "slug": "lipis-0649"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.073",
+      "lon": "102.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0649-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN MERAPUH",
+      "en": "PEKAN MERAPUH",
+      "slug": "pekan-merapuh-0649-003"
+    },
+    "code": {
+      "id": "0649-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0649",
+      "level": 2,
+      "name": {
+        "local": "Lipis",
+        "en": "Lipis",
+        "slug": "lipis-0649"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0649",
+        "level": 2,
+        "name": {
+          "local": "Lipis",
+          "en": "Lipis",
+          "slug": "lipis-0649"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.682",
+      "lon": "102.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0649-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PADANG TENGKU",
+      "en": "PEKAN PADANG TENGKU",
+      "slug": "pekan-padang-tengku-0649-006"
+    },
+    "code": {
+      "id": "0649-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0649",
+      "level": 2,
+      "name": {
+        "local": "Lipis",
+        "en": "Lipis",
+        "slug": "lipis-0649"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0649",
+        "level": 2,
+        "name": {
+          "local": "Lipis",
+          "en": "Lipis",
+          "slug": "lipis-0649"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.235",
+      "lon": "101.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0649-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PENJOM",
+      "en": "PEKAN PENJOM",
+      "slug": "pekan-penjom-0649-012"
+    },
+    "code": {
+      "id": "0649-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0649",
+      "level": 2,
+      "name": {
+        "local": "Lipis",
+        "en": "Lipis",
+        "slug": "lipis-0649"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0649",
+        "level": 2,
+        "name": {
+          "local": "Lipis",
+          "en": "Lipis",
+          "slug": "lipis-0649"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.08",
+      "lon": "101.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0649-020",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN RPSB KG. PAGAR",
+      "en": "PEKAN RPSB KG. PAGAR",
+      "slug": "pekan-rpsb-kg-pagar-0649-020"
+    },
+    "code": {
+      "id": "0649-020",
+      "iso": null
+    },
+    "parent": {
+      "id": "0649",
+      "level": 2,
+      "name": {
+        "local": "Lipis",
+        "en": "Lipis",
+        "slug": "lipis-0649"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0649",
+        "level": 2,
+        "name": {
+          "local": "Lipis",
+          "en": "Lipis",
+          "slug": "lipis-0649"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.123",
+      "lon": "102.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0649-017",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TAMAN JELAI",
+      "en": "PEKAN TAMAN JELAI",
+      "slug": "pekan-taman-jelai-0649-017"
+    },
+    "code": {
+      "id": "0649-017",
+      "iso": null
+    },
+    "parent": {
+      "id": "0649",
+      "level": 2,
+      "name": {
+        "local": "Lipis",
+        "en": "Lipis",
+        "slug": "lipis-0649"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0649",
+        "level": 2,
+        "name": {
+          "local": "Lipis",
+          "en": "Lipis",
+          "slug": "lipis-0649"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.081",
+      "lon": "102.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0649-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PENJOM",
+      "en": "PENJOM",
+      "slug": "penjom-0649-013"
+    },
+    "code": {
+      "id": "0649-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0649",
+      "level": 2,
+      "name": {
+        "local": "Lipis",
+        "en": "Lipis",
+        "slug": "lipis-0649"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0649",
+        "level": 2,
+        "name": {
+          "local": "Lipis",
+          "en": "Lipis",
+          "slug": "lipis-0649"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.107",
+      "lon": "101.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0649-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TANJUNG BESAR",
+      "en": "TANJUNG BESAR",
+      "slug": "tanjung-besar-0649-015"
+    },
+    "code": {
+      "id": "0649-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "0649",
+      "level": 2,
+      "name": {
+        "local": "Lipis",
+        "en": "Lipis",
+        "slug": "lipis-0649"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0649",
+        "level": 2,
+        "name": {
+          "local": "Lipis",
+          "en": "Lipis",
+          "slug": "lipis-0649"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.047",
+      "lon": "102.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0649-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TELANG",
+      "en": "TELANG",
+      "slug": "telang-0649-002"
+    },
+    "code": {
+      "id": "0649-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0649",
+      "level": 2,
+      "name": {
+        "local": "Lipis",
+        "en": "Lipis",
+        "slug": "lipis-0649"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0649",
+        "level": 2,
+        "name": {
+          "local": "Lipis",
+          "en": "Lipis",
+          "slug": "lipis-0649"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.187",
+      "lon": "101.895"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

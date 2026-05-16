@@ -1,0 +1,434 @@
+[
+  {
+    "id": "13113-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "IBAU LAND DISTRICT",
+      "en": "IBAU LAND DISTRICT",
+      "slug": "ibau-land-district-13113-008"
+    },
+    "code": {
+      "id": "13113-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "13113",
+      "level": 2,
+      "name": {
+        "local": "Kapit",
+        "en": "Kapit",
+        "slug": "kapit-13113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13113",
+        "level": 2,
+        "name": {
+          "local": "Kapit",
+          "en": "Kapit",
+          "slug": "kapit-13113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.047",
+      "lon": "112.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13113-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "KAPIT TOWN DISTRICT",
+      "en": "KAPIT TOWN DISTRICT",
+      "slug": "kapit-town-district-13113-005"
+    },
+    "code": {
+      "id": "13113-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "13113",
+      "level": 2,
+      "name": {
+        "local": "Kapit",
+        "en": "Kapit",
+        "slug": "kapit-13113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13113",
+        "level": 2,
+        "name": {
+          "local": "Kapit",
+          "en": "Kapit",
+          "slug": "kapit-13113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.015",
+      "lon": "112.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13113-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MENUAN LAND DISTRICT",
+      "en": "MENUAN LAND DISTRICT",
+      "slug": "menuan-land-district-13113-007"
+    },
+    "code": {
+      "id": "13113-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "13113",
+      "level": 2,
+      "name": {
+        "local": "Kapit",
+        "en": "Kapit",
+        "slug": "kapit-13113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13113",
+        "level": 2,
+        "name": {
+          "local": "Kapit",
+          "en": "Kapit",
+          "slug": "kapit-13113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.039",
+      "lon": "112.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13113-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "METAH LAND DISTRICT",
+      "en": "METAH LAND DISTRICT",
+      "slug": "metah-land-district-13113-004"
+    },
+    "code": {
+      "id": "13113-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13113",
+      "level": 2,
+      "name": {
+        "local": "Kapit",
+        "en": "Kapit",
+        "slug": "kapit-13113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13113",
+        "level": 2,
+        "name": {
+          "local": "Kapit",
+          "en": "Kapit",
+          "slug": "kapit-13113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.429",
+      "lon": "113.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13113-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "OYAN LAND DISTRICT",
+      "en": "OYAN LAND DISTRICT",
+      "slug": "oyan-land-district-13113-003"
+    },
+    "code": {
+      "id": "13113-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13113",
+      "level": 2,
+      "name": {
+        "local": "Kapit",
+        "en": "Kapit",
+        "slug": "kapit-13113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13113",
+        "level": 2,
+        "name": {
+          "local": "Kapit",
+          "en": "Kapit",
+          "slug": "kapit-13113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.155",
+      "lon": "113.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13113-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PELAGUS LAND DISTRICT",
+      "en": "PELAGUS LAND DISTRICT",
+      "slug": "pelagus-land-district-13113-002"
+    },
+    "code": {
+      "id": "13113-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13113",
+      "level": 2,
+      "name": {
+        "local": "Kapit",
+        "en": "Kapit",
+        "slug": "kapit-13113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13113",
+        "level": 2,
+        "name": {
+          "local": "Kapit",
+          "en": "Kapit",
+          "slug": "kapit-13113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.226",
+      "lon": "113.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13113-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "RIRONG LAND DISTRICT",
+      "en": "RIRONG LAND DISTRICT",
+      "slug": "rirong-land-district-13113-001"
+    },
+    "code": {
+      "id": "13113-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13113",
+      "level": 2,
+      "name": {
+        "local": "Kapit",
+        "en": "Kapit",
+        "slug": "kapit-13113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13113",
+        "level": 2,
+        "name": {
+          "local": "Kapit",
+          "en": "Kapit",
+          "slug": "kapit-13113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.295",
+      "lon": "113.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13113-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SUAU LAND DISTRICT",
+      "en": "SUAU LAND DISTRICT",
+      "slug": "suau-land-district-13113-006"
+    },
+    "code": {
+      "id": "13113-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "13113",
+      "level": 2,
+      "name": {
+        "local": "Kapit",
+        "en": "Kapit",
+        "slug": "kapit-13113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13113",
+        "level": 2,
+        "name": {
+          "local": "Kapit",
+          "en": "Kapit",
+          "slug": "kapit-13113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.989",
+      "lon": "113.139"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

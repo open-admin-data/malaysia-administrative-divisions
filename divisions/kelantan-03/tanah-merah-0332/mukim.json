@@ -1,0 +1,704 @@
+[
+  {
+    "id": "0332-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR TANAH MERAH",
+      "en": "BANDAR TANAH MERAH",
+      "slug": "bandar-tanah-merah-0332-011"
+    },
+    "code": {
+      "id": "0332-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0332",
+      "level": 2,
+      "name": {
+        "local": "Tanah Merah",
+        "en": "Tanah Merah",
+        "slug": "tanah-merah-0332"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0332",
+        "level": 2,
+        "name": {
+          "local": "Tanah Merah",
+          "en": "Tanah Merah",
+          "slug": "tanah-merah-0332"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.804",
+      "lon": "102.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0332-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BATANG MERBAU",
+      "en": "BATANG MERBAU",
+      "slug": "batang-merbau-0332-006"
+    },
+    "code": {
+      "id": "0332-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0332",
+      "level": 2,
+      "name": {
+        "local": "Tanah Merah",
+        "en": "Tanah Merah",
+        "slug": "tanah-merah-0332"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0332",
+        "level": 2,
+        "name": {
+          "local": "Tanah Merah",
+          "en": "Tanah Merah",
+          "slug": "tanah-merah-0332"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.805",
+      "lon": "102.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0332-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BENDANG NYIOR",
+      "en": "BENDANG NYIOR",
+      "slug": "bendang-nyior-0332-002"
+    },
+    "code": {
+      "id": "0332-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0332",
+      "level": 2,
+      "name": {
+        "local": "Tanah Merah",
+        "en": "Tanah Merah",
+        "slug": "tanah-merah-0332"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0332",
+        "level": 2,
+        "name": {
+          "local": "Tanah Merah",
+          "en": "Tanah Merah",
+          "slug": "tanah-merah-0332"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.86",
+      "lon": "102.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0332-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BUKIT DURIAN",
+      "en": "BUKIT DURIAN",
+      "slug": "bukit-durian-0332-009"
+    },
+    "code": {
+      "id": "0332-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0332",
+      "level": 2,
+      "name": {
+        "local": "Tanah Merah",
+        "en": "Tanah Merah",
+        "slug": "tanah-merah-0332"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0332",
+        "level": 2,
+        "name": {
+          "local": "Tanah Merah",
+          "en": "Tanah Merah",
+          "slug": "tanah-merah-0332"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.716",
+      "lon": "102.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0332-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM JEDOK",
+      "en": "JEDOK",
+      "slug": "jedok-0332-008"
+    },
+    "code": {
+      "id": "0332-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0332",
+      "level": 2,
+      "name": {
+        "local": "Tanah Merah",
+        "en": "Tanah Merah",
+        "slug": "tanah-merah-0332"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0332",
+        "level": 2,
+        "name": {
+          "local": "Tanah Merah",
+          "en": "Tanah Merah",
+          "slug": "tanah-merah-0332"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.795",
+      "lon": "101.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0332-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUALA PAKU",
+      "en": "KUALA PAKU",
+      "slug": "kuala-paku-0332-001"
+    },
+    "code": {
+      "id": "0332-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0332",
+      "level": 2,
+      "name": {
+        "local": "Tanah Merah",
+        "en": "Tanah Merah",
+        "slug": "tanah-merah-0332"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0332",
+        "level": 2,
+        "name": {
+          "local": "Tanah Merah",
+          "en": "Tanah Merah",
+          "slug": "tanah-merah-0332"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.763",
+      "lon": "102.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0332-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM LAWANG",
+      "en": "LAWANG",
+      "slug": "lawang-0332-013"
+    },
+    "code": {
+      "id": "0332-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0332",
+      "level": 2,
+      "name": {
+        "local": "Tanah Merah",
+        "en": "Tanah Merah",
+        "slug": "tanah-merah-0332"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0332",
+        "level": 2,
+        "name": {
+          "local": "Tanah Merah",
+          "en": "Tanah Merah",
+          "slug": "tanah-merah-0332"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.842",
+      "lon": "101.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0332-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM MAKA",
+      "en": "MAKA",
+      "slug": "maka-0332-003"
+    },
+    "code": {
+      "id": "0332-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0332",
+      "level": 2,
+      "name": {
+        "local": "Tanah Merah",
+        "en": "Tanah Merah",
+        "slug": "tanah-merah-0332"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0332",
+        "level": 2,
+        "name": {
+          "local": "Tanah Merah",
+          "en": "Tanah Merah",
+          "slug": "tanah-merah-0332"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.815",
+      "lon": "102.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0332-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM NIBONG",
+      "en": "NIBONG",
+      "slug": "nibong-0332-004"
+    },
+    "code": {
+      "id": "0332-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0332",
+      "level": 2,
+      "name": {
+        "local": "Tanah Merah",
+        "en": "Tanah Merah",
+        "slug": "tanah-merah-0332"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0332",
+        "level": 2,
+        "name": {
+          "local": "Tanah Merah",
+          "en": "Tanah Merah",
+          "slug": "tanah-merah-0332"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.788",
+      "lon": "101.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0332-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PASIR GANDA",
+      "en": "PASIR GANDA",
+      "slug": "pasir-ganda-0332-010"
+    },
+    "code": {
+      "id": "0332-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0332",
+      "level": 2,
+      "name": {
+        "local": "Tanah Merah",
+        "en": "Tanah Merah",
+        "slug": "tanah-merah-0332"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0332",
+        "level": 2,
+        "name": {
+          "local": "Tanah Merah",
+          "en": "Tanah Merah",
+          "slug": "tanah-merah-0332"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.871",
+      "lon": "102.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0332-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SOKOR",
+      "en": "SOKOR",
+      "slug": "sokor-0332-005"
+    },
+    "code": {
+      "id": "0332-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0332",
+      "level": 2,
+      "name": {
+        "local": "Tanah Merah",
+        "en": "Tanah Merah",
+        "slug": "tanah-merah-0332"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0332",
+        "level": 2,
+        "name": {
+          "local": "Tanah Merah",
+          "en": "Tanah Merah",
+          "slug": "tanah-merah-0332"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.654",
+      "lon": "102.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0332-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TANAH MERAH",
+      "en": "TANAH MERAH",
+      "slug": "tanah-merah-0332-007"
+    },
+    "code": {
+      "id": "0332-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0332",
+      "level": 2,
+      "name": {
+        "local": "Tanah Merah",
+        "en": "Tanah Merah",
+        "slug": "tanah-merah-0332"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0332",
+        "level": 2,
+        "name": {
+          "local": "Tanah Merah",
+          "en": "Tanah Merah",
+          "slug": "tanah-merah-0332"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.789",
+      "lon": "102.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0332-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM ULU KUSIAL",
+      "en": "ULU KUSIAL",
+      "slug": "ulu-kusial-0332-012"
+    },
+    "code": {
+      "id": "0332-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0332",
+      "level": 2,
+      "name": {
+        "local": "Tanah Merah",
+        "en": "Tanah Merah",
+        "slug": "tanah-merah-0332"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0332",
+        "level": 2,
+        "name": {
+          "local": "Tanah Merah",
+          "en": "Tanah Merah",
+          "slug": "tanah-merah-0332"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.747",
+      "lon": "102.033"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

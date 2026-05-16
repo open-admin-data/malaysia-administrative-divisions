@@ -1,0 +1,434 @@
+[
+  {
+    "id": "11156-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM ALUR LIMBAT",
+      "en": "ALUR LIMBAT",
+      "slug": "alur-limbat-11156-004"
+    },
+    "code": {
+      "id": "11156-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "11156",
+      "level": 2,
+      "name": {
+        "local": "Marang",
+        "en": "Marang",
+        "slug": "marang-11156"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11156",
+        "level": 2,
+        "name": {
+          "local": "Marang",
+          "en": "Marang",
+          "slug": "marang-11156"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.203",
+      "lon": "103.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11156-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BUKIT PAYUNG",
+      "en": "BUKIT PAYUNG",
+      "slug": "bukit-payung-11156-001"
+    },
+    "code": {
+      "id": "11156-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "11156",
+      "level": 2,
+      "name": {
+        "local": "Marang",
+        "en": "Marang",
+        "slug": "marang-11156"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11156",
+        "level": 2,
+        "name": {
+          "local": "Marang",
+          "en": "Marang",
+          "slug": "marang-11156"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.194",
+      "lon": "103.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11156-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM JERUNG",
+      "en": "JERUNG",
+      "slug": "jerung-11156-005"
+    },
+    "code": {
+      "id": "11156-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "11156",
+      "level": 2,
+      "name": {
+        "local": "Marang",
+        "en": "Marang",
+        "slug": "marang-11156"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11156",
+        "level": 2,
+        "name": {
+          "local": "Marang",
+          "en": "Marang",
+          "slug": "marang-11156"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.115",
+      "lon": "103.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11156-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM MERCANG",
+      "en": "MERCANG",
+      "slug": "mercang-11156-007"
+    },
+    "code": {
+      "id": "11156-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "11156",
+      "level": 2,
+      "name": {
+        "local": "Marang",
+        "en": "Marang",
+        "slug": "marang-11156"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11156",
+        "level": 2,
+        "name": {
+          "local": "Marang",
+          "en": "Marang",
+          "slug": "marang-11156"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.957",
+      "lon": "103.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11156-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BUKIT PAYUNG",
+      "en": "PEKAN BUKIT PAYUNG",
+      "slug": "pekan-bukit-payung-11156-002"
+    },
+    "code": {
+      "id": "11156-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "11156",
+      "level": 2,
+      "name": {
+        "local": "Marang",
+        "en": "Marang",
+        "slug": "marang-11156"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11156",
+        "level": 2,
+        "name": {
+          "local": "Marang",
+          "en": "Marang",
+          "slug": "marang-11156"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.233",
+      "lon": "103.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11156-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN MARANG",
+      "en": "PEKAN MARANG",
+      "slug": "pekan-marang-11156-003"
+    },
+    "code": {
+      "id": "11156-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "11156",
+      "level": 2,
+      "name": {
+        "local": "Marang",
+        "en": "Marang",
+        "slug": "marang-11156"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11156",
+        "level": 2,
+        "name": {
+          "local": "Marang",
+          "en": "Marang",
+          "slug": "marang-11156"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.204",
+      "lon": "103.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11156-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PULAU KERENGGA",
+      "en": "PULAU KERENGGA",
+      "slug": "pulau-kerengga-11156-006"
+    },
+    "code": {
+      "id": "11156-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "11156",
+      "level": 2,
+      "name": {
+        "local": "Marang",
+        "en": "Marang",
+        "slug": "marang-11156"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11156",
+        "level": 2,
+        "name": {
+          "local": "Marang",
+          "en": "Marang",
+          "slug": "marang-11156"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.108",
+      "lon": "103.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11156-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM RUSILA",
+      "en": "RUSILA",
+      "slug": "rusila-11156-008"
+    },
+    "code": {
+      "id": "11156-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "11156",
+      "level": 2,
+      "name": {
+        "local": "Marang",
+        "en": "Marang",
+        "slug": "marang-11156"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11156",
+        "level": 2,
+        "name": {
+          "local": "Marang",
+          "en": "Marang",
+          "slug": "marang-11156"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.209",
+      "lon": "103.193"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

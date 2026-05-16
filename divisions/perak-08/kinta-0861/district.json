@@ -1,0 +1,47 @@
+{
+  "id": "0861",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kinta",
+    "en": "Kinta",
+    "slug": "kinta-0861"
+  },
+  "code": {
+    "id": "0861",
+    "iso": null
+  },
+  "parent": {
+    "id": "08",
+    "level": 1,
+    "name": {
+      "local": "Perak",
+      "en": "Perak",
+      "slug": "perak-08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.568",
+    "lon": "101.136"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "10147",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sepang",
+    "en": "Sepang",
+    "slug": "sepang-10147"
+  },
+  "code": {
+    "id": "10147",
+    "iso": null
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "local": "Selangor",
+      "en": "Selangor",
+      "slug": "selangor-10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "Selangor",
+        "en": "Selangor",
+        "slug": "selangor-10"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.797",
+    "lon": "101.701"
+  },
+  "metadata": {},
+  "source": {}
+}

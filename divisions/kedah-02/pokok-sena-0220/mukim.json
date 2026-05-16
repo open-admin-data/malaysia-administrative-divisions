@@ -1,0 +1,326 @@
+[
+  {
+    "id": "0220-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR POKOK SENA",
+      "en": "BANDAR POKOK SENA",
+      "slug": "bandar-pokok-sena-0220-001"
+    },
+    "code": {
+      "id": "0220-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0220",
+      "level": 2,
+      "name": {
+        "local": "Pokok Sena",
+        "en": "Pokok Sena",
+        "slug": "pokok-sena-0220"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0220",
+        "level": 2,
+        "name": {
+          "local": "Pokok Sena",
+          "en": "Pokok Sena",
+          "slug": "pokok-sena-0220"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.168",
+      "lon": "100.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0220-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BUKIT LADA",
+      "en": "BUKIT LADA",
+      "slug": "bukit-lada-0220-006"
+    },
+    "code": {
+      "id": "0220-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0220",
+      "level": 2,
+      "name": {
+        "local": "Pokok Sena",
+        "en": "Pokok Sena",
+        "slug": "pokok-sena-0220"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0220",
+        "level": 2,
+        "name": {
+          "local": "Pokok Sena",
+          "en": "Pokok Sena",
+          "slug": "pokok-sena-0220"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.148",
+      "lon": "100.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0220-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM DERANG",
+      "en": "DERANG",
+      "slug": "derang-0220-003"
+    },
+    "code": {
+      "id": "0220-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0220",
+      "level": 2,
+      "name": {
+        "local": "Pokok Sena",
+        "en": "Pokok Sena",
+        "slug": "pokok-sena-0220"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0220",
+        "level": 2,
+        "name": {
+          "local": "Pokok Sena",
+          "en": "Pokok Sena",
+          "slug": "pokok-sena-0220"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.22",
+      "lon": "100.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0220-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM LESONG",
+      "en": "LESONG",
+      "slug": "lesong-0220-002"
+    },
+    "code": {
+      "id": "0220-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0220",
+      "level": 2,
+      "name": {
+        "local": "Pokok Sena",
+        "en": "Pokok Sena",
+        "slug": "pokok-sena-0220"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0220",
+        "level": 2,
+        "name": {
+          "local": "Pokok Sena",
+          "en": "Pokok Sena",
+          "slug": "pokok-sena-0220"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.11",
+      "lon": "100.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0220-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KEBUN 500",
+      "en": "PEKAN KEBUN 500",
+      "slug": "pekan-kebun-500-0220-005"
+    },
+    "code": {
+      "id": "0220-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0220",
+      "level": 2,
+      "name": {
+        "local": "Pokok Sena",
+        "en": "Pokok Sena",
+        "slug": "pokok-sena-0220"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0220",
+        "level": 2,
+        "name": {
+          "local": "Pokok Sena",
+          "en": "Pokok Sena",
+          "slug": "pokok-sena-0220"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.149",
+      "lon": "100.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0220-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TUALANG",
+      "en": "TUALANG",
+      "slug": "tualang-0220-004"
+    },
+    "code": {
+      "id": "0220-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0220",
+      "level": 2,
+      "name": {
+        "local": "Pokok Sena",
+        "en": "Pokok Sena",
+        "slug": "pokok-sena-0220"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0220",
+        "level": 2,
+        "name": {
+          "local": "Pokok Sena",
+          "en": "Pokok Sena",
+          "slug": "pokok-sena-0220"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.119",
+      "lon": "100.478"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

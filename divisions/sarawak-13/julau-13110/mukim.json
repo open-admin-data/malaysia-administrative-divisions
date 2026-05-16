@@ -1,0 +1,272 @@
+[
+  {
+    "id": "13110-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "JIKANG LAND DISTRICT",
+      "en": "JIKANG LAND DISTRICT",
+      "slug": "jikang-land-district-13110-002"
+    },
+    "code": {
+      "id": "13110-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13110",
+      "level": 2,
+      "name": {
+        "local": "Julau",
+        "en": "Julau",
+        "slug": "julau-13110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13110",
+        "level": 2,
+        "name": {
+          "local": "Julau",
+          "en": "Julau",
+          "slug": "julau-13110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.979",
+      "lon": "111.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13110-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "JULAU TOWN DISTRICT",
+      "en": "JULAU TOWN DISTRICT",
+      "slug": "julau-town-district-13110-001"
+    },
+    "code": {
+      "id": "13110-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13110",
+      "level": 2,
+      "name": {
+        "local": "Julau",
+        "en": "Julau",
+        "slug": "julau-13110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13110",
+        "level": 2,
+        "name": {
+          "local": "Julau",
+          "en": "Julau",
+          "slug": "julau-13110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.024",
+      "lon": "111.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13110-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MELURUN LAND DISTRICT",
+      "en": "MELURUN LAND DISTRICT",
+      "slug": "melurun-land-district-13110-003"
+    },
+    "code": {
+      "id": "13110-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13110",
+      "level": 2,
+      "name": {
+        "local": "Julau",
+        "en": "Julau",
+        "slug": "julau-13110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13110",
+        "level": 2,
+        "name": {
+          "local": "Julau",
+          "en": "Julau",
+          "slug": "julau-13110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.813",
+      "lon": "111.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13110-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PAKU LAND DISTRICT",
+      "en": "PAKU LAND DISTRICT",
+      "slug": "paku-land-district-13110-004"
+    },
+    "code": {
+      "id": "13110-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13110",
+      "level": 2,
+      "name": {
+        "local": "Julau",
+        "en": "Julau",
+        "slug": "julau-13110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13110",
+        "level": 2,
+        "name": {
+          "local": "Julau",
+          "en": "Julau",
+          "slug": "julau-13110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.908",
+      "lon": "111.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13110-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "TEKOYONG LAND DISTRICT",
+      "en": "TEKOYONG LAND DISTRICT",
+      "slug": "tekoyong-land-district-13110-005"
+    },
+    "code": {
+      "id": "13110-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "13110",
+      "level": 2,
+      "name": {
+        "local": "Julau",
+        "en": "Julau",
+        "slug": "julau-13110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13110",
+        "level": 2,
+        "name": {
+          "local": "Julau",
+          "en": "Julau",
+          "slug": "julau-13110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.745",
+      "lon": "111.959"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

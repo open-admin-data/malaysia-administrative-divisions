@@ -1,0 +1,272 @@
+[
+  {
+    "id": "13121-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "IGAN TOWN DISTRICT",
+      "en": "IGAN TOWN DISTRICT",
+      "slug": "igan-town-district-13121-003"
+    },
+    "code": {
+      "id": "13121-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13121",
+      "level": 2,
+      "name": {
+        "local": "Matu",
+        "en": "Matu",
+        "slug": "matu-13121"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13121",
+        "level": 2,
+        "name": {
+          "local": "Matu",
+          "en": "Matu",
+          "slug": "matu-13121"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.819",
+      "lon": "111.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13121-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "JEMORENG LAND DISTRICT",
+      "en": "JEMORENG LAND DISTRICT",
+      "slug": "jemoreng-land-district-13121-001"
+    },
+    "code": {
+      "id": "13121-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13121",
+      "level": 2,
+      "name": {
+        "local": "Matu",
+        "en": "Matu",
+        "slug": "matu-13121"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13121",
+        "level": 2,
+        "name": {
+          "local": "Matu",
+          "en": "Matu",
+          "slug": "matu-13121"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.603",
+      "lon": "111.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13121-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "LASSA LAND DISTRICT",
+      "en": "LASSA LAND DISTRICT",
+      "slug": "lassa-land-district-13121-004"
+    },
+    "code": {
+      "id": "13121-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13121",
+      "level": 2,
+      "name": {
+        "local": "Matu",
+        "en": "Matu",
+        "slug": "matu-13121"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13121",
+        "level": 2,
+        "name": {
+          "local": "Matu",
+          "en": "Matu",
+          "slug": "matu-13121"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.63",
+      "lon": "111.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13121-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MATU TOWN DISTRICT",
+      "en": "MATU TOWN DISTRICT",
+      "slug": "matu-town-district-13121-005"
+    },
+    "code": {
+      "id": "13121-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "13121",
+      "level": 2,
+      "name": {
+        "local": "Matu",
+        "en": "Matu",
+        "slug": "matu-13121"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13121",
+        "level": 2,
+        "name": {
+          "local": "Matu",
+          "en": "Matu",
+          "slug": "matu-13121"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.673",
+      "lon": "111.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13121-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "RETUS LAND DISTRICT",
+      "en": "RETUS LAND DISTRICT",
+      "slug": "retus-land-district-13121-002"
+    },
+    "code": {
+      "id": "13121-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13121",
+      "level": 2,
+      "name": {
+        "local": "Matu",
+        "en": "Matu",
+        "slug": "matu-13121"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13121",
+        "level": 2,
+        "name": {
+          "local": "Matu",
+          "en": "Matu",
+          "slug": "matu-13121"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.594",
+      "lon": "111.838"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "0859",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kampar",
+    "en": "Kampar",
+    "slug": "kampar-0859"
+  },
+  "code": {
+    "id": "0859",
+    "iso": null
+  },
+  "parent": {
+    "id": "08",
+    "level": 1,
+    "name": {
+      "local": "Perak",
+      "en": "Perak",
+      "slug": "perak-08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.412",
+    "lon": "101.24"
+  },
+  "metadata": {},
+  "source": {}
+}

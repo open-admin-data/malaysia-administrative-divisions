@@ -1,0 +1,47 @@
+{
+  "id": "0332",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tanah Merah",
+    "en": "Tanah Merah",
+    "slug": "tanah-merah-0332"
+  },
+  "code": {
+    "id": "0332",
+    "iso": null
+  },
+  "parent": {
+    "id": "03",
+    "level": 1,
+    "name": {
+      "local": "Kelantan",
+      "en": "Kelantan",
+      "slug": "kelantan-03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "Kelantan",
+        "en": "Kelantan",
+        "slug": "kelantan-03"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.75",
+    "lon": "102.021"
+  },
+  "metadata": {},
+  "source": {}
+}

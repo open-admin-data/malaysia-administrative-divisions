@@ -1,0 +1,47 @@
+{
+  "id": "13103",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Belaga",
+    "en": "Belaga",
+    "slug": "belaga-13103"
+  },
+  "code": {
+    "id": "13103",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "Sarawak",
+      "en": "Sarawak",
+      "slug": "sarawak-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.67",
+    "lon": "114.332"
+  },
+  "metadata": {},
+  "source": {}
+}

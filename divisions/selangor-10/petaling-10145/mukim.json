@@ -1,0 +1,1676 @@
+[
+  {
+    "id": "10145-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR DAMANSARA",
+      "en": "BANDAR DAMANSARA",
+      "slug": "bandar-damansara-10145-004"
+    },
+    "code": {
+      "id": "10145-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.132",
+      "lon": "101.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145-023",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR GLENMARIE",
+      "en": "BANDAR GLENMARIE",
+      "slug": "bandar-glenmarie-10145-023"
+    },
+    "code": {
+      "id": "10145-023",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.086",
+      "lon": "101.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145-017",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR PETALING JAYA",
+      "en": "BANDAR PETALING JAYA",
+      "slug": "bandar-petaling-jaya-10145-017"
+    },
+    "code": {
+      "id": "10145-017",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.115",
+      "lon": "101.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145-018",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR PETALING JAYA SELATAN",
+      "en": "BANDAR PETALING JAYA SELATAN",
+      "slug": "bandar-petaling-jaya-selatan-10145-018"
+    },
+    "code": {
+      "id": "10145-018",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.076",
+      "lon": "101.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SAUJANA",
+      "en": "BANDAR SAUJANA",
+      "slug": "bandar-saujana-10145-001"
+    },
+    "code": {
+      "id": "10145-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.107",
+      "lon": "101.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145-020",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SHAH ALAM",
+      "en": "BANDAR SHAH ALAM",
+      "slug": "bandar-shah-alam-10145-020"
+    },
+    "code": {
+      "id": "10145-020",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.055",
+      "lon": "101.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SRI DAMANSARA",
+      "en": "BANDAR SRI DAMANSARA",
+      "slug": "bandar-sri-damansara-10145-003"
+    },
+    "code": {
+      "id": "10145-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.198",
+      "lon": "101.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SUBANG JAYA",
+      "en": "BANDAR SUBANG JAYA",
+      "slug": "bandar-subang-jaya-10145-005"
+    },
+    "code": {
+      "id": "10145-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.076",
+      "lon": "101.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145-029",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SUNWAY",
+      "en": "BANDAR SUNWAY",
+      "slug": "bandar-sunway-10145-029"
+    },
+    "code": {
+      "id": "10145-029",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.072",
+      "lon": "101.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145-031",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BUKIT RAJA",
+      "en": "BUKIT RAJA",
+      "slug": "bukit-raja-10145-031"
+    },
+    "code": {
+      "id": "10145-031",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.15",
+      "lon": "101.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM DAMANSARA",
+      "en": "DAMANSARA",
+      "slug": "damansara-10145-002"
+    },
+    "code": {
+      "id": "10145-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.055",
+      "lon": "101.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145-027",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BARU HICOM",
+      "en": "PEKAN BARU HICOM",
+      "slug": "pekan-baru-hicom-10145-027"
+    },
+    "code": {
+      "id": "10145-027",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.045",
+      "lon": "101.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BARU SUBANG",
+      "en": "PEKAN BARU SUBANG",
+      "slug": "pekan-baru-subang-10145-011"
+    },
+    "code": {
+      "id": "10145-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.15",
+      "lon": "101.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BARU SUNGAI BESI",
+      "en": "PEKAN BARU SUNGAI BESI",
+      "slug": "pekan-baru-sungai-besi-10145-014"
+    },
+    "code": {
+      "id": "10145-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.036",
+      "lon": "101.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BARU SUNGAI BULOH",
+      "en": "PEKAN BARU SUNGAI BULOH",
+      "slug": "pekan-baru-sungai-buloh-10145-013"
+    },
+    "code": {
+      "id": "10145-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.191",
+      "lon": "101.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BATU",
+      "en": "PEKAN BATU",
+      "slug": "pekan-batu-10145-008"
+    },
+    "code": {
+      "id": "10145-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.003",
+      "lon": "101.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BATU TIGA",
+      "en": "PEKAN BATU TIGA",
+      "slug": "pekan-batu-tiga-10145-015"
+    },
+    "code": {
+      "id": "10145-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.075",
+      "lon": "101.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145-021",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN CEMPAKA",
+      "en": "PEKAN CEMPAKA",
+      "slug": "pekan-cempaka-10145-021"
+    },
+    "code": {
+      "id": "10145-021",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.12",
+      "lon": "101.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN COUNTRY HEIGHT",
+      "en": "PEKAN COUNTRY HEIGHT",
+      "slug": "pekan-country-height-10145-010"
+    },
+    "code": {
+      "id": "10145-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.074",
+      "lon": "101.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145-026",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN DESA PUCHONG",
+      "en": "PEKAN DESA PUCHONG",
+      "slug": "pekan-desa-puchong-10145-026"
+    },
+    "code": {
+      "id": "10145-026",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.038",
+      "lon": "101.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145-028",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KAYU ARA",
+      "en": "PEKAN KAYU ARA",
+      "slug": "pekan-kayu-ara-10145-028"
+    },
+    "code": {
+      "id": "10145-028",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.132",
+      "lon": "101.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145-030",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KINRARA",
+      "en": "PEKAN KINRARA",
+      "slug": "pekan-kinrara-10145-030"
+    },
+    "code": {
+      "id": "10145-030",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.045",
+      "lon": "101.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN MERBAU SEMPAK",
+      "en": "PEKAN MERBAU SEMPAK",
+      "slug": "pekan-merbau-sempak-10145-007"
+    },
+    "code": {
+      "id": "10145-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.218",
+      "lon": "101.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PENAGA",
+      "en": "PEKAN PENAGA",
+      "slug": "pekan-penaga-10145-006"
+    },
+    "code": {
+      "id": "10145-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.05",
+      "lon": "101.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PUCHONG",
+      "en": "PEKAN PUCHONG",
+      "slug": "pekan-puchong-10145-009"
+    },
+    "code": {
+      "id": "10145-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.02",
+      "lon": "101.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PUCHONG JAYA",
+      "en": "PEKAN PUCHONG JAYA",
+      "slug": "pekan-puchong-jaya-10145-012"
+    },
+    "code": {
+      "id": "10145-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.058",
+      "lon": "101.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145-022",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PUCHONG PERDANA",
+      "en": "PEKAN PUCHONG PERDANA",
+      "slug": "pekan-puchong-perdana-10145-022"
+    },
+    "code": {
+      "id": "10145-022",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.004",
+      "lon": "101.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145-024",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SERDANG",
+      "en": "PEKAN SERDANG",
+      "slug": "pekan-serdang-10145-024"
+    },
+    "code": {
+      "id": "10145-024",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.024",
+      "lon": "101.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145-025",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SUBANG",
+      "en": "PEKAN SUBANG",
+      "slug": "pekan-subang-10145-025"
+    },
+    "code": {
+      "id": "10145-025",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.136",
+      "lon": "101.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145-019",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SUBANG JAYA",
+      "en": "PEKAN SUBANG JAYA",
+      "slug": "pekan-subang-jaya-10145-019"
+    },
+    "code": {
+      "id": "10145-019",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.042",
+      "lon": "101.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10145-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SUNGAI BULOH",
+      "en": "SUNGAI BULOH",
+      "slug": "sungai-buloh-10145-016"
+    },
+    "code": {
+      "id": "10145-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "10145",
+      "level": 2,
+      "name": {
+        "local": "Petaling",
+        "en": "Petaling",
+        "slug": "petaling-10145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10145",
+        "level": 2,
+        "name": {
+          "local": "Petaling",
+          "en": "Petaling",
+          "slug": "petaling-10145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.187",
+      "lon": "101.558"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

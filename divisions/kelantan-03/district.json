@@ -1,0 +1,519 @@
+[
+  {
+    "id": "0323",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bachok",
+      "en": "Bachok",
+      "slug": "bachok-0323"
+    },
+    "code": {
+      "id": "0323",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "Kelantan",
+        "en": "Kelantan",
+        "slug": "kelantan-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 31
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.958",
+      "lon": "102.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0324",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gua Musang",
+      "en": "Gua Musang",
+      "slug": "gua-musang-0324"
+    },
+    "code": {
+      "id": "0324",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "Kelantan",
+        "en": "Kelantan",
+        "slug": "kelantan-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.919",
+      "lon": "102.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0325",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jeli",
+      "en": "Jeli",
+      "slug": "jeli-0325"
+    },
+    "code": {
+      "id": "0325",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "Kelantan",
+        "en": "Kelantan",
+        "slug": "kelantan-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.655",
+      "lon": "101.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0326",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kecil Lojing",
+      "en": "Kecil Lojing",
+      "slug": "kecil-lojing-0326"
+    },
+    "code": {
+      "id": "0326",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "Kelantan",
+        "en": "Kelantan",
+        "slug": "kelantan-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.733",
+      "lon": "101.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0327",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kota Bharu",
+      "en": "Kota Bharu",
+      "slug": "kota-bharu-0327"
+    },
+    "code": {
+      "id": "0327",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "Kelantan",
+        "en": "Kelantan",
+        "slug": "kelantan-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 85
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.049",
+      "lon": "102.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0328",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuala Krai",
+      "en": "Kuala Krai",
+      "slug": "kuala-krai-0328"
+    },
+    "code": {
+      "id": "0328",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "Kelantan",
+        "en": "Kelantan",
+        "slug": "kelantan-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.533",
+      "lon": "102.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0329",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Machang",
+      "en": "Machang",
+      "slug": "machang-0329"
+    },
+    "code": {
+      "id": "0329",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "Kelantan",
+        "en": "Kelantan",
+        "slug": "kelantan-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.763",
+      "lon": "102.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0330",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pasir Mas",
+      "en": "Pasir Mas",
+      "slug": "pasir-mas-0330"
+    },
+    "code": {
+      "id": "0330",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "Kelantan",
+        "en": "Kelantan",
+        "slug": "kelantan-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 43
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.009",
+      "lon": "102.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0331",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pasir Puteh",
+      "en": "Pasir Puteh",
+      "slug": "pasir-puteh-0331"
+    },
+    "code": {
+      "id": "0331",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "Kelantan",
+        "en": "Kelantan",
+        "slug": "kelantan-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 34
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.873",
+      "lon": "102.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0332",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tanah Merah",
+      "en": "Tanah Merah",
+      "slug": "tanah-merah-0332"
+    },
+    "code": {
+      "id": "0332",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "Kelantan",
+        "en": "Kelantan",
+        "slug": "kelantan-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.75",
+      "lon": "102.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0333",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tumpat",
+      "en": "Tumpat",
+      "slug": "tumpat-0333"
+    },
+    "code": {
+      "id": "0333",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "Kelantan",
+        "en": "Kelantan",
+        "slug": "kelantan-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.166",
+      "lon": "102.164"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,704 @@
+[
+  {
+    "id": "0652-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR RAUB",
+      "en": "BANDAR RAUB",
+      "slug": "bandar-raub-0652-008"
+    },
+    "code": {
+      "id": "0652-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0652",
+      "level": 2,
+      "name": {
+        "local": "Raub",
+        "en": "Raub",
+        "slug": "raub-0652"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0652",
+        "level": 2,
+        "name": {
+          "local": "Raub",
+          "en": "Raub",
+          "slug": "raub-0652"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.794",
+      "lon": "101.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0652-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR TERAS",
+      "en": "BANDAR TERAS",
+      "slug": "bandar-teras-0652-003"
+    },
+    "code": {
+      "id": "0652-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0652",
+      "level": 2,
+      "name": {
+        "local": "Raub",
+        "en": "Raub",
+        "slug": "raub-0652"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0652",
+        "level": 2,
+        "name": {
+          "local": "Raub",
+          "en": "Raub",
+          "slug": "raub-0652"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.743",
+      "lon": "101.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0652-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BATU TALAM",
+      "en": "BATU TALAM",
+      "slug": "batu-talam-0652-009"
+    },
+    "code": {
+      "id": "0652-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0652",
+      "level": 2,
+      "name": {
+        "local": "Raub",
+        "en": "Raub",
+        "slug": "raub-0652"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0652",
+        "level": 2,
+        "name": {
+          "local": "Raub",
+          "en": "Raub",
+          "slug": "raub-0652"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.01",
+      "lon": "101.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0652-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM DONG",
+      "en": "DONG",
+      "slug": "dong-0652-012"
+    },
+    "code": {
+      "id": "0652-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0652",
+      "level": 2,
+      "name": {
+        "local": "Raub",
+        "en": "Raub",
+        "slug": "raub-0652"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0652",
+        "level": 2,
+        "name": {
+          "local": "Raub",
+          "en": "Raub",
+          "slug": "raub-0652"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.914",
+      "lon": "101.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0652-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM GALI",
+      "en": "GALI",
+      "slug": "gali-0652-005"
+    },
+    "code": {
+      "id": "0652-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0652",
+      "level": 2,
+      "name": {
+        "local": "Raub",
+        "en": "Raub",
+        "slug": "raub-0652"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0652",
+        "level": 2,
+        "name": {
+          "local": "Raub",
+          "en": "Raub",
+          "slug": "raub-0652"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.744",
+      "lon": "101.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0652-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM HULU DONG",
+      "en": "HULU DONG",
+      "slug": "hulu-dong-0652-004"
+    },
+    "code": {
+      "id": "0652-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0652",
+      "level": 2,
+      "name": {
+        "local": "Raub",
+        "en": "Raub",
+        "slug": "raub-0652"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0652",
+        "level": 2,
+        "name": {
+          "local": "Raub",
+          "en": "Raub",
+          "slug": "raub-0652"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.886",
+      "lon": "102.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0652-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN CHEROH",
+      "en": "PEKAN CHEROH",
+      "slug": "pekan-cheroh-0652-006"
+    },
+    "code": {
+      "id": "0652-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0652",
+      "level": 2,
+      "name": {
+        "local": "Raub",
+        "en": "Raub",
+        "slug": "raub-0652"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0652",
+        "level": 2,
+        "name": {
+          "local": "Raub",
+          "en": "Raub",
+          "slug": "raub-0652"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.902",
+      "lon": "101.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0652-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN DONG",
+      "en": "PEKAN DONG",
+      "slug": "pekan-dong-0652-001"
+    },
+    "code": {
+      "id": "0652-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0652",
+      "level": 2,
+      "name": {
+        "local": "Raub",
+        "en": "Raub",
+        "slug": "raub-0652"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0652",
+        "level": 2,
+        "name": {
+          "local": "Raub",
+          "en": "Raub",
+          "slug": "raub-0652"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.894",
+      "lon": "101.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0652-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TRANUM",
+      "en": "PEKAN TRANUM",
+      "slug": "pekan-tranum-0652-007"
+    },
+    "code": {
+      "id": "0652-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0652",
+      "level": 2,
+      "name": {
+        "local": "Raub",
+        "en": "Raub",
+        "slug": "raub-0652"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0652",
+        "level": 2,
+        "name": {
+          "local": "Raub",
+          "en": "Raub",
+          "slug": "raub-0652"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.728",
+      "lon": "101.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0652-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SEGA",
+      "en": "SEGA",
+      "slug": "sega-0652-013"
+    },
+    "code": {
+      "id": "0652-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0652",
+      "level": 2,
+      "name": {
+        "local": "Raub",
+        "en": "Raub",
+        "slug": "raub-0652"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0652",
+        "level": 2,
+        "name": {
+          "local": "Raub",
+          "en": "Raub",
+          "slug": "raub-0652"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.014",
+      "lon": "101.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0652-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SEMANTAN HULU",
+      "en": "SEMANTAN HULU",
+      "slug": "semantan-hulu-0652-010"
+    },
+    "code": {
+      "id": "0652-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0652",
+      "level": 2,
+      "name": {
+        "local": "Raub",
+        "en": "Raub",
+        "slug": "raub-0652"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0652",
+        "level": 2,
+        "name": {
+          "local": "Raub",
+          "en": "Raub",
+          "slug": "raub-0652"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.857",
+      "lon": "101.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0652-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SUNGAI RAYA",
+      "en": "SUNGAI RAYA",
+      "slug": "sungai-raya-0652-011"
+    },
+    "code": {
+      "id": "0652-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0652",
+      "level": 2,
+      "name": {
+        "local": "Raub",
+        "en": "Raub",
+        "slug": "raub-0652"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0652",
+        "level": 2,
+        "name": {
+          "local": "Raub",
+          "en": "Raub",
+          "slug": "raub-0652"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.726",
+      "lon": "101.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0652-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TERAS",
+      "en": "TERAS",
+      "slug": "teras-0652-002"
+    },
+    "code": {
+      "id": "0652-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0652",
+      "level": 2,
+      "name": {
+        "local": "Raub",
+        "en": "Raub",
+        "slug": "raub-0652"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0652",
+        "level": 2,
+        "name": {
+          "local": "Raub",
+          "en": "Raub",
+          "slug": "raub-0652"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.727",
+      "lon": "101.807"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Malaysia Administrative Divisions Dataset"
+version: "2026.05"
+date-released: "2026-05-16"
+url: "https://github.com/open-admin-data/malaysia-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/malaysia-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - malaysia
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Malaysia's administrative hierarchy:
+  16 states, 160 districts, 1,859 subdistricts.
+  Bilingual with coordinates and postal codes where available.

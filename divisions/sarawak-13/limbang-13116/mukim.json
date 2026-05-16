@@ -1,0 +1,488 @@
+[
+  {
+    "id": "13116-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BATU DANAU TOWN DISTRICT",
+      "en": "BATU DANAU TOWN DISTRICT",
+      "slug": "batu-danau-town-district-13116-008"
+    },
+    "code": {
+      "id": "13116-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "13116",
+      "level": 2,
+      "name": {
+        "local": "Limbang",
+        "en": "Limbang",
+        "slug": "limbang-13116"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13116",
+        "level": 2,
+        "name": {
+          "local": "Limbang",
+          "en": "Limbang",
+          "slug": "limbang-13116"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.655",
+      "lon": "114.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13116-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BATU LAWI LAND DISTRICT",
+      "en": "BATU LAWI LAND DISTRICT",
+      "slug": "batu-lawi-land-district-13116-002"
+    },
+    "code": {
+      "id": "13116-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13116",
+      "level": 2,
+      "name": {
+        "local": "Limbang",
+        "en": "Limbang",
+        "slug": "limbang-13116"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13116",
+        "level": 2,
+        "name": {
+          "local": "Limbang",
+          "en": "Limbang",
+          "slug": "limbang-13116"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.923",
+      "lon": "115.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13116-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "DANAU LAND DISTRICT",
+      "en": "DANAU LAND DISTRICT",
+      "slug": "danau-land-district-13116-001"
+    },
+    "code": {
+      "id": "13116-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13116",
+      "level": 2,
+      "name": {
+        "local": "Limbang",
+        "en": "Limbang",
+        "slug": "limbang-13116"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13116",
+        "level": 2,
+        "name": {
+          "local": "Limbang",
+          "en": "Limbang",
+          "slug": "limbang-13116"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.639",
+      "lon": "114.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13116-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "LIMBANG TOWN DISTRICT",
+      "en": "LIMBANG TOWN DISTRICT",
+      "slug": "limbang-town-district-13116-003"
+    },
+    "code": {
+      "id": "13116-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13116",
+      "level": 2,
+      "name": {
+        "local": "Limbang",
+        "en": "Limbang",
+        "slug": "limbang-13116"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13116",
+        "level": 2,
+        "name": {
+          "local": "Limbang",
+          "en": "Limbang",
+          "slug": "limbang-13116"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.749",
+      "lon": "115.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13116-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "LONG NAPIR LAND DISTRICT",
+      "en": "LONG NAPIR LAND DISTRICT",
+      "slug": "long-napir-land-district-13116-006"
+    },
+    "code": {
+      "id": "13116-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "13116",
+      "level": 2,
+      "name": {
+        "local": "Limbang",
+        "en": "Limbang",
+        "slug": "limbang-13116"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13116",
+        "level": 2,
+        "name": {
+          "local": "Limbang",
+          "en": "Limbang",
+          "slug": "limbang-13116"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.316",
+      "lon": "115.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13116-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "NANGA MEDAMIT TOWN DISTRICT",
+      "en": "NANGA MEDAMIT TOWN DISTRICT",
+      "slug": "nanga-medamit-town-district-13116-004"
+    },
+    "code": {
+      "id": "13116-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13116",
+      "level": 2,
+      "name": {
+        "local": "Limbang",
+        "en": "Limbang",
+        "slug": "limbang-13116"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13116",
+        "level": 2,
+        "name": {
+          "local": "Limbang",
+          "en": "Limbang",
+          "slug": "limbang-13116"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.48",
+      "lon": "114.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13116-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PANDARUAN LAND DISTRICT",
+      "en": "PANDARUAN LAND DISTRICT",
+      "slug": "pandaruan-land-district-13116-009"
+    },
+    "code": {
+      "id": "13116-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "13116",
+      "level": 2,
+      "name": {
+        "local": "Limbang",
+        "en": "Limbang",
+        "slug": "limbang-13116"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13116",
+        "level": 2,
+        "name": {
+          "local": "Limbang",
+          "en": "Limbang",
+          "slug": "limbang-13116"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.646",
+      "lon": "115.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13116-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SUNGAI MEDALAM LAND DISTRICT",
+      "en": "SUNGAI MEDALAM LAND DISTRICT",
+      "slug": "sungai-medalam-land-district-13116-005"
+    },
+    "code": {
+      "id": "13116-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "13116",
+      "level": 2,
+      "name": {
+        "local": "Limbang",
+        "en": "Limbang",
+        "slug": "limbang-13116"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13116",
+        "level": 2,
+        "name": {
+          "local": "Limbang",
+          "en": "Limbang",
+          "slug": "limbang-13116"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.269",
+      "lon": "114.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13116-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "UKONG TOWN DISTRICT",
+      "en": "UKONG TOWN DISTRICT",
+      "slug": "ukong-town-district-13116-007"
+    },
+    "code": {
+      "id": "13116-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "13116",
+      "level": 2,
+      "name": {
+        "local": "Limbang",
+        "en": "Limbang",
+        "slug": "limbang-13116"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13116",
+        "level": 2,
+        "name": {
+          "local": "Limbang",
+          "en": "Limbang",
+          "slug": "limbang-13116"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.549",
+      "lon": "114.858"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

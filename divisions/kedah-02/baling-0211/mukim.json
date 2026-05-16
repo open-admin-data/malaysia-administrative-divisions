@@ -1,0 +1,920 @@
+[
+  {
+    "id": "0211-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BAKAI",
+      "en": "BAKAI",
+      "slug": "bakai-0211-004"
+    },
+    "code": {
+      "id": "0211-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0211",
+      "level": 2,
+      "name": {
+        "local": "Baling",
+        "en": "Baling",
+        "slug": "baling-0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0211",
+        "level": 2,
+        "name": {
+          "local": "Baling",
+          "en": "Baling",
+          "slug": "baling-0211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.485",
+      "lon": "100.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0211-017",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BALING",
+      "en": "BALING",
+      "slug": "baling-0211-017"
+    },
+    "code": {
+      "id": "0211-017",
+      "iso": null
+    },
+    "parent": {
+      "id": "0211",
+      "level": 2,
+      "name": {
+        "local": "Baling",
+        "en": "Baling",
+        "slug": "baling-0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0211",
+        "level": 2,
+        "name": {
+          "local": "Baling",
+          "en": "Baling",
+          "slug": "baling-0211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.683",
+      "lon": "100.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0211-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BALING",
+      "en": "BANDAR BALING",
+      "slug": "bandar-baling-0211-007"
+    },
+    "code": {
+      "id": "0211-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0211",
+      "level": 2,
+      "name": {
+        "local": "Baling",
+        "en": "Baling",
+        "slug": "baling-0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0211",
+        "level": 2,
+        "name": {
+          "local": "Baling",
+          "en": "Baling",
+          "slug": "baling-0211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.67",
+      "lon": "100.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0211-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR KUALA KETIL",
+      "en": "BANDAR KUALA KETIL",
+      "slug": "bandar-kuala-ketil-0211-014"
+    },
+    "code": {
+      "id": "0211-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "0211",
+      "level": 2,
+      "name": {
+        "local": "Baling",
+        "en": "Baling",
+        "slug": "baling-0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0211",
+        "level": 2,
+        "name": {
+          "local": "Baling",
+          "en": "Baling",
+          "slug": "baling-0211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.588",
+      "lon": "100.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0211-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR KUPANG",
+      "en": "BANDAR KUPANG",
+      "slug": "bandar-kupang-0211-008"
+    },
+    "code": {
+      "id": "0211-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0211",
+      "level": 2,
+      "name": {
+        "local": "Baling",
+        "en": "Baling",
+        "slug": "baling-0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0211",
+        "level": 2,
+        "name": {
+          "local": "Baling",
+          "en": "Baling",
+          "slug": "baling-0211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.638",
+      "lon": "100.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0211-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BONGOR",
+      "en": "BONGOR",
+      "slug": "bongor-0211-003"
+    },
+    "code": {
+      "id": "0211-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0211",
+      "level": 2,
+      "name": {
+        "local": "Baling",
+        "en": "Baling",
+        "slug": "baling-0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0211",
+        "level": 2,
+        "name": {
+          "local": "Baling",
+          "en": "Baling",
+          "slug": "baling-0211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.718",
+      "lon": "100.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0211-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUPANG",
+      "en": "KUPANG",
+      "slug": "kupang-0211-010"
+    },
+    "code": {
+      "id": "0211-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0211",
+      "level": 2,
+      "name": {
+        "local": "Baling",
+        "en": "Baling",
+        "slug": "baling-0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0211",
+        "level": 2,
+        "name": {
+          "local": "Baling",
+          "en": "Baling",
+          "slug": "baling-0211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.595",
+      "lon": "100.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0211-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KAMPUNG BARU KEJAI",
+      "en": "PEKAN KAMPUNG BARU KEJAI",
+      "slug": "pekan-kampung-baru-kejai-0211-006"
+    },
+    "code": {
+      "id": "0211-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0211",
+      "level": 2,
+      "name": {
+        "local": "Baling",
+        "en": "Baling",
+        "slug": "baling-0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0211",
+        "level": 2,
+        "name": {
+          "local": "Baling",
+          "en": "Baling",
+          "slug": "baling-0211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.549",
+      "lon": "100.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0211-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KAMPUNG LALANG",
+      "en": "PEKAN KAMPUNG LALANG",
+      "slug": "pekan-kampung-lalang-0211-001"
+    },
+    "code": {
+      "id": "0211-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0211",
+      "level": 2,
+      "name": {
+        "local": "Baling",
+        "en": "Baling",
+        "slug": "baling-0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0211",
+        "level": 2,
+        "name": {
+          "local": "Baling",
+          "en": "Baling",
+          "slug": "baling-0211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.792",
+      "lon": "100.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0211-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KUALA PEGANG",
+      "en": "PEKAN KUALA PEGANG",
+      "slug": "pekan-kuala-pegang-0211-009"
+    },
+    "code": {
+      "id": "0211-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0211",
+      "level": 2,
+      "name": {
+        "local": "Baling",
+        "en": "Baling",
+        "slug": "baling-0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0211",
+        "level": 2,
+        "name": {
+          "local": "Baling",
+          "en": "Baling",
+          "slug": "baling-0211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.63",
+      "lon": "100.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0211-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN MALAU",
+      "en": "PEKAN MALAU",
+      "slug": "pekan-malau-0211-016"
+    },
+    "code": {
+      "id": "0211-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "0211",
+      "level": 2,
+      "name": {
+        "local": "Baling",
+        "en": "Baling",
+        "slug": "baling-0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0211",
+        "level": 2,
+        "name": {
+          "local": "Baling",
+          "en": "Baling",
+          "slug": "baling-0211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.504",
+      "lon": "100.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0211-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PARIT PANJANG",
+      "en": "PEKAN PARIT PANJANG",
+      "slug": "pekan-parit-panjang-0211-011"
+    },
+    "code": {
+      "id": "0211-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0211",
+      "level": 2,
+      "name": {
+        "local": "Baling",
+        "en": "Baling",
+        "slug": "baling-0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0211",
+        "level": 2,
+        "name": {
+          "local": "Baling",
+          "en": "Baling",
+          "slug": "baling-0211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.703",
+      "lon": "100.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0211-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PULAI",
+      "en": "PEKAN PULAI",
+      "slug": "pekan-pulai-0211-012"
+    },
+    "code": {
+      "id": "0211-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0211",
+      "level": 2,
+      "name": {
+        "local": "Baling",
+        "en": "Baling",
+        "slug": "baling-0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0211",
+        "level": 2,
+        "name": {
+          "local": "Baling",
+          "en": "Baling",
+          "slug": "baling-0211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.656",
+      "lon": "100.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0211-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TAWAR",
+      "en": "PEKAN TAWAR",
+      "slug": "pekan-tawar-0211-015"
+    },
+    "code": {
+      "id": "0211-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "0211",
+      "level": 2,
+      "name": {
+        "local": "Baling",
+        "en": "Baling",
+        "slug": "baling-0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0211",
+        "level": 2,
+        "name": {
+          "local": "Baling",
+          "en": "Baling",
+          "slug": "baling-0211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.598",
+      "lon": "100.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0211-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SIONG",
+      "en": "SIONG",
+      "slug": "siong-0211-002"
+    },
+    "code": {
+      "id": "0211-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0211",
+      "level": 2,
+      "name": {
+        "local": "Baling",
+        "en": "Baling",
+        "slug": "baling-0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0211",
+        "level": 2,
+        "name": {
+          "local": "Baling",
+          "en": "Baling",
+          "slug": "baling-0211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.899",
+      "lon": "100.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0211-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TAWAR",
+      "en": "TAWAR",
+      "slug": "tawar-0211-013"
+    },
+    "code": {
+      "id": "0211-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0211",
+      "level": 2,
+      "name": {
+        "local": "Baling",
+        "en": "Baling",
+        "slug": "baling-0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0211",
+        "level": 2,
+        "name": {
+          "local": "Baling",
+          "en": "Baling",
+          "slug": "baling-0211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.591",
+      "lon": "100.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0211-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TELOI KANAN",
+      "en": "TELOI KANAN",
+      "slug": "teloi-kanan-0211-005"
+    },
+    "code": {
+      "id": "0211-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0211",
+      "level": 2,
+      "name": {
+        "local": "Baling",
+        "en": "Baling",
+        "slug": "baling-0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0211",
+        "level": 2,
+        "name": {
+          "local": "Baling",
+          "en": "Baling",
+          "slug": "baling-0211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.66",
+      "lon": "100.711"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

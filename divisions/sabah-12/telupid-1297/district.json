@@ -1,0 +1,47 @@
+{
+  "id": "1297",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Telupid",
+    "en": "Telupid",
+    "slug": "telupid-1297"
+  },
+  "code": {
+    "id": "1297",
+    "iso": null
+  },
+  "parent": {
+    "id": "12",
+    "level": 1,
+    "name": {
+      "local": "Sabah",
+      "en": "Sabah",
+      "slug": "sabah-12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.827",
+    "lon": "117.165"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,43 @@
+# Malaysia Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-16. License: CC-BY-4.0.
+
+## Per-State Data Files
+
+- [Johor](https://github.com/open-admin-data/malaysia-administrative-divisions/blob/main/docs/llms-full/johor-01.txt) — 10 districts, 95 subdistricts
+- [Kedah](https://github.com/open-admin-data/malaysia-administrative-divisions/blob/main/docs/llms-full/kedah-02.txt) — 12 districts, 212 subdistricts
+- [Kelantan](https://github.com/open-admin-data/malaysia-administrative-divisions/blob/main/docs/llms-full/kelantan-03.txt) — 11 districts, 302 subdistricts
+- [Malacca](https://github.com/open-admin-data/malaysia-administrative-divisions/blob/main/docs/llms-full/malacca-04.txt) — 3 districts, 107 subdistricts
+- [Negeri Sembilan](https://github.com/open-admin-data/malaysia-administrative-divisions/blob/main/docs/llms-full/negeri-sembilan-05.txt) — 7 districts, 154 subdistricts
+- [Pahang](https://github.com/open-admin-data/malaysia-administrative-divisions/blob/main/docs/llms-full/pahang-06.txt) — 11 districts, 128 subdistricts
+- [Penang](https://github.com/open-admin-data/malaysia-administrative-divisions/blob/main/docs/llms-full/penang-07.txt) — 5 districts, 47 subdistricts
+- [Perak](https://github.com/open-admin-data/malaysia-administrative-divisions/blob/main/docs/llms-full/perak-08.txt) — 13 districts, 185 subdistricts
+- [Perlis](https://github.com/open-admin-data/malaysia-administrative-divisions/blob/main/docs/llms-full/perlis-09.txt) — 1 districts, 23 subdistricts
+- [Selangor](https://github.com/open-admin-data/malaysia-administrative-divisions/blob/main/docs/llms-full/selangor-10.txt) — 9 districts, 212 subdistricts
+- [Terengganu](https://github.com/open-admin-data/malaysia-administrative-divisions/blob/main/docs/llms-full/terengganu-11.txt) — 8 districts, 96 subdistricts
+- [Sabah](https://github.com/open-admin-data/malaysia-administrative-divisions/blob/main/docs/llms-full/sabah-12.txt) — 27 districts, 0 subdistricts
+- [Sarawak](https://github.com/open-admin-data/malaysia-administrative-divisions/blob/main/docs/llms-full/sarawak-13.txt) — 40 districts, 285 subdistricts
+- [Federal Territory of Kuala Lumpur](https://github.com/open-admin-data/malaysia-administrative-divisions/blob/main/docs/llms-full/federal-territory-of-kuala-lumpur-14.txt) — 1 districts, 12 subdistricts
+- [Federal Territory of Labuan](https://github.com/open-admin-data/malaysia-administrative-divisions/blob/main/docs/llms-full/federal-territory-of-labuan-15.txt) — 1 districts, 1 subdistricts
+- [Federal Territory of Putrajaya](https://github.com/open-admin-data/malaysia-administrative-divisions/blob/main/docs/llms-full/federal-territory-of-putrajaya-16.txt) — 1 districts, 0 subdistricts
+
+## Summary
+
+| State | Districts | Subdistricts | 
+|---|---|---|
+| Johor | 10 | 95 | 
+| Kedah | 12 | 212 | 
+| Kelantan | 11 | 302 | 
+| Malacca | 3 | 107 | 
+| Negeri Sembilan | 7 | 154 | 
+| Pahang | 11 | 128 | 
+| Penang | 5 | 47 | 
+| Perak | 13 | 185 | 
+| Perlis | 1 | 23 | 
+| Selangor | 9 | 212 | 
+| Terengganu | 8 | 96 | 
+| Sabah | 27 | 0 | 
+| Sarawak | 40 | 285 | 
+| Federal Territory of Kuala Lumpur | 1 | 12 | 
+| Federal Territory of Labuan | 1 | 1 | 
+| Federal Territory of Putrajaya | 1 | 0 | 

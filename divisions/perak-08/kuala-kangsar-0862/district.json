@@ -1,0 +1,47 @@
+{
+  "id": "0862",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kuala Kangsar",
+    "en": "Kuala Kangsar",
+    "slug": "kuala-kangsar-0862"
+  },
+  "code": {
+    "id": "0862",
+    "iso": null
+  },
+  "parent": {
+    "id": "08",
+    "level": 1,
+    "name": {
+      "local": "Perak",
+      "en": "Perak",
+      "slug": "perak-08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.819",
+    "lon": "101.145"
+  },
+  "metadata": {},
+  "source": {}
+}

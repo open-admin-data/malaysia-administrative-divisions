@@ -1,0 +1,758 @@
+[
+  {
+    "id": "0647-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR JERANTUT",
+      "en": "BANDAR JERANTUT",
+      "slug": "bandar-jerantut-0647-013"
+    },
+    "code": {
+      "id": "0647-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0647",
+      "level": 2,
+      "name": {
+        "local": "Jerantut",
+        "en": "Jerantut",
+        "slug": "jerantut-0647"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0647",
+        "level": 2,
+        "name": {
+          "local": "Jerantut",
+          "en": "Jerantut",
+          "slug": "jerantut-0647"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.934",
+      "lon": "102.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0647-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BURAU",
+      "en": "BURAU",
+      "slug": "burau-0647-009"
+    },
+    "code": {
+      "id": "0647-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0647",
+      "level": 2,
+      "name": {
+        "local": "Jerantut",
+        "en": "Jerantut",
+        "slug": "jerantut-0647"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0647",
+        "level": 2,
+        "name": {
+          "local": "Jerantut",
+          "en": "Jerantut",
+          "slug": "jerantut-0647"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.812",
+      "lon": "102.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0647-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM HULU CHEKA",
+      "en": "HULU CHEKA",
+      "slug": "hulu-cheka-0647-005"
+    },
+    "code": {
+      "id": "0647-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0647",
+      "level": 2,
+      "name": {
+        "local": "Jerantut",
+        "en": "Jerantut",
+        "slug": "jerantut-0647"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0647",
+        "level": 2,
+        "name": {
+          "local": "Jerantut",
+          "en": "Jerantut",
+          "slug": "jerantut-0647"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.96",
+      "lon": "102.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0647-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM HULU TEMBELING",
+      "en": "HULU TEMBELING",
+      "slug": "hulu-tembeling-0647-002"
+    },
+    "code": {
+      "id": "0647-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0647",
+      "level": 2,
+      "name": {
+        "local": "Jerantut",
+        "en": "Jerantut",
+        "slug": "jerantut-0647"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0647",
+        "level": 2,
+        "name": {
+          "local": "Jerantut",
+          "en": "Jerantut",
+          "slug": "jerantut-0647"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.403",
+      "lon": "102.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0647-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM JELUTONG",
+      "en": "JELUTONG",
+      "slug": "jelutong-0647-014"
+    },
+    "code": {
+      "id": "0647-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "0647",
+      "level": 2,
+      "name": {
+        "local": "Jerantut",
+        "en": "Jerantut",
+        "slug": "jerantut-0647"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0647",
+        "level": 2,
+        "name": {
+          "local": "Jerantut",
+          "en": "Jerantut",
+          "slug": "jerantut-0647"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.005",
+      "lon": "102.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0647-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KELOLA",
+      "en": "KELOLA",
+      "slug": "kelola-0647-007"
+    },
+    "code": {
+      "id": "0647-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0647",
+      "level": 2,
+      "name": {
+        "local": "Jerantut",
+        "en": "Jerantut",
+        "slug": "jerantut-0647"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0647",
+        "level": 2,
+        "name": {
+          "local": "Jerantut",
+          "en": "Jerantut",
+          "slug": "jerantut-0647"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.843",
+      "lon": "102.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0647-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUALA TEMBELING",
+      "en": "KUALA TEMBELING",
+      "slug": "kuala-tembeling-0647-003"
+    },
+    "code": {
+      "id": "0647-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0647",
+      "level": 2,
+      "name": {
+        "local": "Jerantut",
+        "en": "Jerantut",
+        "slug": "jerantut-0647"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0647",
+        "level": 2,
+        "name": {
+          "local": "Jerantut",
+          "en": "Jerantut",
+          "slug": "jerantut-0647"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.013",
+      "lon": "102.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0647-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PANTAI",
+      "en": "PANTAI",
+      "slug": "pantai-0647-010"
+    },
+    "code": {
+      "id": "0647-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0647",
+      "level": 2,
+      "name": {
+        "local": "Jerantut",
+        "en": "Jerantut",
+        "slug": "jerantut-0647"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0647",
+        "level": 2,
+        "name": {
+          "local": "Jerantut",
+          "en": "Jerantut",
+          "slug": "jerantut-0647"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.229",
+      "lon": "102.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0647-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PEDAH",
+      "en": "PEDAH",
+      "slug": "pedah-0647-004"
+    },
+    "code": {
+      "id": "0647-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0647",
+      "level": 2,
+      "name": {
+        "local": "Jerantut",
+        "en": "Jerantut",
+        "slug": "jerantut-0647"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0647",
+        "level": 2,
+        "name": {
+          "local": "Jerantut",
+          "en": "Jerantut",
+          "slug": "jerantut-0647"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.95",
+      "lon": "102.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0647-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN JERANSANG",
+      "en": "PEKAN JERANSANG",
+      "slug": "pekan-jeransang-0647-008"
+    },
+    "code": {
+      "id": "0647-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0647",
+      "level": 2,
+      "name": {
+        "local": "Jerantut",
+        "en": "Jerantut",
+        "slug": "jerantut-0647"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0647",
+        "level": 2,
+        "name": {
+          "local": "Jerantut",
+          "en": "Jerantut",
+          "slug": "jerantut-0647"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.861",
+      "lon": "102.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0647-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KUALA TEMBELING",
+      "en": "PEKAN KUALA TEMBELING",
+      "slug": "pekan-kuala-tembeling-0647-001"
+    },
+    "code": {
+      "id": "0647-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0647",
+      "level": 2,
+      "name": {
+        "local": "Jerantut",
+        "en": "Jerantut",
+        "slug": "jerantut-0647"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0647",
+        "level": 2,
+        "name": {
+          "local": "Jerantut",
+          "en": "Jerantut",
+          "slug": "jerantut-0647"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.061",
+      "lon": "102.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0647-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PULAU TAWAR",
+      "en": "PULAU TAWAR",
+      "slug": "pulau-tawar-0647-006"
+    },
+    "code": {
+      "id": "0647-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0647",
+      "level": 2,
+      "name": {
+        "local": "Jerantut",
+        "en": "Jerantut",
+        "slug": "jerantut-0647"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0647",
+        "level": 2,
+        "name": {
+          "local": "Jerantut",
+          "en": "Jerantut",
+          "slug": "jerantut-0647"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.918",
+      "lon": "102.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0647-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TEH",
+      "en": "TEH",
+      "slug": "teh-0647-012"
+    },
+    "code": {
+      "id": "0647-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0647",
+      "level": 2,
+      "name": {
+        "local": "Jerantut",
+        "en": "Jerantut",
+        "slug": "jerantut-0647"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0647",
+        "level": 2,
+        "name": {
+          "local": "Jerantut",
+          "en": "Jerantut",
+          "slug": "jerantut-0647"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.981",
+      "lon": "102.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0647-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TEMBELING",
+      "en": "TEMBELING",
+      "slug": "tembeling-0647-011"
+    },
+    "code": {
+      "id": "0647-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0647",
+      "level": 2,
+      "name": {
+        "local": "Jerantut",
+        "en": "Jerantut",
+        "slug": "jerantut-0647"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0647",
+        "level": 2,
+        "name": {
+          "local": "Jerantut",
+          "en": "Jerantut",
+          "slug": "jerantut-0647"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.336",
+      "lon": "102.34"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "0644-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BENTONG",
+      "en": "BANDAR BENTONG",
+      "slug": "bandar-bentong-0644-006"
+    },
+    "code": {
+      "id": "0644-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0644",
+      "level": 2,
+      "name": {
+        "local": "Bentong",
+        "en": "Bentong",
+        "slug": "bentong-0644"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0644",
+        "level": 2,
+        "name": {
+          "local": "Bentong",
+          "en": "Bentong",
+          "slug": "bentong-0644"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.517",
+      "lon": "101.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0644-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR KARAK",
+      "en": "BANDAR KARAK",
+      "slug": "bandar-karak-0644-005"
+    },
+    "code": {
+      "id": "0644-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0644",
+      "level": 2,
+      "name": {
+        "local": "Bentong",
+        "en": "Bentong",
+        "slug": "bentong-0644"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0644",
+        "level": 2,
+        "name": {
+          "local": "Bentong",
+          "en": "Bentong",
+          "slug": "bentong-0644"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.415",
+      "lon": "102.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0644-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BENTONG",
+      "en": "BENTONG",
+      "slug": "bentong-0644-003"
+    },
+    "code": {
+      "id": "0644-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0644",
+      "level": 2,
+      "name": {
+        "local": "Bentong",
+        "en": "Bentong",
+        "slug": "bentong-0644"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0644",
+        "level": 2,
+        "name": {
+          "local": "Bentong",
+          "en": "Bentong",
+          "slug": "bentong-0644"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.556",
+      "lon": "101.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0644-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TELEMONG",
+      "en": "PEKAN TELEMONG",
+      "slug": "pekan-telemong-0644-004"
+    },
+    "code": {
+      "id": "0644-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0644",
+      "level": 2,
+      "name": {
+        "local": "Bentong",
+        "en": "Bentong",
+        "slug": "bentong-0644"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0644",
+        "level": 2,
+        "name": {
+          "local": "Bentong",
+          "en": "Bentong",
+          "slug": "bentong-0644"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.29",
+      "lon": "102.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0644-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PELANGAI",
+      "en": "PELANGAI",
+      "slug": "pelangai-0644-001"
+    },
+    "code": {
+      "id": "0644-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0644",
+      "level": 2,
+      "name": {
+        "local": "Bentong",
+        "en": "Bentong",
+        "slug": "bentong-0644"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0644",
+        "level": 2,
+        "name": {
+          "local": "Bentong",
+          "en": "Bentong",
+          "slug": "bentong-0644"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.254",
+      "lon": "102.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0644-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SABAI",
+      "en": "SABAI",
+      "slug": "sabai-0644-002"
+    },
+    "code": {
+      "id": "0644-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0644",
+      "level": 2,
+      "name": {
+        "local": "Bentong",
+        "en": "Bentong",
+        "slug": "bentong-0644"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0644",
+        "level": 2,
+        "name": {
+          "local": "Bentong",
+          "en": "Bentong",
+          "slug": "bentong-0644"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.436",
+      "lon": "102.011"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

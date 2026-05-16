@@ -1,0 +1,84 @@
+# Malaysia Administrative Divisions
+
+> Open dataset of Malaysia's administrative hierarchy:
+> 16 states, 160 districts, 1,859 subdistricts.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total states: 16
+- Total districts: 160
+- Total subdistricts: 1,859
+- Coordinates: included (all levels)
+- Last updated: 2026-05-16
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All states (JSON)](https://raw.githubusercontent.com/open-admin-data/malaysia-administrative-divisions/main/data/all-state.json)
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/malaysia-administrative-divisions/main/data/all-district.json)
+- [All subdistricts (JSON)](https://raw.githubusercontent.com/open-admin-data/malaysia-administrative-divisions/main/data/all-mukim.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/malaysia-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/malaysia-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/malaysia-administrative-divisions/main/data/schema.json)
+
+## Browse by State
+
+- [Johor](https://github.com/open-admin-data/malaysia-administrative-divisions/tree/main/divisions/johor-01/) — 10 districts, 95 subdistricts
+- [Kedah](https://github.com/open-admin-data/malaysia-administrative-divisions/tree/main/divisions/kedah-02/) — 12 districts, 212 subdistricts
+- [Kelantan](https://github.com/open-admin-data/malaysia-administrative-divisions/tree/main/divisions/kelantan-03/) — 11 districts, 302 subdistricts
+- [Malacca](https://github.com/open-admin-data/malaysia-administrative-divisions/tree/main/divisions/malacca-04/) — 3 districts, 107 subdistricts
+- [Negeri Sembilan](https://github.com/open-admin-data/malaysia-administrative-divisions/tree/main/divisions/negeri-sembilan-05/) — 7 districts, 154 subdistricts
+- [Pahang](https://github.com/open-admin-data/malaysia-administrative-divisions/tree/main/divisions/pahang-06/) — 11 districts, 128 subdistricts
+- [Penang](https://github.com/open-admin-data/malaysia-administrative-divisions/tree/main/divisions/penang-07/) — 5 districts, 47 subdistricts
+- [Perak](https://github.com/open-admin-data/malaysia-administrative-divisions/tree/main/divisions/perak-08/) — 13 districts, 185 subdistricts
+- [Perlis](https://github.com/open-admin-data/malaysia-administrative-divisions/tree/main/divisions/perlis-09/) — 1 districts, 23 subdistricts
+- [Selangor](https://github.com/open-admin-data/malaysia-administrative-divisions/tree/main/divisions/selangor-10/) — 9 districts, 212 subdistricts
+- [Terengganu](https://github.com/open-admin-data/malaysia-administrative-divisions/tree/main/divisions/terengganu-11/) — 8 districts, 96 subdistricts
+- [Sabah](https://github.com/open-admin-data/malaysia-administrative-divisions/tree/main/divisions/sabah-12/) — 27 districts, 0 subdistricts
+- [Sarawak](https://github.com/open-admin-data/malaysia-administrative-divisions/tree/main/divisions/sarawak-13/) — 40 districts, 285 subdistricts
+- [Federal Territory of Kuala Lumpur](https://github.com/open-admin-data/malaysia-administrative-divisions/tree/main/divisions/federal-territory-of-kuala-lumpur-14/) — 1 districts, 12 subdistricts
+- [Federal Territory of Labuan](https://github.com/open-admin-data/malaysia-administrative-divisions/tree/main/divisions/federal-territory-of-labuan-15/) — 1 districts, 1 subdistricts
+- [Federal Territory of Putrajaya](https://github.com/open-admin-data/malaysia-administrative-divisions/tree/main/divisions/federal-territory-of-putrajaya-16/) — 1 districts, 0 subdistricts
+
+## Per-State Full Data
+
+- [Johor](https://raw.githubusercontent.com/open-admin-data/malaysia-administrative-divisions/main/docs/llms-full/johor-01.txt)
+- [Kedah](https://raw.githubusercontent.com/open-admin-data/malaysia-administrative-divisions/main/docs/llms-full/kedah-02.txt)
+- [Kelantan](https://raw.githubusercontent.com/open-admin-data/malaysia-administrative-divisions/main/docs/llms-full/kelantan-03.txt)
+- [Malacca](https://raw.githubusercontent.com/open-admin-data/malaysia-administrative-divisions/main/docs/llms-full/malacca-04.txt)
+- [Negeri Sembilan](https://raw.githubusercontent.com/open-admin-data/malaysia-administrative-divisions/main/docs/llms-full/negeri-sembilan-05.txt)
+- [Pahang](https://raw.githubusercontent.com/open-admin-data/malaysia-administrative-divisions/main/docs/llms-full/pahang-06.txt)
+- [Penang](https://raw.githubusercontent.com/open-admin-data/malaysia-administrative-divisions/main/docs/llms-full/penang-07.txt)
+- [Perak](https://raw.githubusercontent.com/open-admin-data/malaysia-administrative-divisions/main/docs/llms-full/perak-08.txt)
+- [Perlis](https://raw.githubusercontent.com/open-admin-data/malaysia-administrative-divisions/main/docs/llms-full/perlis-09.txt)
+- [Selangor](https://raw.githubusercontent.com/open-admin-data/malaysia-administrative-divisions/main/docs/llms-full/selangor-10.txt)
+- [Terengganu](https://raw.githubusercontent.com/open-admin-data/malaysia-administrative-divisions/main/docs/llms-full/terengganu-11.txt)
+- [Sabah](https://raw.githubusercontent.com/open-admin-data/malaysia-administrative-divisions/main/docs/llms-full/sabah-12.txt)
+- [Sarawak](https://raw.githubusercontent.com/open-admin-data/malaysia-administrative-divisions/main/docs/llms-full/sarawak-13.txt)
+- [Federal Territory of Kuala Lumpur](https://raw.githubusercontent.com/open-admin-data/malaysia-administrative-divisions/main/docs/llms-full/federal-territory-of-kuala-lumpur-14.txt)
+- [Federal Territory of Labuan](https://raw.githubusercontent.com/open-admin-data/malaysia-administrative-divisions/main/docs/llms-full/federal-territory-of-labuan-15.txt)
+- [Federal Territory of Putrajaya](https://raw.githubusercontent.com/open-admin-data/malaysia-administrative-divisions/main/docs/llms-full/federal-territory-of-putrajaya-16.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (state), 2 (district), 3 (subdistrict)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Malaysia Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/malaysia-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

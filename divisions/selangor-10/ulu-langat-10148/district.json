@@ -1,0 +1,47 @@
+{
+  "id": "10148",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ulu Langat",
+    "en": "Ulu Langat",
+    "slug": "ulu-langat-10148"
+  },
+  "code": {
+    "id": "10148",
+    "iso": null
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "local": "Selangor",
+      "en": "Selangor",
+      "slug": "selangor-10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "Selangor",
+        "en": "Selangor",
+        "slug": "selangor-10"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 40
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.113",
+    "lon": "101.834"
+  },
+  "metadata": {},
+  "source": {}
+}

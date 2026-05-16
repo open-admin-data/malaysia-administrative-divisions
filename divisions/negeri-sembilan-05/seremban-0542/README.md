@@ -1,0 +1,70 @@
+# Seremban
+
+[Home](../../../) &gt; [Negeri Sembilan](../) > **Seremban**
+
+Seremban is a district in Malaysia, under Negeri Sembilan.
+
+## Overview
+
+| Item | Details |
+|------|---------|
+| Subdistricts | 41 |
+| Code | 0542 |
+| Coordinates | 2.745, 101.966 |
+| Parent | Negeri Sembilan |
+
+## Subdistricts
+
+| # | Name | Coordinates | Code |
+|---|------|-------------|------|
+| 1 | MUKIM AMPANGAN (AMPANGAN) | 2.726, 101.992 | 0542-032 |
+| 2 | BANDAR BARU ENSTEK | 2.726, 101.79 | 0542-024 |
+| 3 | BANDAR BARU KOTA SRI MAS | 2.78, 101.776 | 0542-026 |
+| 4 | BANDAR MANTIN UTAMA | 2.847, 101.855 | 0542-018 |
+| 5 | BANDAR NILAI UTAMA | 2.835, 101.793 | 0542-035 |
+| 6 | BANDAR SEREMBAN | 2.716, 101.945 | 0542-027 |
+| 7 | BANDAR SEREMBAN 3 | 2.674, 101.932 | 0542-034 |
+| 8 | BANDAR SEREMBAN UTAMA | 2.69, 101.907 | 0542-022 |
+| 9 | BANDAR SRI SENDAYAN | 2.669, 101.863 | 0542-016 |
+| 10 | MUKIM LABU (LABU) | 2.744, 101.814 | 0542-015 |
+| 11 | MUKIM LENGGENG (LENGGENG) | 2.873, 101.958 | 0542-038 |
+| 12 | PEKAN BROGA | 2.935, 101.912 | 0542-003 |
+| 13 | PEKAN BUKIT KEPAYANG | 2.713, 101.923 | 0542-013 |
+| 14 | PEKAN BUKTI | 2.719, 101.975 | 0542-019 |
+| 15 | PEKAN DUSUN SETIA | 2.714, 101.963 | 0542-006 |
+| 16 | PEKAN LABU | 2.754, 101.825 | 0542-030 |
+| 17 | PEKAN LENGGENG | 2.856, 101.942 | 0542-033 |
+| 18 | PEKAN MAMBAU | 2.668, 101.919 | 0542-039 |
+| 19 | PEKAN MANTIN | 2.822, 101.898 | 0542-025 |
+| 20 | PEKAN NILAI | 2.812, 101.81 | 0542-021 |
+| 21 | PEKAN PAJAM | 2.844, 101.849 | 0542-028 |
+| 22 | PEKAN PANCOR | 2.735, 102.004 | 0542-001 |
+| 23 | PEKAN PAROI | 2.725, 101.999 | 0542-007 |
+| 24 | PEKAN PAROI JAYA | 2.732, 101.984 | 0542-020 |
+| 25 | PEKAN RAHANG BARU | 2.693, 101.955 | 0542-009 |
+| 26 | PEKAN RANTAU | 2.588, 101.961 | 0542-002 |
+| 27 | PEKAN RASAH JAYA | 2.681, 101.937 | 0542-010 |
+| 28 | PEKAN SENAWANG | 2.703, 101.99 | 0542-017 |
+| 29 | PEKAN SEREMBAN JAYA | 2.67, 101.982 | 0542-005 |
+| 30 | PEKAN SETUL | 2.744, 101.923 | 0542-040 |
+| 31 | PEKAN SHAH BANDAR | 2.719, 101.965 | 0542-004 |
+| 32 | PEKAN SIKAMAT | 2.749, 101.963 | 0542-011 |
+| 33 | PEKAN SUNGAI GADUT | 2.669, 101.999 | 0542-031 |
+| 34 | PEKAN TAMAN SEREMBAN | 2.701, 101.964 | 0542-012 |
+| 35 | PEKAN TIROI | 2.74, 101.871 | 0542-037 |
+| 36 | PEKAN ULU BERANANG | 2.895, 101.927 | 0542-008 |
+| 37 | PEKAN ULU TEMIANG | 2.76, 101.938 | 0542-014 |
+| 38 | MUKIM RANTAU (RANTAU) | 2.623, 101.958 | 0542-029 |
+| 39 | MUKIM RASAH (RASAH) | 2.674, 101.923 | 0542-041 |
+| 40 | MUKIM SEREMBAN (SEREMBAN) | 2.749, 101.928 | 0542-036 |
+| 41 | MUKIM SETUL (SETUL) | 2.837, 101.842 | 0542-023 |
+
+## Data Files
+
+- [district.json](district.json) — District metadata
+- [mukim.json](mukim.json) — All subdistricts (JSON)
+- [mukim.csv](mukim.csv) — CSV format
+
+---
+
+<- Back to [Negeri Sembilan](../)

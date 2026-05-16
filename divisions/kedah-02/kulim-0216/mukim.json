@@ -1,0 +1,1298 @@
+[
+  {
+    "id": "0216-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BAGAN SENA",
+      "en": "BAGAN SENA",
+      "slug": "bagan-sena-0216-012"
+    },
+    "code": {
+      "id": "0216-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0216",
+      "level": 2,
+      "name": {
+        "local": "Kulim",
+        "en": "Kulim",
+        "slug": "kulim-0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0216",
+        "level": 2,
+        "name": {
+          "local": "Kulim",
+          "en": "Kulim",
+          "slug": "kulim-0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.489",
+      "lon": "100.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0216-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR KULIM",
+      "en": "BANDAR KULIM",
+      "slug": "bandar-kulim-0216-015"
+    },
+    "code": {
+      "id": "0216-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "0216",
+      "level": 2,
+      "name": {
+        "local": "Kulim",
+        "en": "Kulim",
+        "slug": "kulim-0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0216",
+        "level": 2,
+        "name": {
+          "local": "Kulim",
+          "en": "Kulim",
+          "slug": "kulim-0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.356",
+      "lon": "100.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0216-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR LUNAS",
+      "en": "BANDAR LUNAS",
+      "slug": "bandar-lunas-0216-014"
+    },
+    "code": {
+      "id": "0216-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "0216",
+      "level": 2,
+      "name": {
+        "local": "Kulim",
+        "en": "Kulim",
+        "slug": "kulim-0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0216",
+        "level": 2,
+        "name": {
+          "local": "Kulim",
+          "en": "Kulim",
+          "slug": "kulim-0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.439",
+      "lon": "100.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0216-022",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR PADANG SERAI",
+      "en": "BANDAR PADANG SERAI",
+      "slug": "bandar-padang-serai-0216-022"
+    },
+    "code": {
+      "id": "0216-022",
+      "iso": null
+    },
+    "parent": {
+      "id": "0216",
+      "level": 2,
+      "name": {
+        "local": "Kulim",
+        "en": "Kulim",
+        "slug": "kulim-0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0216",
+        "level": 2,
+        "name": {
+          "local": "Kulim",
+          "en": "Kulim",
+          "slug": "kulim-0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.51",
+      "lon": "100.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0216-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM JUNJONG",
+      "en": "JUNJONG",
+      "slug": "junjong-0216-007"
+    },
+    "code": {
+      "id": "0216-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0216",
+      "level": 2,
+      "name": {
+        "local": "Kulim",
+        "en": "Kulim",
+        "slug": "kulim-0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0216",
+        "level": 2,
+        "name": {
+          "local": "Kulim",
+          "en": "Kulim",
+          "slug": "kulim-0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.292",
+      "lon": "100.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0216-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KARANGAN",
+      "en": "KARANGAN",
+      "slug": "karangan-0216-016"
+    },
+    "code": {
+      "id": "0216-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "0216",
+      "level": 2,
+      "name": {
+        "local": "Kulim",
+        "en": "Kulim",
+        "slug": "kulim-0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0216",
+        "level": 2,
+        "name": {
+          "local": "Kulim",
+          "en": "Kulim",
+          "slug": "kulim-0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.411",
+      "lon": "100.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0216-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KULIM",
+      "en": "KULIM",
+      "slug": "kulim-0216-013"
+    },
+    "code": {
+      "id": "0216-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0216",
+      "level": 2,
+      "name": {
+        "local": "Kulim",
+        "en": "Kulim",
+        "slug": "kulim-0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0216",
+        "level": 2,
+        "name": {
+          "local": "Kulim",
+          "en": "Kulim",
+          "slug": "kulim-0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.325",
+      "lon": "100.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0216-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM MAHANG",
+      "en": "MAHANG",
+      "slug": "mahang-0216-002"
+    },
+    "code": {
+      "id": "0216-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0216",
+      "level": 2,
+      "name": {
+        "local": "Kulim",
+        "en": "Kulim",
+        "slug": "kulim-0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0216",
+        "level": 2,
+        "name": {
+          "local": "Kulim",
+          "en": "Kulim",
+          "slug": "kulim-0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.357",
+      "lon": "100.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0216-017",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM NAGA LILIT",
+      "en": "NAGA LILIT",
+      "slug": "naga-lilit-0216-017"
+    },
+    "code": {
+      "id": "0216-017",
+      "iso": null
+    },
+    "parent": {
+      "id": "0216",
+      "level": 2,
+      "name": {
+        "local": "Kulim",
+        "en": "Kulim",
+        "slug": "kulim-0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0216",
+        "level": 2,
+        "name": {
+          "local": "Kulim",
+          "en": "Kulim",
+          "slug": "kulim-0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.485",
+      "lon": "100.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0216-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PADANG CHINA",
+      "en": "PADANG CHINA",
+      "slug": "padang-china-0216-003"
+    },
+    "code": {
+      "id": "0216-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0216",
+      "level": 2,
+      "name": {
+        "local": "Kulim",
+        "en": "Kulim",
+        "slug": "kulim-0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0216",
+        "level": 2,
+        "name": {
+          "local": "Kulim",
+          "en": "Kulim",
+          "slug": "kulim-0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.439",
+      "lon": "100.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0216-018",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PADANG MEHA",
+      "en": "PADANG MEHA",
+      "slug": "padang-meha-0216-018"
+    },
+    "code": {
+      "id": "0216-018",
+      "iso": null
+    },
+    "parent": {
+      "id": "0216",
+      "level": 2,
+      "name": {
+        "local": "Kulim",
+        "en": "Kulim",
+        "slug": "kulim-0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0216",
+        "level": 2,
+        "name": {
+          "local": "Kulim",
+          "en": "Kulim",
+          "slug": "kulim-0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.511",
+      "lon": "100.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0216-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN JUNJONG",
+      "en": "PEKAN JUNJONG",
+      "slug": "pekan-junjong-0216-004"
+    },
+    "code": {
+      "id": "0216-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0216",
+      "level": 2,
+      "name": {
+        "local": "Kulim",
+        "en": "Kulim",
+        "slug": "kulim-0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0216",
+        "level": 2,
+        "name": {
+          "local": "Kulim",
+          "en": "Kulim",
+          "slug": "kulim-0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.294",
+      "lon": "100.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0216-019",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KARANGAN",
+      "en": "PEKAN KARANGAN",
+      "slug": "pekan-karangan-0216-019"
+    },
+    "code": {
+      "id": "0216-019",
+      "iso": null
+    },
+    "parent": {
+      "id": "0216",
+      "level": 2,
+      "name": {
+        "local": "Kulim",
+        "en": "Kulim",
+        "slug": "kulim-0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0216",
+        "level": 2,
+        "name": {
+          "local": "Kulim",
+          "en": "Kulim",
+          "slug": "kulim-0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.416",
+      "lon": "100.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0216-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN LABU BESAR",
+      "en": "PEKAN LABU BESAR",
+      "slug": "pekan-labu-besar-0216-001"
+    },
+    "code": {
+      "id": "0216-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0216",
+      "level": 2,
+      "name": {
+        "local": "Kulim",
+        "en": "Kulim",
+        "slug": "kulim-0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0216",
+        "level": 2,
+        "name": {
+          "local": "Kulim",
+          "en": "Kulim",
+          "slug": "kulim-0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.503",
+      "lon": "100.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0216-020",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN MAHANG",
+      "en": "PEKAN MAHANG",
+      "slug": "pekan-mahang-0216-020"
+    },
+    "code": {
+      "id": "0216-020",
+      "iso": null
+    },
+    "parent": {
+      "id": "0216",
+      "level": 2,
+      "name": {
+        "local": "Kulim",
+        "en": "Kulim",
+        "slug": "kulim-0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0216",
+        "level": 2,
+        "name": {
+          "local": "Kulim",
+          "en": "Kulim",
+          "slug": "kulim-0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.326",
+      "lon": "100.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0216-021",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN MERBAU PULAS",
+      "en": "PEKAN MERBAU PULAS",
+      "slug": "pekan-merbau-pulas-0216-021"
+    },
+    "code": {
+      "id": "0216-021",
+      "iso": null
+    },
+    "parent": {
+      "id": "0216",
+      "level": 2,
+      "name": {
+        "local": "Kulim",
+        "en": "Kulim",
+        "slug": "kulim-0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0216",
+        "level": 2,
+        "name": {
+          "local": "Kulim",
+          "en": "Kulim",
+          "slug": "kulim-0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.554",
+      "lon": "100.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0216-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PADANG MEHA",
+      "en": "PEKAN PADANG MEHA",
+      "slug": "pekan-padang-meha-0216-006"
+    },
+    "code": {
+      "id": "0216-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0216",
+      "level": 2,
+      "name": {
+        "local": "Kulim",
+        "en": "Kulim",
+        "slug": "kulim-0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0216",
+        "level": 2,
+        "name": {
+          "local": "Kulim",
+          "en": "Kulim",
+          "slug": "kulim-0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.506",
+      "lon": "100.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0216-023",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SUNGAI  KARANGAN",
+      "en": "PEKAN SUNGAI  KARANGAN",
+      "slug": "pekan-sungai-karangan-0216-023"
+    },
+    "code": {
+      "id": "0216-023",
+      "iso": null
+    },
+    "parent": {
+      "id": "0216",
+      "level": 2,
+      "name": {
+        "local": "Kulim",
+        "en": "Kulim",
+        "slug": "kulim-0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0216",
+        "level": 2,
+        "name": {
+          "local": "Kulim",
+          "en": "Kulim",
+          "slug": "kulim-0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.514",
+      "lon": "100.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0216-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SUNGAI KOB",
+      "en": "PEKAN SUNGAI KOB",
+      "slug": "pekan-sungai-kob-0216-010"
+    },
+    "code": {
+      "id": "0216-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0216",
+      "level": 2,
+      "name": {
+        "local": "Kulim",
+        "en": "Kulim",
+        "slug": "kulim-0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0216",
+        "level": 2,
+        "name": {
+          "local": "Kulim",
+          "en": "Kulim",
+          "slug": "kulim-0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.439",
+      "lon": "100.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0216-024",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SEDIM",
+      "en": "SEDIM",
+      "slug": "sedim-0216-024"
+    },
+    "code": {
+      "id": "0216-024",
+      "iso": null
+    },
+    "parent": {
+      "id": "0216",
+      "level": 2,
+      "name": {
+        "local": "Kulim",
+        "en": "Kulim",
+        "slug": "kulim-0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0216",
+        "level": 2,
+        "name": {
+          "local": "Kulim",
+          "en": "Kulim",
+          "slug": "kulim-0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.389",
+      "lon": "100.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0216-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SIDAM KANAN",
+      "en": "SIDAM KANAN",
+      "slug": "sidam-kanan-0216-011"
+    },
+    "code": {
+      "id": "0216-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0216",
+      "level": 2,
+      "name": {
+        "local": "Kulim",
+        "en": "Kulim",
+        "slug": "kulim-0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0216",
+        "level": 2,
+        "name": {
+          "local": "Kulim",
+          "en": "Kulim",
+          "slug": "kulim-0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.535",
+      "lon": "100.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0216-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SUNGAI SELUANG",
+      "en": "SUNGAI SELUANG",
+      "slug": "sungai-seluang-0216-008"
+    },
+    "code": {
+      "id": "0216-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0216",
+      "level": 2,
+      "name": {
+        "local": "Kulim",
+        "en": "Kulim",
+        "slug": "kulim-0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0216",
+        "level": 2,
+        "name": {
+          "local": "Kulim",
+          "en": "Kulim",
+          "slug": "kulim-0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.464",
+      "lon": "100.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0216-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SUNGAI ULAR",
+      "en": "SUNGAI ULAR",
+      "slug": "sungai-ular-0216-005"
+    },
+    "code": {
+      "id": "0216-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0216",
+      "level": 2,
+      "name": {
+        "local": "Kulim",
+        "en": "Kulim",
+        "slug": "kulim-0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0216",
+        "level": 2,
+        "name": {
+          "local": "Kulim",
+          "en": "Kulim",
+          "slug": "kulim-0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.372",
+      "lon": "100.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0216-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TERAP",
+      "en": "TERAP",
+      "slug": "terap-0216-009"
+    },
+    "code": {
+      "id": "0216-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0216",
+      "level": 2,
+      "name": {
+        "local": "Kulim",
+        "en": "Kulim",
+        "slug": "kulim-0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0216",
+        "level": 2,
+        "name": {
+          "local": "Kulim",
+          "en": "Kulim",
+          "slug": "kulim-0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.3",
+      "lon": "100.646"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

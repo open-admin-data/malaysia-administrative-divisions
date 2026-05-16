@@ -1,0 +1,110 @@
+[
+  {
+    "id": "13108-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BAOH LAND DISTRICT",
+      "en": "BAOH LAND DISTRICT",
+      "slug": "baoh-land-district-13108-001"
+    },
+    "code": {
+      "id": "13108-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13108",
+      "level": 2,
+      "name": {
+        "local": "Dalat",
+        "en": "Dalat",
+        "slug": "dalat-13108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13108",
+        "level": 2,
+        "name": {
+          "local": "Dalat",
+          "en": "Dalat",
+          "slug": "dalat-13108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.554",
+      "lon": "112.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13108-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "OYA-DALAT LAND DISTRICT",
+      "en": "OYA-DALAT LAND DISTRICT",
+      "slug": "oya-dalat-land-district-13108-002"
+    },
+    "code": {
+      "id": "13108-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13108",
+      "level": 2,
+      "name": {
+        "local": "Dalat",
+        "en": "Dalat",
+        "slug": "dalat-13108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13108",
+        "level": 2,
+        "name": {
+          "local": "Dalat",
+          "en": "Dalat",
+          "slug": "dalat-13108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.74",
+      "lon": "111.88"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

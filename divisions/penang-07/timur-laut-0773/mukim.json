@@ -1,0 +1,812 @@
+[
+  {
+    "id": "0773-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM 1",
+      "en": "1",
+      "slug": "1-0773-001"
+    },
+    "code": {
+      "id": "0773-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0773",
+      "level": 2,
+      "name": {
+        "local": "Timur Laut",
+        "en": "Timur Laut",
+        "slug": "timur-laut-0773"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0773",
+        "level": 2,
+        "name": {
+          "local": "Timur Laut",
+          "en": "Timur Laut",
+          "slug": "timur-laut-0773"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.421",
+      "lon": "100.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0773-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM 17",
+      "en": "17",
+      "slug": "17-0773-004"
+    },
+    "code": {
+      "id": "0773-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0773",
+      "level": 2,
+      "name": {
+        "local": "Timur Laut",
+        "en": "Timur Laut",
+        "slug": "timur-laut-0773"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0773",
+        "level": 2,
+        "name": {
+          "local": "Timur Laut",
+          "en": "Timur Laut",
+          "slug": "timur-laut-0773"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.417",
+      "lon": "100.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0773-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM 18",
+      "en": "18",
+      "slug": "18-xx-372"
+    },
+    "code": {
+      "id": "0773-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "0773",
+      "level": 2,
+      "name": {
+        "local": "Timur Laut",
+        "en": "Timur Laut",
+        "slug": "timur-laut-0773"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0773",
+        "level": 2,
+        "name": {
+          "local": "Timur Laut",
+          "en": "Timur Laut",
+          "slug": "timur-laut-0773"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.429",
+      "lon": "100.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0773-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM 2",
+      "en": "2",
+      "slug": "2-0773-002"
+    },
+    "code": {
+      "id": "0773-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0773",
+      "level": 2,
+      "name": {
+        "local": "Timur Laut",
+        "en": "Timur Laut",
+        "slug": "timur-laut-0773"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0773",
+        "level": 2,
+        "name": {
+          "local": "Timur Laut",
+          "en": "Timur Laut",
+          "slug": "timur-laut-0773"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.44",
+      "lon": "100.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0773-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM 4",
+      "en": "4",
+      "slug": "4-xx-246"
+    },
+    "code": {
+      "id": "0773-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "0773",
+      "level": 2,
+      "name": {
+        "local": "Timur Laut",
+        "en": "Timur Laut",
+        "slug": "timur-laut-0773"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0773",
+        "level": 2,
+        "name": {
+          "local": "Timur Laut",
+          "en": "Timur Laut",
+          "slug": "timur-laut-0773"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.371",
+      "lon": "100.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0773-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM 8",
+      "en": "8",
+      "slug": "8-xx-230"
+    },
+    "code": {
+      "id": "0773-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0773",
+      "level": 2,
+      "name": {
+        "local": "Timur Laut",
+        "en": "Timur Laut",
+        "slug": "timur-laut-0773"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0773",
+        "level": 2,
+        "name": {
+          "local": "Timur Laut",
+          "en": "Timur Laut",
+          "slug": "timur-laut-0773"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.31",
+      "lon": "100.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0773-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR AYER ITAM",
+      "en": "BANDAR AYER ITAM",
+      "slug": "bandar-ayer-itam-0773-010"
+    },
+    "code": {
+      "id": "0773-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0773",
+      "level": 2,
+      "name": {
+        "local": "Timur Laut",
+        "en": "Timur Laut",
+        "slug": "timur-laut-0773"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0773",
+        "level": 2,
+        "name": {
+          "local": "Timur Laut",
+          "en": "Timur Laut",
+          "slug": "timur-laut-0773"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.405",
+      "lon": "100.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0773-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BATU FERRINGGI",
+      "en": "BANDAR BATU FERRINGGI",
+      "slug": "bandar-batu-ferringgi-0773-009"
+    },
+    "code": {
+      "id": "0773-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0773",
+      "level": 2,
+      "name": {
+        "local": "Timur Laut",
+        "en": "Timur Laut",
+        "slug": "timur-laut-0773"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0773",
+        "level": 2,
+        "name": {
+          "local": "Timur Laut",
+          "en": "Timur Laut",
+          "slug": "timur-laut-0773"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.475",
+      "lon": "100.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0773-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BUKIT BENDERA",
+      "en": "BANDAR BUKIT BENDERA",
+      "slug": "bandar-bukit-bendera-0773-011"
+    },
+    "code": {
+      "id": "0773-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0773",
+      "level": 2,
+      "name": {
+        "local": "Timur Laut",
+        "en": "Timur Laut",
+        "slug": "timur-laut-0773"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0773",
+        "level": 2,
+        "name": {
+          "local": "Timur Laut",
+          "en": "Timur Laut",
+          "slug": "timur-laut-0773"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.42",
+      "lon": "100.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0773-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR GEORGE TOWN",
+      "en": "BANDAR GEORGE TOWN",
+      "slug": "bandar-george-town-0773-007"
+    },
+    "code": {
+      "id": "0773-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0773",
+      "level": 2,
+      "name": {
+        "local": "Timur Laut",
+        "en": "Timur Laut",
+        "slug": "timur-laut-0773"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0773",
+        "level": 2,
+        "name": {
+          "local": "Timur Laut",
+          "en": "Timur Laut",
+          "slug": "timur-laut-0773"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.41",
+      "lon": "100.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0773-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR GLUGOR",
+      "en": "BANDAR GLUGOR",
+      "slug": "bandar-glugor-0773-005"
+    },
+    "code": {
+      "id": "0773-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0773",
+      "level": 2,
+      "name": {
+        "local": "Timur Laut",
+        "en": "Timur Laut",
+        "slug": "timur-laut-0773"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0773",
+        "level": 2,
+        "name": {
+          "local": "Timur Laut",
+          "en": "Timur Laut",
+          "slug": "timur-laut-0773"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.366",
+      "lon": "100.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0773-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR JELUTONG",
+      "en": "BANDAR JELUTONG",
+      "slug": "bandar-jelutong-0773-012"
+    },
+    "code": {
+      "id": "0773-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0773",
+      "level": 2,
+      "name": {
+        "local": "Timur Laut",
+        "en": "Timur Laut",
+        "slug": "timur-laut-0773"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0773",
+        "level": 2,
+        "name": {
+          "local": "Timur Laut",
+          "en": "Timur Laut",
+          "slug": "timur-laut-0773"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.391",
+      "lon": "100.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0773-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR TANJONG BUNGAH",
+      "en": "BANDAR TANJONG BUNGAH",
+      "slug": "bandar-tanjong-bungah-0773-006"
+    },
+    "code": {
+      "id": "0773-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0773",
+      "level": 2,
+      "name": {
+        "local": "Timur Laut",
+        "en": "Timur Laut",
+        "slug": "timur-laut-0773"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0773",
+        "level": 2,
+        "name": {
+          "local": "Timur Laut",
+          "en": "Timur Laut",
+          "slug": "timur-laut-0773"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.465",
+      "lon": "100.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0773-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR TANJONG PINANG",
+      "en": "BANDAR TANJONG PINANG",
+      "slug": "bandar-tanjong-pinang-0773-008"
+    },
+    "code": {
+      "id": "0773-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0773",
+      "level": 2,
+      "name": {
+        "local": "Timur Laut",
+        "en": "Timur Laut",
+        "slug": "timur-laut-0773"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0773",
+        "level": 2,
+        "name": {
+          "local": "Timur Laut",
+          "en": "Timur Laut",
+          "slug": "timur-laut-0773"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.454",
+      "lon": "100.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0773-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR TANJONG TOKONG",
+      "en": "BANDAR TANJONG TOKONG",
+      "slug": "bandar-tanjong-tokong-0773-003"
+    },
+    "code": {
+      "id": "0773-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0773",
+      "level": 2,
+      "name": {
+        "local": "Timur Laut",
+        "en": "Timur Laut",
+        "slug": "timur-laut-0773"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0773",
+        "level": 2,
+        "name": {
+          "local": "Timur Laut",
+          "en": "Timur Laut",
+          "slug": "timur-laut-0773"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.455",
+      "lon": "100.304"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

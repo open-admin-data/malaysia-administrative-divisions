@@ -1,0 +1,18 @@
+# Federal Territory of Labuan — Malaysia Administrative Divisions
+
+> 1 districts, 1 subdistricts
+> Code: 15
+> Coordinates: 5.284, 115.232
+> Last updated: 2026-05-16. License: CC-BY-4.0.
+
+## Districts
+
+### W.P. Labuan
+
+Code: 15159, Coordinates: 5.275, 115.205
+Subdistricts: 1
+
+#### BANDAR
+
+Code: 15159-001, Coordinates: 5.297, 115.249
+

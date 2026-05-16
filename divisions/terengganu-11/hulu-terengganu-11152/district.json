@@ -1,0 +1,47 @@
+{
+  "id": "11152",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Hulu Terengganu",
+    "en": "Hulu Terengganu",
+    "slug": "hulu-terengganu-11152"
+  },
+  "code": {
+    "id": "11152",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "Terengganu",
+      "en": "Terengganu",
+      "slug": "terengganu-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Terengganu",
+        "en": "Terengganu",
+        "slug": "terengganu-11"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.082",
+    "lon": "102.769"
+  },
+  "metadata": {},
+  "source": {}
+}

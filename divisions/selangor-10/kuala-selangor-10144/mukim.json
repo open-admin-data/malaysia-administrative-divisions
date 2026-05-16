@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "10144-022",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR KUALA SELANGOR",
+      "en": "BANDAR KUALA SELANGOR",
+      "slug": "bandar-kuala-selangor-10144-022"
+    },
+    "code": {
+      "id": "10144-022",
+      "iso": null
+    },
+    "parent": {
+      "id": "10144",
+      "level": 2,
+      "name": {
+        "local": "Kuala Selangor",
+        "en": "Kuala Selangor",
+        "slug": "kuala-selangor-10144"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10144",
+        "level": 2,
+        "name": {
+          "local": "Kuala Selangor",
+          "en": "Kuala Selangor",
+          "slug": "kuala-selangor-10144"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.333",
+      "lon": "101.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10144-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR TANJONG KARANG",
+      "en": "BANDAR TANJONG KARANG",
+      "slug": "bandar-tanjong-karang-10144-010"
+    },
+    "code": {
+      "id": "10144-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "10144",
+      "level": 2,
+      "name": {
+        "local": "Kuala Selangor",
+        "en": "Kuala Selangor",
+        "slug": "kuala-selangor-10144"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10144",
+        "level": 2,
+        "name": {
+          "local": "Kuala Selangor",
+          "en": "Kuala Selangor",
+          "slug": "kuala-selangor-10144"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.422",
+      "lon": "101.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10144-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BESTARI JAYA",
+      "en": "BESTARI JAYA",
+      "slug": "bestari-jaya-10144-002"
+    },
+    "code": {
+      "id": "10144-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "10144",
+      "level": 2,
+      "name": {
+        "local": "Kuala Selangor",
+        "en": "Kuala Selangor",
+        "slug": "kuala-selangor-10144"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10144",
+        "level": 2,
+        "name": {
+          "local": "Kuala Selangor",
+          "en": "Kuala Selangor",
+          "slug": "kuala-selangor-10144"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.381",
+      "lon": "101.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10144-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM IJOK",
+      "en": "IJOK",
+      "slug": "ijok-10144-014"
+    },
+    "code": {
+      "id": "10144-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "10144",
+      "level": 2,
+      "name": {
+        "local": "Kuala Selangor",
+        "en": "Kuala Selangor",
+        "slug": "kuala-selangor-10144"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10144",
+        "level": 2,
+        "name": {
+          "local": "Kuala Selangor",
+          "en": "Kuala Selangor",
+          "slug": "kuala-selangor-10144"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.276",
+      "lon": "101.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10144-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUALA SELANGOR",
+      "en": "KUALA SELANGOR",
+      "slug": "kuala-selangor-10144-009"
+    },
+    "code": {
+      "id": "10144-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "10144",
+      "level": 2,
+      "name": {
+        "local": "Kuala Selangor",
+        "en": "Kuala Selangor",
+        "slug": "kuala-selangor-10144"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10144",
+        "level": 2,
+        "name": {
+          "local": "Kuala Selangor",
+          "en": "Kuala Selangor",
+          "slug": "kuala-selangor-10144"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.35",
+      "lon": "101.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10144-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PASANGAN",
+      "en": "PASANGAN",
+      "slug": "pasangan-10144-016"
+    },
+    "code": {
+      "id": "10144-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "10144",
+      "level": 2,
+      "name": {
+        "local": "Kuala Selangor",
+        "en": "Kuala Selangor",
+        "slug": "kuala-selangor-10144"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10144",
+        "level": 2,
+        "name": {
+          "local": "Kuala Selangor",
+          "en": "Kuala Selangor",
+          "slug": "kuala-selangor-10144"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.363",
+      "lon": "101.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10144-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN ASAM JAWA",
+      "en": "PEKAN ASAM JAWA",
+      "slug": "pekan-asam-jawa-10144-011"
+    },
+    "code": {
+      "id": "10144-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "10144",
+      "level": 2,
+      "name": {
+        "local": "Kuala Selangor",
+        "en": "Kuala Selangor",
+        "slug": "kuala-selangor-10144"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10144",
+        "level": 2,
+        "name": {
+          "local": "Kuala Selangor",
+          "en": "Kuala Selangor",
+          "slug": "kuala-selangor-10144"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.296",
+      "lon": "101.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10144-024",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BESTARI JAYA",
+      "en": "PEKAN BESTARI JAYA",
+      "slug": "pekan-bestari-jaya-10144-024"
+    },
+    "code": {
+      "id": "10144-024",
+      "iso": null
+    },
+    "parent": {
+      "id": "10144",
+      "level": 2,
+      "name": {
+        "local": "Kuala Selangor",
+        "en": "Kuala Selangor",
+        "slug": "kuala-selangor-10144"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10144",
+        "level": 2,
+        "name": {
+          "local": "Kuala Selangor",
+          "en": "Kuala Selangor",
+          "slug": "kuala-selangor-10144"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.386",
+      "lon": "101.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10144-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BUKIT BELIMBING",
+      "en": "PEKAN BUKIT BELIMBING",
+      "slug": "pekan-bukit-belimbing-10144-007"
+    },
+    "code": {
+      "id": "10144-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "10144",
+      "level": 2,
+      "name": {
+        "local": "Kuala Selangor",
+        "en": "Kuala Selangor",
+        "slug": "kuala-selangor-10144"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10144",
+        "level": 2,
+        "name": {
+          "local": "Kuala Selangor",
+          "en": "Kuala Selangor",
+          "slug": "kuala-selangor-10144"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.391",
+      "lon": "101.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10144-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BUKIT ROTAN",
+      "en": "PEKAN BUKIT ROTAN",
+      "slug": "pekan-bukit-rotan-10144-005"
+    },
+    "code": {
+      "id": "10144-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "10144",
+      "level": 2,
+      "name": {
+        "local": "Kuala Selangor",
+        "en": "Kuala Selangor",
+        "slug": "kuala-selangor-10144"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10144",
+        "level": 2,
+        "name": {
+          "local": "Kuala Selangor",
+          "en": "Kuala Selangor",
+          "slug": "kuala-selangor-10144"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.312",
+      "lon": "101.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10144-025",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BUKIT TALANG",
+      "en": "PEKAN BUKIT TALANG",
+      "slug": "pekan-bukit-talang-10144-025"
+    },
+    "code": {
+      "id": "10144-025",
+      "iso": null
+    },
+    "parent": {
+      "id": "10144",
+      "level": 2,
+      "name": {
+        "local": "Kuala Selangor",
+        "en": "Kuala Selangor",
+        "slug": "kuala-selangor-10144"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10144",
+        "level": 2,
+        "name": {
+          "local": "Kuala Selangor",
+          "en": "Kuala Selangor",
+          "slug": "kuala-selangor-10144"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.407",
+      "lon": "101.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10144-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN JERAM",
+      "en": "PEKAN JERAM",
+      "slug": "pekan-jeram-10144-003"
+    },
+    "code": {
+      "id": "10144-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "10144",
+      "level": 2,
+      "name": {
+        "local": "Kuala Selangor",
+        "en": "Kuala Selangor",
+        "slug": "kuala-selangor-10144"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10144",
+        "level": 2,
+        "name": {
+          "local": "Kuala Selangor",
+          "en": "Kuala Selangor",
+          "slug": "kuala-selangor-10144"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.226",
+      "lon": "101.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10144-023",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KAMPONG KUANTAN",
+      "en": "PEKAN KAMPONG KUANTAN",
+      "slug": "pekan-kampong-kuantan-10144-023"
+    },
+    "code": {
+      "id": "10144-023",
+      "iso": null
+    },
+    "parent": {
+      "id": "10144",
+      "level": 2,
+      "name": {
+        "local": "Kuala Selangor",
+        "en": "Kuala Selangor",
+        "slug": "kuala-selangor-10144"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10144",
+        "level": 2,
+        "name": {
+          "local": "Kuala Selangor",
+          "en": "Kuala Selangor",
+          "slug": "kuala-selangor-10144"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.361",
+      "lon": "101.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10144-018",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KAMPUNG BARU HULU TIRAM BURUK",
+      "en": "PEKAN KAMPUNG BARU HULU TIRAM BURUK",
+      "slug": "pekan-kampung-baru-hulu-tiram-buruk-10144-018"
+    },
+    "code": {
+      "id": "10144-018",
+      "iso": null
+    },
+    "parent": {
+      "id": "10144",
+      "level": 2,
+      "name": {
+        "local": "Kuala Selangor",
+        "en": "Kuala Selangor",
+        "slug": "kuala-selangor-10144"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10144",
+        "level": 2,
+        "name": {
+          "local": "Kuala Selangor",
+          "en": "Kuala Selangor",
+          "slug": "kuala-selangor-10144"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.429",
+      "lon": "101.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10144-017",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KUALA SUNGAI BULOH",
+      "en": "PEKAN KUALA SUNGAI BULOH",
+      "slug": "pekan-kuala-sungai-buloh-10144-017"
+    },
+    "code": {
+      "id": "10144-017",
+      "iso": null
+    },
+    "parent": {
+      "id": "10144",
+      "level": 2,
+      "name": {
+        "local": "Kuala Selangor",
+        "en": "Kuala Selangor",
+        "slug": "kuala-selangor-10144"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10144",
+        "level": 2,
+        "name": {
+          "local": "Kuala Selangor",
+          "en": "Kuala Selangor",
+          "slug": "kuala-selangor-10144"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.261",
+      "lon": "101.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10144-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PARIT MAHANG",
+      "en": "PEKAN PARIT MAHANG",
+      "slug": "pekan-parit-mahang-10144-006"
+    },
+    "code": {
+      "id": "10144-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "10144",
+      "level": 2,
+      "name": {
+        "local": "Kuala Selangor",
+        "en": "Kuala Selangor",
+        "slug": "kuala-selangor-10144"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10144",
+        "level": 2,
+        "name": {
+          "local": "Kuala Selangor",
+          "en": "Kuala Selangor",
+          "slug": "kuala-selangor-10144"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.281",
+      "lon": "101.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10144-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PASIR PENAMBANG",
+      "en": "PEKAN PASIR PENAMBANG",
+      "slug": "pekan-pasir-penambang-10144-012"
+    },
+    "code": {
+      "id": "10144-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "10144",
+      "level": 2,
+      "name": {
+        "local": "Kuala Selangor",
+        "en": "Kuala Selangor",
+        "slug": "kuala-selangor-10144"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10144",
+        "level": 2,
+        "name": {
+          "local": "Kuala Selangor",
+          "en": "Kuala Selangor",
+          "slug": "kuala-selangor-10144"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.352",
+      "lon": "101.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10144-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SIMPANG TIGA IJOK",
+      "en": "PEKAN SIMPANG TIGA IJOK",
+      "slug": "pekan-simpang-tiga-ijok-10144-004"
+    },
+    "code": {
+      "id": "10144-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "10144",
+      "level": 2,
+      "name": {
+        "local": "Kuala Selangor",
+        "en": "Kuala Selangor",
+        "slug": "kuala-selangor-10144"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10144",
+        "level": 2,
+        "name": {
+          "local": "Kuala Selangor",
+          "en": "Kuala Selangor",
+          "slug": "kuala-selangor-10144"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.305",
+      "lon": "101.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10144-020",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SUNGAI SEMBILANG",
+      "en": "PEKAN SUNGAI SEMBILANG",
+      "slug": "pekan-sungai-sembilang-10144-020"
+    },
+    "code": {
+      "id": "10144-020",
+      "iso": null
+    },
+    "parent": {
+      "id": "10144",
+      "level": 2,
+      "name": {
+        "local": "Kuala Selangor",
+        "en": "Kuala Selangor",
+        "slug": "kuala-selangor-10144"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10144",
+        "level": 2,
+        "name": {
+          "local": "Kuala Selangor",
+          "en": "Kuala Selangor",
+          "slug": "kuala-selangor-10144"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.195",
+      "lon": "101.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10144-021",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TAMAN PKNS",
+      "en": "PEKAN TAMAN PKNS",
+      "slug": "pekan-taman-pkns-10144-021"
+    },
+    "code": {
+      "id": "10144-021",
+      "iso": null
+    },
+    "parent": {
+      "id": "10144",
+      "level": 2,
+      "name": {
+        "local": "Kuala Selangor",
+        "en": "Kuala Selangor",
+        "slug": "kuala-selangor-10144"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10144",
+        "level": 2,
+        "name": {
+          "local": "Kuala Selangor",
+          "en": "Kuala Selangor",
+          "slug": "kuala-selangor-10144"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.226",
+      "lon": "101.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10144-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TAMBAK JAWA",
+      "en": "PEKAN TAMBAK JAWA",
+      "slug": "pekan-tambak-jawa-10144-013"
+    },
+    "code": {
+      "id": "10144-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "10144",
+      "level": 2,
+      "name": {
+        "local": "Kuala Selangor",
+        "en": "Kuala Selangor",
+        "slug": "kuala-selangor-10144"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10144",
+        "level": 2,
+        "name": {
+          "local": "Kuala Selangor",
+          "en": "Kuala Selangor",
+          "slug": "kuala-selangor-10144"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.171",
+      "lon": "101.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10144-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TANJONG KARANG",
+      "en": "PEKAN TANJONG KARANG",
+      "slug": "pekan-tanjong-karang-10144-008"
+    },
+    "code": {
+      "id": "10144-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "10144",
+      "level": 2,
+      "name": {
+        "local": "Kuala Selangor",
+        "en": "Kuala Selangor",
+        "slug": "kuala-selangor-10144"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10144",
+        "level": 2,
+        "name": {
+          "local": "Kuala Selangor",
+          "en": "Kuala Selangor",
+          "slug": "kuala-selangor-10144"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.418",
+      "lon": "101.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10144-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TANJONG KARANG",
+      "en": "TANJONG KARANG",
+      "slug": "tanjong-karang-10144-015"
+    },
+    "code": {
+      "id": "10144-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "10144",
+      "level": 2,
+      "name": {
+        "local": "Kuala Selangor",
+        "en": "Kuala Selangor",
+        "slug": "kuala-selangor-10144"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10144",
+        "level": 2,
+        "name": {
+          "local": "Kuala Selangor",
+          "en": "Kuala Selangor",
+          "slug": "kuala-selangor-10144"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.437",
+      "lon": "101.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10144-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM UJONG PERMATANG",
+      "en": "UJONG PERMATANG",
+      "slug": "ujong-permatang-10144-001"
+    },
+    "code": {
+      "id": "10144-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "10144",
+      "level": 2,
+      "name": {
+        "local": "Kuala Selangor",
+        "en": "Kuala Selangor",
+        "slug": "kuala-selangor-10144"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10144",
+        "level": 2,
+        "name": {
+          "local": "Kuala Selangor",
+          "en": "Kuala Selangor",
+          "slug": "kuala-selangor-10144"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.389",
+      "lon": "101.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10144-019",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM ULU TINGGI",
+      "en": "ULU TINGGI",
+      "slug": "ulu-tinggi-10144-019"
+    },
+    "code": {
+      "id": "10144-019",
+      "iso": null
+    },
+    "parent": {
+      "id": "10144",
+      "level": 2,
+      "name": {
+        "local": "Kuala Selangor",
+        "en": "Kuala Selangor",
+        "slug": "kuala-selangor-10144"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10144",
+        "level": 2,
+        "name": {
+          "local": "Kuala Selangor",
+          "en": "Kuala Selangor",
+          "slug": "kuala-selangor-10144"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.467",
+      "lon": "101.435"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

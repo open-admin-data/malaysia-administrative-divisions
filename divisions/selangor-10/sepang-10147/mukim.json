@@ -1,0 +1,866 @@
+[
+  {
+    "id": "10147-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BARU SALAK TINGGI",
+      "en": "BANDAR BARU SALAK TINGGI",
+      "slug": "bandar-baru-salak-tinggi-10147-011"
+    },
+    "code": {
+      "id": "10147-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "10147",
+      "level": 2,
+      "name": {
+        "local": "Sepang",
+        "en": "Sepang",
+        "slug": "sepang-10147"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10147",
+        "level": 2,
+        "name": {
+          "local": "Sepang",
+          "en": "Sepang",
+          "slug": "sepang-10147"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.819",
+      "lon": "101.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10147-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR CYBERJAYA",
+      "en": "BANDAR CYBERJAYA",
+      "slug": "bandar-cyberjaya-10147-003"
+    },
+    "code": {
+      "id": "10147-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "10147",
+      "level": 2,
+      "name": {
+        "local": "Sepang",
+        "en": "Sepang",
+        "slug": "sepang-10147"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10147",
+        "level": 2,
+        "name": {
+          "local": "Sepang",
+          "en": "Sepang",
+          "slug": "sepang-10147"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.928",
+      "lon": "101.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10147-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR LAPANGAN TERBANG ANTARABANGSA SEPANG",
+      "en": "BANDAR LAPANGAN TERBANG ANTARABANGSA SEPANG",
+      "slug": "bandar-lapangan-terbang-antarabangsa-sepang-10147-002"
+    },
+    "code": {
+      "id": "10147-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "10147",
+      "level": 2,
+      "name": {
+        "local": "Sepang",
+        "en": "Sepang",
+        "slug": "sepang-10147"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10147",
+        "level": 2,
+        "name": {
+          "local": "Sepang",
+          "en": "Sepang",
+          "slug": "sepang-10147"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.75",
+      "lon": "101.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10147-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR PUTRAJAYA",
+      "en": "BANDAR PUTRAJAYA",
+      "slug": "bandar-putrajaya-10147-009"
+    },
+    "code": {
+      "id": "10147-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "10147",
+      "level": 2,
+      "name": {
+        "local": "Sepang",
+        "en": "Sepang",
+        "slug": "sepang-10147"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10147",
+        "level": 2,
+        "name": {
+          "local": "Sepang",
+          "en": "Sepang",
+          "slug": "sepang-10147"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.933",
+      "lon": "101.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10147-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SEPANG",
+      "en": "BANDAR SEPANG",
+      "slug": "bandar-sepang-10147-015"
+    },
+    "code": {
+      "id": "10147-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "10147",
+      "level": 2,
+      "name": {
+        "local": "Sepang",
+        "en": "Sepang",
+        "slug": "sepang-10147"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10147",
+        "level": 2,
+        "name": {
+          "local": "Sepang",
+          "en": "Sepang",
+          "slug": "sepang-10147"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.69",
+      "lon": "101.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10147-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SUNGAI MERAB",
+      "en": "BANDAR SUNGAI MERAB",
+      "slug": "bandar-sungai-merab-10147-005"
+    },
+    "code": {
+      "id": "10147-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "10147",
+      "level": 2,
+      "name": {
+        "local": "Sepang",
+        "en": "Sepang",
+        "slug": "sepang-10147"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10147",
+        "level": 2,
+        "name": {
+          "local": "Sepang",
+          "en": "Sepang",
+          "slug": "sepang-10147"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.948",
+      "lon": "101.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10147-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM DENGKIL",
+      "en": "DENGKIL",
+      "slug": "dengkil-10147-016"
+    },
+    "code": {
+      "id": "10147-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "10147",
+      "level": 2,
+      "name": {
+        "local": "Sepang",
+        "en": "Sepang",
+        "slug": "sepang-10147"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10147",
+        "level": 2,
+        "name": {
+          "local": "Sepang",
+          "en": "Sepang",
+          "slug": "sepang-10147"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.923",
+      "lon": "101.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10147-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BARU SALAK TINGGI",
+      "en": "PEKAN BARU SALAK TINGGI",
+      "slug": "pekan-baru-salak-tinggi-10147-014"
+    },
+    "code": {
+      "id": "10147-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "10147",
+      "level": 2,
+      "name": {
+        "local": "Sepang",
+        "en": "Sepang",
+        "slug": "sepang-10147"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10147",
+        "level": 2,
+        "name": {
+          "local": "Sepang",
+          "en": "Sepang",
+          "slug": "sepang-10147"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.813",
+      "lon": "101.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10147-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BATU 1 SEPANG",
+      "en": "PEKAN BATU 1 SEPANG",
+      "slug": "pekan-batu-1-sepang-10147-007"
+    },
+    "code": {
+      "id": "10147-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "10147",
+      "level": 2,
+      "name": {
+        "local": "Sepang",
+        "en": "Sepang",
+        "slug": "sepang-10147"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10147",
+        "level": 2,
+        "name": {
+          "local": "Sepang",
+          "en": "Sepang",
+          "slug": "sepang-10147"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.679",
+      "lon": "101.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10147-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BUKIT BISA",
+      "en": "PEKAN BUKIT BISA",
+      "slug": "pekan-bukit-bisa-10147-004"
+    },
+    "code": {
+      "id": "10147-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "10147",
+      "level": 2,
+      "name": {
+        "local": "Sepang",
+        "en": "Sepang",
+        "slug": "sepang-10147"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10147",
+        "level": 2,
+        "name": {
+          "local": "Sepang",
+          "en": "Sepang",
+          "slug": "sepang-10147"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.968",
+      "lon": "101.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10147-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN DATO' BAKAR BAGINDA",
+      "en": "PEKAN DATO' BAKAR BAGINDA",
+      "slug": "pekan-dato-bakar-baginda-10147-008"
+    },
+    "code": {
+      "id": "10147-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "10147",
+      "level": 2,
+      "name": {
+        "local": "Sepang",
+        "en": "Sepang",
+        "slug": "sepang-10147"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10147",
+        "level": 2,
+        "name": {
+          "local": "Sepang",
+          "en": "Sepang",
+          "slug": "sepang-10147"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.963",
+      "lon": "101.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10147-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN DENGKIL",
+      "en": "PEKAN DENGKIL",
+      "slug": "pekan-dengkil-10147-010"
+    },
+    "code": {
+      "id": "10147-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "10147",
+      "level": 2,
+      "name": {
+        "local": "Sepang",
+        "en": "Sepang",
+        "slug": "sepang-10147"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10147",
+        "level": 2,
+        "name": {
+          "local": "Sepang",
+          "en": "Sepang",
+          "slug": "sepang-10147"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.861",
+      "lon": "101.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10147-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SUNGAI MERAB",
+      "en": "PEKAN SUNGAI MERAB",
+      "slug": "pekan-sungai-merab-10147-006"
+    },
+    "code": {
+      "id": "10147-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "10147",
+      "level": 2,
+      "name": {
+        "local": "Sepang",
+        "en": "Sepang",
+        "slug": "sepang-10147"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10147",
+        "level": 2,
+        "name": {
+          "local": "Sepang",
+          "en": "Sepang",
+          "slug": "sepang-10147"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.939",
+      "lon": "101.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10147-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SUNGAI PELEK",
+      "en": "PEKAN SUNGAI PELEK",
+      "slug": "pekan-sungai-pelek-10147-001"
+    },
+    "code": {
+      "id": "10147-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "10147",
+      "level": 2,
+      "name": {
+        "local": "Sepang",
+        "en": "Sepang",
+        "slug": "sepang-10147"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10147",
+        "level": 2,
+        "name": {
+          "local": "Sepang",
+          "en": "Sepang",
+          "slug": "sepang-10147"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.642",
+      "lon": "101.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10147-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TANJUNG MAS",
+      "en": "PEKAN TANJUNG MAS",
+      "slug": "pekan-tanjung-mas-10147-012"
+    },
+    "code": {
+      "id": "10147-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "10147",
+      "level": 2,
+      "name": {
+        "local": "Sepang",
+        "en": "Sepang",
+        "slug": "sepang-10147"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10147",
+        "level": 2,
+        "name": {
+          "local": "Sepang",
+          "en": "Sepang",
+          "slug": "sepang-10147"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.667",
+      "lon": "101.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10147-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SEPANG",
+      "en": "SEPANG",
+      "slug": "sepang-10147-013"
+    },
+    "code": {
+      "id": "10147-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "10147",
+      "level": 2,
+      "name": {
+        "local": "Sepang",
+        "en": "Sepang",
+        "slug": "sepang-10147"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10147",
+        "level": 2,
+        "name": {
+          "local": "Sepang",
+          "en": "Sepang",
+          "slug": "sepang-10147"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.657",
+      "lon": "101.702"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

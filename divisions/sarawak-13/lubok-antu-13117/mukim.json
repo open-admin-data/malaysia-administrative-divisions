@@ -1,0 +1,596 @@
+[
+  {
+    "id": "13117-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "AI ENGKARI LAND DISTRICT",
+      "en": "AI ENGKARI LAND DISTRICT",
+      "slug": "ai-engkari-land-district-13117-003"
+    },
+    "code": {
+      "id": "13117-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13117",
+      "level": 2,
+      "name": {
+        "local": "Lubok Antu",
+        "en": "Lubok Antu",
+        "slug": "lubok-antu-13117"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13117",
+        "level": 2,
+        "name": {
+          "local": "Lubok Antu",
+          "en": "Lubok Antu",
+          "slug": "lubok-antu-13117"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.331",
+      "lon": "112.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13117-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BUKIT BESAI LAND DISTRICT",
+      "en": "BUKIT BESAI LAND DISTRICT",
+      "slug": "bukit-besai-land-district-13117-002"
+    },
+    "code": {
+      "id": "13117-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13117",
+      "level": 2,
+      "name": {
+        "local": "Lubok Antu",
+        "en": "Lubok Antu",
+        "slug": "lubok-antu-13117"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13117",
+        "level": 2,
+        "name": {
+          "local": "Lubok Antu",
+          "en": "Lubok Antu",
+          "slug": "lubok-antu-13117"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.117",
+      "lon": "111.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13117-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ENGKILILI TOWN DISTRICT",
+      "en": "ENGKILILI TOWN DISTRICT",
+      "slug": "engkilili-town-district-13117-004"
+    },
+    "code": {
+      "id": "13117-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13117",
+      "level": 2,
+      "name": {
+        "local": "Lubok Antu",
+        "en": "Lubok Antu",
+        "slug": "lubok-antu-13117"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13117",
+        "level": 2,
+        "name": {
+          "local": "Lubok Antu",
+          "en": "Lubok Antu",
+          "slug": "lubok-antu-13117"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.136",
+      "lon": "111.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13117-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "KRANGGAS LAND DISTRICT",
+      "en": "KRANGGAS LAND DISTRICT",
+      "slug": "kranggas-land-district-13117-009"
+    },
+    "code": {
+      "id": "13117-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "13117",
+      "level": 2,
+      "name": {
+        "local": "Lubok Antu",
+        "en": "Lubok Antu",
+        "slug": "lubok-antu-13117"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13117",
+        "level": 2,
+        "name": {
+          "local": "Lubok Antu",
+          "en": "Lubok Antu",
+          "slug": "lubok-antu-13117"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.476",
+      "lon": "111.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13117-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "LEMANAK LAND DISTRICT",
+      "en": "LEMANAK LAND DISTRICT",
+      "slug": "lemanak-land-district-13117-006"
+    },
+    "code": {
+      "id": "13117-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "13117",
+      "level": 2,
+      "name": {
+        "local": "Lubok Antu",
+        "en": "Lubok Antu",
+        "slug": "lubok-antu-13117"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13117",
+        "level": 2,
+        "name": {
+          "local": "Lubok Antu",
+          "en": "Lubok Antu",
+          "slug": "lubok-antu-13117"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.335",
+      "lon": "111.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13117-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "LIDONG TOWN DISTRICT",
+      "en": "LIDONG TOWN DISTRICT",
+      "slug": "lidong-town-district-13117-011"
+    },
+    "code": {
+      "id": "13117-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "13117",
+      "level": 2,
+      "name": {
+        "local": "Lubok Antu",
+        "en": "Lubok Antu",
+        "slug": "lubok-antu-13117"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13117",
+        "level": 2,
+        "name": {
+          "local": "Lubok Antu",
+          "en": "Lubok Antu",
+          "slug": "lubok-antu-13117"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.277",
+      "lon": "111.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13117-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "LUBOK ANTU TOWN DISTRICT",
+      "en": "LUBOK ANTU TOWN DISTRICT",
+      "slug": "lubok-antu-town-district-13117-008"
+    },
+    "code": {
+      "id": "13117-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "13117",
+      "level": 2,
+      "name": {
+        "local": "Lubok Antu",
+        "en": "Lubok Antu",
+        "slug": "lubok-antu-13117"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13117",
+        "level": 2,
+        "name": {
+          "local": "Lubok Antu",
+          "en": "Lubok Antu",
+          "slug": "lubok-antu-13117"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.041",
+      "lon": "111.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13117-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MARUP LAND DISTRICT",
+      "en": "MARUP LAND DISTRICT",
+      "slug": "marup-land-district-13117-007"
+    },
+    "code": {
+      "id": "13117-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "13117",
+      "level": 2,
+      "name": {
+        "local": "Lubok Antu",
+        "en": "Lubok Antu",
+        "slug": "lubok-antu-13117"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13117",
+        "level": 2,
+        "name": {
+          "local": "Lubok Antu",
+          "en": "Lubok Antu",
+          "slug": "lubok-antu-13117"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.193",
+      "lon": "111.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13117-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "NANGA AP TOWN DISTRICT",
+      "en": "NANGA AP TOWN DISTRICT",
+      "slug": "nanga-ap-town-district-13117-001"
+    },
+    "code": {
+      "id": "13117-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13117",
+      "level": 2,
+      "name": {
+        "local": "Lubok Antu",
+        "en": "Lubok Antu",
+        "slug": "lubok-antu-13117"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13117",
+        "level": 2,
+        "name": {
+          "local": "Lubok Antu",
+          "en": "Lubok Antu",
+          "slug": "lubok-antu-13117"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.069",
+      "lon": "111.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13117-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SKRANG LAND DISTRICT",
+      "en": "SKRANG LAND DISTRICT",
+      "slug": "skrang-land-district-13117-005"
+    },
+    "code": {
+      "id": "13117-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "13117",
+      "level": 2,
+      "name": {
+        "local": "Lubok Antu",
+        "en": "Lubok Antu",
+        "slug": "lubok-antu-13117"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13117",
+        "level": 2,
+        "name": {
+          "local": "Lubok Antu",
+          "en": "Lubok Antu",
+          "slug": "lubok-antu-13117"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.272",
+      "lon": "111.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13117-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SKRANG TOWN DISTRICT",
+      "en": "SKRANG TOWN DISTRICT",
+      "slug": "skrang-town-district-13117-010"
+    },
+    "code": {
+      "id": "13117-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "13117",
+      "level": 2,
+      "name": {
+        "local": "Lubok Antu",
+        "en": "Lubok Antu",
+        "slug": "lubok-antu-13117"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13117",
+        "level": 2,
+        "name": {
+          "local": "Lubok Antu",
+          "en": "Lubok Antu",
+          "slug": "lubok-antu-13117"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.283",
+      "lon": "111.625"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

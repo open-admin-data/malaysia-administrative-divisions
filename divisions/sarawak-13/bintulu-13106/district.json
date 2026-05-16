@@ -1,0 +1,47 @@
+{
+  "id": "13106",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bintulu",
+    "en": "Bintulu",
+    "slug": "bintulu-13106"
+  },
+  "code": {
+    "id": "13106",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "Sarawak",
+      "en": "Sarawak",
+      "slug": "sarawak-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.293",
+    "lon": "113.204"
+  },
+  "metadata": {},
+  "source": {}
+}

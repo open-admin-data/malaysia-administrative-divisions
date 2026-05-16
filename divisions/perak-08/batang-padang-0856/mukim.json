@@ -1,0 +1,866 @@
+[
+  {
+    "id": "0856-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BIDOR",
+      "en": "BANDAR BIDOR",
+      "slug": "bandar-bidor-0856-007"
+    },
+    "code": {
+      "id": "0856-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0856",
+      "level": 2,
+      "name": {
+        "local": "Batang Padang",
+        "en": "Batang Padang",
+        "slug": "batang-padang-0856"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0856",
+        "level": 2,
+        "name": {
+          "local": "Batang Padang",
+          "en": "Batang Padang",
+          "slug": "batang-padang-0856"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.112",
+      "lon": "101.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0856-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR CHENDERIANG",
+      "en": "BANDAR CHENDERIANG",
+      "slug": "bandar-chenderiang-0856-008"
+    },
+    "code": {
+      "id": "0856-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0856",
+      "level": 2,
+      "name": {
+        "local": "Batang Padang",
+        "en": "Batang Padang",
+        "slug": "batang-padang-0856"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0856",
+        "level": 2,
+        "name": {
+          "local": "Batang Padang",
+          "en": "Batang Padang",
+          "slug": "batang-padang-0856"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.264",
+      "lon": "101.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0856-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SUNGKAI",
+      "en": "BANDAR SUNGKAI",
+      "slug": "bandar-sungkai-0856-009"
+    },
+    "code": {
+      "id": "0856-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0856",
+      "level": 2,
+      "name": {
+        "local": "Batang Padang",
+        "en": "Batang Padang",
+        "slug": "batang-padang-0856"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0856",
+        "level": 2,
+        "name": {
+          "local": "Batang Padang",
+          "en": "Batang Padang",
+          "slug": "batang-padang-0856"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.995",
+      "lon": "101.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0856-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR TAPAH",
+      "en": "BANDAR TAPAH",
+      "slug": "bandar-tapah-0856-015"
+    },
+    "code": {
+      "id": "0856-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "0856",
+      "level": 2,
+      "name": {
+        "local": "Batang Padang",
+        "en": "Batang Padang",
+        "slug": "batang-padang-0856"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0856",
+        "level": 2,
+        "name": {
+          "local": "Batang Padang",
+          "en": "Batang Padang",
+          "slug": "batang-padang-0856"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.198",
+      "lon": "101.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0856-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR TEMOH",
+      "en": "BANDAR TEMOH",
+      "slug": "bandar-temoh-0856-010"
+    },
+    "code": {
+      "id": "0856-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0856",
+      "level": 2,
+      "name": {
+        "local": "Batang Padang",
+        "en": "Batang Padang",
+        "slug": "batang-padang-0856"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0856",
+        "level": 2,
+        "name": {
+          "local": "Batang Padang",
+          "en": "Batang Padang",
+          "slug": "batang-padang-0856"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.243",
+      "lon": "101.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0856-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BATANG PADANG",
+      "en": "BATANG PADANG",
+      "slug": "batang-padang-0856-004"
+    },
+    "code": {
+      "id": "0856-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0856",
+      "level": 2,
+      "name": {
+        "local": "Batang Padang",
+        "en": "Batang Padang",
+        "slug": "batang-padang-0856"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0856",
+        "level": 2,
+        "name": {
+          "local": "Batang Padang",
+          "en": "Batang Padang",
+          "slug": "batang-padang-0856"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.287",
+      "lon": "101.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0856-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BIDOR",
+      "en": "BIDOR",
+      "slug": "bidor-0856-012"
+    },
+    "code": {
+      "id": "0856-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0856",
+      "level": 2,
+      "name": {
+        "local": "Batang Padang",
+        "en": "Batang Padang",
+        "slug": "batang-padang-0856"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0856",
+        "level": 2,
+        "name": {
+          "local": "Batang Padang",
+          "en": "Batang Padang",
+          "slug": "batang-padang-0856"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.08",
+      "lon": "101.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0856-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM CHENDERIANG",
+      "en": "CHENDERIANG",
+      "slug": "chenderiang-0856-006"
+    },
+    "code": {
+      "id": "0856-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0856",
+      "level": 2,
+      "name": {
+        "local": "Batang Padang",
+        "en": "Batang Padang",
+        "slug": "batang-padang-0856"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0856",
+        "level": 2,
+        "name": {
+          "local": "Batang Padang",
+          "en": "Batang Padang",
+          "slug": "batang-padang-0856"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.233",
+      "lon": "101.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0856-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN AYER KUNING",
+      "en": "PEKAN AYER KUNING",
+      "slug": "pekan-ayer-kuning-0856-013"
+    },
+    "code": {
+      "id": "0856-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0856",
+      "level": 2,
+      "name": {
+        "local": "Batang Padang",
+        "en": "Batang Padang",
+        "slug": "batang-padang-0856"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0856",
+        "level": 2,
+        "name": {
+          "local": "Batang Padang",
+          "en": "Batang Padang",
+          "slug": "batang-padang-0856"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.189",
+      "lon": "101.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0856-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BANIR",
+      "en": "PEKAN BANIR",
+      "slug": "pekan-banir-0856-016"
+    },
+    "code": {
+      "id": "0856-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "0856",
+      "level": 2,
+      "name": {
+        "local": "Batang Padang",
+        "en": "Batang Padang",
+        "slug": "batang-padang-0856"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0856",
+        "level": 2,
+        "name": {
+          "local": "Batang Padang",
+          "en": "Batang Padang",
+          "slug": "batang-padang-0856"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.208",
+      "lon": "101.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0856-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BIKAM",
+      "en": "PEKAN BIKAM",
+      "slug": "pekan-bikam-0856-005"
+    },
+    "code": {
+      "id": "0856-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0856",
+      "level": 2,
+      "name": {
+        "local": "Batang Padang",
+        "en": "Batang Padang",
+        "slug": "batang-padang-0856"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0856",
+        "level": 2,
+        "name": {
+          "local": "Batang Padang",
+          "en": "Batang Padang",
+          "slug": "batang-padang-0856"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.043",
+      "lon": "101.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0856-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SUNGAI LESONG",
+      "en": "PEKAN SUNGAI LESONG",
+      "slug": "pekan-sungai-lesong-0856-002"
+    },
+    "code": {
+      "id": "0856-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0856",
+      "level": 2,
+      "name": {
+        "local": "Batang Padang",
+        "en": "Batang Padang",
+        "slug": "batang-padang-0856"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0856",
+        "level": 2,
+        "name": {
+          "local": "Batang Padang",
+          "en": "Batang Padang",
+          "slug": "batang-padang-0856"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.235",
+      "lon": "101.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0856-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TAPAH ROAD",
+      "en": "PEKAN TAPAH ROAD",
+      "slug": "pekan-tapah-road-0856-011"
+    },
+    "code": {
+      "id": "0856-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0856",
+      "level": 2,
+      "name": {
+        "local": "Batang Padang",
+        "en": "Batang Padang",
+        "slug": "batang-padang-0856"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0856",
+        "level": 2,
+        "name": {
+          "local": "Batang Padang",
+          "en": "Batang Padang",
+          "slug": "batang-padang-0856"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.173",
+      "lon": "101.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0856-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TEMOH STATION",
+      "en": "PEKAN TEMOH STATION",
+      "slug": "pekan-temoh-station-0856-014"
+    },
+    "code": {
+      "id": "0856-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "0856",
+      "level": 2,
+      "name": {
+        "local": "Batang Padang",
+        "en": "Batang Padang",
+        "slug": "batang-padang-0856"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0856",
+        "level": 2,
+        "name": {
+          "local": "Batang Padang",
+          "en": "Batang Padang",
+          "slug": "batang-padang-0856"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.24",
+      "lon": "101.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0856-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SABAK",
+      "en": "SABAK",
+      "slug": "sabak-0856-001"
+    },
+    "code": {
+      "id": "0856-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0856",
+      "level": 2,
+      "name": {
+        "local": "Batang Padang",
+        "en": "Batang Padang",
+        "slug": "batang-padang-0856"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0856",
+        "level": 2,
+        "name": {
+          "local": "Batang Padang",
+          "en": "Batang Padang",
+          "slug": "batang-padang-0856"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.338",
+      "lon": "101.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0856-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SUNGKAI",
+      "en": "SUNGKAI",
+      "slug": "sungkai-0856-003"
+    },
+    "code": {
+      "id": "0856-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0856",
+      "level": 2,
+      "name": {
+        "local": "Batang Padang",
+        "en": "Batang Padang",
+        "slug": "batang-padang-0856"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0856",
+        "level": 2,
+        "name": {
+          "local": "Batang Padang",
+          "en": "Batang Padang",
+          "slug": "batang-padang-0856"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.031",
+      "lon": "101.385"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

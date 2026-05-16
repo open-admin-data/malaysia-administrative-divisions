@@ -1,0 +1,47 @@
+{
+  "id": "0770",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Seberang Perai Selatan",
+    "en": "Seberang Perai Selatan",
+    "slug": "seberang-perai-selatan-0770"
+  },
+  "code": {
+    "id": "0770",
+    "iso": null
+  },
+  "parent": {
+    "id": "07",
+    "level": 1,
+    "name": {
+      "local": "Pulau Pinang",
+      "en": "Penang",
+      "slug": "penang-07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "07",
+      "level": 1,
+      "name": {
+        "local": "Pulau Pinang",
+        "en": "Penang",
+        "slug": "penang-07"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.252",
+    "lon": "100.455"
+  },
+  "metadata": {},
+  "source": {}
+}

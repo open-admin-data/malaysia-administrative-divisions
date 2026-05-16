@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "0858-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR GERIK",
+      "en": "BANDAR GERIK",
+      "slug": "bandar-gerik-0858-003"
+    },
+    "code": {
+      "id": "0858-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0858",
+      "level": 2,
+      "name": {
+        "local": "Hulu Perak",
+        "en": "Hulu Perak",
+        "slug": "hulu-perak-0858"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0858",
+        "level": 2,
+        "name": {
+          "local": "Hulu Perak",
+          "en": "Hulu Perak",
+          "slug": "hulu-perak-0858"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.429",
+      "lon": "101.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0858-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR KELIAN INTAN",
+      "en": "BANDAR KELIAN INTAN",
+      "slug": "bandar-kelian-intan-0858-009"
+    },
+    "code": {
+      "id": "0858-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0858",
+      "level": 2,
+      "name": {
+        "local": "Hulu Perak",
+        "en": "Hulu Perak",
+        "slug": "hulu-perak-0858"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0858",
+        "level": 2,
+        "name": {
+          "local": "Hulu Perak",
+          "en": "Hulu Perak",
+          "slug": "hulu-perak-0858"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.636",
+      "lon": "101.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0858-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR LAWIN",
+      "en": "BANDAR LAWIN",
+      "slug": "bandar-lawin-0858-014"
+    },
+    "code": {
+      "id": "0858-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "0858",
+      "level": 2,
+      "name": {
+        "local": "Hulu Perak",
+        "en": "Hulu Perak",
+        "slug": "hulu-perak-0858"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0858",
+        "level": 2,
+        "name": {
+          "local": "Hulu Perak",
+          "en": "Hulu Perak",
+          "slug": "hulu-perak-0858"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.298",
+      "lon": "101.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0858-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR LENGGONG",
+      "en": "BANDAR LENGGONG",
+      "slug": "bandar-lenggong-0858-010"
+    },
+    "code": {
+      "id": "0858-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0858",
+      "level": 2,
+      "name": {
+        "local": "Hulu Perak",
+        "en": "Hulu Perak",
+        "slug": "hulu-perak-0858"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0858",
+        "level": 2,
+        "name": {
+          "local": "Hulu Perak",
+          "en": "Hulu Perak",
+          "slug": "hulu-perak-0858"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.108",
+      "lon": "100.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0858-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR PENGKALAN HULU",
+      "en": "BANDAR PENGKALAN HULU",
+      "slug": "bandar-pengkalan-hulu-0858-007"
+    },
+    "code": {
+      "id": "0858-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0858",
+      "level": 2,
+      "name": {
+        "local": "Hulu Perak",
+        "en": "Hulu Perak",
+        "slug": "hulu-perak-0858"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0858",
+        "level": 2,
+        "name": {
+          "local": "Hulu Perak",
+          "en": "Hulu Perak",
+          "slug": "hulu-perak-0858"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.706",
+      "lon": "100.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0858-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BELUKAR SEMANG",
+      "en": "BELUKAR SEMANG",
+      "slug": "belukar-semang-0858-005"
+    },
+    "code": {
+      "id": "0858-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0858",
+      "level": 2,
+      "name": {
+        "local": "Hulu Perak",
+        "en": "Hulu Perak",
+        "slug": "hulu-perak-0858"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0858",
+        "level": 2,
+        "name": {
+          "local": "Hulu Perak",
+          "en": "Hulu Perak",
+          "slug": "hulu-perak-0858"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.621",
+      "lon": "100.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0858-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BELUM",
+      "en": "BELUM",
+      "slug": "belum-0858-015"
+    },
+    "code": {
+      "id": "0858-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "0858",
+      "level": 2,
+      "name": {
+        "local": "Hulu Perak",
+        "en": "Hulu Perak",
+        "slug": "hulu-perak-0858"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0858",
+        "level": 2,
+        "name": {
+          "local": "Hulu Perak",
+          "en": "Hulu Perak",
+          "slug": "hulu-perak-0858"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.835",
+      "lon": "101.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0858-017",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM DURIAN PIPIT",
+      "en": "DURIAN PIPIT",
+      "slug": "durian-pipit-0858-017"
+    },
+    "code": {
+      "id": "0858-017",
+      "iso": null
+    },
+    "parent": {
+      "id": "0858",
+      "level": 2,
+      "name": {
+        "local": "Hulu Perak",
+        "en": "Hulu Perak",
+        "slug": "hulu-perak-0858"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0858",
+        "level": 2,
+        "name": {
+          "local": "Hulu Perak",
+          "en": "Hulu Perak",
+          "slug": "hulu-perak-0858"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.005",
+      "lon": "100.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0858-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM GERIK",
+      "en": "GERIK",
+      "slug": "gerik-0858-011"
+    },
+    "code": {
+      "id": "0858-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0858",
+      "level": 2,
+      "name": {
+        "local": "Hulu Perak",
+        "en": "Hulu Perak",
+        "slug": "hulu-perak-0858"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0858",
+        "level": 2,
+        "name": {
+          "local": "Hulu Perak",
+          "en": "Hulu Perak",
+          "slug": "hulu-perak-0858"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.413",
+      "lon": "101.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0858-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM JERAM",
+      "en": "JERAM",
+      "slug": "jeram-0858-001"
+    },
+    "code": {
+      "id": "0858-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0858",
+      "level": 2,
+      "name": {
+        "local": "Hulu Perak",
+        "en": "Hulu Perak",
+        "slug": "hulu-perak-0858"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0858",
+        "level": 2,
+        "name": {
+          "local": "Hulu Perak",
+          "en": "Hulu Perak",
+          "slug": "hulu-perak-0858"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.481",
+      "lon": "101.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0858-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KENERING",
+      "en": "KENERING",
+      "slug": "kenering-0858-006"
+    },
+    "code": {
+      "id": "0858-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0858",
+      "level": 2,
+      "name": {
+        "local": "Hulu Perak",
+        "en": "Hulu Perak",
+        "slug": "hulu-perak-0858"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0858",
+        "level": 2,
+        "name": {
+          "local": "Hulu Perak",
+          "en": "Hulu Perak",
+          "slug": "hulu-perak-0858"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.398",
+      "lon": "100.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0858-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KERUNAI",
+      "en": "KERUNAI",
+      "slug": "kerunai-0858-016"
+    },
+    "code": {
+      "id": "0858-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "0858",
+      "level": 2,
+      "name": {
+        "local": "Hulu Perak",
+        "en": "Hulu Perak",
+        "slug": "hulu-perak-0858"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0858",
+        "level": 2,
+        "name": {
+          "local": "Hulu Perak",
+          "en": "Hulu Perak",
+          "slug": "hulu-perak-0858"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.571",
+      "lon": "101.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0858-020",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KOTA",
+      "en": "KOTA",
+      "slug": "kota-xx-1228"
+    },
+    "code": {
+      "id": "0858-020",
+      "iso": null
+    },
+    "parent": {
+      "id": "0858",
+      "level": 2,
+      "name": {
+        "local": "Hulu Perak",
+        "en": "Hulu Perak",
+        "slug": "hulu-perak-0858"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0858",
+        "level": 2,
+        "name": {
+          "local": "Hulu Perak",
+          "en": "Hulu Perak",
+          "slug": "hulu-perak-0858"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.813",
+      "lon": "101.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0858-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM LENGGONG",
+      "en": "LENGGONG",
+      "slug": "lenggong-0858-002"
+    },
+    "code": {
+      "id": "0858-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0858",
+      "level": 2,
+      "name": {
+        "local": "Hulu Perak",
+        "en": "Hulu Perak",
+        "slug": "hulu-perak-0858"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0858",
+        "level": 2,
+        "name": {
+          "local": "Hulu Perak",
+          "en": "Hulu Perak",
+          "slug": "hulu-perak-0858"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.123",
+      "lon": "101.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0858-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN RANTAU PANJANG",
+      "en": "PEKAN RANTAU PANJANG",
+      "slug": "pekan-rantau-panjang-0858-008"
+    },
+    "code": {
+      "id": "0858-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0858",
+      "level": 2,
+      "name": {
+        "local": "Hulu Perak",
+        "en": "Hulu Perak",
+        "slug": "hulu-perak-0858"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0858",
+        "level": 2,
+        "name": {
+          "local": "Hulu Perak",
+          "en": "Hulu Perak",
+          "slug": "hulu-perak-0858"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.812",
+      "lon": "101.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0858-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PENGKALAN HULU",
+      "en": "PENGKALAN HULU",
+      "slug": "pengkalan-hulu-0858-004"
+    },
+    "code": {
+      "id": "0858-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0858",
+      "level": 2,
+      "name": {
+        "local": "Hulu Perak",
+        "en": "Hulu Perak",
+        "slug": "hulu-perak-0858"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0858",
+        "level": 2,
+        "name": {
+          "local": "Hulu Perak",
+          "en": "Hulu Perak",
+          "slug": "hulu-perak-0858"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.713",
+      "lon": "101.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0858-019",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM RANTAU PANJANG",
+      "en": "RANTAU PANJANG",
+      "slug": "rantau-panjang-xx-768"
+    },
+    "code": {
+      "id": "0858-019",
+      "iso": null
+    },
+    "parent": {
+      "id": "0858",
+      "level": 2,
+      "name": {
+        "local": "Hulu Perak",
+        "en": "Hulu Perak",
+        "slug": "hulu-perak-0858"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0858",
+        "level": 2,
+        "name": {
+          "local": "Hulu Perak",
+          "en": "Hulu Perak",
+          "slug": "hulu-perak-0858"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.782",
+      "lon": "101.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0858-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SERDANG",
+      "en": "SERDANG",
+      "slug": "serdang-0858-013"
+    },
+    "code": {
+      "id": "0858-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0858",
+      "level": 2,
+      "name": {
+        "local": "Hulu Perak",
+        "en": "Hulu Perak",
+        "slug": "hulu-perak-0858"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0858",
+        "level": 2,
+        "name": {
+          "local": "Hulu Perak",
+          "en": "Hulu Perak",
+          "slug": "hulu-perak-0858"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.368",
+      "lon": "100.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0858-018",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TEMELONG",
+      "en": "TEMELONG",
+      "slug": "temelong-0858-018"
+    },
+    "code": {
+      "id": "0858-018",
+      "iso": null
+    },
+    "parent": {
+      "id": "0858",
+      "level": 2,
+      "name": {
+        "local": "Hulu Perak",
+        "en": "Hulu Perak",
+        "slug": "hulu-perak-0858"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0858",
+        "level": 2,
+        "name": {
+          "local": "Hulu Perak",
+          "en": "Hulu Perak",
+          "slug": "hulu-perak-0858"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.066",
+      "lon": "100.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0858-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TEMENGOR",
+      "en": "TEMENGOR",
+      "slug": "temengor-0858-012"
+    },
+    "code": {
+      "id": "0858-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0858",
+      "level": 2,
+      "name": {
+        "local": "Hulu Perak",
+        "en": "Hulu Perak",
+        "slug": "hulu-perak-0858"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0858",
+        "level": 2,
+        "name": {
+          "local": "Hulu Perak",
+          "en": "Hulu Perak",
+          "slug": "hulu-perak-0858"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.425",
+      "lon": "101.586"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

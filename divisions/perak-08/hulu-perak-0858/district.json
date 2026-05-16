@@ -1,0 +1,47 @@
+{
+  "id": "0858",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Hulu Perak",
+    "en": "Hulu Perak",
+    "slug": "hulu-perak-0858"
+  },
+  "code": {
+    "id": "0858",
+    "iso": null
+  },
+  "parent": {
+    "id": "08",
+    "level": 1,
+    "name": {
+      "local": "Perak",
+      "en": "Perak",
+      "slug": "perak-08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.374",
+    "lon": "101.278"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,49 @@
+[
+  {
+    "id": "0968",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Perlis",
+      "en": "Perlis",
+      "slug": "perlis-0968"
+    },
+    "code": {
+      "id": "0968",
+      "iso": null
+    },
+    "parent": {
+      "id": "09",
+      "level": 1,
+      "name": {
+        "local": "Perlis",
+        "en": "Perlis",
+        "slug": "perlis-09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "Perlis",
+          "en": "Perlis",
+          "slug": "perlis-09"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.542",
+      "lon": "100.219"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

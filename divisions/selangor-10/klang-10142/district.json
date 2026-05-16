@@ -1,0 +1,47 @@
+{
+  "id": "10142",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Klang",
+    "en": "Klang",
+    "slug": "klang-10142"
+  },
+  "code": {
+    "id": "10142",
+    "iso": null
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "local": "Selangor",
+      "en": "Selangor",
+      "slug": "selangor-10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "Selangor",
+        "en": "Selangor",
+        "slug": "selangor-10"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.005",
+    "lon": "101.362"
+  },
+  "metadata": {},
+  "source": {}
+}

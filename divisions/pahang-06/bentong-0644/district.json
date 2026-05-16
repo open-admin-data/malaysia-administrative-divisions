@@ -1,0 +1,47 @@
+{
+  "id": "0644",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bentong",
+    "en": "Bentong",
+    "slug": "bentong-0644"
+  },
+  "code": {
+    "id": "0644",
+    "iso": null
+  },
+  "parent": {
+    "id": "06",
+    "level": 1,
+    "name": {
+      "local": "Pahang",
+      "en": "Pahang",
+      "slug": "pahang-06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "Pahang",
+        "en": "Pahang",
+        "slug": "pahang-06"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.377",
+    "lon": "102.033"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "0220",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pokok Sena",
+    "en": "Pokok Sena",
+    "slug": "pokok-sena-0220"
+  },
+  "code": {
+    "id": "0220",
+    "iso": null
+  },
+  "parent": {
+    "id": "02",
+    "level": 1,
+    "name": {
+      "local": "Kedah",
+      "en": "Kedah",
+      "slug": "kedah-02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "Kedah",
+        "en": "Kedah",
+        "slug": "kedah-02"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.178",
+    "lon": "100.516"
+  },
+  "metadata": {},
+  "source": {}
+}

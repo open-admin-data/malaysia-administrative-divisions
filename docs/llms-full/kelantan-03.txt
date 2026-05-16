@@ -1,0 +1,1272 @@
+# Kelantan — Malaysia Administrative Divisions
+
+> 11 districts, 302 subdistricts
+> Code: 03
+> Coordinates: 5.629, 101.943
+> Last updated: 2026-05-16. License: CC-BY-4.0.
+
+## Districts
+
+### Bachok
+
+Code: 0323, Coordinates: 5.958, 102.347
+Subdistricts: 31
+
+#### MUKIM ALOR BAKAT (ALOR BAKAT)
+
+Code: 0323-003, Coordinates: 5.96, 102.319
+
+#### MUKIM BACHOK (BACHOK)
+
+Code: 0323-022, Coordinates: 6.063, 102.392
+
+#### BANDAR BACHOK
+
+Code: 0323-027, Coordinates: 6.061, 102.399
+
+#### MUKIM BATOR (BATOR)
+
+Code: 0323-011, Coordinates: 5.991, 102.377
+
+#### MUKIM CHAP (CHAP)
+
+Code: 0323-028, Coordinates: 6.045, 102.348
+
+#### MUKIM CHERANG HANGUS (CHERANG HANGUS)
+
+Code: 0323-001, Coordinates: 6.035, 102.358
+
+#### MUKIM KEMASIN (KEMASIN)
+
+Code: 0323-009, Coordinates: 6.11, 102.373
+
+#### MUKIM KUAU (KUAU)
+
+Code: 0323-005, Coordinates: 6.029, 102.384
+
+#### MUKIM KUBANG TELAGA (KUBANG TELAGA)
+
+Code: 0323-008, Coordinates: 5.941, 102.368
+
+#### MUKIM KUCHELONG (KUCHELONG)
+
+Code: 0323-029, Coordinates: 6.025, 102.343
+
+#### MUKIM LUBOK TEMBESU (LUBOK TEMBESU)
+
+Code: 0323-019, Coordinates: 5.91, 102.387
+
+#### MUKIM MAK LIPAH (MAK LIPAH)
+
+Code: 0323-031, Coordinates: 5.949, 102.292
+
+#### MUKIM MELAWI (MELAWI)
+
+Code: 0323-023, Coordinates: 6.034, 102.402
+
+#### MUKIM NIPAH (NIPAH)
+
+Code: 0323-007, Coordinates: 6.05, 102.398
+
+#### MUKIM PAK PURA (PAK PURA)
+
+Code: 0323-016, Coordinates: 6.066, 102.367
+
+#### MUKIM PAUH SEMBILAN (PAUH SEMBILAN)
+
+Code: 0323-015, Coordinates: 6.092, 102.355
+
+#### MUKIM PAYA MENGKUANG (PAYA MENGKUANG)
+
+Code: 0323-013, Coordinates: 6.083, 102.385
+
+#### PEKAN JELAWAT
+
+Code: 0323-017, Coordinates: 6.012, 102.375
+
+#### MUKIM PERUPOK (PERUPOK)
+
+Code: 0323-026, Coordinates: 6.085, 102.388
+
+#### MUKIM REPEK (REPEK)
+
+Code: 0323-030, Coordinates: 6.006, 102.408
+
+#### MUKIM RUSA (RUSA)
+
+Code: 0323-006, Coordinates: 5.986, 102.397
+
+#### MUKIM SENAK (SENAK)
+
+Code: 0323-010, Coordinates: 6.14, 102.344
+
+#### MUKIM TAKANG (TAKANG)
+
+Code: 0323-012, Coordinates: 6.088, 102.333
+
+#### MUKIM TANJONG (TANJONG)
+
+Code: 0323-018, Coordinates: 6.095, 102.322
+
+#### MUKIM TANJONG JERING (TANJONG JERING)
+
+Code: 0323-002, Coordinates: 6.071, 102.347
+
+#### MUKIM TANJONG PAUH (TANJONG PAUH)
+
+Code: 0323-021, Coordinates: 6.049, 102.377
+
+#### MUKIM TELOK MESIRA (TELOK MESIRA)
+
+Code: 0323-004, Coordinates: 6.106, 102.323
+
+#### MUKIM TELONG (TELONG)
+
+Code: 0323-020, Coordinates: 5.96, 102.423
+
+#### MUKIM TEMU RANGGAS (TEMU RANGGAS)
+
+Code: 0323-024, Coordinates: 6.041, 102.327
+
+#### MUKIM TEPUS (TEPUS)
+
+Code: 0323-025, Coordinates: 5.998, 102.35
+
+#### MUKIM TUALANG SALAK (TUALANG SALAK)
+
+Code: 0323-014, Coordinates: 6.031, 102.367
+
+### Gua Musang
+
+Code: 0324, Coordinates: 4.919, 102.158
+Subdistricts: 14
+
+#### BANDAR GUA MUSANG
+
+Code: 0324-014, Coordinates: 4.857, 101.965
+
+#### MUKIM BATU PAPAN (BATU PAPAN)
+
+Code: 0324-011, Coordinates: 4.88, 101.929
+
+#### MUKIM BELIMBING (BELIMBING)
+
+Code: 0324-004, Coordinates: 5.119, 101.782
+
+#### MUKIM GUA (GUA)
+
+Code: 0324-001, Coordinates: 4.825, 102.041
+
+#### MUKIM GUA MUSANG (GUA MUSANG)
+
+Code: 0324-002, Coordinates: 4.903, 101.955
+
+#### MUKIM JABI (JABI)
+
+Code: 0324-012, Coordinates: 4.942, 101.913
+
+#### MUKIM KUALA BETIS (KUALA BETIS)
+
+Code: 0324-013, Coordinates: 4.933, 101.774
+
+#### MUKIM KUALA SUNGAI (KUALA SUNGAI)
+
+Code: 0324-007, Coordinates: 5.152, 102.065
+
+#### MUKIM LANGGAR (LANGGAR)
+
+Code: 0324-009, Coordinates: 5.275, 101.844
+
+#### MUKIM LIMAU KASTURI (LIMAU KASTURI)
+
+Code: 0324-006, Coordinates: 5.07, 102.097
+
+#### MUKIM RELAI (RELAI)
+
+Code: 0324-003, Coordinates: 4.86, 102.405
+
+#### MUKIM RENOK (RENOK)
+
+Code: 0324-010, Coordinates: 4.942, 101.992
+
+#### MUKIM TEBING TINGGI (TEBING TINGGI)
+
+Code: 0324-005, Coordinates: 4.758, 102.274
+
+#### MUKIM ULU NENGGIRI (ULU NENGGIRI)
+
+Code: 0324-008, Coordinates: 5.211, 101.652
+
+### Jeli
+
+Code: 0325, Coordinates: 5.655, 101.818
+Subdistricts: 6
+
+#### MUKIM BUNGA TANJONG (BUNGA TANJONG)
+
+Code: 0325-004, Coordinates: 5.468, 101.83
+
+#### MUKIM JELI (JELI)
+
+Code: 0325-001, Coordinates: 5.751, 101.88
+
+#### MUKIM JELI TEPI SUNGAI (JELI TEPI SUNGAI)
+
+Code: 0325-003, Coordinates: 5.659, 101.87
+
+#### MUKIM KALAI (KALAI)
+
+Code: 0325-005, Coordinates: 5.752, 101.734
+
+#### MUKIM KUALA BALAH (KUALA BALAH)
+
+Code: 0325-002, Coordinates: 5.46, 101.903
+
+#### MUKIM LUBOK BONGOR (LUBOK BONGOR)
+
+Code: 0325-006, Coordinates: 5.555, 101.802
+
+### Kecil Lojing
+
+Code: 0326, Coordinates: 4.733, 101.527
+Subdistricts: 7
+
+#### MUKIM BALAR (BALAR)
+
+Code: 0326-006, Coordinates: 4.894, 101.596
+
+#### MUKIM BLAU (BLAU)
+
+Code: 0326-003, Coordinates: 4.701, 101.709
+
+#### MUKIM HAU (HAU)
+
+Code: 0326-004, Coordinates: 4.845, 101.605
+
+#### MUKIM HENDROP (HENDROP)
+
+Code: 0326-007, Coordinates: 4.658, 101.591
+
+#### MUKIM PULAI (PULAI)
+
+Code: 0326-002, Coordinates: 4.85, 101.486
+
+#### MUKIM SIGAR (SIGAR)
+
+Code: 0326-005, Coordinates: 4.638, 101.437
+
+#### MUKIM TUEL (TUEL)
+
+Code: 0326-001, Coordinates: 4.777, 101.437
+
+### Kota Bharu
+
+Code: 0327, Coordinates: 6.049, 102.27
+Subdistricts: 85
+
+#### MUKIM AUR DURI (AUR DURI)
+
+Code: 0327-019, Coordinates: 6.026, 102.177
+
+#### MUKIM BADAK (BADAK)
+
+Code: 0327-065, Coordinates: 5.958, 102.229
+
+#### MUKIM BADAK MATI (BADAK MATI)
+
+Code: 0327-060, Coordinates: 6.015, 102.324
+
+#### MUKIM BADANG (BADANG)
+
+Code: 0327-082, Coordinates: 6.186, 102.262
+
+#### BANDAR BARU KUBANG KERIAN
+
+Code: 0327-010, Coordinates: 6.098, 102.277
+
+#### BANDAR KOTA BHARU
+
+Code: 0327-024, Coordinates: 6.12, 102.247
+
+#### MUKIM BANGGOL (BANGGOL)
+
+Code: 0327-028, Coordinates: 6.152, 102.251
+
+#### MUKIM BANGGU (BANGGU)
+
+Code: 0327-038, Coordinates: 6.059, 102.325
+
+#### MUKIM BAUNG (BAUNG)
+
+Code: 0327-081, Coordinates: 6.158, 102.275
+
+#### MUKIM BAYANG (BAYANG)
+
+Code: 0327-078, Coordinates: 6.12, 102.274
+
+#### MUKIM BECHAH MULONG (BECHAH MULONG)
+
+Code: 0327-041, Coordinates: 5.998, 102.316
+
+#### MUKIM BETA HILIR (BETA HILIR)
+
+Code: 0327-033, Coordinates: 6.03, 102.216
+
+#### MUKIM BETA HULU (BETA HULU)
+
+Code: 0327-056, Coordinates: 5.989, 102.218
+
+#### MUKIM BETING (BETING)
+
+Code: 0327-014, Coordinates: 6.152, 102.263
+
+#### MUKIM BIAH (BIAH)
+
+Code: 0327-035, Coordinates: 6.019, 102.245
+
+#### MUKIM BULOH POH (BULOH POH)
+
+Code: 0327-064, Coordinates: 5.962, 102.268
+
+#### MUKIM BUNUT PAYONG (BUNUT PAYONG)
+
+Code: 0327-077, Coordinates: 6.099, 102.247
+
+#### MUKIM BUT (BUT)
+
+Code: 0327-046, Coordinates: 5.986, 102.26
+
+#### MUKIM CHE LATIFF (CHE LATIFF)
+
+Code: 0327-050, Coordinates: 6.207, 102.239
+
+#### MUKIM CHEKLI (CHEKLI)
+
+Code: 0327-072, Coordinates: 6.006, 102.213
+
+#### MUKIM CHEKOK (CHEKOK)
+
+Code: 0327-074, Coordinates: 6.145, 102.279
+
+#### MUKIM CHICHA (CHICHA)
+
+Code: 0327-007, Coordinates: 6.073, 102.278
+
+#### MUKIM DAL (DAL)
+
+Code: 0327-070, Coordinates: 6.178, 102.269
+
+#### MUKIM DEMIT (DEMIT)
+
+Code: 0327-013, Coordinates: 6.103, 102.283
+
+#### MUKIM DUSON RENDAH (DUSON RENDAH)
+
+Code: 0327-015, Coordinates: 5.958, 102.215
+
+#### MUKIM GUNTONG (GUNTONG)
+
+Code: 0327-037, Coordinates: 6.041, 102.28
+
+#### MUKIM KADOK (KADOK)
+
+Code: 0327-020, Coordinates: 6.001, 102.249
+
+#### MUKIM KAMPONG SIREH (KAMPONG SIREH)
+
+Code: 0327-069, Coordinates: 6.104, 102.232
+
+#### MUKIM KARANG (KARANG)
+
+Code: 0327-054, Coordinates: 6.058, 102.305
+
+#### MUKIM KEDAI BULOH (KEDAI BULOH)
+
+Code: 0327-025, Coordinates: 6.183, 102.249
+
+#### MUKIM KEMUBU (KEMUBU)
+
+Code: 0327-080, Coordinates: 5.922, 102.217
+
+#### MUKIM KEMUMIN (KEMUMIN)
+
+Code: 0327-004, Coordinates: 6.156, 102.306
+
+#### MUKIM KENALI (KENALI)
+
+Code: 0327-068, Coordinates: 6.093, 102.276
+
+#### MUKIM KETEREH BARAT (KETEREH BARAT)
+
+Code: 0327-043, Coordinates: 5.947, 102.24
+
+#### MUKIM KETEREH TIMOR (KETEREH TIMOR)
+
+Code: 0327-027, Coordinates: 5.941, 102.267
+
+#### MUKIM KIJANG (KIJANG)
+
+Code: 0327-084, Coordinates: 6.169, 102.257
+
+#### MUKIM KOH (KOH)
+
+Code: 0327-063, Coordinates: 6.016, 102.23
+
+#### MUKIM LEMBU (LEMBU)
+
+Code: 0327-071, Coordinates: 6.034, 102.249
+
+#### MUKIM LUBOK JAMBU (LUBOK JAMBU)
+
+Code: 0327-002, Coordinates: 6.03, 102.232
+
+#### MUKIM LUBOK PUKOL (LUBOK PUKOL)
+
+Code: 0327-029, Coordinates: 6.078, 102.321
+
+#### MUKIM LUNDANG (LUNDANG)
+
+Code: 0327-005, Coordinates: 6.103, 102.26
+
+#### MUKIM LUNDANG PAKU (LUNDANG PAKU)
+
+Code: 0327-047, Coordinates: 5.991, 102.206
+
+#### MUKIM MAHANG BARAT (MAHANG BARAT)
+
+Code: 0327-012, Coordinates: 5.913, 102.234
+
+#### MUKIM MAHANG TIMOR (MAHANG TIMOR)
+
+Code: 0327-021, Coordinates: 5.913, 102.262
+
+#### MUKIM MELOR (MELOR)
+
+Code: 0327-067, Coordinates: 5.98, 102.307
+
+#### MUKIM MENTUAN (MENTUAN)
+
+Code: 0327-051, Coordinates: 6.091, 102.308
+
+#### MUKIM PADANG BONGOR (PADANG BONGOR)
+
+Code: 0327-042, Coordinates: 6.13, 102.263
+
+#### MUKIM PADANG ENGGANG (PADANG ENGGANG)
+
+Code: 0327-052, Coordinates: 6.083, 102.247
+
+#### MUKIM PADANG GARONG (PADANG GARONG)
+
+Code: 0327-017, Coordinates: 6.128, 102.253
+
+#### MUKIM PADANG LEBAN (PADANG LEBAN)
+
+Code: 0327-016, Coordinates: 5.986, 102.281
+
+#### MUKIM PADANG RAJA (PADANG RAJA)
+
+Code: 0327-026, Coordinates: 5.967, 102.286
+
+#### MUKIM PADANG SAKAR (PADANG SAKAR)
+
+Code: 0327-055, Coordinates: 6.035, 102.18
+
+#### MUKIM PADANG TENGAH (PADANG TENGAH)
+
+Code: 0327-085, Coordinates: 6.022, 102.19
+
+#### MUKIM PANCHOR (PANCHOR)
+
+Code: 0327-011, Coordinates: 6.142, 102.298
+
+#### MUKIM PANGKAL PISANG (PANGKAL PISANG)
+
+Code: 0327-006, Coordinates: 6.009, 102.277
+
+#### MUKIM PARIT (PARIT)
+
+Code: 0327-003, Coordinates: 6.058, 102.269
+
+#### MUKIM PASIR HA (PASIR HA)
+
+Code: 0327-023, Coordinates: 6.087, 102.262
+
+#### MUKIM PASIR MAS (PASIR MAS)
+
+Code: 0327-076, Coordinates: 6.032, 102.165
+
+#### MUKIM PATEK (PATEK)
+
+Code: 0327-075, Coordinates: 5.981, 102.234
+
+#### MUKIM PAUH (PAUH)
+
+Code: 0327-083, Coordinates: 6.117, 102.286
+
+#### PEKAN MULONG
+
+Code: 0327-053, Coordinates: 6.038, 102.238
+
+#### MUKIM PENDEK (PENDEK)
+
+Code: 0327-048, Coordinates: 6.049, 102.226
+
+#### MUKIM PENGKALAN CHEPA (PENGKALAN CHEPA)
+
+Code: 0327-032, Coordinates: 6.169, 102.296
+
+#### MUKIM PERINGAT (PERINGAT)
+
+Code: 0327-040, Coordinates: 6.017, 102.291
+
+#### MUKIM PEROL (PEROL)
+
+Code: 0327-031, Coordinates: 6.018, 102.26
+
+#### MUKIM PINTU GANG (PINTU GANG)
+
+Code: 0327-039, Coordinates: 6.094, 102.231
+
+#### MUKIM PULAU (PULAU)
+
+Code: 0327-066, Coordinates: 6.086, 102.288
+
+#### MUKIM PULAU BELANGA (PULAU BELANGA)
+
+Code: 0327-018, Coordinates: 6.123, 102.315
+
+#### MUKIM PULAU GAJAH (PULAU GAJAH)
+
+Code: 0327-009, Coordinates: 6.161, 102.332
+
+#### MUKIM PULAU KUNDOR (PULAU KUNDOR)
+
+Code: 0327-030, Coordinates: 6.192, 102.253
+
+#### MUKIM PULAU PANJANG (PULAU PANJANG)
+
+Code: 0327-008, Coordinates: 6.178, 102.298
+
+#### MUKIM PULAU PISANG (PULAU PISANG)
+
+Code: 0327-001, Coordinates: 6.193, 102.242
+
+#### MUKIM SALOR (SALOR)
+
+Code: 0327-079, Coordinates: 6.037, 102.207
+
+#### MUKIM SEMUT API (SEMUT API)
+
+Code: 0327-034, Coordinates: 6.186, 102.285
+
+#### MUKIM SERING (SERING)
+
+Code: 0327-049, Coordinates: 6.126, 102.328
+
+#### MUKIM SETERPA (SETERPA)
+
+Code: 0327-044, Coordinates: 6.037, 102.306
+
+#### MUKIM TANJONG CHAT (TANJONG CHAT)
+
+Code: 0327-057, Coordinates: 6.144, 102.25
+
+#### MUKIM TAPANG (TAPANG)
+
+Code: 0327-073, Coordinates: 6.133, 102.277
+
+#### MUKIM TELOK (TELOK)
+
+Code: 0327-061, Coordinates: 6.129, 102.29
+
+#### MUKIM TELOK BHARU (TELOK BHARU)
+
+Code: 0327-045, Coordinates: 6.111, 102.274
+
+#### MUKIM TELOK KITANG (TELOK KITANG)
+
+Code: 0327-022, Coordinates: 6.169, 102.311
+
+#### MUKIM TIONG (TIONG)
+
+Code: 0327-036, Coordinates: 6.063, 102.254
+
+#### MUKIM TOK KU (TOK KU)
+
+Code: 0327-062, Coordinates: 6.112, 102.306
+
+#### MUKIM WAKAF SIKU (WAKAF SIKU)
+
+Code: 0327-059, Coordinates: 6.104, 102.247
+
+#### MUKIM WAKAF STAN (WAKAF STAN)
+
+Code: 0327-058, Coordinates: 6.072, 102.286
+
+### Kuala Krai
+
+Code: 0328, Coordinates: 5.533, 102.231
+Subdistricts: 17
+
+#### BANDAR KUALA KRAI
+
+Code: 0328-012, Coordinates: 5.539, 102.203
+
+#### MUKIM BATU MENGKEBANG (BATU MENGKEBANG)
+
+Code: 0328-014, Coordinates: 5.537, 102.181
+
+#### MUKIM ENGGONG (ENGGONG)
+
+Code: 0328-013, Coordinates: 5.588, 102.304
+
+#### MUKIM GAJAH (GAJAH)
+
+Code: 0328-015, Coordinates: 5.349, 102.297
+
+#### MUKIM KANDEK (KANDEK)
+
+Code: 0328-007, Coordinates: 5.442, 102.008
+
+#### MUKIM KENOR (KENOR)
+
+Code: 0328-003, Coordinates: 5.55, 102.296
+
+#### MUKIM KETIL (KETIL)
+
+Code: 0328-004, Coordinates: 5.24, 102.016
+
+#### MUKIM KUALA GERIS (KUALA GERIS)
+
+Code: 0328-011, Coordinates: 5.389, 102.104
+
+#### MUKIM KUALA KRAI (KUALA KRAI)
+
+Code: 0328-002, Coordinates: 5.498, 102.203
+
+#### MUKIM KUALA NAL (KUALA NAL)
+
+Code: 0328-005, Coordinates: 5.578, 102.13
+
+#### MUKIM KUALA PAHI (KUALA PAHI)
+
+Code: 0328-008, Coordinates: 5.486, 102.317
+
+#### MUKIM KUALA PERGAU (KUALA PERGAU)
+
+Code: 0328-009, Coordinates: 5.365, 102.004
+
+#### MUKIM KUALA STONG (KUALA STONG)
+
+Code: 0328-017, Coordinates: 5.316, 102.053
+
+#### MUKIM MAMBONG (MAMBONG)
+
+Code: 0328-016, Coordinates: 5.471, 102.151
+
+#### MUKIM MANEK URAI (MANEK URAI)
+
+Code: 0328-006, Coordinates: 5.395, 102.298
+
+#### MUKIM MANJOR (MANJOR)
+
+Code: 0328-001, Coordinates: 5.325, 102.34
+
+#### MUKIM TELEKONG (TELEKONG)
+
+Code: 0328-010, Coordinates: 5.637, 102.267
+
+### Machang
+
+Code: 0329, Coordinates: 5.763, 102.272
+Subdistricts: 23
+
+#### MUKIM BAKAR (BAKAR)
+
+Code: 0329-002, Coordinates: 5.75, 102.246
+
+#### BANDAR MACHANG
+
+Code: 0329-020, Coordinates: 5.764, 102.213
+
+#### MUKIM DEWAN (DEWAN)
+
+Code: 0329-007, Coordinates: 5.798, 102.258
+
+#### MUKIM GADING GALOH (GADING GALOH)
+
+Code: 0329-022, Coordinates: 5.871, 102.25
+
+#### MUKIM JAKAR (JAKAR)
+
+Code: 0329-010, Coordinates: 5.721, 102.193
+
+#### MUKIM JOH (JOH)
+
+Code: 0329-019, Coordinates: 5.835, 102.197
+
+#### MUKIM KELAWEH (KELAWEH)
+
+Code: 0329-012, Coordinates: 5.786, 102.181
+
+#### MUKIM KERAWANG (KERAWANG)
+
+Code: 0329-023, Coordinates: 5.889, 102.205
+
+#### MUKIM KERILLA (KERILLA)
+
+Code: 0329-013, Coordinates: 5.667, 102.127
+
+#### MUKIM KUALA KERAK (KUALA KERAK)
+
+Code: 0329-016, Coordinates: 5.686, 102.169
+
+#### MUKIM LABOK (LABOK)
+
+Code: 0329-015, Coordinates: 5.817, 102.236
+
+#### MUKIM LIMAU HANTU (LIMAU HANTU)
+
+Code: 0329-004, Coordinates: 5.748, 102.188
+
+#### MUKIM MACHANG (MACHANG)
+
+Code: 0329-014, Coordinates: 5.769, 102.218
+
+#### MUKIM PADANG KEMUNCHUT (PADANG KEMUNCHUT)
+
+Code: 0329-018, Coordinates: 5.691, 102.191
+
+#### MUKIM PEK (PEK)
+
+Code: 0329-001, Coordinates: 5.681, 102.216
+
+#### PEKAN TEMANGAN
+
+Code: 0329-009, Coordinates: 5.703, 102.152
+
+#### MUKIM PEMANOK (PEMANOK)
+
+Code: 0329-021, Coordinates: 5.737, 102.227
+
+#### MUKIM PULAI CHONDONG (PULAI CHONDONG)
+
+Code: 0329-006, Coordinates: 5.878, 102.22
+
+#### MUKIM RAJA (RAJA)
+
+Code: 0329-011, Coordinates: 5.693, 102.211
+
+#### MUKIM TEMANGAN (TEMANGAN)
+
+Code: 0329-017, Coordinates: 5.673, 102.131
+
+#### MUKIM TENGAH (TENGAH)
+
+Code: 0329-008, Coordinates: 5.713, 102.206
+
+#### MUKIM TOK BOK (TOK BOK)
+
+Code: 0329-003, Coordinates: 5.846, 102.232
+
+#### MUKIM ULU SAT (ULU SAT)
+
+Code: 0329-005, Coordinates: 5.737, 102.341
+
+### Pasir Mas
+
+Code: 0330, Coordinates: 6.009, 102.076
+Subdistricts: 43
+
+#### MUKIM ALOR BULOH (ALOR BULOH)
+
+Code: 0330-027, Coordinates: 6.074, 102.122
+
+#### MUKIM ALOR PASIR (ALOR PASIR)
+
+Code: 0330-008, Coordinates: 6.07, 102.075
+
+#### MUKIM APA-APA (APA-APA)
+
+Code: 0330-004, Coordinates: 6.117, 102.121
+
+#### MUKIM APAM (APAM)
+
+Code: 0330-039, Coordinates: 5.989, 102.087
+
+#### MUKIM BAKONG (BAKONG)
+
+Code: 0330-003, Coordinates: 6.097, 102.08
+
+#### BANDAR PASIR MAS
+
+Code: 0330-009, Coordinates: 6.039, 102.142
+
+#### MUKIM BECHAH MENERONG (BECHAH MENERONG)
+
+Code: 0330-012, Coordinates: 6.083, 102.163
+
+#### MUKIM BECHAH PALAS (BECHAH PALAS)
+
+Code: 0330-015, Coordinates: 6.094, 102.159
+
+#### MUKIM BECHAH SEMAK (BECHAH SEMAK)
+
+Code: 0330-041, Coordinates: 6.106, 102.159
+
+#### MUKIM BUKIT TUKU (BUKIT TUKU)
+
+Code: 0330-006, Coordinates: 5.917, 102.058
+
+#### MUKIM CHETOK (CHETOK)
+
+Code: 0330-007, Coordinates: 5.962, 102.182
+
+#### MUKIM GELAM (GELAM)
+
+Code: 0330-042, Coordinates: 5.968, 102.162
+
+#### MUKIM GUAL NERING (GUAL NERING)
+
+Code: 0330-022, Coordinates: 6.003, 102.01
+
+#### MUKIM GUAL PERIOK (GUAL PERIOK)
+
+Code: 0330-035, Coordinates: 5.986, 102.033
+
+#### MUKIM JABO (JABO)
+
+Code: 0330-038, Coordinates: 5.937, 102.172
+
+#### MUKIM KALA (KALA)
+
+Code: 0330-043, Coordinates: 6.142, 102.114
+
+#### MUKIM KASA (KASA)
+
+Code: 0330-024, Coordinates: 6.056, 102.162
+
+#### MUKIM KEDONDONG (KEDONDONG)
+
+Code: 0330-034, Coordinates: 6.094, 102.127
+
+#### MUKIM KENAK (KENAK)
+
+Code: 0330-032, Coordinates: 6.112, 102.14
+
+#### MUKIM KERASAK (KERASAK)
+
+Code: 0330-011, Coordinates: 6.093, 102.143
+
+#### MUKIM KIAT (KIAT)
+
+Code: 0330-026, Coordinates: 6.09, 102.183
+
+#### MUKIM KUALA KELAR (KUALA KELAR)
+
+Code: 0330-016, Coordinates: 6.009, 102.16
+
+#### MUKIM KUALA LEMAL (KUALA LEMAL)
+
+Code: 0330-025, Coordinates: 6.026, 102.138
+
+#### MUKIM KUBANG BATANG (KUBANG BATANG)
+
+Code: 0330-036, Coordinates: 6.08, 102.143
+
+#### MUKIM KUBANG GATAL (KUBANG GATAL)
+
+Code: 0330-018, Coordinates: 6.068, 102.158
+
+#### MUKIM KUBANG GENDANG (KUBANG GENDANG)
+
+Code: 0330-037, Coordinates: 5.903, 102.165
+
+#### MUKIM KUBANG KETAM (KUBANG KETAM)
+
+Code: 0330-002, Coordinates: 5.991, 102.133
+
+#### MUKIM KUBANG SEPAT (KUBANG SEPAT)
+
+Code: 0330-014, Coordinates: 6.067, 102.178
+
+#### MUKIM KUBANG TERAP (KUBANG TERAP)
+
+Code: 0330-029, Coordinates: 6.05, 102.128
+
+#### MUKIM LALANG (LALANG)
+
+Code: 0330-040, Coordinates: 6.066, 102.113
+
+#### MUKIM LUBOK ANCHING (LUBOK ANCHING)
+
+Code: 0330-020, Coordinates: 6.05, 102.105
+
+#### MUKIM LUBOK GONG (LUBOK GONG)
+
+Code: 0330-031, Coordinates: 6.036, 101.998
+
+#### MUKIM LUBOK KAWAH (LUBOK KAWAH)
+
+Code: 0330-030, Coordinates: 6.055, 102.076
+
+#### MUKIM LUBOK SETOL (LUBOK SETOL)
+
+Code: 0330-021, Coordinates: 5.93, 101.938
+
+#### MUKIM LUBOK TAPAH (LUBOK TAPAH)
+
+Code: 0330-033, Coordinates: 6.013, 102.139
+
+#### MUKIM MERANTI (MERANTI)
+
+Code: 0330-017, Coordinates: 6.106, 102.1
+
+#### MUKIM PADANG EMBON (PADANG EMBON)
+
+Code: 0330-013, Coordinates: 6.08, 102.198
+
+#### MUKIM SAKAR (SAKAR)
+
+Code: 0330-010, Coordinates: 6.057, 102.187
+
+#### MUKIM TASIK BERANGAN (TASIK BERANGAN)
+
+Code: 0330-019, Coordinates: 6.036, 102.089
+
+#### MUKIM TELIAR (TELIAR)
+
+Code: 0330-028, Coordinates: 6.106, 102.174
+
+#### MUKIM TENDONG (TENDONG)
+
+Code: 0330-005, Coordinates: 6.066, 102.2
+
+#### MUKIM TOK SANGKOT (TOK SANGKOT)
+
+Code: 0330-023, Coordinates: 6.042, 102.071
+
+#### MUKIM TOK UBAN (TOK UBAN)
+
+Code: 0330-001, Coordinates: 5.952, 102.128
+
+### Pasir Puteh
+
+Code: 0331, Coordinates: 5.873, 102.35
+Subdistricts: 34
+
+#### BANDAR PASIR PUTEH
+
+Code: 0331-033, Coordinates: 5.834, 102.405
+
+#### MUKIM BANGGOL SETOL (BANGGOL SETOL)
+
+Code: 0331-013, Coordinates: 5.856, 102.3
+
+#### MUKIM BATU SEBUTIR (BATU SEBUTIR)
+
+Code: 0331-009, Coordinates: 5.821, 102.332
+
+#### MUKIM BERANGAN (BERANGAN)
+
+Code: 0331-017, Coordinates: 5.875, 102.318
+
+#### MUKIM BUKIT ABAL BARAT (BUKIT ABAL BARAT)
+
+Code: 0331-029, Coordinates: 5.867, 102.335
+
+#### MUKIM BUKIT ABAL TIMOR (BUKIT ABAL TIMOR)
+
+Code: 0331-011, Coordinates: 5.873, 102.351
+
+#### MUKIM BUKIT MERBAU (BUKIT MERBAU)
+
+Code: 0331-001, Coordinates: 5.904, 102.292
+
+#### MUKIM BUKIT TANAH (BUKIT TANAH)
+
+Code: 0331-028, Coordinates: 5.914, 102.319
+
+#### MUKIM CHANGGAI (CHANGGAI)
+
+Code: 0331-003, Coordinates: 5.792, 102.401
+
+#### MUKIM CHERANG RUKU (CHERANG RUKU)
+
+Code: 0331-006, Coordinates: 5.854, 102.479
+
+#### MUKIM GONG CHAPA (GONG CHAPA)
+
+Code: 0331-030, Coordinates: 5.828, 102.424
+
+#### MUKIM GONG CHENGAL (GONG CHENGAL)
+
+Code: 0331-002, Coordinates: 5.792, 102.447
+
+#### MUKIM GONG DATOK BARAT (GONG DATOK BARAT)
+
+Code: 0331-020, Coordinates: 5.803, 102.421
+
+#### MUKIM GONG DATOK TIMOR (GONG DATOK TIMOR)
+
+Code: 0331-025, Coordinates: 5.814, 102.438
+
+#### MUKIM GONG GARU (GONG GARU)
+
+Code: 0331-015, Coordinates: 5.775, 102.376
+
+#### MUKIM GONG KULIM (GONG KULIM)
+
+Code: 0331-021, Coordinates: 5.854, 102.438
+
+#### MUKIM GONG NANGKA (GONG NANGKA)
+
+Code: 0331-018, Coordinates: 5.775, 102.449
+
+#### MUKIM GONG PACHAT (GONG PACHAT)
+
+Code: 0331-004, Coordinates: 5.811, 102.471
+
+#### MUKIM JERUS (JERUS)
+
+Code: 0331-032, Coordinates: 5.931, 102.302
+
+#### MUKIM KAMPONG WAKAF (KAMPONG WAKAF)
+
+Code: 0331-034, Coordinates: 5.859, 102.349
+
+#### MUKIM KANDIS (KANDIS)
+
+Code: 0331-010, Coordinates: 5.763, 102.416
+
+#### MUKIM KOLAM TEMBESU (KOLAM TEMBESU)
+
+Code: 0331-016, Coordinates: 5.925, 102.338
+
+#### MUKIM KUBANG BEMBAN (KUBANG BEMBAN)
+
+Code: 0331-031, Coordinates: 5.88, 102.377
+
+#### MUKIM MERBOL (MERBOL)
+
+Code: 0331-023, Coordinates: 5.81, 102.391
+
+#### MUKIM MERKANG (MERKANG)
+
+Code: 0331-012, Coordinates: 5.86, 102.379
+
+#### MUKIM PADANG PAK AMAT (PADANG PAK AMAT)
+
+Code: 0331-005, Coordinates: 5.841, 102.369
+
+#### MUKIM PASIR PUTEH (PASIR PUTEH)
+
+Code: 0331-007, Coordinates: 5.823, 102.398
+
+#### PEKAN SELISING
+
+Code: 0331-014, Coordinates: 5.895, 102.333
+
+#### MUKIM PENGKALAN (PENGKALAN)
+
+Code: 0331-026, Coordinates: 5.83, 102.412
+
+#### MUKIM PERMATANG SUNGKAI (PERMATANG SUNGKAI)
+
+Code: 0331-008, Coordinates: 5.845, 102.329
+
+#### MUKIM SELIGI (SELIGI)
+
+Code: 0331-019, Coordinates: 5.85, 102.314
+
+#### MUKIM SELISING (SELISING)
+
+Code: 0331-022, Coordinates: 5.895, 102.336
+
+#### MUKIM SEMERAK (SEMERAK)
+
+Code: 0331-027, Coordinates: 5.883, 102.465
+
+#### MUKIM TELIPOK (TELIPOK)
+
+Code: 0331-024, Coordinates: 5.769, 102.356
+
+### Tanah Merah
+
+Code: 0332, Coordinates: 5.75, 102.021
+Subdistricts: 13
+
+#### BANDAR TANAH MERAH
+
+Code: 0332-011, Coordinates: 5.804, 102.148
+
+#### MUKIM BATANG MERBAU (BATANG MERBAU)
+
+Code: 0332-006, Coordinates: 5.805, 102.047
+
+#### MUKIM BENDANG NYIOR (BENDANG NYIOR)
+
+Code: 0332-002, Coordinates: 5.86, 102.077
+
+#### MUKIM BUKIT DURIAN (BUKIT DURIAN)
+
+Code: 0332-009, Coordinates: 5.716, 102.049
+
+#### MUKIM JEDOK (JEDOK)
+
+Code: 0332-008, Coordinates: 5.795, 101.938
+
+#### MUKIM KUALA PAKU (KUALA PAKU)
+
+Code: 0332-001, Coordinates: 5.763, 102.082
+
+#### MUKIM LAWANG (LAWANG)
+
+Code: 0332-013, Coordinates: 5.842, 101.985
+
+#### MUKIM MAKA (MAKA)
+
+Code: 0332-003, Coordinates: 5.815, 102.116
+
+#### MUKIM NIBONG (NIBONG)
+
+Code: 0332-004, Coordinates: 5.788, 101.904
+
+#### MUKIM PASIR GANDA (PASIR GANDA)
+
+Code: 0332-010, Coordinates: 5.871, 102.123
+
+#### MUKIM SOKOR (SOKOR)
+
+Code: 0332-005, Coordinates: 5.654, 102.037
+
+#### MUKIM TANAH MERAH (TANAH MERAH)
+
+Code: 0332-007, Coordinates: 5.789, 102.129
+
+#### MUKIM ULU KUSIAL (ULU KUSIAL)
+
+Code: 0332-012, Coordinates: 5.747, 102.033
+
+### Tumpat
+
+Code: 0333, Coordinates: 6.166, 102.164
+Subdistricts: 29
+
+#### BANDAR TUMPAT
+
+Code: 0333-016, Coordinates: 6.196, 102.172
+
+#### MUKIM BECHAH RESAK (BECHAH RESAK)
+
+Code: 0333-013, Coordinates: 6.152, 102.155
+
+#### MUKIM BUNOHAN (BUNOHAN)
+
+Code: 0333-008, Coordinates: 6.18, 102.123
+
+#### MUKIM BUNUT SARANG BURONG (BUNUT SARANG BURONG)
+
+Code: 0333-001, Coordinates: 6.147, 102.188
+
+#### MUKIM CHENDERONG BATU (CHENDERONG BATU)
+
+Code: 0333-020, Coordinates: 6.133, 102.186
+
+#### MUKIM CHERANG MELINTANG (CHERANG MELINTANG)
+
+Code: 0333-006, Coordinates: 6.153, 102.127
+
+#### MUKIM GETING (GETING)
+
+Code: 0333-007, Coordinates: 6.214, 102.104
+
+#### MUKIM JAL (JAL)
+
+Code: 0333-005, Coordinates: 6.128, 102.144
+
+#### MUKIM KAMPONG LAUT (KAMPONG LAUT)
+
+Code: 0333-012, Coordinates: 6.163, 102.227
+
+#### MUKIM KELABORAN (KELABORAN)
+
+Code: 0333-021, Coordinates: 6.186, 102.15
+
+#### MUKIM KOK KELI (KOK KELI)
+
+Code: 0333-023, Coordinates: 6.168, 102.216
+
+#### MUKIM KUTANG (KUTANG)
+
+Code: 0333-015, Coordinates: 6.104, 102.206
+
+#### MUKIM MAK NERALANG (MAK NERALANG)
+
+Code: 0333-025, Coordinates: 6.181, 102.212
+
+#### MUKIM MORAK (MORAK)
+
+Code: 0333-019, Coordinates: 6.141, 102.208
+
+#### MUKIM PALEKBANG (PALEKBANG)
+
+Code: 0333-026, Coordinates: 6.144, 102.222
+
+#### MUKIM PASIR PEKAN (PASIR PEKAN)
+
+Code: 0333-017, Coordinates: 6.119, 102.212
+
+#### MUKIM PERIOK (PERIOK)
+
+Code: 0333-024, Coordinates: 6.161, 102.164
+
+#### MUKIM PULAU BESAR (PULAU BESAR)
+
+Code: 0333-010, Coordinates: 6.194, 102.207
+
+#### MUKIM SELEHONG SELATAN (SELEHONG SELATAN)
+
+Code: 0333-004, Coordinates: 6.166, 102.174
+
+#### MUKIM SELEHONG UTARA (SELEHONG UTARA)
+
+Code: 0333-003, Coordinates: 6.176, 102.19
+
+#### MUKIM SIMPANGAN (SIMPANGAN)
+
+Code: 0333-022, Coordinates: 6.183, 102.095
+
+#### MUKIM SUNGAI PINANG (SUNGAI PINANG)
+
+Code: 0333-014, Coordinates: 6.18, 102.23
+
+#### MUKIM TABAR (TABAR)
+
+Code: 0333-011, Coordinates: 6.235, 102.097
+
+#### MUKIM TALAK (TALAK)
+
+Code: 0333-029, Coordinates: 6.14, 102.159
+
+#### MUKIM TELOK RENJUNA (TELOK RENJUNA)
+
+Code: 0333-009, Coordinates: 6.209, 102.204
+
+#### MUKIM TUJOH (TUJOH)
+
+Code: 0333-028, Coordinates: 6.208, 102.123
+
+#### MUKIM TUMPAT (TUMPAT)
+
+Code: 0333-027, Coordinates: 6.196, 102.162
+
+#### MUKIM WAKAF BHARU (WAKAF BHARU)
+
+Code: 0333-002, Coordinates: 6.111, 102.197
+
+#### MUKIM WAKAF DELIMA (WAKAF DELIMA)
+
+Code: 0333-018, Coordinates: 6.124, 102.174
+

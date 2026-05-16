@@ -1,0 +1,47 @@
+{
+  "id": "0542",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Seremban",
+    "en": "Seremban",
+    "slug": "seremban-0542"
+  },
+  "code": {
+    "id": "0542",
+    "iso": null
+  },
+  "parent": {
+    "id": "05",
+    "level": 1,
+    "name": {
+      "local": "Negeri Sembilan",
+      "en": "Negeri Sembilan",
+      "slug": "negeri-sembilan-05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "05",
+      "level": 1,
+      "name": {
+        "local": "Negeri Sembilan",
+        "en": "Negeri Sembilan",
+        "slug": "negeri-sembilan-05"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 41
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.745",
+    "lon": "101.966"
+  },
+  "metadata": {},
+  "source": {}
+}

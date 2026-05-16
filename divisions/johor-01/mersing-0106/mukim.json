@@ -1,0 +1,380 @@
+[
+  {
+    "id": "0106-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR MERSING",
+      "en": "BANDAR MERSING",
+      "slug": "bandar-mersing-xx-1722"
+    },
+    "code": {
+      "id": "0106-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0106",
+      "level": 2,
+      "name": {
+        "local": "Mersing",
+        "en": "Mersing",
+        "slug": "mersing-0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0106",
+        "level": 2,
+        "name": {
+          "local": "Mersing",
+          "en": "Mersing",
+          "slug": "mersing-0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.431",
+      "lon": "103.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0106-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM LENGGOR",
+      "en": "LENGGOR",
+      "slug": "lenggor-0106-003"
+    },
+    "code": {
+      "id": "0106-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0106",
+      "level": 2,
+      "name": {
+        "local": "Mersing",
+        "en": "Mersing",
+        "slug": "mersing-0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0106",
+        "level": 2,
+        "name": {
+          "local": "Mersing",
+          "en": "Mersing",
+          "slug": "mersing-0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.313",
+      "lon": "103.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0106-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM MERSING",
+      "en": "MERSING",
+      "slug": "mersing-0106-004"
+    },
+    "code": {
+      "id": "0106-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0106",
+      "level": 2,
+      "name": {
+        "local": "Mersing",
+        "en": "Mersing",
+        "slug": "mersing-0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0106",
+        "level": 2,
+        "name": {
+          "local": "Mersing",
+          "en": "Mersing",
+          "slug": "mersing-0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.346",
+      "lon": "103.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0106-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PADANG ENDAU",
+      "en": "PADANG ENDAU",
+      "slug": "padang-endau-0106-001"
+    },
+    "code": {
+      "id": "0106-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0106",
+      "level": 2,
+      "name": {
+        "local": "Mersing",
+        "en": "Mersing",
+        "slug": "mersing-0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0106",
+        "level": 2,
+        "name": {
+          "local": "Mersing",
+          "en": "Mersing",
+          "slug": "mersing-0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.596",
+      "lon": "103.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0106-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PULAU AUR",
+      "en": "PULAU AUR",
+      "slug": "pulau-aur-xx-001"
+    },
+    "code": {
+      "id": "0106-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0106",
+      "level": 2,
+      "name": {
+        "local": "Mersing",
+        "en": "Mersing",
+        "slug": "mersing-0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0106",
+        "level": 2,
+        "name": {
+          "local": "Mersing",
+          "en": "Mersing",
+          "slug": "mersing-0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.33",
+      "lon": "104.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0106-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SEMBRONG",
+      "en": "SEMBRONG",
+      "slug": "sembrong-0106-002"
+    },
+    "code": {
+      "id": "0106-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0106",
+      "level": 2,
+      "name": {
+        "local": "Mersing",
+        "en": "Mersing",
+        "slug": "mersing-0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0106",
+        "level": 2,
+        "name": {
+          "local": "Mersing",
+          "en": "Mersing",
+          "slug": "mersing-0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.481",
+      "lon": "103.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0106-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TENGGAROH",
+      "en": "TENGGAROH",
+      "slug": "tenggaroh-0106-005"
+    },
+    "code": {
+      "id": "0106-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0106",
+      "level": 2,
+      "name": {
+        "local": "Mersing",
+        "en": "Mersing",
+        "slug": "mersing-0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0106",
+        "level": 2,
+        "name": {
+          "local": "Mersing",
+          "en": "Mersing",
+          "slug": "mersing-0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.174",
+      "lon": "103.968"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

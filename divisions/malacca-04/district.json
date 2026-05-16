@@ -1,0 +1,143 @@
+[
+  {
+    "id": "0434",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Alor Gajah",
+      "en": "Alor Gajah",
+      "slug": "alor-gajah-0434"
+    },
+    "code": {
+      "id": "0434",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Melaka",
+        "en": "Malacca",
+        "slug": "malacca-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 38
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.377",
+      "lon": "102.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jasin",
+      "en": "Jasin",
+      "slug": "jasin-0435"
+    },
+    "code": {
+      "id": "0435",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Melaka",
+        "en": "Malacca",
+        "slug": "malacca-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 30
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.218",
+      "lon": "102.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0436",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Melaka Tengah",
+      "en": "Melaka Tengah",
+      "slug": "melaka-tengah-0436"
+    },
+    "code": {
+      "id": "0436",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Melaka",
+        "en": "Malacca",
+        "slug": "malacca-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 39
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.244",
+      "lon": "102.271"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "0865",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Muallim",
+    "en": "Muallim",
+    "slug": "muallim-0865"
+  },
+  "code": {
+    "id": "0865",
+    "iso": null
+  },
+  "parent": {
+    "id": "08",
+    "level": 1,
+    "name": {
+      "local": "Perak",
+      "en": "Perak",
+      "slug": "perak-08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.852",
+    "lon": "101.452"
+  },
+  "metadata": {},
+  "source": {}
+}

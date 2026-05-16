@@ -1,0 +1,758 @@
+[
+  {
+    "id": "0221-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SIK",
+      "en": "BANDAR SIK",
+      "slug": "bandar-sik-0221-006"
+    },
+    "code": {
+      "id": "0221-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0221",
+      "level": 2,
+      "name": {
+        "local": "Sik",
+        "en": "Sik",
+        "slug": "sik-0221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0221",
+        "level": 2,
+        "name": {
+          "local": "Sik",
+          "en": "Sik",
+          "slug": "sik-0221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.824",
+      "lon": "100.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0221-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM GAJAH MATI",
+      "en": "GAJAH MATI",
+      "slug": "gajah-mati-0221-009"
+    },
+    "code": {
+      "id": "0221-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0221",
+      "level": 2,
+      "name": {
+        "local": "Sik",
+        "en": "Sik",
+        "slug": "sik-0221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0221",
+        "level": 2,
+        "name": {
+          "local": "Sik",
+          "en": "Sik",
+          "slug": "sik-0221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.164",
+      "lon": "101.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0221-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM GUNONG",
+      "en": "GUNONG",
+      "slug": "gunong-xx-887"
+    },
+    "code": {
+      "id": "0221-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0221",
+      "level": 2,
+      "name": {
+        "local": "Sik",
+        "en": "Sik",
+        "slug": "sik-0221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0221",
+        "level": 2,
+        "name": {
+          "local": "Sik",
+          "en": "Sik",
+          "slug": "sik-0221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.086",
+      "lon": "101.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0221-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM JENERI",
+      "en": "JENERI",
+      "slug": "jeneri-0221-003"
+    },
+    "code": {
+      "id": "0221-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0221",
+      "level": 2,
+      "name": {
+        "local": "Sik",
+        "en": "Sik",
+        "slug": "sik-0221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0221",
+        "level": 2,
+        "name": {
+          "local": "Sik",
+          "en": "Sik",
+          "slug": "sik-0221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.912",
+      "lon": "100.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0221-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KANGKONG",
+      "en": "KANGKONG",
+      "slug": "kangkong-xx-1814"
+    },
+    "code": {
+      "id": "0221-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "0221",
+      "level": 2,
+      "name": {
+        "local": "Sik",
+        "en": "Sik",
+        "slug": "sik-0221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0221",
+        "level": 2,
+        "name": {
+          "local": "Sik",
+          "en": "Sik",
+          "slug": "sik-0221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6",
+      "lon": "101.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0221-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PAYA",
+      "en": "PAYA",
+      "slug": "paya-xx-062"
+    },
+    "code": {
+      "id": "0221-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0221",
+      "level": 2,
+      "name": {
+        "local": "Sik",
+        "en": "Sik",
+        "slug": "sik-0221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0221",
+        "level": 2,
+        "name": {
+          "local": "Sik",
+          "en": "Sik",
+          "slug": "sik-0221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.281",
+      "lon": "101.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0221-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BATU LIMA SIK",
+      "en": "PEKAN BATU LIMA SIK",
+      "slug": "pekan-batu-lima-sik-0221-002"
+    },
+    "code": {
+      "id": "0221-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0221",
+      "level": 2,
+      "name": {
+        "local": "Sik",
+        "en": "Sik",
+        "slug": "sik-0221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0221",
+        "level": 2,
+        "name": {
+          "local": "Sik",
+          "en": "Sik",
+          "slug": "sik-0221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.803",
+      "lon": "100.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0221-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN CHAROK PADANG",
+      "en": "PEKAN CHAROK PADANG",
+      "slug": "pekan-charok-padang-0221-010"
+    },
+    "code": {
+      "id": "0221-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0221",
+      "level": 2,
+      "name": {
+        "local": "Sik",
+        "en": "Sik",
+        "slug": "sik-0221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0221",
+        "level": 2,
+        "name": {
+          "local": "Sik",
+          "en": "Sik",
+          "slug": "sik-0221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.8",
+      "lon": "100.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0221-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN GAJAH PUTEH",
+      "en": "PEKAN GAJAH PUTEH",
+      "slug": "pekan-gajah-puteh-0221-005"
+    },
+    "code": {
+      "id": "0221-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0221",
+      "level": 2,
+      "name": {
+        "local": "Sik",
+        "en": "Sik",
+        "slug": "sik-0221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0221",
+        "level": 2,
+        "name": {
+          "local": "Sik",
+          "en": "Sik",
+          "slug": "sik-0221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.905",
+      "lon": "100.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0221-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN GULAU",
+      "en": "PEKAN GULAU",
+      "slug": "pekan-gulau-0221-011"
+    },
+    "code": {
+      "id": "0221-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0221",
+      "level": 2,
+      "name": {
+        "local": "Sik",
+        "en": "Sik",
+        "slug": "sik-0221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0221",
+        "level": 2,
+        "name": {
+          "local": "Sik",
+          "en": "Sik",
+          "slug": "sik-0221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.022",
+      "lon": "100.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0221-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN LUBOK MERBAU",
+      "en": "PEKAN LUBOK MERBAU",
+      "slug": "pekan-lubok-merbau-0221-001"
+    },
+    "code": {
+      "id": "0221-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0221",
+      "level": 2,
+      "name": {
+        "local": "Sik",
+        "en": "Sik",
+        "slug": "sik-0221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0221",
+        "level": 2,
+        "name": {
+          "local": "Sik",
+          "en": "Sik",
+          "slug": "sik-0221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.856",
+      "lon": "100.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0221-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM RAMBAI",
+      "en": "RAMBAI",
+      "slug": "rambai-0221-008"
+    },
+    "code": {
+      "id": "0221-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0221",
+      "level": 2,
+      "name": {
+        "local": "Sik",
+        "en": "Sik",
+        "slug": "sik-0221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0221",
+        "level": 2,
+        "name": {
+          "local": "Sik",
+          "en": "Sik",
+          "slug": "sik-0221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.027",
+      "lon": "100.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0221-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SIK",
+      "en": "SIK",
+      "slug": "sik-0221-004"
+    },
+    "code": {
+      "id": "0221-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0221",
+      "level": 2,
+      "name": {
+        "local": "Sik",
+        "en": "Sik",
+        "slug": "sik-0221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0221",
+        "level": 2,
+        "name": {
+          "local": "Sik",
+          "en": "Sik",
+          "slug": "sik-0221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.822",
+      "lon": "100.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0221-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SOK",
+      "en": "SOK",
+      "slug": "sok-0221-007"
+    },
+    "code": {
+      "id": "0221-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0221",
+      "level": 2,
+      "name": {
+        "local": "Sik",
+        "en": "Sik",
+        "slug": "sik-0221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0221",
+        "level": 2,
+        "name": {
+          "local": "Sik",
+          "en": "Sik",
+          "slug": "sik-0221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.134",
+      "lon": "100.947"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "0435",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jasin",
+    "en": "Jasin",
+    "slug": "jasin-0435"
+  },
+  "code": {
+    "id": "0435",
+    "iso": null
+  },
+  "parent": {
+    "id": "04",
+    "level": 1,
+    "name": {
+      "local": "Melaka",
+      "en": "Malacca",
+      "slug": "malacca-04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Melaka",
+        "en": "Malacca",
+        "slug": "malacca-04"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 30
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.218",
+    "lon": "102.436"
+  },
+  "metadata": {},
+  "source": {}
+}

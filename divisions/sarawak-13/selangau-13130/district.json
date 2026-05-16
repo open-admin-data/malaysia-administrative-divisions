@@ -1,0 +1,47 @@
+{
+  "id": "13130",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Selangau",
+    "en": "Selangau",
+    "slug": "selangau-13130"
+  },
+  "code": {
+    "id": "13130",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "Sarawak",
+      "en": "Sarawak",
+      "slug": "sarawak-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.561",
+    "lon": "112.583"
+  },
+  "metadata": {},
+  "source": {}
+}

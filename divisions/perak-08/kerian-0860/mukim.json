@@ -1,0 +1,974 @@
+[
+  {
+    "id": "0860-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BAGAN SERAI",
+      "en": "BAGAN SERAI",
+      "slug": "bagan-serai-0860-011"
+    },
+    "code": {
+      "id": "0860-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0860",
+      "level": 2,
+      "name": {
+        "local": "Kerian",
+        "en": "Kerian",
+        "slug": "kerian-0860"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0860",
+        "level": 2,
+        "name": {
+          "local": "Kerian",
+          "en": "Kerian",
+          "slug": "kerian-0860"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.05",
+      "lon": "100.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0860-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BAGAN TIANG",
+      "en": "BAGAN TIANG",
+      "slug": "bagan-tiang-0860-014"
+    },
+    "code": {
+      "id": "0860-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "0860",
+      "level": 2,
+      "name": {
+        "local": "Kerian",
+        "en": "Kerian",
+        "slug": "kerian-0860"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0860",
+        "level": 2,
+        "name": {
+          "local": "Kerian",
+          "en": "Kerian",
+          "slug": "kerian-0860"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.103",
+      "lon": "100.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0860-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BAGAN SERAI",
+      "en": "BANDAR BAGAN SERAI",
+      "slug": "bandar-bagan-serai-0860-005"
+    },
+    "code": {
+      "id": "0860-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0860",
+      "level": 2,
+      "name": {
+        "local": "Kerian",
+        "en": "Kerian",
+        "slug": "kerian-0860"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0860",
+        "level": 2,
+        "name": {
+          "local": "Kerian",
+          "en": "Kerian",
+          "slug": "kerian-0860"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.01",
+      "lon": "100.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0860-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR KUALA KURAU",
+      "en": "BANDAR KUALA KURAU",
+      "slug": "bandar-kuala-kurau-0860-003"
+    },
+    "code": {
+      "id": "0860-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0860",
+      "level": 2,
+      "name": {
+        "local": "Kerian",
+        "en": "Kerian",
+        "slug": "kerian-0860"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0860",
+        "level": 2,
+        "name": {
+          "local": "Kerian",
+          "en": "Kerian",
+          "slug": "kerian-0860"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.018",
+      "lon": "100.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0860-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR PARIT BUNTAR",
+      "en": "BANDAR PARIT BUNTAR",
+      "slug": "bandar-parit-buntar-0860-015"
+    },
+    "code": {
+      "id": "0860-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "0860",
+      "level": 2,
+      "name": {
+        "local": "Kerian",
+        "en": "Kerian",
+        "slug": "kerian-0860"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0860",
+        "level": 2,
+        "name": {
+          "local": "Kerian",
+          "en": "Kerian",
+          "slug": "kerian-0860"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.13",
+      "lon": "100.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0860-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BERIAH",
+      "en": "BERIAH",
+      "slug": "beriah-0860-002"
+    },
+    "code": {
+      "id": "0860-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0860",
+      "level": 2,
+      "name": {
+        "local": "Kerian",
+        "en": "Kerian",
+        "slug": "kerian-0860"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0860",
+        "level": 2,
+        "name": {
+          "local": "Kerian",
+          "en": "Kerian",
+          "slug": "kerian-0860"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.093",
+      "lon": "100.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0860-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM GUNONG SEMANGGOL",
+      "en": "GUNONG SEMANGGOL",
+      "slug": "gunong-semanggol-0860-016"
+    },
+    "code": {
+      "id": "0860-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "0860",
+      "level": 2,
+      "name": {
+        "local": "Kerian",
+        "en": "Kerian",
+        "slug": "kerian-0860"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0860",
+        "level": 2,
+        "name": {
+          "local": "Kerian",
+          "en": "Kerian",
+          "slug": "kerian-0860"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.989",
+      "lon": "100.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0860-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM JEBONG",
+      "en": "JEBONG",
+      "slug": "jebong-0860-007"
+    },
+    "code": {
+      "id": "0860-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0860",
+      "level": 2,
+      "name": {
+        "local": "Kerian",
+        "en": "Kerian",
+        "slug": "kerian-0860"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0860",
+        "level": 2,
+        "name": {
+          "local": "Kerian",
+          "en": "Kerian",
+          "slug": "kerian-0860"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.841",
+      "lon": "100.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0860-018",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUALA KURAU",
+      "en": "KUALA KURAU",
+      "slug": "kuala-kurau-0860-018"
+    },
+    "code": {
+      "id": "0860-018",
+      "iso": null
+    },
+    "parent": {
+      "id": "0860",
+      "level": 2,
+      "name": {
+        "local": "Kerian",
+        "en": "Kerian",
+        "slug": "kerian-0860"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0860",
+        "level": 2,
+        "name": {
+          "local": "Kerian",
+          "en": "Kerian",
+          "slug": "kerian-0860"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.989",
+      "lon": "100.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0860-017",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PARIT BUNTAR",
+      "en": "PARIT BUNTAR",
+      "slug": "parit-buntar-0860-017"
+    },
+    "code": {
+      "id": "0860-017",
+      "iso": null
+    },
+    "parent": {
+      "id": "0860",
+      "level": 2,
+      "name": {
+        "local": "Kerian",
+        "en": "Kerian",
+        "slug": "kerian-0860"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0860",
+        "level": 2,
+        "name": {
+          "local": "Kerian",
+          "en": "Kerian",
+          "slug": "kerian-0860"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.103",
+      "lon": "100.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0860-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BUKIT MERAH",
+      "en": "PEKAN BUKIT MERAH",
+      "slug": "pekan-bukit-merah-0860-013"
+    },
+    "code": {
+      "id": "0860-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0860",
+      "level": 2,
+      "name": {
+        "local": "Kerian",
+        "en": "Kerian",
+        "slug": "kerian-0860"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0860",
+        "level": 2,
+        "name": {
+          "local": "Kerian",
+          "en": "Kerian",
+          "slug": "kerian-0860"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.043",
+      "lon": "100.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0860-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN JALAN BARU",
+      "en": "PEKAN JALAN BARU",
+      "slug": "pekan-jalan-baru-0860-012"
+    },
+    "code": {
+      "id": "0860-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0860",
+      "level": 2,
+      "name": {
+        "local": "Kerian",
+        "en": "Kerian",
+        "slug": "kerian-0860"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0860",
+        "level": 2,
+        "name": {
+          "local": "Kerian",
+          "en": "Kerian",
+          "slug": "kerian-0860"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.068",
+      "lon": "100.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0860-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PONDOK TANJONG",
+      "en": "PEKAN PONDOK TANJONG",
+      "slug": "pekan-pondok-tanjong-0860-001"
+    },
+    "code": {
+      "id": "0860-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0860",
+      "level": 2,
+      "name": {
+        "local": "Kerian",
+        "en": "Kerian",
+        "slug": "kerian-0860"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0860",
+        "level": 2,
+        "name": {
+          "local": "Kerian",
+          "en": "Kerian",
+          "slug": "kerian-0860"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.01",
+      "lon": "100.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0860-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SIMPANG LIMA",
+      "en": "PEKAN SIMPANG LIMA",
+      "slug": "pekan-simpang-lima-0860-009"
+    },
+    "code": {
+      "id": "0860-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0860",
+      "level": 2,
+      "name": {
+        "local": "Kerian",
+        "en": "Kerian",
+        "slug": "kerian-0860"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0860",
+        "level": 2,
+        "name": {
+          "local": "Kerian",
+          "en": "Kerian",
+          "slug": "kerian-0860"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.093",
+      "lon": "100.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0860-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SUNGAI GEDONG",
+      "en": "PEKAN SUNGAI GEDONG",
+      "slug": "pekan-sungai-gedong-0860-008"
+    },
+    "code": {
+      "id": "0860-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0860",
+      "level": 2,
+      "name": {
+        "local": "Kerian",
+        "en": "Kerian",
+        "slug": "kerian-0860"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0860",
+        "level": 2,
+        "name": {
+          "local": "Kerian",
+          "en": "Kerian",
+          "slug": "kerian-0860"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.977",
+      "lon": "100.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0860-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TANJONG PIANDANG",
+      "en": "PEKAN TANJONG PIANDANG",
+      "slug": "pekan-tanjong-piandang-0860-004"
+    },
+    "code": {
+      "id": "0860-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0860",
+      "level": 2,
+      "name": {
+        "local": "Kerian",
+        "en": "Kerian",
+        "slug": "kerian-0860"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0860",
+        "level": 2,
+        "name": {
+          "local": "Kerian",
+          "en": "Kerian",
+          "slug": "kerian-0860"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.075",
+      "lon": "100.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0860-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SELINSING",
+      "en": "SELINSING",
+      "slug": "selinsing-0860-006"
+    },
+    "code": {
+      "id": "0860-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0860",
+      "level": 2,
+      "name": {
+        "local": "Kerian",
+        "en": "Kerian",
+        "slug": "kerian-0860"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0860",
+        "level": 2,
+        "name": {
+          "local": "Kerian",
+          "en": "Kerian",
+          "slug": "kerian-0860"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.896",
+      "lon": "100.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0860-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TANJONG PIANDANG",
+      "en": "TANJONG PIANDANG",
+      "slug": "tanjong-piandang-0860-010"
+    },
+    "code": {
+      "id": "0860-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0860",
+      "level": 2,
+      "name": {
+        "local": "Kerian",
+        "en": "Kerian",
+        "slug": "kerian-0860"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0860",
+        "level": 2,
+        "name": {
+          "local": "Kerian",
+          "en": "Kerian",
+          "slug": "kerian-0860"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.061",
+      "lon": "100.409"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

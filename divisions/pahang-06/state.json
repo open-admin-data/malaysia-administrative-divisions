@@ -1,0 +1,30 @@
+{
+  "id": "06",
+  "level": 1,
+  "level_name": {
+    "local": "Negeri",
+    "en": "State"
+  },
+  "name": {
+    "local": "Pahang",
+    "en": "Pahang",
+    "slug": "pahang-06"
+  },
+  "code": {
+    "id": "06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 11,
+    "mukim": 128
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.741",
+    "lon": "102.639"
+  },
+  "metadata": {},
+  "source": {}
+}

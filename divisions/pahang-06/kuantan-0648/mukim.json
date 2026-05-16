@@ -1,0 +1,488 @@
+[
+  {
+    "id": "0648-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR GAMBANG",
+      "en": "BANDAR GAMBANG",
+      "slug": "bandar-gambang-0648-003"
+    },
+    "code": {
+      "id": "0648-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0648",
+      "level": 2,
+      "name": {
+        "local": "Kuantan",
+        "en": "Kuantan",
+        "slug": "kuantan-0648"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0648",
+        "level": 2,
+        "name": {
+          "local": "Kuantan",
+          "en": "Kuantan",
+          "slug": "kuantan-0648"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.708",
+      "lon": "103.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0648-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR KUANTAN",
+      "en": "BANDAR KUANTAN",
+      "slug": "bandar-kuantan-0648-007"
+    },
+    "code": {
+      "id": "0648-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0648",
+      "level": 2,
+      "name": {
+        "local": "Kuantan",
+        "en": "Kuantan",
+        "slug": "kuantan-0648"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0648",
+        "level": 2,
+        "name": {
+          "local": "Kuantan",
+          "en": "Kuantan",
+          "slug": "kuantan-0648"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.812",
+      "lon": "103.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0648-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BESERAH",
+      "en": "BESERAH",
+      "slug": "beserah-0648-004"
+    },
+    "code": {
+      "id": "0648-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0648",
+      "level": 2,
+      "name": {
+        "local": "Kuantan",
+        "en": "Kuantan",
+        "slug": "kuantan-0648"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0648",
+        "level": 2,
+        "name": {
+          "local": "Kuantan",
+          "en": "Kuantan",
+          "slug": "kuantan-0648"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.867",
+      "lon": "103.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0648-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM HULU KUANTAN",
+      "en": "HULU KUANTAN",
+      "slug": "hulu-kuantan-0648-005"
+    },
+    "code": {
+      "id": "0648-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0648",
+      "level": 2,
+      "name": {
+        "local": "Kuantan",
+        "en": "Kuantan",
+        "slug": "kuantan-0648"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0648",
+        "level": 2,
+        "name": {
+          "local": "Kuantan",
+          "en": "Kuantan",
+          "slug": "kuantan-0648"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.006",
+      "lon": "103.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0648-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM HULU LEPAR",
+      "en": "HULU LEPAR",
+      "slug": "hulu-lepar-0648-002"
+    },
+    "code": {
+      "id": "0648-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0648",
+      "level": 2,
+      "name": {
+        "local": "Kuantan",
+        "en": "Kuantan",
+        "slug": "kuantan-0648"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0648",
+        "level": 2,
+        "name": {
+          "local": "Kuantan",
+          "en": "Kuantan",
+          "slug": "kuantan-0648"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.762",
+      "lon": "102.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0648-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUALA KUANTAN",
+      "en": "KUALA KUANTAN",
+      "slug": "kuala-kuantan-0648-001"
+    },
+    "code": {
+      "id": "0648-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0648",
+      "level": 2,
+      "name": {
+        "local": "Kuantan",
+        "en": "Kuantan",
+        "slug": "kuantan-0648"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0648",
+        "level": 2,
+        "name": {
+          "local": "Kuantan",
+          "en": "Kuantan",
+          "slug": "kuantan-0648"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.81",
+      "lon": "103.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0648-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN  TANJUNG LUMPUR",
+      "en": "PEKAN  TANJUNG LUMPUR",
+      "slug": "pekan-tanjung-lumpur-0648-009"
+    },
+    "code": {
+      "id": "0648-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0648",
+      "level": 2,
+      "name": {
+        "local": "Kuantan",
+        "en": "Kuantan",
+        "slug": "kuantan-0648"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0648",
+        "level": 2,
+        "name": {
+          "local": "Kuantan",
+          "en": "Kuantan",
+          "slug": "kuantan-0648"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.804",
+      "lon": "103.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0648-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BESERAH",
+      "en": "PEKAN BESERAH",
+      "slug": "pekan-beserah-0648-008"
+    },
+    "code": {
+      "id": "0648-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0648",
+      "level": 2,
+      "name": {
+        "local": "Kuantan",
+        "en": "Kuantan",
+        "slug": "kuantan-0648"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0648",
+        "level": 2,
+        "name": {
+          "local": "Kuantan",
+          "en": "Kuantan",
+          "slug": "kuantan-0648"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.86",
+      "lon": "103.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0648-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PENOR",
+      "en": "PENOR",
+      "slug": "penor-0648-006"
+    },
+    "code": {
+      "id": "0648-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0648",
+      "level": 2,
+      "name": {
+        "local": "Kuantan",
+        "en": "Kuantan",
+        "slug": "kuantan-0648"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0648",
+        "level": 2,
+        "name": {
+          "local": "Kuantan",
+          "en": "Kuantan",
+          "slug": "kuantan-0648"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.656",
+      "lon": "103.323"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

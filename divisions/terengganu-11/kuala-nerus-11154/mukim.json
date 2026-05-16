@@ -1,0 +1,272 @@
+[
+  {
+    "id": "11154-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BATU RAKIT",
+      "en": "BATU RAKIT",
+      "slug": "batu-rakit-11154-002"
+    },
+    "code": {
+      "id": "11154-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "11154",
+      "level": 2,
+      "name": {
+        "local": "Kuala Nerus",
+        "en": "Kuala Nerus",
+        "slug": "kuala-nerus-11154"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11154",
+        "level": 2,
+        "name": {
+          "local": "Kuala Nerus",
+          "en": "Kuala Nerus",
+          "slug": "kuala-nerus-11154"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.401",
+      "lon": "103.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11154-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUALA NERUS",
+      "en": "KUALA NERUS",
+      "slug": "kuala-nerus-11154-001"
+    },
+    "code": {
+      "id": "11154-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "11154",
+      "level": 2,
+      "name": {
+        "local": "Kuala Nerus",
+        "en": "Kuala Nerus",
+        "slug": "kuala-nerus-11154"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11154",
+        "level": 2,
+        "name": {
+          "local": "Kuala Nerus",
+          "en": "Kuala Nerus",
+          "slug": "kuala-nerus-11154"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.36",
+      "lon": "103.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11154-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PAKOH",
+      "en": "PAKOH",
+      "slug": "pakoh-11154-004"
+    },
+    "code": {
+      "id": "11154-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "11154",
+      "level": 2,
+      "name": {
+        "local": "Kuala Nerus",
+        "en": "Kuala Nerus",
+        "slug": "kuala-nerus-11154"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11154",
+        "level": 2,
+        "name": {
+          "local": "Kuala Nerus",
+          "en": "Kuala Nerus",
+          "slug": "kuala-nerus-11154"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.323",
+      "lon": "102.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11154-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PULAU REDANG",
+      "en": "PULAU REDANG",
+      "slug": "pulau-redang-xx-1152"
+    },
+    "code": {
+      "id": "11154-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "11154",
+      "level": 2,
+      "name": {
+        "local": "Kuala Nerus",
+        "en": "Kuala Nerus",
+        "slug": "kuala-nerus-11154"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11154",
+        "level": 2,
+        "name": {
+          "local": "Kuala Nerus",
+          "en": "Kuala Nerus",
+          "slug": "kuala-nerus-11154"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.747",
+      "lon": "103.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11154-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PULAU-PULAU",
+      "en": "PULAU-PULAU",
+      "slug": "pulau-pulau-11154-003"
+    },
+    "code": {
+      "id": "11154-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "11154",
+      "level": 2,
+      "name": {
+        "local": "Kuala Nerus",
+        "en": "Kuala Nerus",
+        "slug": "kuala-nerus-11154"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11154",
+        "level": 2,
+        "name": {
+          "local": "Kuala Nerus",
+          "en": "Kuala Nerus",
+          "slug": "kuala-nerus-11154"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.331",
+      "lon": "103.12"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

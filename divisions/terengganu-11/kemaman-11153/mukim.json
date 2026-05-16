@@ -1,0 +1,866 @@
+[
+  {
+    "id": "11153-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR CUKAI",
+      "en": "BANDAR CUKAI",
+      "slug": "bandar-cukai-11153-010"
+    },
+    "code": {
+      "id": "11153-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "11153",
+      "level": 2,
+      "name": {
+        "local": "Kemaman",
+        "en": "Kemaman",
+        "slug": "kemaman-11153"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11153",
+        "level": 2,
+        "name": {
+          "local": "Kemaman",
+          "en": "Kemaman",
+          "slug": "kemaman-11153"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.231",
+      "lon": "103.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11153-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BANDI",
+      "en": "BANDI",
+      "slug": "bandi-11153-009"
+    },
+    "code": {
+      "id": "11153-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "11153",
+      "level": 2,
+      "name": {
+        "local": "Kemaman",
+        "en": "Kemaman",
+        "slug": "kemaman-11153"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11153",
+        "level": 2,
+        "name": {
+          "local": "Kemaman",
+          "en": "Kemaman",
+          "slug": "kemaman-11153"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.179",
+      "lon": "103.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11153-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BANGGUL",
+      "en": "BANGGUL",
+      "slug": "banggul-11153-002"
+    },
+    "code": {
+      "id": "11153-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "11153",
+      "level": 2,
+      "name": {
+        "local": "Kemaman",
+        "en": "Kemaman",
+        "slug": "kemaman-11153"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11153",
+        "level": 2,
+        "name": {
+          "local": "Kemaman",
+          "en": "Kemaman",
+          "slug": "kemaman-11153"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.188",
+      "lon": "103.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11153-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM CUKAI",
+      "en": "CUKAI",
+      "slug": "cukai-11153-006"
+    },
+    "code": {
+      "id": "11153-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "11153",
+      "level": 2,
+      "name": {
+        "local": "Kemaman",
+        "en": "Kemaman",
+        "slug": "kemaman-11153"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11153",
+        "level": 2,
+        "name": {
+          "local": "Kemaman",
+          "en": "Kemaman",
+          "slug": "kemaman-11153"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.23",
+      "lon": "103.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11153-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM HULU CUKAI",
+      "en": "HULU CUKAI",
+      "slug": "hulu-cukai-11153-011"
+    },
+    "code": {
+      "id": "11153-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "11153",
+      "level": 2,
+      "name": {
+        "local": "Kemaman",
+        "en": "Kemaman",
+        "slug": "kemaman-11153"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11153",
+        "level": 2,
+        "name": {
+          "local": "Kemaman",
+          "en": "Kemaman",
+          "slug": "kemaman-11153"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.364",
+      "lon": "103.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11153-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM HULU JABUR",
+      "en": "HULU JABUR",
+      "slug": "hulu-jabur-11153-003"
+    },
+    "code": {
+      "id": "11153-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "11153",
+      "level": 2,
+      "name": {
+        "local": "Kemaman",
+        "en": "Kemaman",
+        "slug": "kemaman-11153"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11153",
+        "level": 2,
+        "name": {
+          "local": "Kemaman",
+          "en": "Kemaman",
+          "slug": "kemaman-11153"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.998",
+      "lon": "103.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11153-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KEMASIK",
+      "en": "KEMASIK",
+      "slug": "kemasik-11153-007"
+    },
+    "code": {
+      "id": "11153-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "11153",
+      "level": 2,
+      "name": {
+        "local": "Kemaman",
+        "en": "Kemaman",
+        "slug": "kemaman-11153"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11153",
+        "level": 2,
+        "name": {
+          "local": "Kemaman",
+          "en": "Kemaman",
+          "slug": "kemaman-11153"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.421",
+      "lon": "103.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11153-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KERTIH",
+      "en": "KERTIH",
+      "slug": "kertih-11153-001"
+    },
+    "code": {
+      "id": "11153-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "11153",
+      "level": 2,
+      "name": {
+        "local": "Kemaman",
+        "en": "Kemaman",
+        "slug": "kemaman-11153"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11153",
+        "level": 2,
+        "name": {
+          "local": "Kemaman",
+          "en": "Kemaman",
+          "slug": "kemaman-11153"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.517",
+      "lon": "103.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11153-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KIJAL",
+      "en": "KIJAL",
+      "slug": "kijal-11153-005"
+    },
+    "code": {
+      "id": "11153-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "11153",
+      "level": 2,
+      "name": {
+        "local": "Kemaman",
+        "en": "Kemaman",
+        "slug": "kemaman-11153"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11153",
+        "level": 2,
+        "name": {
+          "local": "Kemaman",
+          "en": "Kemaman",
+          "slug": "kemaman-11153"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.342",
+      "lon": "103.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11153-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PASIR SEMUT",
+      "en": "PASIR SEMUT",
+      "slug": "pasir-semut-11153-012"
+    },
+    "code": {
+      "id": "11153-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "11153",
+      "level": 2,
+      "name": {
+        "local": "Kemaman",
+        "en": "Kemaman",
+        "slug": "kemaman-11153"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11153",
+        "level": 2,
+        "name": {
+          "local": "Kemaman",
+          "en": "Kemaman",
+          "slug": "kemaman-11153"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.234",
+      "lon": "103.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11153-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN AIR JERNIH",
+      "en": "PEKAN AIR JERNIH",
+      "slug": "pekan-air-jernih-11153-015"
+    },
+    "code": {
+      "id": "11153-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "11153",
+      "level": 2,
+      "name": {
+        "local": "Kemaman",
+        "en": "Kemaman",
+        "slug": "kemaman-11153"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11153",
+        "level": 2,
+        "name": {
+          "local": "Kemaman",
+          "en": "Kemaman",
+          "slug": "kemaman-11153"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.406",
+      "lon": "103.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11153-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN AIR PUTIH",
+      "en": "PEKAN AIR PUTIH",
+      "slug": "pekan-air-putih-11153-008"
+    },
+    "code": {
+      "id": "11153-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "11153",
+      "level": 2,
+      "name": {
+        "local": "Kemaman",
+        "en": "Kemaman",
+        "slug": "kemaman-11153"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11153",
+        "level": 2,
+        "name": {
+          "local": "Kemaman",
+          "en": "Kemaman",
+          "slug": "kemaman-11153"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.266",
+      "lon": "103.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11153-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KEMASIK",
+      "en": "PEKAN KEMASIK",
+      "slug": "pekan-kemasik-11153-013"
+    },
+    "code": {
+      "id": "11153-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "11153",
+      "level": 2,
+      "name": {
+        "local": "Kemaman",
+        "en": "Kemaman",
+        "slug": "kemaman-11153"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11153",
+        "level": 2,
+        "name": {
+          "local": "Kemaman",
+          "en": "Kemaman",
+          "slug": "kemaman-11153"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.426",
+      "lon": "103.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11153-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KIJAL",
+      "en": "PEKAN KIJAL",
+      "slug": "pekan-kijal-11153-014"
+    },
+    "code": {
+      "id": "11153-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "11153",
+      "level": 2,
+      "name": {
+        "local": "Kemaman",
+        "en": "Kemaman",
+        "slug": "kemaman-11153"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11153",
+        "level": 2,
+        "name": {
+          "local": "Kemaman",
+          "en": "Kemaman",
+          "slug": "kemaman-11153"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.338",
+      "lon": "103.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11153-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TEBAK",
+      "en": "TEBAK",
+      "slug": "tebak-11153-016"
+    },
+    "code": {
+      "id": "11153-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "11153",
+      "level": 2,
+      "name": {
+        "local": "Kemaman",
+        "en": "Kemaman",
+        "slug": "kemaman-11153"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11153",
+        "level": 2,
+        "name": {
+          "local": "Kemaman",
+          "en": "Kemaman",
+          "slug": "kemaman-11153"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.345",
+      "lon": "103.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11153-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TELUK KALUNG",
+      "en": "TELUK KALUNG",
+      "slug": "teluk-kalung-11153-004"
+    },
+    "code": {
+      "id": "11153-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "11153",
+      "level": 2,
+      "name": {
+        "local": "Kemaman",
+        "en": "Kemaman",
+        "slug": "kemaman-11153"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11153",
+        "level": 2,
+        "name": {
+          "local": "Kemaman",
+          "en": "Kemaman",
+          "slug": "kemaman-11153"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.284",
+      "lon": "103.449"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

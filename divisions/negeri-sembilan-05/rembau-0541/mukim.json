@@ -1,0 +1,1406 @@
+[
+  {
+    "id": "0541-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR REMBAU",
+      "en": "BANDAR REMBAU",
+      "slug": "bandar-rembau-0541-004"
+    },
+    "code": {
+      "id": "0541-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0541",
+      "level": 2,
+      "name": {
+        "local": "Rembau",
+        "en": "Rembau",
+        "slug": "rembau-0541"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0541",
+        "level": 2,
+        "name": {
+          "local": "Rembau",
+          "en": "Rembau",
+          "slug": "rembau-0541"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.59",
+      "lon": "102.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0541-021",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BATU HAMPAR",
+      "en": "BATU HAMPAR",
+      "slug": "batu-hampar-0541-021"
+    },
+    "code": {
+      "id": "0541-021",
+      "iso": null
+    },
+    "parent": {
+      "id": "0541",
+      "level": 2,
+      "name": {
+        "local": "Rembau",
+        "en": "Rembau",
+        "slug": "rembau-0541"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0541",
+        "level": 2,
+        "name": {
+          "local": "Rembau",
+          "en": "Rembau",
+          "slug": "rembau-0541"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.576",
+      "lon": "102.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0541-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BONGEK",
+      "en": "BONGEK",
+      "slug": "bongek-0541-007"
+    },
+    "code": {
+      "id": "0541-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0541",
+      "level": 2,
+      "name": {
+        "local": "Rembau",
+        "en": "Rembau",
+        "slug": "rembau-0541"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0541",
+        "level": 2,
+        "name": {
+          "local": "Rembau",
+          "en": "Rembau",
+          "slug": "rembau-0541"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.561",
+      "lon": "102.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0541-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM CHEMBONG",
+      "en": "CHEMBONG",
+      "slug": "chembong-0541-005"
+    },
+    "code": {
+      "id": "0541-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0541",
+      "level": 2,
+      "name": {
+        "local": "Rembau",
+        "en": "Rembau",
+        "slug": "rembau-0541"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0541",
+        "level": 2,
+        "name": {
+          "local": "Rembau",
+          "en": "Rembau",
+          "slug": "rembau-0541"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.618",
+      "lon": "102.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0541-019",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM CHENGKAU",
+      "en": "CHENGKAU",
+      "slug": "chengkau-0541-019"
+    },
+    "code": {
+      "id": "0541-019",
+      "iso": null
+    },
+    "parent": {
+      "id": "0541",
+      "level": 2,
+      "name": {
+        "local": "Rembau",
+        "en": "Rembau",
+        "slug": "rembau-0541"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0541",
+        "level": 2,
+        "name": {
+          "local": "Rembau",
+          "en": "Rembau",
+          "slug": "rembau-0541"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.55",
+      "lon": "102.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0541-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM GADONG",
+      "en": "GADONG",
+      "slug": "gadong-0541-015"
+    },
+    "code": {
+      "id": "0541-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "0541",
+      "level": 2,
+      "name": {
+        "local": "Rembau",
+        "en": "Rembau",
+        "slug": "rembau-0541"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0541",
+        "level": 2,
+        "name": {
+          "local": "Rembau",
+          "en": "Rembau",
+          "slug": "rembau-0541"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.512",
+      "lon": "102.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0541-024",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUNDOR",
+      "en": "KUNDOR",
+      "slug": "kundor-0541-024"
+    },
+    "code": {
+      "id": "0541-024",
+      "iso": null
+    },
+    "parent": {
+      "id": "0541",
+      "level": 2,
+      "name": {
+        "local": "Rembau",
+        "en": "Rembau",
+        "slug": "rembau-0541"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0541",
+        "level": 2,
+        "name": {
+          "local": "Rembau",
+          "en": "Rembau",
+          "slug": "rembau-0541"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.526",
+      "lon": "102.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0541-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM LEGONG ILIR",
+      "en": "LEGONG ILIR",
+      "slug": "legong-ilir-0541-010"
+    },
+    "code": {
+      "id": "0541-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0541",
+      "level": 2,
+      "name": {
+        "local": "Rembau",
+        "en": "Rembau",
+        "slug": "rembau-0541"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0541",
+        "level": 2,
+        "name": {
+          "local": "Rembau",
+          "en": "Rembau",
+          "slug": "rembau-0541"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.506",
+      "lon": "102.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0541-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM LEGONG ULU",
+      "en": "LEGONG ULU",
+      "slug": "legong-ulu-0541-003"
+    },
+    "code": {
+      "id": "0541-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0541",
+      "level": 2,
+      "name": {
+        "local": "Rembau",
+        "en": "Rembau",
+        "slug": "rembau-0541"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0541",
+        "level": 2,
+        "name": {
+          "local": "Rembau",
+          "en": "Rembau",
+          "slug": "rembau-0541"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.509",
+      "lon": "102.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0541-025",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM MIKU",
+      "en": "MIKU",
+      "slug": "miku-0541-025"
+    },
+    "code": {
+      "id": "0541-025",
+      "iso": null
+    },
+    "parent": {
+      "id": "0541",
+      "level": 2,
+      "name": {
+        "local": "Rembau",
+        "en": "Rembau",
+        "slug": "rembau-0541"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0541",
+        "level": 2,
+        "name": {
+          "local": "Rembau",
+          "en": "Rembau",
+          "slug": "rembau-0541"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.588",
+      "lon": "102.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0541-022",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM NERASAU",
+      "en": "NERASAU",
+      "slug": "nerasau-0541-022"
+    },
+    "code": {
+      "id": "0541-022",
+      "iso": null
+    },
+    "parent": {
+      "id": "0541",
+      "level": 2,
+      "name": {
+        "local": "Rembau",
+        "en": "Rembau",
+        "slug": "rembau-0541"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0541",
+        "level": 2,
+        "name": {
+          "local": "Rembau",
+          "en": "Rembau",
+          "slug": "rembau-0541"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.535",
+      "lon": "102.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0541-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PEDAS",
+      "en": "PEDAS",
+      "slug": "pedas-0541-014"
+    },
+    "code": {
+      "id": "0541-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "0541",
+      "level": 2,
+      "name": {
+        "local": "Rembau",
+        "en": "Rembau",
+        "slug": "rembau-0541"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0541",
+        "level": 2,
+        "name": {
+          "local": "Rembau",
+          "en": "Rembau",
+          "slug": "rembau-0541"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.625",
+      "lon": "102.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0541-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN AIR KUNING",
+      "en": "PEKAN AIR KUNING",
+      "slug": "pekan-air-kuning-0541-013"
+    },
+    "code": {
+      "id": "0541-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0541",
+      "level": 2,
+      "name": {
+        "local": "Rembau",
+        "en": "Rembau",
+        "slug": "rembau-0541"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0541",
+        "level": 2,
+        "name": {
+          "local": "Rembau",
+          "en": "Rembau",
+          "slug": "rembau-0541"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.535",
+      "lon": "102.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0541-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN CHEMBONG",
+      "en": "PEKAN CHEMBONG",
+      "slug": "pekan-chembong-0541-012"
+    },
+    "code": {
+      "id": "0541-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0541",
+      "level": 2,
+      "name": {
+        "local": "Rembau",
+        "en": "Rembau",
+        "slug": "rembau-0541"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0541",
+        "level": 2,
+        "name": {
+          "local": "Rembau",
+          "en": "Rembau",
+          "slug": "rembau-0541"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.603",
+      "lon": "102.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0541-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN CHENGKAU",
+      "en": "PEKAN CHENGKAU",
+      "slug": "pekan-chengkau-0541-006"
+    },
+    "code": {
+      "id": "0541-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0541",
+      "level": 2,
+      "name": {
+        "local": "Rembau",
+        "en": "Rembau",
+        "slug": "rembau-0541"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0541",
+        "level": 2,
+        "name": {
+          "local": "Rembau",
+          "en": "Rembau",
+          "slug": "rembau-0541"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.559",
+      "lon": "102.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0541-023",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KAMPONG BATU",
+      "en": "PEKAN KAMPONG BATU",
+      "slug": "pekan-kampong-batu-0541-023"
+    },
+    "code": {
+      "id": "0541-023",
+      "iso": null
+    },
+    "parent": {
+      "id": "0541",
+      "level": 2,
+      "name": {
+        "local": "Rembau",
+        "en": "Rembau",
+        "slug": "rembau-0541"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0541",
+        "level": 2,
+        "name": {
+          "local": "Rembau",
+          "en": "Rembau",
+          "slug": "rembau-0541"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.584",
+      "lon": "102.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0541-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KOTA",
+      "en": "PEKAN KOTA",
+      "slug": "pekan-kota-0541-001"
+    },
+    "code": {
+      "id": "0541-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0541",
+      "level": 2,
+      "name": {
+        "local": "Rembau",
+        "en": "Rembau",
+        "slug": "rembau-0541"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0541",
+        "level": 2,
+        "name": {
+          "local": "Rembau",
+          "en": "Rembau",
+          "slug": "rembau-0541"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.521",
+      "lon": "102.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0541-026",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN MERBAU SEMBILAN",
+      "en": "PEKAN MERBAU SEMBILAN",
+      "slug": "pekan-merbau-sembilan-0541-026"
+    },
+    "code": {
+      "id": "0541-026",
+      "iso": null
+    },
+    "parent": {
+      "id": "0541",
+      "level": 2,
+      "name": {
+        "local": "Rembau",
+        "en": "Rembau",
+        "slug": "rembau-0541"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0541",
+        "level": 2,
+        "name": {
+          "local": "Rembau",
+          "en": "Rembau",
+          "slug": "rembau-0541"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.563",
+      "lon": "102.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0541-017",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PEDAS",
+      "en": "PEKAN PEDAS",
+      "slug": "pekan-pedas-0541-017"
+    },
+    "code": {
+      "id": "0541-017",
+      "iso": null
+    },
+    "parent": {
+      "id": "0541",
+      "level": 2,
+      "name": {
+        "local": "Rembau",
+        "en": "Rembau",
+        "slug": "rembau-0541"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0541",
+        "level": 2,
+        "name": {
+          "local": "Rembau",
+          "en": "Rembau",
+          "slug": "rembau-0541"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.626",
+      "lon": "102.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0541-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN REMBAU",
+      "en": "PEKAN REMBAU",
+      "slug": "pekan-rembau-0541-008"
+    },
+    "code": {
+      "id": "0541-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0541",
+      "level": 2,
+      "name": {
+        "local": "Rembau",
+        "en": "Rembau",
+        "slug": "rembau-0541"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0541",
+        "level": 2,
+        "name": {
+          "local": "Rembau",
+          "en": "Rembau",
+          "slug": "rembau-0541"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.594",
+      "lon": "102.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0541-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SERI KOTA",
+      "en": "PEKAN SERI KOTA",
+      "slug": "pekan-seri-kota-0541-016"
+    },
+    "code": {
+      "id": "0541-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "0541",
+      "level": 2,
+      "name": {
+        "local": "Rembau",
+        "en": "Rembau",
+        "slug": "rembau-0541"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0541",
+        "level": 2,
+        "name": {
+          "local": "Rembau",
+          "en": "Rembau",
+          "slug": "rembau-0541"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.503",
+      "lon": "102.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0541-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PILIN",
+      "en": "PILIN",
+      "slug": "pilin-0541-011"
+    },
+    "code": {
+      "id": "0541-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0541",
+      "level": 2,
+      "name": {
+        "local": "Rembau",
+        "en": "Rembau",
+        "slug": "rembau-0541"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0541",
+        "level": 2,
+        "name": {
+          "local": "Rembau",
+          "en": "Rembau",
+          "slug": "rembau-0541"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.533",
+      "lon": "102.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0541-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SELEMAK",
+      "en": "SELEMAK",
+      "slug": "selemak-0541-009"
+    },
+    "code": {
+      "id": "0541-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0541",
+      "level": 2,
+      "name": {
+        "local": "Rembau",
+        "en": "Rembau",
+        "slug": "rembau-0541"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0541",
+        "level": 2,
+        "name": {
+          "local": "Rembau",
+          "en": "Rembau",
+          "slug": "rembau-0541"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.593",
+      "lon": "102.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0541-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SEMERBOK",
+      "en": "SEMERBOK",
+      "slug": "semerbok-0541-002"
+    },
+    "code": {
+      "id": "0541-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0541",
+      "level": 2,
+      "name": {
+        "local": "Rembau",
+        "en": "Rembau",
+        "slug": "rembau-0541"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0541",
+        "level": 2,
+        "name": {
+          "local": "Rembau",
+          "en": "Rembau",
+          "slug": "rembau-0541"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.484",
+      "lon": "102.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0541-018",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SPRI",
+      "en": "SPRI",
+      "slug": "spri-0541-018"
+    },
+    "code": {
+      "id": "0541-018",
+      "iso": null
+    },
+    "parent": {
+      "id": "0541",
+      "level": 2,
+      "name": {
+        "local": "Rembau",
+        "en": "Rembau",
+        "slug": "rembau-0541"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0541",
+        "level": 2,
+        "name": {
+          "local": "Rembau",
+          "en": "Rembau",
+          "slug": "rembau-0541"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.65",
+      "lon": "102.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0541-020",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TITIAN BINTANGOR",
+      "en": "TITIAN BINTANGOR",
+      "slug": "titian-bintangor-0541-020"
+    },
+    "code": {
+      "id": "0541-020",
+      "iso": null
+    },
+    "parent": {
+      "id": "0541",
+      "level": 2,
+      "name": {
+        "local": "Rembau",
+        "en": "Rembau",
+        "slug": "rembau-0541"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0541",
+        "level": 2,
+        "name": {
+          "local": "Rembau",
+          "en": "Rembau",
+          "slug": "rembau-0541"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.473",
+      "lon": "102.079"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

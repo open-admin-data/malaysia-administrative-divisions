@@ -1,0 +1,1838 @@
+[
+  {
+    "id": "0215-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM AH",
+      "en": "AH",
+      "slug": "ah-0215-009"
+    },
+    "code": {
+      "id": "0215-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.348",
+      "lon": "100.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BANDAR DARULAMAN",
+      "en": "BANDAR BANDAR DARULAMAN",
+      "slug": "bandar-bandar-darulaman-0215-008"
+    },
+    "code": {
+      "id": "0215-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.242",
+      "lon": "100.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-025",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BUKIT KAYU HITAM",
+      "en": "BANDAR BUKIT KAYU HITAM",
+      "slug": "bandar-bukit-kayu-hitam-0215-025"
+    },
+    "code": {
+      "id": "0215-025",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.495",
+      "lon": "100.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-023",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR CHANGLUN",
+      "en": "BANDAR CHANGLUN",
+      "slug": "bandar-changlun-0215-023"
+    },
+    "code": {
+      "id": "0215-023",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.425",
+      "lon": "100.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-026",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR JITRA",
+      "en": "BANDAR JITRA",
+      "slug": "bandar-jitra-0215-026"
+    },
+    "code": {
+      "id": "0215-026",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.281",
+      "lon": "100.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-019",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR KODIANG",
+      "en": "BANDAR KODIANG",
+      "slug": "bandar-kodiang-0215-019"
+    },
+    "code": {
+      "id": "0215-019",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.397",
+      "lon": "100.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR PADANG SERA",
+      "en": "BANDAR PADANG SERA",
+      "slug": "bandar-padang-sera-0215-007"
+    },
+    "code": {
+      "id": "0215-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.361",
+      "lon": "100.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-022",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR TUNJANG",
+      "en": "BANDAR TUNJANG",
+      "slug": "bandar-tunjang-0215-022"
+    },
+    "code": {
+      "id": "0215-022",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.288",
+      "lon": "100.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-034",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BINJAL",
+      "en": "BINJAL",
+      "slug": "binjal-0215-034"
+    },
+    "code": {
+      "id": "0215-034",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.326",
+      "lon": "100.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-029",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BUKIT TINGGI",
+      "en": "BUKIT TINGGI",
+      "slug": "bukit-tinggi-0215-029"
+    },
+    "code": {
+      "id": "0215-029",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.219",
+      "lon": "100.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM GELONG",
+      "en": "GELONG",
+      "slug": "gelong-0215-013"
+    },
+    "code": {
+      "id": "0215-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.303",
+      "lon": "100.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM HUSBA",
+      "en": "HUSBA",
+      "slug": "husba-0215-010"
+    },
+    "code": {
+      "id": "0215-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.352",
+      "lon": "100.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM JERLUN",
+      "en": "JERLUN",
+      "slug": "jerlun-0215-005"
+    },
+    "code": {
+      "id": "0215-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.235",
+      "lon": "100.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM JITRA",
+      "en": "JITRA",
+      "slug": "jitra-0215-011"
+    },
+    "code": {
+      "id": "0215-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.28",
+      "lon": "100.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-028",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KEPELU",
+      "en": "KEPELU",
+      "slug": "kepelu-0215-028"
+    },
+    "code": {
+      "id": "0215-028",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.391",
+      "lon": "100.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-027",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUBANG PASU",
+      "en": "KUBANG PASU",
+      "slug": "kubang-pasu-0215-027"
+    },
+    "code": {
+      "id": "0215-027",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.374",
+      "lon": "100.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-020",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM MALAU",
+      "en": "MALAU",
+      "slug": "malau-0215-020"
+    },
+    "code": {
+      "id": "0215-020",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.298",
+      "lon": "100.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM NAGA",
+      "en": "NAGA",
+      "slug": "naga-0215-012"
+    },
+    "code": {
+      "id": "0215-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.237",
+      "lon": "100.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PADANG PERAHU",
+      "en": "PADANG PERAHU",
+      "slug": "padang-perahu-0215-006"
+    },
+    "code": {
+      "id": "0215-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.311",
+      "lon": "100.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-030",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN AYER HITAM",
+      "en": "PEKAN AYER HITAM",
+      "slug": "pekan-ayer-hitam-0215-030"
+    },
+    "code": {
+      "id": "0215-030",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.234",
+      "lon": "100.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-018",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KERPAN",
+      "en": "PEKAN KERPAN",
+      "slug": "pekan-kerpan-0215-018"
+    },
+    "code": {
+      "id": "0215-018",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.258",
+      "lon": "100.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KUALA SANGLANG",
+      "en": "PEKAN KUALA SANGLANG",
+      "slug": "pekan-kuala-sanglang-0215-001"
+    },
+    "code": {
+      "id": "0215-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.262",
+      "lon": "100.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-024",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN NAPOH",
+      "en": "PEKAN NAPOH",
+      "slug": "pekan-napoh-0215-024"
+    },
+    "code": {
+      "id": "0215-024",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.363",
+      "lon": "100.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-031",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SANGLANG",
+      "en": "PEKAN SANGLANG",
+      "slug": "pekan-sanglang-0215-031"
+    },
+    "code": {
+      "id": "0215-031",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.282",
+      "lon": "100.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-033",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SINTOK",
+      "en": "PEKAN SINTOK",
+      "slug": "pekan-sintok-0215-033"
+    },
+    "code": {
+      "id": "0215-033",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.463",
+      "lon": "100.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SUNGAI KOROK",
+      "en": "PEKAN SUNGAI KOROK",
+      "slug": "pekan-sungai-korok-0215-016"
+    },
+    "code": {
+      "id": "0215-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.233",
+      "lon": "100.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-021",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PELUBANG",
+      "en": "PELUBANG",
+      "slug": "pelubang-0215-021"
+    },
+    "code": {
+      "id": "0215-021",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.224",
+      "lon": "100.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PERING",
+      "en": "PERING",
+      "slug": "pering-0215-014"
+    },
+    "code": {
+      "id": "0215-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.372",
+      "lon": "100.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-032",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PUTAT",
+      "en": "PUTAT",
+      "slug": "putat-0215-032"
+    },
+    "code": {
+      "id": "0215-032",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.335",
+      "lon": "100.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-017",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SANGLANG",
+      "en": "SANGLANG",
+      "slug": "sanglang-0215-017"
+    },
+    "code": {
+      "id": "0215-017",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.287",
+      "lon": "100.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SUNGAI LAKA",
+      "en": "SUNGAI LAKA",
+      "slug": "sungai-laka-0215-002"
+    },
+    "code": {
+      "id": "0215-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.483",
+      "lon": "100.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TEMIN",
+      "en": "TEMIN",
+      "slug": "temin-0215-003"
+    },
+    "code": {
+      "id": "0215-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.447",
+      "lon": "100.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TUNJANG",
+      "en": "TUNJANG",
+      "slug": "tunjang-0215-015"
+    },
+    "code": {
+      "id": "0215-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.29",
+      "lon": "100.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0215-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM WANG TEPUS",
+      "en": "WANG TEPUS",
+      "slug": "wang-tepus-0215-004"
+    },
+    "code": {
+      "id": "0215-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0215",
+      "level": 2,
+      "name": {
+        "local": "Kubang Pasu",
+        "en": "Kubang Pasu",
+        "slug": "kubang-pasu-0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0215",
+        "level": 2,
+        "name": {
+          "local": "Kubang Pasu",
+          "en": "Kubang Pasu",
+          "slug": "kubang-pasu-0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.257",
+      "lon": "100.481"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

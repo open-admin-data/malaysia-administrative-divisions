@@ -1,0 +1,47 @@
+{
+  "id": "1284",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kunak",
+    "en": "Kunak",
+    "slug": "kunak-1284"
+  },
+  "code": {
+    "id": "1284",
+    "iso": null
+  },
+  "parent": {
+    "id": "12",
+    "level": 1,
+    "name": {
+      "local": "Sabah",
+      "en": "Sabah",
+      "slug": "sabah-12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.709",
+    "lon": "118.158"
+  },
+  "metadata": {},
+  "source": {}
+}

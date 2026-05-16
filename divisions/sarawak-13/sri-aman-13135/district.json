@@ -1,0 +1,47 @@
+{
+  "id": "13135",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sri Aman",
+    "en": "Sri Aman",
+    "slug": "sri-aman-13135"
+  },
+  "code": {
+    "id": "13135",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "Sarawak",
+      "en": "Sarawak",
+      "slug": "sarawak-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.172",
+    "lon": "111.279"
+  },
+  "metadata": {},
+  "source": {}
+}

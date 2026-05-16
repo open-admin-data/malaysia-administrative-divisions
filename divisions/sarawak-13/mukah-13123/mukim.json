@@ -1,0 +1,272 @@
+[
+  {
+    "id": "13123-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BALINGIAN LAND DISTRICT",
+      "en": "BALINGIAN LAND DISTRICT",
+      "slug": "balingian-land-district-13123-005"
+    },
+    "code": {
+      "id": "13123-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "13123",
+      "level": 2,
+      "name": {
+        "local": "Mukah",
+        "en": "Mukah",
+        "slug": "mukah-13123"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13123",
+        "level": 2,
+        "name": {
+          "local": "Mukah",
+          "en": "Mukah",
+          "slug": "mukah-13123"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.92",
+      "lon": "112.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13123-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BAWAN LAND DISTRICT",
+      "en": "BAWAN LAND DISTRICT",
+      "slug": "bawan-land-district-13123-001"
+    },
+    "code": {
+      "id": "13123-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13123",
+      "level": 2,
+      "name": {
+        "local": "Mukah",
+        "en": "Mukah",
+        "slug": "mukah-13123"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13123",
+        "level": 2,
+        "name": {
+          "local": "Mukah",
+          "en": "Mukah",
+          "slug": "mukah-13123"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.748",
+      "lon": "112.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13123-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BUAN LAND DISTRICT",
+      "en": "BUAN LAND DISTRICT",
+      "slug": "buan-land-district-13123-003"
+    },
+    "code": {
+      "id": "13123-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13123",
+      "level": 2,
+      "name": {
+        "local": "Mukah",
+        "en": "Mukah",
+        "slug": "mukah-13123"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13123",
+        "level": 2,
+        "name": {
+          "local": "Mukah",
+          "en": "Mukah",
+          "slug": "mukah-13123"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.675",
+      "lon": "112.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13123-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKAH LAND DISTRICT",
+      "en": "MUKAH LAND DISTRICT",
+      "slug": "mukah-land-district-13123-002"
+    },
+    "code": {
+      "id": "13123-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13123",
+      "level": 2,
+      "name": {
+        "local": "Mukah",
+        "en": "Mukah",
+        "slug": "mukah-13123"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13123",
+        "level": 2,
+        "name": {
+          "local": "Mukah",
+          "en": "Mukah",
+          "slug": "mukah-13123"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.809",
+      "lon": "112.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13123-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SIKAT LAND DISTRICT",
+      "en": "SIKAT LAND DISTRICT",
+      "slug": "sikat-land-district-13123-004"
+    },
+    "code": {
+      "id": "13123-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13123",
+      "level": 2,
+      "name": {
+        "local": "Mukah",
+        "en": "Mukah",
+        "slug": "mukah-13123"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13123",
+        "level": 2,
+        "name": {
+          "local": "Mukah",
+          "en": "Mukah",
+          "slug": "mukah-13123"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.649",
+      "lon": "112.281"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

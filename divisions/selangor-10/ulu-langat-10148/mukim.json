@@ -1,0 +1,2162 @@
+[
+  {
+    "id": "10148-019",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM AMPANG",
+      "en": "AMPANG",
+      "slug": "ampang-10148-019"
+    },
+    "code": {
+      "id": "10148-019",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.138",
+      "lon": "101.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-020",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BANDAR",
+      "en": "BANDAR",
+      "slug": "bandar-10148-020"
+    },
+    "code": {
+      "id": "10148-020",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.931",
+      "lon": "101.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-018",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR AMPANG",
+      "en": "BANDAR AMPANG",
+      "slug": "bandar-ampang-10148-018"
+    },
+    "code": {
+      "id": "10148-018",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.131",
+      "lon": "101.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BALAKONG",
+      "en": "BANDAR BALAKONG",
+      "slug": "bandar-balakong-10148-001"
+    },
+    "code": {
+      "id": "10148-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.029",
+      "lon": "101.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BARU BANGI",
+      "en": "BANDAR BARU BANGI",
+      "slug": "bandar-baru-bangi-10148-007"
+    },
+    "code": {
+      "id": "10148-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.966",
+      "lon": "101.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BATU 18, SEMENYIH",
+      "en": "BANDAR BATU 18, SEMENYIH",
+      "slug": "bandar-batu-18-semenyih-10148-014"
+    },
+    "code": {
+      "id": "10148-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.971",
+      "lon": "101.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-030",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BATU 26, BERANANG",
+      "en": "BANDAR BATU 26, BERANANG",
+      "slug": "bandar-batu-26-beranang-10148-030"
+    },
+    "code": {
+      "id": "10148-030",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.896",
+      "lon": "101.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-038",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BATU 9, CHERAS",
+      "en": "BANDAR BATU 9, CHERAS",
+      "slug": "bandar-batu-9-cheras-10148-038"
+    },
+    "code": {
+      "id": "10148-038",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.069",
+      "lon": "101.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-023",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR CHERAS",
+      "en": "BANDAR CHERAS",
+      "slug": "bandar-cheras-10148-023"
+    },
+    "code": {
+      "id": "10148-023",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.035",
+      "lon": "101.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-028",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR COUNTRY HEIGHT",
+      "en": "BANDAR COUNTRY HEIGHT",
+      "slug": "bandar-country-height-10148-028"
+    },
+    "code": {
+      "id": "10148-028",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.988",
+      "lon": "101.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-024",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR KAJANG",
+      "en": "BANDAR KAJANG",
+      "slug": "bandar-kajang-10148-024"
+    },
+    "code": {
+      "id": "10148-024",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.984",
+      "lon": "101.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SEMENYIH",
+      "en": "BANDAR SEMENYIH",
+      "slug": "bandar-semenyih-10148-003"
+    },
+    "code": {
+      "id": "10148-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.949",
+      "lon": "101.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-031",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR ULU LANGAT",
+      "en": "BANDAR ULU LANGAT",
+      "slug": "bandar-ulu-langat-10148-031"
+    },
+    "code": {
+      "id": "10148-031",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.111",
+      "lon": "101.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-033",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BERANANG",
+      "en": "BERANANG",
+      "slug": "beranang-10148-033"
+    },
+    "code": {
+      "id": "10148-033",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.906",
+      "lon": "101.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-037",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM CHERAS",
+      "en": "CHERAS",
+      "slug": "cheras-10148-037"
+    },
+    "code": {
+      "id": "10148-037",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.043",
+      "lon": "101.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KAJANG",
+      "en": "KAJANG",
+      "slug": "kajang-10148-008"
+    },
+    "code": {
+      "id": "10148-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.947",
+      "lon": "101.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-025",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BANGI LAMA",
+      "en": "PEKAN BANGI LAMA",
+      "slug": "pekan-bangi-lama-10148-025"
+    },
+    "code": {
+      "id": "10148-025",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.894",
+      "lon": "101.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-017",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BATU 18, ULU LANGAT",
+      "en": "PEKAN BATU 18, ULU LANGAT",
+      "slug": "pekan-batu-18-ulu-langat-10148-017"
+    },
+    "code": {
+      "id": "10148-017",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.165",
+      "lon": "101.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BATU 23, SUNGAI LALANG",
+      "en": "PEKAN BATU 23, SUNGAI LALANG",
+      "slug": "pekan-batu-23-sungai-lalang-10148-015"
+    },
+    "code": {
+      "id": "10148-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.983",
+      "lon": "101.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-022",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BATU 26, BERANANG",
+      "en": "PEKAN BATU 26, BERANANG",
+      "slug": "pekan-batu-26-beranang-10148-022"
+    },
+    "code": {
+      "id": "10148-022",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.895",
+      "lon": "101.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-036",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BERANANG",
+      "en": "PEKAN BERANANG",
+      "slug": "pekan-beranang-10148-036"
+    },
+    "code": {
+      "id": "10148-036",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.869",
+      "lon": "101.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BUKIT SUNGAI RAYA",
+      "en": "PEKAN BUKIT SUNGAI RAYA",
+      "slug": "pekan-bukit-sungai-raya-10148-013"
+    },
+    "code": {
+      "id": "10148-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.084",
+      "lon": "101.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-035",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN CHERAS",
+      "en": "PEKAN CHERAS",
+      "slug": "pekan-cheras-10148-035"
+    },
+    "code": {
+      "id": "10148-035",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.055",
+      "lon": "101.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN DESA RAYA",
+      "en": "PEKAN DESA RAYA",
+      "slug": "pekan-desa-raya-10148-009"
+    },
+    "code": {
+      "id": "10148-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.101",
+      "lon": "101.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-032",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN DUSUN TUA ULU LANGAT",
+      "en": "PEKAN DUSUN TUA ULU LANGAT",
+      "slug": "pekan-dusun-tua-ulu-langat-10148-032"
+    },
+    "code": {
+      "id": "10148-032",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.14",
+      "lon": "101.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-026",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KACAU",
+      "en": "PEKAN KACAU",
+      "slug": "pekan-kacau-10148-026"
+    },
+    "code": {
+      "id": "10148-026",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.996",
+      "lon": "101.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-040",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KAJANG",
+      "en": "PEKAN KAJANG",
+      "slug": "pekan-kajang-10148-040"
+    },
+    "code": {
+      "id": "10148-040",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.005",
+      "lon": "101.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KAMPONG PASIR, BATU 14, SEMENYIH",
+      "en": "PEKAN KAMPONG PASIR, BATU 14, SEMENYIH",
+      "slug": "pekan-kampong-pasir-batu-14-semenyih-10148-016"
+    },
+    "code": {
+      "id": "10148-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.007",
+      "lon": "101.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KAMPONG SUNGAI TANGKAS",
+      "en": "PEKAN KAMPONG SUNGAI TANGKAS",
+      "slug": "pekan-kampong-sungai-tangkas-10148-002"
+    },
+    "code": {
+      "id": "10148-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.947",
+      "lon": "101.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-034",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN RUMAH MURAH SUNGAI LUI",
+      "en": "PEKAN RUMAH MURAH SUNGAI LUI",
+      "slug": "pekan-rumah-murah-sungai-lui-10148-034"
+    },
+    "code": {
+      "id": "10148-034",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.16",
+      "lon": "101.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-021",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SEMENYIH",
+      "en": "PEKAN SEMENYIH",
+      "slug": "pekan-semenyih-10148-021"
+    },
+    "code": {
+      "id": "10148-021",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.952",
+      "lon": "101.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-027",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SIMPANG BALAK",
+      "en": "PEKAN SIMPANG BALAK",
+      "slug": "pekan-simpang-balak-10148-027"
+    },
+    "code": {
+      "id": "10148-027",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.015",
+      "lon": "101.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SRI NANDING",
+      "en": "PEKAN SRI NANDING",
+      "slug": "pekan-sri-nanding-10148-010"
+    },
+    "code": {
+      "id": "10148-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.103",
+      "lon": "101.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SUNGAI KEMBONG BERANANG",
+      "en": "PEKAN SUNGAI KEMBONG BERANANG",
+      "slug": "pekan-sungai-kembong-beranang-10148-012"
+    },
+    "code": {
+      "id": "10148-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.884",
+      "lon": "101.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-039",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SUNGAI LUI",
+      "en": "PEKAN SUNGAI LUI",
+      "slug": "pekan-sungai-lui-10148-039"
+    },
+    "code": {
+      "id": "10148-039",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.166",
+      "lon": "101.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SUNGAI MAKAU",
+      "en": "PEKAN SUNGAI MAKAU",
+      "slug": "pekan-sungai-makau-10148-011"
+    },
+    "code": {
+      "id": "10148-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.115",
+      "lon": "101.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-029",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TARUN",
+      "en": "PEKAN TARUN",
+      "slug": "pekan-tarun-10148-029"
+    },
+    "code": {
+      "id": "10148-029",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.937",
+      "lon": "101.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SEMENYIH",
+      "en": "SEMENYIH",
+      "slug": "semenyih-10148-005"
+    },
+    "code": {
+      "id": "10148-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.956",
+      "lon": "101.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM ULU LANGAT",
+      "en": "ULU LANGAT",
+      "slug": "ulu-langat-10148-006"
+    },
+    "code": {
+      "id": "10148-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.154",
+      "lon": "101.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10148-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM ULU SEMENYIH",
+      "en": "ULU SEMENYIH",
+      "slug": "ulu-semenyih-10148-004"
+    },
+    "code": {
+      "id": "10148-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "10148",
+      "level": 2,
+      "name": {
+        "local": "Ulu Langat",
+        "en": "Ulu Langat",
+        "slug": "ulu-langat-10148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10148",
+        "level": 2,
+        "name": {
+          "local": "Ulu Langat",
+          "en": "Ulu Langat",
+          "slug": "ulu-langat-10148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.03",
+      "lon": "101.874"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

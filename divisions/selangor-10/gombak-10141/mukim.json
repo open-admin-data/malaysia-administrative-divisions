@@ -1,0 +1,920 @@
+[
+  {
+    "id": "10141-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BATU ARANG",
+      "en": "BANDAR BATU ARANG",
+      "slug": "bandar-batu-arang-10141-014"
+    },
+    "code": {
+      "id": "10141-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "10141",
+      "level": 2,
+      "name": {
+        "local": "Gombak",
+        "en": "Gombak",
+        "slug": "gombak-10141"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10141",
+        "level": 2,
+        "name": {
+          "local": "Gombak",
+          "en": "Gombak",
+          "slug": "gombak-10141"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.316",
+      "lon": "101.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10141-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR KEPONG",
+      "en": "BANDAR KEPONG",
+      "slug": "bandar-kepong-10141-008"
+    },
+    "code": {
+      "id": "10141-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "10141",
+      "level": 2,
+      "name": {
+        "local": "Gombak",
+        "en": "Gombak",
+        "slug": "gombak-10141"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10141",
+        "level": 2,
+        "name": {
+          "local": "Gombak",
+          "en": "Gombak",
+          "slug": "gombak-10141"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.212",
+      "lon": "101.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10141-017",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR KUANG",
+      "en": "BANDAR KUANG",
+      "slug": "bandar-kuang-10141-017"
+    },
+    "code": {
+      "id": "10141-017",
+      "iso": null
+    },
+    "parent": {
+      "id": "10141",
+      "level": 2,
+      "name": {
+        "local": "Gombak",
+        "en": "Gombak",
+        "slug": "gombak-10141"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10141",
+        "level": 2,
+        "name": {
+          "local": "Gombak",
+          "en": "Gombak",
+          "slug": "gombak-10141"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.258",
+      "lon": "101.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10141-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR KUNDANG",
+      "en": "BANDAR KUNDANG",
+      "slug": "bandar-kundang-10141-012"
+    },
+    "code": {
+      "id": "10141-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "10141",
+      "level": 2,
+      "name": {
+        "local": "Gombak",
+        "en": "Gombak",
+        "slug": "gombak-10141"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10141",
+        "level": 2,
+        "name": {
+          "local": "Gombak",
+          "en": "Gombak",
+          "slug": "gombak-10141"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.302",
+      "lon": "101.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10141-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR RAWANG",
+      "en": "BANDAR RAWANG",
+      "slug": "bandar-rawang-10141-007"
+    },
+    "code": {
+      "id": "10141-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "10141",
+      "level": 2,
+      "name": {
+        "local": "Gombak",
+        "en": "Gombak",
+        "slug": "gombak-10141"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10141",
+        "level": 2,
+        "name": {
+          "local": "Gombak",
+          "en": "Gombak",
+          "slug": "gombak-10141"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.318",
+      "lon": "101.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10141-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SELAYANG",
+      "en": "BANDAR SELAYANG",
+      "slug": "bandar-selayang-10141-005"
+    },
+    "code": {
+      "id": "10141-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "10141",
+      "level": 2,
+      "name": {
+        "local": "Gombak",
+        "en": "Gombak",
+        "slug": "gombak-10141"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10141",
+        "level": 2,
+        "name": {
+          "local": "Gombak",
+          "en": "Gombak",
+          "slug": "gombak-10141"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.252",
+      "lon": "101.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10141-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SUNGAI BULOH",
+      "en": "BANDAR SUNGAI BULOH",
+      "slug": "bandar-sungai-buloh-10141-002"
+    },
+    "code": {
+      "id": "10141-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "10141",
+      "level": 2,
+      "name": {
+        "local": "Gombak",
+        "en": "Gombak",
+        "slug": "gombak-10141"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10141",
+        "level": 2,
+        "name": {
+          "local": "Gombak",
+          "en": "Gombak",
+          "slug": "gombak-10141"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.215",
+      "lon": "101.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10141-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SUNGAI PUSU",
+      "en": "BANDAR SUNGAI PUSU",
+      "slug": "bandar-sungai-pusu-10141-016"
+    },
+    "code": {
+      "id": "10141-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "10141",
+      "level": 2,
+      "name": {
+        "local": "Gombak",
+        "en": "Gombak",
+        "slug": "gombak-10141"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10141",
+        "level": 2,
+        "name": {
+          "local": "Gombak",
+          "en": "Gombak",
+          "slug": "gombak-10141"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.249",
+      "lon": "101.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10141-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BATU 20",
+      "en": "PEKAN BATU 20",
+      "slug": "pekan-batu-20-10141-004"
+    },
+    "code": {
+      "id": "10141-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "10141",
+      "level": 2,
+      "name": {
+        "local": "Gombak",
+        "en": "Gombak",
+        "slug": "gombak-10141"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10141",
+        "level": 2,
+        "name": {
+          "local": "Gombak",
+          "en": "Gombak",
+          "slug": "gombak-10141"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.234",
+      "lon": "101.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10141-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KUANG",
+      "en": "PEKAN KUANG",
+      "slug": "pekan-kuang-10141-011"
+    },
+    "code": {
+      "id": "10141-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "10141",
+      "level": 2,
+      "name": {
+        "local": "Gombak",
+        "en": "Gombak",
+        "slug": "gombak-10141"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10141",
+        "level": 2,
+        "name": {
+          "local": "Gombak",
+          "en": "Gombak",
+          "slug": "gombak-10141"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.261",
+      "lon": "101.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10141-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN MIMALAND",
+      "en": "PEKAN MIMALAND",
+      "slug": "pekan-mimaland-10141-009"
+    },
+    "code": {
+      "id": "10141-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "10141",
+      "level": 2,
+      "name": {
+        "local": "Gombak",
+        "en": "Gombak",
+        "slug": "gombak-10141"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10141",
+        "level": 2,
+        "name": {
+          "local": "Gombak",
+          "en": "Gombak",
+          "slug": "gombak-10141"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.284",
+      "lon": "101.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10141-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PENGKALAN KUNDANG",
+      "en": "PEKAN PENGKALAN KUNDANG",
+      "slug": "pekan-pengkalan-kundang-10141-006"
+    },
+    "code": {
+      "id": "10141-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "10141",
+      "level": 2,
+      "name": {
+        "local": "Gombak",
+        "en": "Gombak",
+        "slug": "gombak-10141"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10141",
+        "level": 2,
+        "name": {
+          "local": "Gombak",
+          "en": "Gombak",
+          "slug": "gombak-10141"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.266",
+      "lon": "101.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10141-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SUNGAI BULOH",
+      "en": "PEKAN SUNGAI BULOH",
+      "slug": "pekan-sungai-buloh-10141-010"
+    },
+    "code": {
+      "id": "10141-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "10141",
+      "level": 2,
+      "name": {
+        "local": "Gombak",
+        "en": "Gombak",
+        "slug": "gombak-10141"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10141",
+        "level": 2,
+        "name": {
+          "local": "Gombak",
+          "en": "Gombak",
+          "slug": "gombak-10141"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.22",
+      "lon": "101.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10141-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TEMPLER",
+      "en": "PEKAN TEMPLER",
+      "slug": "pekan-templer-10141-015"
+    },
+    "code": {
+      "id": "10141-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "10141",
+      "level": 2,
+      "name": {
+        "local": "Gombak",
+        "en": "Gombak",
+        "slug": "gombak-10141"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10141",
+        "level": 2,
+        "name": {
+          "local": "Gombak",
+          "en": "Gombak",
+          "slug": "gombak-10141"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.293",
+      "lon": "101.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10141-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM RAWANG",
+      "en": "RAWANG",
+      "slug": "rawang-10141-001"
+    },
+    "code": {
+      "id": "10141-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "10141",
+      "level": 2,
+      "name": {
+        "local": "Gombak",
+        "en": "Gombak",
+        "slug": "gombak-10141"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10141",
+        "level": 2,
+        "name": {
+          "local": "Gombak",
+          "en": "Gombak",
+          "slug": "gombak-10141"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.309",
+      "lon": "101.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10141-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SETAPAK",
+      "en": "SETAPAK",
+      "slug": "setapak-10141-013"
+    },
+    "code": {
+      "id": "10141-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "10141",
+      "level": 2,
+      "name": {
+        "local": "Gombak",
+        "en": "Gombak",
+        "slug": "gombak-10141"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10141",
+        "level": 2,
+        "name": {
+          "local": "Gombak",
+          "en": "Gombak",
+          "slug": "gombak-10141"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.237",
+      "lon": "101.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10141-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM ULU KELANG",
+      "en": "ULU KELANG",
+      "slug": "ulu-kelang-10141-003"
+    },
+    "code": {
+      "id": "10141-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "10141",
+      "level": 2,
+      "name": {
+        "local": "Gombak",
+        "en": "Gombak",
+        "slug": "gombak-10141"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10141",
+        "level": 2,
+        "name": {
+          "local": "Gombak",
+          "en": "Gombak",
+          "slug": "gombak-10141"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.226",
+      "lon": "101.778"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

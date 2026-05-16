@@ -1,0 +1,30 @@
+{
+  "id": "11",
+  "level": 1,
+  "level_name": {
+    "local": "Negeri",
+    "en": "State"
+  },
+  "name": {
+    "local": "Terengganu",
+    "en": "Terengganu",
+    "slug": "terengganu-11"
+  },
+  "code": {
+    "id": "11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 8,
+    "mukim": 96
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.394",
+    "lon": "103.044"
+  },
+  "metadata": {},
+  "source": {}
+}

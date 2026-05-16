@@ -1,0 +1,488 @@
+[
+  {
+    "id": "13133-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "GEDONG TOWN DISTRICT",
+      "en": "GEDONG TOWN DISTRICT",
+      "slug": "gedong-town-district-13133-008"
+    },
+    "code": {
+      "id": "13133-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "13133",
+      "level": 2,
+      "name": {
+        "local": "Simunjan",
+        "en": "Simunjan",
+        "slug": "simunjan-13133"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13133",
+        "level": 2,
+        "name": {
+          "local": "Simunjan",
+          "en": "Simunjan",
+          "slug": "simunjan-13133"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.247",
+      "lon": "110.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13133-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MENUKU LAND DISTRICT",
+      "en": "MENUKU LAND DISTRICT",
+      "slug": "menuku-land-district-13133-001"
+    },
+    "code": {
+      "id": "13133-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13133",
+      "level": 2,
+      "name": {
+        "local": "Simunjan",
+        "en": "Simunjan",
+        "slug": "simunjan-13133"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13133",
+        "level": 2,
+        "name": {
+          "local": "Simunjan",
+          "en": "Simunjan",
+          "slug": "simunjan-13133"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.459",
+      "lon": "110.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13133-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PUNDA-SABAL  LAND DISTRICT",
+      "en": "PUNDA-SABAL  LAND DISTRICT",
+      "slug": "punda-sabal-land-district-13133-006"
+    },
+    "code": {
+      "id": "13133-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "13133",
+      "level": 2,
+      "name": {
+        "local": "Simunjan",
+        "en": "Simunjan",
+        "slug": "simunjan-13133"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13133",
+        "level": 2,
+        "name": {
+          "local": "Simunjan",
+          "en": "Simunjan",
+          "slug": "simunjan-13133"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.188",
+      "lon": "110.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13133-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SEBANGAN TOWN DISTRICT",
+      "en": "SEBANGAN TOWN DISTRICT",
+      "slug": "sebangan-town-district-13133-003"
+    },
+    "code": {
+      "id": "13133-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13133",
+      "level": 2,
+      "name": {
+        "local": "Simunjan",
+        "en": "Simunjan",
+        "slug": "simunjan-13133"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13133",
+        "level": 2,
+        "name": {
+          "local": "Simunjan",
+          "en": "Simunjan",
+          "slug": "simunjan-13133"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.558",
+      "lon": "110.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13133-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SEBANGAN-KEPAYANG LAND DISTRICT",
+      "en": "SEBANGAN-KEPAYANG LAND DISTRICT",
+      "slug": "sebangan-kepayang-land-district-13133-007"
+    },
+    "code": {
+      "id": "13133-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "13133",
+      "level": 2,
+      "name": {
+        "local": "Simunjan",
+        "en": "Simunjan",
+        "slug": "simunjan-13133"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13133",
+        "level": 2,
+        "name": {
+          "local": "Simunjan",
+          "en": "Simunjan",
+          "slug": "simunjan-13133"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.354",
+      "lon": "110.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13133-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SEBUYAU TOWN DISTRICT",
+      "en": "SEBUYAU TOWN DISTRICT",
+      "slug": "sebuyau-town-district-13133-004"
+    },
+    "code": {
+      "id": "13133-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13133",
+      "level": 2,
+      "name": {
+        "local": "Simunjan",
+        "en": "Simunjan",
+        "slug": "simunjan-13133"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13133",
+        "level": 2,
+        "name": {
+          "local": "Simunjan",
+          "en": "Simunjan",
+          "slug": "simunjan-13133"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.518",
+      "lon": "110.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13133-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SEDILU-GEDONG LAND DISTRICT",
+      "en": "SEDILU-GEDONG LAND DISTRICT",
+      "slug": "sedilu-gedong-land-district-13133-005"
+    },
+    "code": {
+      "id": "13133-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "13133",
+      "level": 2,
+      "name": {
+        "local": "Simunjan",
+        "en": "Simunjan",
+        "slug": "simunjan-13133"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13133",
+        "level": 2,
+        "name": {
+          "local": "Simunjan",
+          "en": "Simunjan",
+          "slug": "simunjan-13133"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.358",
+      "lon": "110.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13133-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SIMUNJAN TOWN DISTRICT",
+      "en": "SIMUNJAN TOWN DISTRICT",
+      "slug": "simunjan-town-district-13133-002"
+    },
+    "code": {
+      "id": "13133-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13133",
+      "level": 2,
+      "name": {
+        "local": "Simunjan",
+        "en": "Simunjan",
+        "slug": "simunjan-13133"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13133",
+        "level": 2,
+        "name": {
+          "local": "Simunjan",
+          "en": "Simunjan",
+          "slug": "simunjan-13133"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.395",
+      "lon": "110.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13133-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "TEBELU TOWN DISTRICT",
+      "en": "TEBELU TOWN DISTRICT",
+      "slug": "tebelu-town-district-13133-009"
+    },
+    "code": {
+      "id": "13133-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "13133",
+      "level": 2,
+      "name": {
+        "local": "Simunjan",
+        "en": "Simunjan",
+        "slug": "simunjan-13133"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13133",
+        "level": 2,
+        "name": {
+          "local": "Simunjan",
+          "en": "Simunjan",
+          "slug": "simunjan-13133"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.546",
+      "lon": "110.86"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

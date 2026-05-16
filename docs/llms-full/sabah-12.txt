@@ -1,0 +1,144 @@
+# Sabah — Malaysia Administrative Divisions
+
+> 27 districts, 0 subdistricts
+> Code: 12
+> Coordinates: 6.067, 117.129
+> Last updated: 2026-05-16. License: CC-BY-4.0.
+
+## Districts
+
+### Beaufort
+
+Code: 1274, Coordinates: 5.287, 115.744
+Subdistricts: 0
+
+### Beluran
+
+Code: 1275, Coordinates: 6.238, 117.451
+Subdistricts: 0
+
+### Kalabakan
+
+Code: 1276, Coordinates: 4.398, 117.507
+Subdistricts: 0
+
+### Keningau
+
+Code: 1277, Coordinates: 5.361, 116.308
+Subdistricts: 0
+
+### Kinabatangan
+
+Code: 1278, Coordinates: 5.48, 118.123
+Subdistricts: 0
+
+### Kota Belud
+
+Code: 1279, Coordinates: 6.393, 116.462
+Subdistricts: 0
+
+### Kota Kinabalu
+
+Code: 1280, Coordinates: 6.015, 116.103
+Subdistricts: 0
+
+### Kota Marudu
+
+Code: 1281, Coordinates: 6.47, 116.764
+Subdistricts: 0
+
+### Kuala Penyu
+
+Code: 1282, Coordinates: 5.469, 115.505
+Subdistricts: 0
+
+### Kudat
+
+Code: 1283, Coordinates: 7.12, 117.119
+Subdistricts: 0
+
+### Kunak
+
+Code: 1284, Coordinates: 4.709, 118.158
+Subdistricts: 0
+
+### Lahad Datu
+
+Code: 1285, Coordinates: 5.03, 118.4
+Subdistricts: 0
+
+### Nabawan
+
+Code: 1286, Coordinates: 4.584, 116.509
+Subdistricts: 0
+
+### Papar
+
+Code: 1287, Coordinates: 5.607, 116.051
+Subdistricts: 0
+
+### Penampang
+
+Code: 1288, Coordinates: 5.865, 116.197
+Subdistricts: 0
+
+### Pitas
+
+Code: 1289, Coordinates: 6.783, 117.152
+Subdistricts: 0
+
+### Putatan
+
+Code: 1290, Coordinates: 5.892, 116.061
+Subdistricts: 0
+
+### Ranau
+
+Code: 1291, Coordinates: 5.874, 116.758
+Subdistricts: 0
+
+### Sandakan
+
+Code: 1292, Coordinates: 5.813, 118.031
+Subdistricts: 0
+
+### Semporna
+
+Code: 1293, Coordinates: 4.573, 118.52
+Subdistricts: 0
+
+### Sipitang
+
+Code: 1294, Coordinates: 4.678, 115.715
+Subdistricts: 0
+
+### Tambunan
+
+Code: 1295, Coordinates: 5.719, 116.421
+Subdistricts: 0
+
+### Tawau
+
+Code: 1296, Coordinates: 4.457, 118.041
+Subdistricts: 0
+
+### Telupid
+
+Code: 1297, Coordinates: 5.827, 117.165
+Subdistricts: 0
+
+### Tenom
+
+Code: 1298, Coordinates: 4.922, 115.899
+Subdistricts: 0
+
+### Tongod
+
+Code: 1299, Coordinates: 5.045, 116.895
+Subdistricts: 0
+
+### Tuaran
+
+Code: 12100, Coordinates: 6.052, 116.289
+Subdistricts: 0
+

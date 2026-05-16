@@ -1,0 +1,380 @@
+[
+  {
+    "id": "13130-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ARIP LAND DISTRICT",
+      "en": "ARIP LAND DISTRICT",
+      "slug": "arip-land-district-13130-007"
+    },
+    "code": {
+      "id": "13130-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "13130",
+      "level": 2,
+      "name": {
+        "local": "Selangau",
+        "en": "Selangau",
+        "slug": "selangau-13130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13130",
+        "level": 2,
+        "name": {
+          "local": "Selangau",
+          "en": "Selangau",
+          "slug": "selangau-13130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.725",
+      "lon": "112.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13130-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BULOH LAND DISTRICT",
+      "en": "BULOH LAND DISTRICT",
+      "slug": "buloh-land-district-13130-005"
+    },
+    "code": {
+      "id": "13130-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "13130",
+      "level": 2,
+      "name": {
+        "local": "Selangau",
+        "en": "Selangau",
+        "slug": "selangau-13130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13130",
+        "level": 2,
+        "name": {
+          "local": "Selangau",
+          "en": "Selangau",
+          "slug": "selangau-13130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.581",
+      "lon": "112.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13130-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "GIGIS LAND DISTRICT",
+      "en": "GIGIS LAND DISTRICT",
+      "slug": "gigis-land-district-13130-003"
+    },
+    "code": {
+      "id": "13130-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13130",
+      "level": 2,
+      "name": {
+        "local": "Selangau",
+        "en": "Selangau",
+        "slug": "selangau-13130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13130",
+        "level": 2,
+        "name": {
+          "local": "Selangau",
+          "en": "Selangau",
+          "slug": "selangau-13130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.516",
+      "lon": "112.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13130-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "LALAI LAND DISTRICT",
+      "en": "LALAI LAND DISTRICT",
+      "slug": "lalai-land-district-13130-001"
+    },
+    "code": {
+      "id": "13130-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13130",
+      "level": 2,
+      "name": {
+        "local": "Selangau",
+        "en": "Selangau",
+        "slug": "selangau-13130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13130",
+        "level": 2,
+        "name": {
+          "local": "Selangau",
+          "en": "Selangau",
+          "slug": "selangau-13130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.201",
+      "lon": "112.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13130-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PELUGAU LAND DISTRICT",
+      "en": "PELUGAU LAND DISTRICT",
+      "slug": "pelugau-land-district-13130-006"
+    },
+    "code": {
+      "id": "13130-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "13130",
+      "level": 2,
+      "name": {
+        "local": "Selangau",
+        "en": "Selangau",
+        "slug": "selangau-13130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13130",
+        "level": 2,
+        "name": {
+          "local": "Selangau",
+          "en": "Selangau",
+          "slug": "selangau-13130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.525",
+      "lon": "112.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13130-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SELANGAU LAND DISTRICT",
+      "en": "SELANGAU LAND DISTRICT",
+      "slug": "selangau-land-district-13130-004"
+    },
+    "code": {
+      "id": "13130-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13130",
+      "level": 2,
+      "name": {
+        "local": "Selangau",
+        "en": "Selangau",
+        "slug": "selangau-13130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13130",
+        "level": 2,
+        "name": {
+          "local": "Selangau",
+          "en": "Selangau",
+          "slug": "selangau-13130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.346",
+      "lon": "112.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13130-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SPAPA LAND DISTRICT",
+      "en": "SPAPA LAND DISTRICT",
+      "slug": "spapa-land-district-13130-002"
+    },
+    "code": {
+      "id": "13130-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13130",
+      "level": 2,
+      "name": {
+        "local": "Selangau",
+        "en": "Selangau",
+        "slug": "selangau-13130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13130",
+        "level": 2,
+        "name": {
+          "local": "Selangau",
+          "en": "Selangau",
+          "slug": "selangau-13130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.394",
+      "lon": "112.142"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

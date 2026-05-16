@@ -1,0 +1,272 @@
+[
+  {
+    "id": "13111-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "GRIGAT TOWN DISTRICT",
+      "en": "GRIGAT TOWN DISTRICT",
+      "slug": "grigat-town-district-13111-003"
+    },
+    "code": {
+      "id": "13111-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13111",
+      "level": 2,
+      "name": {
+        "local": "Kabong",
+        "en": "Kabong",
+        "slug": "kabong-13111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13111",
+        "level": 2,
+        "name": {
+          "local": "Kabong",
+          "en": "Kabong",
+          "slug": "kabong-13111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.037",
+      "lon": "111.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13111-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "KABONG TOWN DISTRICT",
+      "en": "KABONG TOWN DISTRICT",
+      "slug": "kabong-town-district-13111-001"
+    },
+    "code": {
+      "id": "13111-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13111",
+      "level": 2,
+      "name": {
+        "local": "Kabong",
+        "en": "Kabong",
+        "slug": "kabong-13111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13111",
+        "level": 2,
+        "name": {
+          "local": "Kabong",
+          "en": "Kabong",
+          "slug": "kabong-13111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.804",
+      "lon": "111.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13111-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "KALAKA LAND DISTRICT",
+      "en": "KALAKA LAND DISTRICT",
+      "slug": "kalaka-land-district-13111-005"
+    },
+    "code": {
+      "id": "13111-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "13111",
+      "level": 2,
+      "name": {
+        "local": "Kabong",
+        "en": "Kabong",
+        "slug": "kabong-13111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13111",
+        "level": 2,
+        "name": {
+          "local": "Kabong",
+          "en": "Kabong",
+          "slug": "kabong-13111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.906",
+      "lon": "111.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13111-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ROBAN TOWN DISTRICT",
+      "en": "ROBAN TOWN DISTRICT",
+      "slug": "roban-town-district-13111-004"
+    },
+    "code": {
+      "id": "13111-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13111",
+      "level": 2,
+      "name": {
+        "local": "Kabong",
+        "en": "Kabong",
+        "slug": "kabong-13111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13111",
+        "level": 2,
+        "name": {
+          "local": "Kabong",
+          "en": "Kabong",
+          "slug": "kabong-13111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.888",
+      "lon": "111.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13111-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SEBLAK LAND DISTRICT",
+      "en": "SEBLAK LAND DISTRICT",
+      "slug": "seblak-land-district-13111-002"
+    },
+    "code": {
+      "id": "13111-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13111",
+      "level": 2,
+      "name": {
+        "local": "Kabong",
+        "en": "Kabong",
+        "slug": "kabong-13111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13111",
+        "level": 2,
+        "name": {
+          "local": "Kabong",
+          "en": "Kabong",
+          "slug": "kabong-13111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.91",
+      "lon": "111.332"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

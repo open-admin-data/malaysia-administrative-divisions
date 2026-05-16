@@ -1,0 +1,47 @@
+{
+  "id": "0654",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Temerloh",
+    "en": "Temerloh",
+    "slug": "temerloh-0654"
+  },
+  "code": {
+    "id": "0654",
+    "iso": null
+  },
+  "parent": {
+    "id": "06",
+    "level": 1,
+    "name": {
+      "local": "Pahang",
+      "en": "Pahang",
+      "slug": "pahang-06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "Pahang",
+        "en": "Pahang",
+        "slug": "pahang-06"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.618",
+    "lon": "102.238"
+  },
+  "metadata": {},
+  "source": {}
+}

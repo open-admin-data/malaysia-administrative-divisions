@@ -1,0 +1,47 @@
+{
+  "id": "0857",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Hilir Perak",
+    "en": "Hilir Perak",
+    "slug": "hilir-perak-0857"
+  },
+  "code": {
+    "id": "0857",
+    "iso": null
+  },
+  "parent": {
+    "id": "08",
+    "level": 1,
+    "name": {
+      "local": "Perak",
+      "en": "Perak",
+      "slug": "perak-08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.041",
+    "lon": "100.994"
+  },
+  "metadata": {},
+  "source": {}
+}

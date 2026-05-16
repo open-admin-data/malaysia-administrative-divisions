@@ -1,0 +1,47 @@
+{
+  "id": "0104",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kota Tinggi",
+    "en": "Kota Tinggi",
+    "slug": "kota-tinggi-0104"
+  },
+  "code": {
+    "id": "0104",
+    "iso": null
+  },
+  "parent": {
+    "id": "01",
+    "level": 1,
+    "name": {
+      "local": "Johor",
+      "en": "Johor",
+      "slug": "johor-01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Johor",
+        "en": "Johor",
+        "slug": "johor-01"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.67",
+    "lon": "103.994"
+  },
+  "metadata": {},
+  "source": {}
+}

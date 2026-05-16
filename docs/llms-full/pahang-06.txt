@@ -1,0 +1,576 @@
+# Pahang — Malaysia Administrative Divisions
+
+> 11 districts, 128 subdistricts
+> Code: 06
+> Coordinates: 3.741, 102.639
+> Last updated: 2026-05-16. License: CC-BY-4.0.
+
+## Districts
+
+### Bentong
+
+Code: 0644, Coordinates: 3.377, 102.033
+Subdistricts: 6
+
+#### BANDAR BENTONG
+
+Code: 0644-006, Coordinates: 3.517, 101.911
+
+#### BANDAR KARAK
+
+Code: 0644-005, Coordinates: 3.415, 102.034
+
+#### MUKIM BENTONG (BENTONG)
+
+Code: 0644-003, Coordinates: 3.556, 101.899
+
+#### PEKAN TELEMONG
+
+Code: 0644-004, Coordinates: 3.29, 102.086
+
+#### MUKIM PELANGAI (PELANGAI)
+
+Code: 0644-001, Coordinates: 3.254, 102.203
+
+#### MUKIM SABAI (SABAI)
+
+Code: 0644-002, Coordinates: 3.436, 102.011
+
+### Bera
+
+Code: 0645, Coordinates: 3.205, 102.581
+Subdistricts: 7
+
+#### MUKIM BAGAN (BAGAN)
+
+Code: 0645-002, Coordinates: 2.853, 102.705
+
+#### BANDAR TRIANG
+
+Code: 0645-004, Coordinates: 3.247, 102.416
+
+#### MUKIM BERA (BERA)
+
+Code: 0645-003, Coordinates: 3.182, 102.632
+
+#### PEKAN DURIAN TAWAR
+
+Code: 0645-007, Coordinates: 3.344, 102.445
+
+#### PEKAN MENGKARAK
+
+Code: 0645-005, Coordinates: 3.33, 102.422
+
+#### PEKAN MENGKUANG
+
+Code: 0645-006, Coordinates: 3.189, 102.399
+
+#### MUKIM TRIANG (TRIANG)
+
+Code: 0645-001, Coordinates: 3.172, 102.546
+
+### Cameron Highlands
+
+Code: 0646, Coordinates: 4.473, 101.433
+Subdistricts: 7
+
+#### BANDAR TANAH RATA
+
+Code: 0646-001, Coordinates: 4.469, 101.375
+
+#### MUKIM HULU TELOM (HULU TELOM)
+
+Code: 0646-006, Coordinates: 4.55, 101.436
+
+#### PEKAN BRINCHANG
+
+Code: 0646-003, Coordinates: 4.491, 101.389
+
+#### PEKAN LUBOK TAMANG
+
+Code: 0646-002, Coordinates: 4.43, 101.388
+
+#### PEKAN RINGLET
+
+Code: 0646-004, Coordinates: 4.413, 101.384
+
+#### MUKIM RINGLET (RINGLET)
+
+Code: 0646-005, Coordinates: 4.434, 101.361
+
+#### MUKIM TANAH RATA (TANAH RATA)
+
+Code: 0646-007, Coordinates: 4.489, 101.378
+
+### Jerantut
+
+Code: 0647, Coordinates: 4.277, 102.515
+Subdistricts: 14
+
+#### BANDAR JERANTUT
+
+Code: 0647-013, Coordinates: 3.934, 102.357
+
+#### MUKIM BURAU (BURAU)
+
+Code: 0647-009, Coordinates: 3.812, 102.397
+
+#### MUKIM HULU CHEKA (HULU CHEKA)
+
+Code: 0647-005, Coordinates: 3.96, 102.194
+
+#### MUKIM HULU TEMBELING (HULU TEMBELING)
+
+Code: 0647-002, Coordinates: 4.403, 102.787
+
+#### MUKIM JELUTONG (JELUTONG)
+
+Code: 0647-014, Coordinates: 4.005, 102.852
+
+#### MUKIM KELOLA (KELOLA)
+
+Code: 0647-007, Coordinates: 3.843, 102.437
+
+#### MUKIM KUALA TEMBELING (KUALA TEMBELING)
+
+Code: 0647-003, Coordinates: 4.013, 102.276
+
+#### MUKIM PANTAI (PANTAI)
+
+Code: 0647-010, Coordinates: 4.229, 102.369
+
+#### MUKIM PEDAH (PEDAH)
+
+Code: 0647-004, Coordinates: 3.95, 102.406
+
+#### PEKAN JERANSANG
+
+Code: 0647-008, Coordinates: 3.861, 102.365
+
+#### PEKAN KUALA TEMBELING
+
+Code: 0647-001, Coordinates: 4.061, 102.309
+
+#### MUKIM PULAU TAWAR (PULAU TAWAR)
+
+Code: 0647-006, Coordinates: 3.918, 102.523
+
+#### MUKIM TEH (TEH)
+
+Code: 0647-012, Coordinates: 3.981, 102.347
+
+#### MUKIM TEMBELING (TEMBELING)
+
+Code: 0647-011, Coordinates: 4.336, 102.34
+
+### Kuantan
+
+Code: 0648, Coordinates: 3.948, 103.122
+Subdistricts: 9
+
+#### BANDAR GAMBANG
+
+Code: 0648-003, Coordinates: 3.708, 103.102
+
+#### BANDAR KUANTAN
+
+Code: 0648-007, Coordinates: 3.812, 103.339
+
+#### MUKIM BESERAH (BESERAH)
+
+Code: 0648-004, Coordinates: 3.867, 103.356
+
+#### MUKIM HULU KUANTAN (HULU KUANTAN)
+
+Code: 0648-005, Coordinates: 4.006, 103.052
+
+#### MUKIM HULU LEPAR (HULU LEPAR)
+
+Code: 0648-002, Coordinates: 3.762, 102.938
+
+#### MUKIM KUALA KUANTAN (KUALA KUANTAN)
+
+Code: 0648-001, Coordinates: 3.81, 103.224
+
+#### PEKAN  TANJUNG LUMPUR
+
+Code: 0648-009, Coordinates: 3.804, 103.34
+
+#### PEKAN BESERAH
+
+Code: 0648-008, Coordinates: 3.86, 103.366
+
+#### MUKIM PENOR (PENOR)
+
+Code: 0648-006, Coordinates: 3.656, 103.323
+
+### Lipis
+
+Code: 0649, Coordinates: 4.32, 101.906
+Subdistricts: 20
+
+#### BANDAR BENTA
+
+Code: 0649-010, Coordinates: 4.016, 101.968
+
+#### BANDAR KUALA LIPIS
+
+Code: 0649-014, Coordinates: 4.177, 102.046
+
+#### BANDAR PADANG TENGKU
+
+Code: 0649-011, Coordinates: 4.233, 101.992
+
+#### MUKIM BATU YON (BATU YON)
+
+Code: 0649-004, Coordinates: 4.531, 101.991
+
+#### MUKIM BUDU (BUDU)
+
+Code: 0649-008, Coordinates: 3.987, 101.965
+
+#### MUKIM CHEKA (CHEKA)
+
+Code: 0649-001, Coordinates: 4.135, 102.201
+
+#### MUKIM HULU JELAI (HULU JELAI)
+
+Code: 0649-005, Coordinates: 4.37, 101.666
+
+#### MUKIM KECHAU (KECHAU)
+
+Code: 0649-018, Coordinates: 4.316, 102.112
+
+#### MUKIM KUALA LIPIS (KUALA LIPIS)
+
+Code: 0649-016, Coordinates: 4.15, 102.078
+
+#### PEKAN KECHAU TUI
+
+Code: 0649-007, Coordinates: 4.281, 101.976
+
+#### PEKAN KERAMBIT
+
+Code: 0649-009, Coordinates: 4.117, 102.2
+
+#### PEKAN MELA
+
+Code: 0649-019, Coordinates: 4.073, 102.272
+
+#### PEKAN MERAPUH
+
+Code: 0649-003, Coordinates: 4.682, 102.003
+
+#### PEKAN PADANG TENGKU
+
+Code: 0649-006, Coordinates: 4.235, 101.987
+
+#### PEKAN PENJOM
+
+Code: 0649-012, Coordinates: 4.08, 101.977
+
+#### PEKAN RPSB KG. PAGAR
+
+Code: 0649-020, Coordinates: 4.123, 102.013
+
+#### PEKAN TAMAN JELAI
+
+Code: 0649-017, Coordinates: 4.081, 102.004
+
+#### MUKIM PENJOM (PENJOM)
+
+Code: 0649-013, Coordinates: 4.107, 101.992
+
+#### MUKIM TANJUNG BESAR (TANJUNG BESAR)
+
+Code: 0649-015, Coordinates: 4.047, 102.089
+
+#### MUKIM TELANG (TELANG)
+
+Code: 0649-002, Coordinates: 4.187, 101.895
+
+### Maran
+
+Code: 0650, Coordinates: 3.619, 102.676
+Subdistricts: 8
+
+#### BANDAR MARAN
+
+Code: 0650-003, Coordinates: 3.584, 102.776
+
+#### MUKIM BUKIT SEGUMPAL (BUKIT SEGUMPAL)
+
+Code: 0650-006, Coordinates: 3.525, 102.523
+
+#### MUKIM CHENOR (CHENOR)
+
+Code: 0650-005, Coordinates: 3.672, 102.565
+
+#### MUKIM KERTAU (KERTAU)
+
+Code: 0650-008, Coordinates: 3.41, 102.657
+
+#### MUKIM LUIT (LUIT)
+
+Code: 0650-001, Coordinates: 3.578, 102.848
+
+#### MUKIM PALOH (PALOH)
+
+Code: 0650-007, Coordinates: 3.671, 102.856
+
+#### PEKAN CHENOR
+
+Code: 0650-002, Coordinates: 3.48, 102.592
+
+#### PEKAN SRI JAYA
+
+Code: 0650-004, Coordinates: 3.67, 102.875
+
+### Pekan
+
+Code: 0651, Coordinates: 3.324, 103.074
+Subdistricts: 16
+
+#### BANDAR MUADZAM SHAH I
+
+Code: 0651-014, Coordinates: 3.061, 103.09
+
+#### BANDAR MUADZAM SHAH II
+
+Code: 0651-001, Coordinates: 3.08, 103.071
+
+#### BANDAR PEKAN
+
+Code: 0651-016, Coordinates: 3.49, 103.393
+
+#### MUKIM BEBAR (BEBAR)
+
+Code: 0651-011, Coordinates: 3.169, 103.329
+
+#### MUKIM GANCHONG (GANCHONG)
+
+Code: 0651-015, Coordinates: 3.538, 103.296
+
+#### MUKIM KUALA PAHANG (KUALA PAHANG)
+
+Code: 0651-009, Coordinates: 3.559, 103.424
+
+#### MUKIM LEPAR (LEPAR)
+
+Code: 0651-010, Coordinates: 3.568, 102.982
+
+#### MUKIM PAHANG TUA (PAHANG TUA)
+
+Code: 0651-012, Coordinates: 3.586, 103.374
+
+#### MUKIM PEKAN (PEKAN)
+
+Code: 0651-003, Coordinates: 3.471, 103.424
+
+#### PEKAN KUALA PAHANG
+
+Code: 0651-007, Coordinates: 3.53, 103.462
+
+#### PEKAN NENASI
+
+Code: 0651-008, Coordinates: 3.134, 103.444
+
+#### MUKIM PENYOR (PENYOR)
+
+Code: 0651-004, Coordinates: 3.459, 102.942
+
+#### MUKIM PULAU MANIS (PULAU MANIS)
+
+Code: 0651-013, Coordinates: 3.551, 103.151
+
+#### MUKIM PULAU RUSA (PULAU RUSA)
+
+Code: 0651-005, Coordinates: 3.569, 103.331
+
+#### MUKIM SUNGAI KARANG (SUNGAI KARANG)
+
+Code: 0651-002, Coordinates: 3.492, 103.401
+
+#### MUKIM TEMAI (TEMAI)
+
+Code: 0651-006, Coordinates: 3.548, 103.233
+
+### Raub
+
+Code: 0652, Coordinates: 3.86, 101.866
+Subdistricts: 13
+
+#### BANDAR RAUB
+
+Code: 0652-008, Coordinates: 3.794, 101.856
+
+#### BANDAR TERAS
+
+Code: 0652-003, Coordinates: 3.743, 101.81
+
+#### MUKIM BATU TALAM (BATU TALAM)
+
+Code: 0652-009, Coordinates: 4.01, 101.698
+
+#### MUKIM DONG (DONG)
+
+Code: 0652-012, Coordinates: 3.914, 101.916
+
+#### MUKIM GALI (GALI)
+
+Code: 0652-005, Coordinates: 3.744, 101.913
+
+#### MUKIM HULU DONG (HULU DONG)
+
+Code: 0652-004, Coordinates: 3.886, 102.037
+
+#### PEKAN CHEROH
+
+Code: 0652-006, Coordinates: 3.902, 101.814
+
+#### PEKAN DONG
+
+Code: 0652-001, Coordinates: 3.894, 101.897
+
+#### PEKAN TRANUM
+
+Code: 0652-007, Coordinates: 3.728, 101.812
+
+#### MUKIM SEGA (SEGA)
+
+Code: 0652-013, Coordinates: 4.014, 101.903
+
+#### MUKIM SEMANTAN HULU (SEMANTAN HULU)
+
+Code: 0652-010, Coordinates: 3.857, 101.722
+
+#### MUKIM SUNGAI RAYA (SUNGAI RAYA)
+
+Code: 0652-011, Coordinates: 3.726, 101.702
+
+#### MUKIM TERAS (TERAS)
+
+Code: 0652-002, Coordinates: 3.727, 101.807
+
+### Rompin
+
+Code: 0653, Coordinates: 2.874, 103.679
+Subdistricts: 13
+
+#### BANDAR BAHARU ROMPIN
+
+Code: 0653-005, Coordinates: 2.8, 103.487
+
+#### BANDAR ENDAU
+
+Code: 0653-007, Coordinates: 2.664, 103.615
+
+#### BANDAR PONTIAN
+
+Code: 0653-009, Coordinates: 2.754, 103.532
+
+#### BANDAR ROMPIN I
+
+Code: 0653-004, Coordinates: 2.806, 103.485
+
+#### BANDAR ROMPIN II
+
+Code: 0653-008, Coordinates: 2.845, 103.461
+
+#### BANDAR ROMPIN III
+
+Code: 0653-012, Coordinates: 2.927, 103.429
+
+#### BANDAR ROMPIN IV
+
+Code: 0653-010, Coordinates: 2.829, 103.443
+
+#### BANDAR TIOMAN
+
+Code: 0653-013, Coordinates: 2.8, 104.133
+
+#### MUKIM ENDAU (ENDAU)
+
+Code: 0653-001, Coordinates: 2.615, 103.446
+
+#### MUKIM KERATONG (KERATONG)
+
+Code: 0653-003, Coordinates: 3.001, 102.942
+
+#### PEKAN KUALA ROMPIN
+
+Code: 0653-011, Coordinates: 2.808, 103.482
+
+#### PEKAN TIOMAN
+
+Code: 0653-006, Coordinates: 2.817, 104.157
+
+#### MUKIM ROMPIN (ROMPIN)
+
+Code: 0653-002, Coordinates: 2.849, 102.894
+
+### Temerloh
+
+Code: 0654, Coordinates: 3.618, 102.238
+Subdistricts: 15
+
+#### BANDAR MENTAKAB
+
+Code: 0654-010, Coordinates: 3.482, 102.349
+
+#### BANDAR TEMERLOH
+
+Code: 0654-008, Coordinates: 3.45, 102.418
+
+#### MUKIM BANGAU (BANGAU)
+
+Code: 0654-015, Coordinates: 3.469, 102.454
+
+#### MUKIM JENDERAK (JENDERAK)
+
+Code: 0654-006, Coordinates: 3.705, 102.342
+
+#### MUKIM KERDAU (KERDAU)
+
+Code: 0654-004, Coordinates: 3.571, 102.342
+
+#### MUKIM LEBAK (LEBAK)
+
+Code: 0654-001, Coordinates: 3.395, 102.448
+
+#### MUKIM LIPAT KAJANG (LIPAT KAJANG)
+
+Code: 0654-002, Coordinates: 3.596, 102.452
+
+#### MUKIM MENTAKAB (MENTAKAB)
+
+Code: 0654-014, Coordinates: 3.491, 102.33
+
+#### PEKAN KERDAU
+
+Code: 0654-012, Coordinates: 3.575, 102.368
+
+#### PEKAN KUALA KERAU
+
+Code: 0654-013, Coordinates: 3.711, 102.368
+
+#### PEKAN LANCHANG
+
+Code: 0654-011, Coordinates: 3.498, 102.188
+
+#### MUKIM PERAK (PERAK)
+
+Code: 0654-003, Coordinates: 3.431, 102.391
+
+#### MUKIM SANGGANG (SANGGANG)
+
+Code: 0654-009, Coordinates: 3.543, 102.462
+
+#### MUKIM SEMANTAN (SEMANTAN)
+
+Code: 0654-007, Coordinates: 3.531, 102.169
+
+#### MUKIM SONGSANG (SONGSANG)
+
+Code: 0654-005, Coordinates: 3.496, 102.392
+

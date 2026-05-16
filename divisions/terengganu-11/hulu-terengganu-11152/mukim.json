@@ -1,0 +1,542 @@
+[
+  {
+    "id": "11152-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM HULU BERANG",
+      "en": "HULU BERANG",
+      "slug": "hulu-berang-11152-010"
+    },
+    "code": {
+      "id": "11152-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "11152",
+      "level": 2,
+      "name": {
+        "local": "Hulu Terengganu",
+        "en": "Hulu Terengganu",
+        "slug": "hulu-terengganu-11152"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11152",
+        "level": 2,
+        "name": {
+          "local": "Hulu Terengganu",
+          "en": "Hulu Terengganu",
+          "slug": "hulu-terengganu-11152"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.914",
+      "lon": "103.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11152-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM HULU TELEMUNG",
+      "en": "HULU TELEMUNG",
+      "slug": "hulu-telemung-11152-009"
+    },
+    "code": {
+      "id": "11152-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "11152",
+      "level": 2,
+      "name": {
+        "local": "Hulu Terengganu",
+        "en": "Hulu Terengganu",
+        "slug": "hulu-terengganu-11152"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11152",
+        "level": 2,
+        "name": {
+          "local": "Hulu Terengganu",
+          "en": "Hulu Terengganu",
+          "slug": "hulu-terengganu-11152"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.179",
+      "lon": "102.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11152-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM HULU TERENGGANU",
+      "en": "HULU TERENGGANU",
+      "slug": "hulu-terengganu-11152-001"
+    },
+    "code": {
+      "id": "11152-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "11152",
+      "level": 2,
+      "name": {
+        "local": "Hulu Terengganu",
+        "en": "Hulu Terengganu",
+        "slug": "hulu-terengganu-11152"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11152",
+        "level": 2,
+        "name": {
+          "local": "Hulu Terengganu",
+          "en": "Hulu Terengganu",
+          "slug": "hulu-terengganu-11152"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.09",
+      "lon": "102.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11152-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM JENAGUR",
+      "en": "JENAGUR",
+      "slug": "jenagur-11152-003"
+    },
+    "code": {
+      "id": "11152-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "11152",
+      "level": 2,
+      "name": {
+        "local": "Hulu Terengganu",
+        "en": "Hulu Terengganu",
+        "slug": "hulu-terengganu-11152"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11152",
+        "level": 2,
+        "name": {
+          "local": "Hulu Terengganu",
+          "en": "Hulu Terengganu",
+          "slug": "hulu-terengganu-11152"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.091",
+      "lon": "102.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11152-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUALA BERANG",
+      "en": "KUALA BERANG",
+      "slug": "kuala-berang-11152-007"
+    },
+    "code": {
+      "id": "11152-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "11152",
+      "level": 2,
+      "name": {
+        "local": "Hulu Terengganu",
+        "en": "Hulu Terengganu",
+        "slug": "hulu-terengganu-11152"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11152",
+        "level": 2,
+        "name": {
+          "local": "Hulu Terengganu",
+          "en": "Hulu Terengganu",
+          "slug": "hulu-terengganu-11152"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.078",
+      "lon": "103.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11152-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUALA TELEMUNG",
+      "en": "KUALA TELEMUNG",
+      "slug": "kuala-telemung-11152-002"
+    },
+    "code": {
+      "id": "11152-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "11152",
+      "level": 2,
+      "name": {
+        "local": "Hulu Terengganu",
+        "en": "Hulu Terengganu",
+        "slug": "hulu-terengganu-11152"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11152",
+        "level": 2,
+        "name": {
+          "local": "Hulu Terengganu",
+          "en": "Hulu Terengganu",
+          "slug": "hulu-terengganu-11152"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.194",
+      "lon": "103.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11152-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KUALA BERANG",
+      "en": "PEKAN KUALA BERANG",
+      "slug": "pekan-kuala-berang-11152-004"
+    },
+    "code": {
+      "id": "11152-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "11152",
+      "level": 2,
+      "name": {
+        "local": "Hulu Terengganu",
+        "en": "Hulu Terengganu",
+        "slug": "hulu-terengganu-11152"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11152",
+        "level": 2,
+        "name": {
+          "local": "Hulu Terengganu",
+          "en": "Hulu Terengganu",
+          "slug": "hulu-terengganu-11152"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.074",
+      "lon": "103.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11152-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PENGHULU DIMAN",
+      "en": "PENGHULU DIMAN",
+      "slug": "penghulu-diman-11152-008"
+    },
+    "code": {
+      "id": "11152-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "11152",
+      "level": 2,
+      "name": {
+        "local": "Hulu Terengganu",
+        "en": "Hulu Terengganu",
+        "slug": "hulu-terengganu-11152"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11152",
+        "level": 2,
+        "name": {
+          "local": "Hulu Terengganu",
+          "en": "Hulu Terengganu",
+          "slug": "hulu-terengganu-11152"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.03",
+      "lon": "103.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11152-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TANGGUL",
+      "en": "TANGGUL",
+      "slug": "tanggul-11152-006"
+    },
+    "code": {
+      "id": "11152-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "11152",
+      "level": 2,
+      "name": {
+        "local": "Hulu Terengganu",
+        "en": "Hulu Terengganu",
+        "slug": "hulu-terengganu-11152"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11152",
+        "level": 2,
+        "name": {
+          "local": "Hulu Terengganu",
+          "en": "Hulu Terengganu",
+          "slug": "hulu-terengganu-11152"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.107",
+      "lon": "103.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11152-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TERSAT",
+      "en": "TERSAT",
+      "slug": "tersat-11152-005"
+    },
+    "code": {
+      "id": "11152-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "11152",
+      "level": 2,
+      "name": {
+        "local": "Hulu Terengganu",
+        "en": "Hulu Terengganu",
+        "slug": "hulu-terengganu-11152"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11152",
+        "level": 2,
+        "name": {
+          "local": "Hulu Terengganu",
+          "en": "Hulu Terengganu",
+          "slug": "hulu-terengganu-11152"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.947",
+      "lon": "102.942"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

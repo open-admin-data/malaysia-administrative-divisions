@@ -1,0 +1,272 @@
+[
+  {
+    "id": "13134-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ANGKUAH LAND DISTRICT",
+      "en": "ANGKUAH LAND DISTRICT",
+      "slug": "angkuah-land-district-13134-004"
+    },
+    "code": {
+      "id": "13134-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13134",
+      "level": 2,
+      "name": {
+        "local": "Song",
+        "en": "Song",
+        "slug": "song-13134"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13134",
+        "level": 2,
+        "name": {
+          "local": "Song",
+          "en": "Song",
+          "slug": "song-13134"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.666",
+      "lon": "112.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13134-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANGKIT LAND DISTRICT",
+      "en": "BANGKIT LAND DISTRICT",
+      "slug": "bangkit-land-district-13134-002"
+    },
+    "code": {
+      "id": "13134-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13134",
+      "level": 2,
+      "name": {
+        "local": "Song",
+        "en": "Song",
+        "slug": "song-13134"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13134",
+        "level": 2,
+        "name": {
+          "local": "Song",
+          "en": "Song",
+          "slug": "song-13134"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.797",
+      "lon": "112.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13134-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "KATIBAS LAND DISTRICT",
+      "en": "KATIBAS LAND DISTRICT",
+      "slug": "katibas-land-district-13134-005"
+    },
+    "code": {
+      "id": "13134-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "13134",
+      "level": 2,
+      "name": {
+        "local": "Song",
+        "en": "Song",
+        "slug": "song-13134"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13134",
+        "level": 2,
+        "name": {
+          "local": "Song",
+          "en": "Song",
+          "slug": "song-13134"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.065",
+      "lon": "112.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13134-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PLANDOK LAND DISTRICT",
+      "en": "PLANDOK LAND DISTRICT",
+      "slug": "plandok-land-district-13134-003"
+    },
+    "code": {
+      "id": "13134-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13134",
+      "level": 2,
+      "name": {
+        "local": "Song",
+        "en": "Song",
+        "slug": "song-13134"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13134",
+        "level": 2,
+        "name": {
+          "local": "Song",
+          "en": "Song",
+          "slug": "song-13134"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.569",
+      "lon": "112.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13134-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SONG TOWN DISTRICT",
+      "en": "SONG TOWN DISTRICT",
+      "slug": "song-town-district-13134-001"
+    },
+    "code": {
+      "id": "13134-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13134",
+      "level": 2,
+      "name": {
+        "local": "Song",
+        "en": "Song",
+        "slug": "song-13134"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13134",
+        "level": 2,
+        "name": {
+          "local": "Song",
+          "en": "Song",
+          "slug": "song-13134"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.01",
+      "lon": "112.549"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

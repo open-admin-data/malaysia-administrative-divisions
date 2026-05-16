@@ -1,0 +1,47 @@
+{
+  "id": "1281",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kota Marudu",
+    "en": "Kota Marudu",
+    "slug": "kota-marudu-1281"
+  },
+  "code": {
+    "id": "1281",
+    "iso": null
+  },
+  "parent": {
+    "id": "12",
+    "level": 1,
+    "name": {
+      "local": "Sabah",
+      "en": "Sabah",
+      "slug": "sabah-12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.47",
+    "lon": "116.764"
+  },
+  "metadata": {},
+  "source": {}
+}

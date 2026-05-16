@@ -1,0 +1,47 @@
+{
+  "id": "0651",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pekan",
+    "en": "Pekan",
+    "slug": "pekan-0651"
+  },
+  "code": {
+    "id": "0651",
+    "iso": null
+  },
+  "parent": {
+    "id": "06",
+    "level": 1,
+    "name": {
+      "local": "Pahang",
+      "en": "Pahang",
+      "slug": "pahang-06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "Pahang",
+        "en": "Pahang",
+        "slug": "pahang-06"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.324",
+    "lon": "103.074"
+  },
+  "metadata": {},
+  "source": {}
+}

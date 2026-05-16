@@ -1,0 +1,47 @@
+{
+  "id": "0866",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Perak Tengah",
+    "en": "Perak Tengah",
+    "slug": "perak-tengah-0866"
+  },
+  "code": {
+    "id": "0866",
+    "iso": null
+  },
+  "parent": {
+    "id": "08",
+    "level": 1,
+    "name": {
+      "local": "Perak",
+      "en": "Perak",
+      "slug": "perak-08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.225",
+    "lon": "100.916"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "0218",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Padang Terap",
+    "en": "Padang Terap",
+    "slug": "padang-terap-0218"
+  },
+  "code": {
+    "id": "0218",
+    "iso": null
+  },
+  "parent": {
+    "id": "02",
+    "level": 1,
+    "name": {
+      "local": "Kedah",
+      "en": "Kedah",
+      "slug": "kedah-02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "Kedah",
+        "en": "Kedah",
+        "slug": "kedah-02"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.176",
+    "lon": "100.684"
+  },
+  "metadata": {},
+  "source": {}
+}

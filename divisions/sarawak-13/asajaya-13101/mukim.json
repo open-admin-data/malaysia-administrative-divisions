@@ -1,0 +1,110 @@
+[
+  {
+    "id": "13101-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SADONG LAND DISTRICT",
+      "en": "SADONG LAND DISTRICT",
+      "slug": "sadong-land-district-13101-001"
+    },
+    "code": {
+      "id": "13101-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13101",
+      "level": 2,
+      "name": {
+        "local": "Asajaya",
+        "en": "Asajaya",
+        "slug": "asajaya-13101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13101",
+        "level": 2,
+        "name": {
+          "local": "Asajaya",
+          "en": "Asajaya",
+          "slug": "asajaya-13101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.527",
+      "lon": "110.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13101-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "TAMBIRAT TOWN DISTRICT",
+      "en": "TAMBIRAT TOWN DISTRICT",
+      "slug": "tambirat-town-district-13101-002"
+    },
+    "code": {
+      "id": "13101-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13101",
+      "level": 2,
+      "name": {
+        "local": "Asajaya",
+        "en": "Asajaya",
+        "slug": "asajaya-13101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13101",
+        "level": 2,
+        "name": {
+          "local": "Asajaya",
+          "en": "Asajaya",
+          "slug": "asajaya-13101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.549",
+      "lon": "110.515"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

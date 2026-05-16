@@ -1,0 +1,47 @@
+{
+  "id": "13108",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Dalat",
+    "en": "Dalat",
+    "slug": "dalat-13108"
+  },
+  "code": {
+    "id": "13108",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "Sarawak",
+      "en": "Sarawak",
+      "slug": "sarawak-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.697",
+    "lon": "111.988"
+  },
+  "metadata": {},
+  "source": {}
+}

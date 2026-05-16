@@ -1,0 +1,47 @@
+{
+  "id": "13109",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Daro",
+    "en": "Daro",
+    "slug": "daro-13109"
+  },
+  "code": {
+    "id": "13109",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "Sarawak",
+      "en": "Sarawak",
+      "slug": "sarawak-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.459",
+    "lon": "111.483"
+  },
+  "metadata": {},
+  "source": {}
+}

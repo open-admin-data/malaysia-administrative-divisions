@@ -1,0 +1,47 @@
+{
+  "id": "0327",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kota Bharu",
+    "en": "Kota Bharu",
+    "slug": "kota-bharu-0327"
+  },
+  "code": {
+    "id": "0327",
+    "iso": null
+  },
+  "parent": {
+    "id": "03",
+    "level": 1,
+    "name": {
+      "local": "Kelantan",
+      "en": "Kelantan",
+      "slug": "kelantan-03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "Kelantan",
+        "en": "Kelantan",
+        "slug": "kelantan-03"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 85
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.049",
+    "lon": "102.27"
+  },
+  "metadata": {},
+  "source": {}
+}

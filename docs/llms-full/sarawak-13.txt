@@ -1,0 +1,1349 @@
+# Sarawak — Malaysia Administrative Divisions
+
+> 40 districts, 285 subdistricts
+> Code: 13
+> Coordinates: 2.342, 112.95
+> Last updated: 2026-05-16. License: CC-BY-4.0.
+
+## Districts
+
+### Asajaya
+
+Code: 13101, Coordinates: 1.543, 110.63
+Subdistricts: 2
+
+#### SADONG LAND DISTRICT
+
+Code: 13101-001, Coordinates: 1.527, 110.686
+
+#### TAMBIRAT TOWN DISTRICT
+
+Code: 13101-002, Coordinates: 1.549, 110.515
+
+### Bau
+
+Code: 13102, Coordinates: 1.375, 110.089
+Subdistricts: 13
+
+#### BAU TOWN DISTRICT
+
+Code: 13102-010, Coordinates: 1.417, 110.157
+
+#### BUSO TOWN DISTRICT
+
+Code: 13102-002, Coordinates: 1.451, 110.184
+
+#### JAGOI LAND DISTRICT
+
+Code: 13102-009, Coordinates: 1.348, 110.082
+
+#### JAMBUSAN TOWN DISTRICT
+
+Code: 13102-013, Coordinates: 1.407, 110.184
+
+#### KRANJI TOWN DISTRICT
+
+Code: 13102-008, Coordinates: 1.45, 110.268
+
+#### KROKONG TOWN DISTRICT
+
+Code: 13102-011, Coordinates: 1.366, 110.117
+
+#### PAKU TOWN DISTRICT
+
+Code: 13102-006, Coordinates: 1.423, 110.192
+
+#### PANGKALAN TEBANG TOWN DISTRICT
+
+Code: 13102-001, Coordinates: 1.287, 110.092
+
+#### PEJIRU TOWN DISTRICT
+
+Code: 13102-007, Coordinates: 1.366, 110.092
+
+#### SENGGI-POAK LAND DISTRICT
+
+Code: 13102-004, Coordinates: 1.448, 110.21
+
+#### SINIAWAN TOWN DISTRICT
+
+Code: 13102-012, Coordinates: 1.446, 110.219
+
+#### TAI TON TOWN DISTRICT
+
+Code: 13102-005, Coordinates: 1.404, 110.129
+
+#### TONDONG TOWN DISTRICT
+
+Code: 13102-003, Coordinates: 1.457, 110.161
+
+### Belaga
+
+Code: 13103, Coordinates: 2.67, 114.332
+Subdistricts: 6
+
+#### BALUI LAND DISTRICT
+
+Code: 13103-002, Coordinates: 2.172, 114.202
+
+#### BATU LAGA LAND DISTRICT
+
+Code: 13103-005, Coordinates: 2.54, 114.016
+
+#### DANUM LAND DISTRICT
+
+Code: 13103-006, Coordinates: 2.519, 114.933
+
+#### MAMAU LAND DISTRICT
+
+Code: 13103-001, Coordinates: 2.711, 113.772
+
+#### MURUM LAND DISTRICT
+
+Code: 13103-004, Coordinates: 2.653, 114.229
+
+#### PUNAN LAND DISTRICT
+
+Code: 13103-003, Coordinates: 3.128, 114.146
+
+### Beluru
+
+Code: 13104, Coordinates: 3.512, 114.255
+Subdistricts: 7
+
+#### BAKONG LAND DISTRICT
+
+Code: 13104-003, Coordinates: 4.045, 114.034
+
+#### BELURU TOWN DISTRICT
+
+Code: 13104-006, Coordinates: 3.974, 114.103
+
+#### BOK LAND DISTRICT
+
+Code: 13104-007, Coordinates: 3.857, 114.185
+
+#### DULIT LAND DISTRICT
+
+Code: 13104-005, Coordinates: 3.363, 114.163
+
+#### LEPU LAJU LAND DISTRICT
+
+Code: 13104-001, Coordinates: 3.291, 114.315
+
+#### LONG TERU TOWN DISTRICT
+
+Code: 13104-004, Coordinates: 3.863, 114.248
+
+#### TINJAR LAND DISTRICT
+
+Code: 13104-002, Coordinates: 3.806, 114.289
+
+### Betong
+
+Code: 13105, Coordinates: 1.529, 111.499
+Subdistricts: 11
+
+#### BATU API LAND DISTRICT
+
+Code: 13105-006, Coordinates: 1.436, 111.576
+
+#### BETONG TOWN DISTRICT
+
+Code: 13105-007, Coordinates: 1.41, 111.529
+
+#### BUNGIN TOWN DISTRICT
+
+Code: 13105-009, Coordinates: 1.469, 111.443
+
+#### DEBAK TOWN DISTRICT
+
+Code: 13105-001, Coordinates: 1.564, 111.428
+
+#### ENTABAN LAND DISTRICT
+
+Code: 13105-005, Coordinates: 1.34, 111.578
+
+#### LUBAU TOWN DISTRICT
+
+Code: 13105-010, Coordinates: 1.495, 111.591
+
+#### PADEH TOWN DISTRICT
+
+Code: 13105-003, Coordinates: 1.424, 111.585
+
+#### RIMBAS LAND DISTRICT
+
+Code: 13105-002, Coordinates: 1.603, 111.471
+
+#### SADOK LAND DISTRICT
+
+Code: 13105-008, Coordinates: 1.552, 111.706
+
+#### SPAOH TOWN DISTRICT
+
+Code: 13105-011, Coordinates: 1.454, 111.479
+
+#### TEBALAU TOWN DISTRICT
+
+Code: 13105-004, Coordinates: 1.528, 111.609
+
+### Bintulu
+
+Code: 13106, Coordinates: 3.293, 113.204
+Subdistricts: 2
+
+#### BINTULU TOWN DISTRICT
+
+Code: 13106-002, Coordinates: 3.174, 113.046
+
+#### KEMENA LAND DISTRICT
+
+Code: 13106-001, Coordinates: 3.295, 113.167
+
+### Bukit Mabong
+
+Code: 13107, Coordinates: 1.681, 113.729
+Subdistricts: 7
+
+#### BANING LAND DISTRICT
+
+Code: 13107-007, Coordinates: 1.901, 113.346
+
+#### ENTEMU LAND DISTRICT
+
+Code: 13107-002, Coordinates: 1.593, 113.131
+
+#### KUMBONG LAND DISTRICT
+
+Code: 13107-005, Coordinates: 1.995, 114.638
+
+#### MAJAU LAND DISTRICT
+
+Code: 13107-004, Coordinates: 2.091, 113.542
+
+#### MENGIONG LAND DISTRICT
+
+Code: 13107-001, Coordinates: 1.462, 113.688
+
+#### MERIRAI LAND DISTRICT
+
+Code: 13107-006, Coordinates: 1.874, 113.807
+
+#### SERANI LAND DISTRICT
+
+Code: 13107-003, Coordinates: 1.6, 114.156
+
+### Dalat
+
+Code: 13108, Coordinates: 2.697, 111.988
+Subdistricts: 2
+
+#### BAOH LAND DISTRICT
+
+Code: 13108-001, Coordinates: 2.554, 112.177
+
+#### OYA-DALAT LAND DISTRICT
+
+Code: 13108-002, Coordinates: 2.74, 111.88
+
+### Daro
+
+Code: 13109, Coordinates: 2.459, 111.483
+Subdistricts: 3
+
+#### BRUIT LAND DISTRICT
+
+Code: 13109-002, Coordinates: 2.581, 111.332
+
+#### DARO TOWN DISTRICT
+
+Code: 13109-003, Coordinates: 2.514, 111.434
+
+#### SEMAH LAND DISTRICT
+
+Code: 13109-001, Coordinates: 2.379, 111.495
+
+### Julau
+
+Code: 13110, Coordinates: 1.832, 111.958
+Subdistricts: 5
+
+#### JIKANG LAND DISTRICT
+
+Code: 13110-002, Coordinates: 1.979, 111.89
+
+#### JULAU TOWN DISTRICT
+
+Code: 13110-001, Coordinates: 2.024, 111.915
+
+#### MELURUN LAND DISTRICT
+
+Code: 13110-003, Coordinates: 1.813, 111.888
+
+#### PAKU LAND DISTRICT
+
+Code: 13110-004, Coordinates: 1.908, 111.823
+
+#### TEKOYONG LAND DISTRICT
+
+Code: 13110-005, Coordinates: 1.745, 111.959
+
+### Kabong
+
+Code: 13111, Coordinates: 1.912, 111.235
+Subdistricts: 5
+
+#### GRIGAT TOWN DISTRICT
+
+Code: 13111-003, Coordinates: 2.037, 111.197
+
+#### KABONG TOWN DISTRICT
+
+Code: 13111-001, Coordinates: 1.804, 111.12
+
+#### KALAKA LAND DISTRICT
+
+Code: 13111-005, Coordinates: 1.906, 111.183
+
+#### ROBAN TOWN DISTRICT
+
+Code: 13111-004, Coordinates: 1.888, 111.3
+
+#### SEBLAK LAND DISTRICT
+
+Code: 13111-002, Coordinates: 1.91, 111.332
+
+### Kanowit
+
+Code: 13112, Coordinates: 1.922, 112.256
+Subdistricts: 8
+
+#### DAP TOWN DISTRICT
+
+Code: 13112-001, Coordinates: 2.056, 112.324
+
+#### KANOWIT TOWN DISTRICT
+
+Code: 13112-005, Coordinates: 2.1, 112.156
+
+#### LUKUT LAND DISTRICT
+
+Code: 13112-006, Coordinates: 2.071, 112.134
+
+#### MACHAN TOWN DISTRICT
+
+Code: 13112-007, Coordinates: 2.018, 112.021
+
+#### MAPAI LAND DISTRICT
+
+Code: 13112-004, Coordinates: 2.059, 112.363
+
+#### MAROH LAND DISTRICT
+
+Code: 13112-002, Coordinates: 1.839, 112.11
+
+#### NGEMAH TOWN DISTRICT
+
+Code: 13112-008, Coordinates: 2.024, 112.4
+
+#### SPALI LAND DISTRICT
+
+Code: 13112-003, Coordinates: 1.788, 112.322
+
+### Kapit
+
+Code: 13113, Coordinates: 2.253, 113.189
+Subdistricts: 8
+
+#### IBAU LAND DISTRICT
+
+Code: 13113-008, Coordinates: 2.047, 112.71
+
+#### KAPIT TOWN DISTRICT
+
+Code: 13113-005, Coordinates: 2.015, 112.943
+
+#### MENUAN LAND DISTRICT
+
+Code: 13113-007, Coordinates: 2.039, 112.956
+
+#### METAH LAND DISTRICT
+
+Code: 13113-004, Coordinates: 2.429, 113.252
+
+#### OYAN LAND DISTRICT
+
+Code: 13113-003, Coordinates: 2.155, 113.181
+
+#### PELAGUS LAND DISTRICT
+
+Code: 13113-002, Coordinates: 2.226, 113.067
+
+#### RIRONG LAND DISTRICT
+
+Code: 13113-001, Coordinates: 2.295, 113.264
+
+#### SUAU LAND DISTRICT
+
+Code: 13113-006, Coordinates: 1.989, 113.139
+
+### Kuching
+
+Code: 13114, Coordinates: 1.533, 110.334
+Subdistricts: 11
+
+#### 8 MILE(MATANG ROAD) TOWN
+
+Code: 13114-010, Coordinates: 1.58, 110.242
+
+#### BAKO TOWN DISTRICT
+
+Code: 13114-005, Coordinates: 1.665, 110.432
+
+#### BATU KAWA TOWN DISTRICT
+
+Code: 13114-006, Coordinates: 1.511, 110.269
+
+#### KUCHING CENTRAL LAND DISTRICT
+
+Code: 13114-007, Coordinates: 1.467, 110.331
+
+#### KUCHING NORTH LAND DISTRICT
+
+Code: 13114-002, Coordinates: 1.51, 110.304
+
+#### KUCHING TOWN LAND DISTRICT
+
+Code: 13114-004, Coordinates: 1.555, 110.352
+
+#### MATANG LAND DISTRICT
+
+Code: 13114-001, Coordinates: 1.541, 110.23
+
+#### MUARA TEBAS LAND DISTRICT
+
+Code: 13114-008, Coordinates: 1.646, 110.453
+
+#### PANGKALAN AMPAT LAND DISTRICT
+
+Code: 13114-009, Coordinates: 1.283, 110.275
+
+#### SALAK LAND DISTRICT
+
+Code: 13114-011, Coordinates: 1.699, 110.298
+
+#### SANTUBONG TOWN DISTRICT
+
+Code: 13114-003, Coordinates: 1.718, 110.318
+
+### Lawas
+
+Code: 13115, Coordinates: 4.504, 115.436
+Subdistricts: 12
+
+#### BA&#39;KELALAN LAND DISTRICT
+
+Code: 13115-008, Coordinates: 4.084, 115.586
+
+#### LAWAS LAND DISTRICT
+
+Code: 13115-010, Coordinates: 4.851, 115.377
+
+#### LAWAS TOWN DISTRICT
+
+Code: 13115-005, Coordinates: 4.86, 115.408
+
+#### LONG MERARAP LAND DISTRICT
+
+Code: 13115-001, Coordinates: 4.41, 115.377
+
+#### LONG SEMADO LAND DISTRICT
+
+Code: 13115-012, Coordinates: 4.237, 115.569
+
+#### MERAPOK LAND DISTRICT
+
+Code: 13115-009, Coordinates: 4.916, 115.491
+
+#### MERAPOK TOWN DISTRICT
+
+Code: 13115-004, Coordinates: 4.953, 115.508
+
+#### SUNDAR TOWN DISTRICT
+
+Code: 13115-007, Coordinates: 4.888, 115.207
+
+#### SUNGAI ADANG LAND DISTRICT
+
+Code: 13115-003, Coordinates: 4.26, 115.319
+
+#### TENGOA-SUKANG LAND DISTRICT
+
+Code: 13115-002, Coordinates: 4.593, 115.396
+
+#### TRUSAN LAND DISTRICT
+
+Code: 13115-006, Coordinates: 4.791, 115.294
+
+#### TRUSAN TOWN DISTRICT
+
+Code: 13115-011, Coordinates: 4.784, 115.275
+
+### Limbang
+
+Code: 13116, Coordinates: 4.374, 115.07
+Subdistricts: 9
+
+#### BATU DANAU TOWN DISTRICT
+
+Code: 13116-008, Coordinates: 4.655, 114.829
+
+#### BATU LAWI LAND DISTRICT
+
+Code: 13116-002, Coordinates: 3.923, 115.306
+
+#### DANAU LAND DISTRICT
+
+Code: 13116-001, Coordinates: 4.639, 114.835
+
+#### LIMBANG TOWN DISTRICT
+
+Code: 13116-003, Coordinates: 4.749, 115.004
+
+#### LONG NAPIR LAND DISTRICT
+
+Code: 13116-006, Coordinates: 4.316, 115.122
+
+#### NANGA MEDAMIT TOWN DISTRICT
+
+Code: 13116-004, Coordinates: 4.48, 114.917
+
+#### PANDARUAN LAND DISTRICT
+
+Code: 13116-009, Coordinates: 4.646, 115.038
+
+#### SUNGAI MEDALAM LAND DISTRICT
+
+Code: 13116-005, Coordinates: 4.269, 114.878
+
+#### UKONG TOWN DISTRICT
+
+Code: 13116-007, Coordinates: 4.549, 114.858
+
+### Lubok Antu
+
+Code: 13117, Coordinates: 1.307, 111.911
+Subdistricts: 11
+
+#### AI ENGKARI LAND DISTRICT
+
+Code: 13117-003, Coordinates: 1.331, 112.097
+
+#### BUKIT BESAI LAND DISTRICT
+
+Code: 13117-002, Coordinates: 1.117, 111.834
+
+#### ENGKILILI TOWN DISTRICT
+
+Code: 13117-004, Coordinates: 1.136, 111.666
+
+#### KRANGGAS LAND DISTRICT
+
+Code: 13117-009, Coordinates: 1.476, 111.817
+
+#### LEMANAK LAND DISTRICT
+
+Code: 13117-006, Coordinates: 1.335, 111.848
+
+#### LIDONG TOWN DISTRICT
+
+Code: 13117-011, Coordinates: 1.277, 111.532
+
+#### LUBOK ANTU TOWN DISTRICT
+
+Code: 13117-008, Coordinates: 1.041, 111.832
+
+#### MARUP LAND DISTRICT
+
+Code: 13117-007, Coordinates: 1.193, 111.683
+
+#### NANGA AP TOWN DISTRICT
+
+Code: 13117-001, Coordinates: 1.069, 111.717
+
+#### SKRANG LAND DISTRICT
+
+Code: 13117-005, Coordinates: 1.272, 111.608
+
+#### SKRANG TOWN DISTRICT
+
+Code: 13117-010, Coordinates: 1.283, 111.625
+
+### Lundu
+
+Code: 13118, Coordinates: 1.736, 109.809
+Subdistricts: 8
+
+#### GADING LUNDU LAND DISTRICT
+
+Code: 13118-007, Coordinates: 1.7, 109.83
+
+#### LUNDU TOWN DISTRICT
+
+Code: 13118-001, Coordinates: 1.673, 109.853
+
+#### PUEH LAND DISTRICT
+
+Code: 13118-008, Coordinates: 1.894, 109.69
+
+#### RAMBUNGAN TOWN DISTRICT
+
+Code: 13118-004, Coordinates: 1.684, 110.131
+
+#### SAMPADI LAND DISTRICT
+
+Code: 13118-005, Coordinates: 1.639, 110.008
+
+#### SEMATAN TOWN DISTRICT
+
+Code: 13118-002, Coordinates: 1.805, 109.778
+
+#### STUNGKOR LAND DISTRICT
+
+Code: 13118-006, Coordinates: 1.527, 109.945
+
+#### STUNGKOR TOWN DISTRICT
+
+Code: 13118-003, Coordinates: 1.499, 109.918
+
+### Maradong
+
+Code: 13119, Coordinates: 2.2, 111.617
+Subdistricts: 4
+
+#### BINATANG TOWN DISTRICT
+
+Code: 13119-003, Coordinates: 2.166, 111.634
+
+#### MARADONG LAND DISTRICT
+
+Code: 13119-002, Coordinates: 2.099, 111.656
+
+#### SEREDENG LAND DISTRICT
+
+Code: 13119-004, Coordinates: 2.256, 111.547
+
+#### TULAI LAND DISTRICT
+
+Code: 13119-001, Coordinates: 2.109, 111.692
+
+### Marudi
+
+Code: 13120, Coordinates: 4.108, 114.551
+Subdistricts: 7
+
+#### APOH LAND DISTRICT
+
+Code: 13120-001, Coordinates: 3.922, 114.628
+
+#### KAMUNTING LAND DISTRICT
+
+Code: 13120-002, Coordinates: 4.114, 114.419
+
+#### LUBOK NIBONG TOWN DISTRICT
+
+Code: 13120-006, Coordinates: 4.155, 114.315
+
+#### MARUDI TOWN DISTRICT
+
+Code: 13120-003, Coordinates: 4.179, 114.319
+
+#### PUYUT LAND DISTRICT
+
+Code: 13120-005, Coordinates: 4.063, 114.295
+
+#### TERAJA LAND DISTRICT
+
+Code: 13120-007, Coordinates: 4.278, 114.148
+
+#### TUTOH LAND DISTRICT
+
+Code: 13120-004, Coordinates: 3.995, 115.02
+
+### Matu
+
+Code: 13121, Coordinates: 2.64, 111.67
+Subdistricts: 5
+
+#### IGAN TOWN DISTRICT
+
+Code: 13121-003, Coordinates: 2.819, 111.707
+
+#### JEMORENG LAND DISTRICT
+
+Code: 13121-001, Coordinates: 2.603, 111.526
+
+#### LASSA LAND DISTRICT
+
+Code: 13121-004, Coordinates: 2.63, 111.751
+
+#### MATU TOWN DISTRICT
+
+Code: 13121-005, Coordinates: 2.673, 111.536
+
+#### RETUS LAND DISTRICT
+
+Code: 13121-002, Coordinates: 2.594, 111.838
+
+### Miri
+
+Code: 13122, Coordinates: 3.761, 115.075
+Subdistricts: 8
+
+#### BAREO LAND DISTRICT
+
+Code: 13122-004, Coordinates: 3.709, 115.528
+
+#### KUALA BARAM LAND DISTRICT
+
+Code: 13122-008, Coordinates: 4.488, 114.03
+
+#### KUALA BARAM TOWN DISTRICT
+
+Code: 13122-005, Coordinates: 4.577, 113.974
+
+#### LAMBIR LAND DISTRICT
+
+Code: 13122-003, Coordinates: 4.225, 113.939
+
+#### LIO MATOH LAND DISTRICT
+
+Code: 13122-001, Coordinates: 3.102, 115.324
+
+#### LUTONG TOWN DISTRICT
+
+Code: 13122-007, Coordinates: 4.465, 114.008
+
+#### MIRI CONCESSION LAND DISTRICT
+
+Code: 13122-002, Coordinates: 4.418, 113.996
+
+#### RIAM ROAD BAZAAR TOWN DISTRICT
+
+Code: 13122-006, Coordinates: 4.342, 114.003
+
+### Mukah
+
+Code: 13123, Coordinates: 2.825, 112.554
+Subdistricts: 5
+
+#### BALINGIAN LAND DISTRICT
+
+Code: 13123-005, Coordinates: 2.92, 112.632
+
+#### BAWAN LAND DISTRICT
+
+Code: 13123-001, Coordinates: 2.748, 112.434
+
+#### BUAN LAND DISTRICT
+
+Code: 13123-003, Coordinates: 2.675, 112.25
+
+#### MUKAH LAND DISTRICT
+
+Code: 13123-002, Coordinates: 2.809, 112.251
+
+#### SIKAT LAND DISTRICT
+
+Code: 13123-004, Coordinates: 2.649, 112.281
+
+### Pakan
+
+Code: 13124, Coordinates: 1.791, 111.704
+Subdistricts: 2
+
+#### PAKAN TOWN DISTRICT
+
+Code: 13124-001, Coordinates: 1.89, 111.678
+
+#### PEDANUM LAND DISTRICT
+
+Code: 13124-002, Coordinates: 1.913, 111.748
+
+### Pusa
+
+Code: 13125, Coordinates: 1.546, 111.164
+Subdistricts: 6
+
+#### BELADIN TOWN DISTRICT
+
+Code: 13125-003, Coordinates: 1.641, 111.205
+
+#### MALUDAM TOWN DISTRICT
+
+Code: 13125-006, Coordinates: 1.659, 111.036
+
+#### PUSA TOWN DISTRICT
+
+Code: 13125-004, Coordinates: 1.612, 111.292
+
+#### SABLOR LAND DISTRICT
+
+Code: 13125-002, Coordinates: 1.615, 111.266
+
+#### SAMARANG TOWN DISTRICT
+
+Code: 13125-005, Coordinates: 1.684, 111.104
+
+#### TRISO LAND DISTRICT
+
+Code: 13125-001, Coordinates: 1.576, 111.031
+
+### Samarahan
+
+Code: 13126, Coordinates: 1.448, 110.479
+Subdistricts: 3
+
+#### MUARA TUANG LAND DISTRICT
+
+Code: 13126-001, Coordinates: 1.503, 110.475
+
+#### MUARA TUANG TOWN DISTRICT
+
+Code: 13126-003, Coordinates: 1.457, 110.498
+
+#### SAMARAHAN LAND DISTRICT
+
+Code: 13126-002, Coordinates: 1.377, 110.472
+
+### Saratok
+
+Code: 13127, Coordinates: 1.787, 111.486
+Subdistricts: 5
+
+#### AWIK-KRIAN LAND DISTRICT
+
+Code: 13127-005, Coordinates: 1.769, 111.38
+
+#### BUDU LAND DISTRICT
+
+Code: 13127-003, Coordinates: 1.759, 111.524
+
+#### KABA TOWN DISTRICT
+
+Code: 13127-002, Coordinates: 1.728, 111.208
+
+#### KAKI WONG TOWN DISTRICT
+
+Code: 13127-001, Coordinates: 1.737, 111.457
+
+#### SARATOK TOWN DISTRICT
+
+Code: 13127-004, Coordinates: 1.74, 111.338
+
+### Sarikei
+
+Code: 13128, Coordinates: 2.097, 111.411
+Subdistricts: 4
+
+#### GUNONG AYER TOWN DISTRICT
+
+Code: 13128-004, Coordinates: 2.136, 111.377
+
+#### SARE LAND DISTRICT
+
+Code: 13128-001, Coordinates: 2.078, 111.365
+
+#### SARIKEI LAND DISTRICT
+
+Code: 13128-002, Coordinates: 2.087, 111.488
+
+#### SELALANG TOWN DISTRICT
+
+Code: 13128-003, Coordinates: 2.016, 111.319
+
+### Sebauh
+
+Code: 13129, Coordinates: 3.17, 113.621
+Subdistricts: 11
+
+#### BATU KAPAL LAND DISTRICT
+
+Code: 13129-008, Coordinates: 3.049, 113.198
+
+#### BINIO LAND DISTRICT
+
+Code: 13129-007, Coordinates: 2.941, 113.59
+
+#### JELALONG LAND DISTRICT
+
+Code: 13129-006, Coordinates: 3.278, 113.906
+
+#### LAVANG LAND DISTRICT
+
+Code: 13129-011, Coordinates: 3.27, 113.497
+
+#### LAVANG TOWN DISTRICT
+
+Code: 13129-010, Coordinates: 3.259, 113.491
+
+#### PANDAN LAND DISTRICT
+
+Code: 13129-009, Coordinates: 3.075, 113.373
+
+#### PANDAN TOWN DISTRICT
+
+Code: 13129-002, Coordinates: 3.15, 113.373
+
+#### RASAN LAND DISTRICT
+
+Code: 13129-003, Coordinates: 3.276, 113.677
+
+#### SEBAUH TOWN DISTRICT
+
+Code: 13129-005, Coordinates: 3.111, 113.268
+
+#### SELEZU LAND DISTRICT
+
+Code: 13129-001, Coordinates: 3.18, 113.318
+
+#### TUBAU TOWN DISTRICT
+
+Code: 13129-004, Coordinates: 3.161, 113.71
+
+### Selangau
+
+Code: 13130, Coordinates: 2.561, 112.583
+Subdistricts: 7
+
+#### ARIP LAND DISTRICT
+
+Code: 13130-007, Coordinates: 2.725, 112.684
+
+#### BULOH LAND DISTRICT
+
+Code: 13130-005, Coordinates: 2.581, 112.484
+
+#### GIGIS LAND DISTRICT
+
+Code: 13130-003, Coordinates: 2.516, 112.28
+
+#### LALAI LAND DISTRICT
+
+Code: 13130-001, Coordinates: 2.201, 112.461
+
+#### PELUGAU LAND DISTRICT
+
+Code: 13130-006, Coordinates: 2.525, 112.66
+
+#### SELANGAU LAND DISTRICT
+
+Code: 13130-004, Coordinates: 2.346, 112.582
+
+#### SPAPA LAND DISTRICT
+
+Code: 13130-002, Coordinates: 2.394, 112.142
+
+### Serian
+
+Code: 13131, Coordinates: 1.1, 110.645
+Subdistricts: 20
+
+#### 15 MILE(SIMANGGANG ROAD) TOWN DISTRICT
+
+Code: 13131-015, Coordinates: 1.384, 110.377
+
+#### 17.5 MILE(SIMANGGANG ROAD) TOWN DISTRICT
+
+Code: 13131-007, Coordinates: 1.362, 110.407
+
+#### 19 MILE(SIMANGGANG ROAD) TOWN DISTRICT
+
+Code: 13131-016, Coordinates: 1.34, 110.408
+
+#### 24 MILE(SIMANGGANG ROAD) TOWN DISTRICT
+
+Code: 13131-019, Coordinates: 1.273, 110.431
+
+#### 29th MILE(SIMANGGANG ROAD) TOWN DISTRICT
+
+Code: 13131-017, Coordinates: 1.255, 110.476
+
+#### 32nd MILE(SIMANGGANG ROAD) TOWN DISTRICT
+
+Code: 13131-004, Coordinates: 1.227, 110.513
+
+#### BALAI RINGIN TOWN DISTRICT
+
+Code: 13131-002, Coordinates: 1.05, 110.756
+
+#### BERATOK TOWN DISTRICT
+
+Code: 13131-011, Coordinates: 1.315, 110.411
+
+#### BUKAR-SADONG LAND DISTRICT
+
+Code: 13131-006, Coordinates: 1.227, 110.519
+
+#### MELIKIN LAND DISTRICT
+
+Code: 13131-020, Coordinates: 1.048, 110.696
+
+#### PANGKALAN KUT TOWN DISTRICT
+
+Code: 13131-001, Coordinates: 1.225, 110.384
+
+#### SENTAH-SEGU LAND DISTRICT
+
+Code: 13131-009, Coordinates: 1.323, 110.363
+
+#### SERIAN TOWN DISTRICT
+
+Code: 13131-012, Coordinates: 1.166, 110.567
+
+#### SIBURAN TOWN DISTRICT
+
+Code: 13131-003, Coordinates: 1.356, 110.403
+
+#### SUNGAI MERAH TOWN  DISTRICT
+
+Code: 13131-013, Coordinates: 1.314, 110.493
+
+#### SUNGAI MERANG TOWN DISTRICT
+
+Code: 13131-010, Coordinates: 1.309, 110.495
+
+#### SUNGAI PALAH TOWN DISTRICT
+
+Code: 13131-005, Coordinates: 1.284, 110.483
+
+#### TAPAH TOWN DISTRICT
+
+Code: 13131-018, Coordinates: 1.3, 110.414
+
+#### TEBAKANG TOWN DISTRICT
+
+Code: 13131-014, Coordinates: 1.104, 110.509
+
+#### TIANG BEKAP TOWN DISTRICT
+
+Code: 13131-008, Coordinates: 1.208, 110.365
+
+### Sibu
+
+Code: 13132, Coordinates: 2.275, 111.821
+Subdistricts: 10
+
+#### ASSAN LAND DISTRICT
+
+Code: 13132-010, Coordinates: 2.187, 111.818
+
+#### DURIN TOWN DISTRICT
+
+Code: 13132-006, Coordinates: 2.139, 111.973
+
+#### ENGKILO LAND DISTRICT
+
+Code: 13132-004, Coordinates: 2.318, 111.708
+
+#### KABANG LAND DISTRICT
+
+Code: 13132-003, Coordinates: 2.445, 111.763
+
+#### MENYAN LAND DISTRICT
+
+Code: 13132-002, Coordinates: 2.107, 112.008
+
+#### PASAI-SIONG LAND DISTRICT
+
+Code: 13132-001, Coordinates: 2.383, 111.969
+
+#### SEDUAN LAND DISTRICT
+
+Code: 13132-009, Coordinates: 2.318, 111.894
+
+#### SIBINTEK TOWN DISTRICT
+
+Code: 13132-008, Coordinates: 2.335, 112.092
+
+#### SIBU TOWN DISTRICT
+
+Code: 13132-005, Coordinates: 2.285, 111.839
+
+#### SUNGAI MERAH TOWN DISTRICT
+
+Code: 13132-007, Coordinates: 2.326, 111.841
+
+### Simunjan
+
+Code: 13133, Coordinates: 1.284, 110.894
+Subdistricts: 9
+
+#### GEDONG TOWN DISTRICT
+
+Code: 13133-008, Coordinates: 1.247, 110.692
+
+#### MENUKU LAND DISTRICT
+
+Code: 13133-001, Coordinates: 1.459, 110.914
+
+#### PUNDA-SABAL  LAND DISTRICT
+
+Code: 13133-006, Coordinates: 1.188, 110.889
+
+#### SEBANGAN TOWN DISTRICT
+
+Code: 13133-003, Coordinates: 1.558, 110.772
+
+#### SEBANGAN-KEPAYANG LAND DISTRICT
+
+Code: 13133-007, Coordinates: 1.354, 110.854
+
+#### SEBUYAU TOWN DISTRICT
+
+Code: 13133-004, Coordinates: 1.518, 110.931
+
+#### SEDILU-GEDONG LAND DISTRICT
+
+Code: 13133-005, Coordinates: 1.358, 110.696
+
+#### SIMUNJAN TOWN DISTRICT
+
+Code: 13133-002, Coordinates: 1.395, 110.75
+
+#### TEBELU TOWN DISTRICT
+
+Code: 13133-009, Coordinates: 1.546, 110.86
+
+### Song
+
+Code: 13134, Coordinates: 1.743, 112.482
+Subdistricts: 5
+
+#### ANGKUAH LAND DISTRICT
+
+Code: 13134-004, Coordinates: 1.666, 112.588
+
+#### BANGKIT LAND DISTRICT
+
+Code: 13134-002, Coordinates: 1.797, 112.609
+
+#### KATIBAS LAND DISTRICT
+
+Code: 13134-005, Coordinates: 2.065, 112.482
+
+#### PLANDOK LAND DISTRICT
+
+Code: 13134-003, Coordinates: 1.569, 112.199
+
+#### SONG TOWN DISTRICT
+
+Code: 13134-001, Coordinates: 2.01, 112.549
+
+### Sri Aman
+
+Code: 13135, Coordinates: 1.172, 111.279
+Subdistricts: 14
+
+#### BAKONG TOWN DISTRICT
+
+Code: 13135-013, Coordinates: 1.327, 111.307
+
+#### BANTING TOWN DISTRICT
+
+Code: 13135-011, Coordinates: 1.284, 111.205
+
+#### BATU LINTANG TOWN DISTRICT
+
+Code: 13135-010, Coordinates: 1.019, 111.552
+
+#### BIJAT LAND DISTRICT
+
+Code: 13135-007, Coordinates: 1.289, 111.324
+
+#### KLAUH LAND DISTRICT
+
+Code: 13135-012, Coordinates: 1.134, 111.39
+
+#### LESONG LAND DISTRICT
+
+Code: 13135-002, Coordinates: 1.288, 111.256
+
+#### LINGGA TOWN DISTRICT
+
+Code: 13135-004, Coordinates: 1.352, 111.169
+
+#### MELUGU TOWN DISTRICT
+
+Code: 13135-008, Coordinates: 1.117, 111.427
+
+#### PANTU TOWN DISTRICT
+
+Code: 13135-009, Coordinates: 1.14, 111.118
+
+#### SABU TOWN DISTRICT
+
+Code: 13135-006, Coordinates: 1.193, 111.474
+
+#### SELANJAN LAND DISTRICT
+
+Code: 13135-001, Coordinates: 1.149, 111.252
+
+#### SILANTEK LAND DISTRICT
+
+Code: 13135-003, Coordinates: 1.14, 111.039
+
+#### SIMANGGANG TOWN DISTRICT
+
+Code: 13135-014, Coordinates: 1.238, 111.464
+
+#### UNDUP LAND DISTRICT
+
+Code: 13135-005, Coordinates: 1.124, 111.525
+
+### Subis
+
+Code: 13136, Coordinates: 3.658, 113.752
+Subdistricts: 9
+
+#### BATU NIAH TOWN DISTRICT
+
+Code: 13136-006, Coordinates: 3.803, 113.757
+
+#### BEKENU TOWN DISTRICT
+
+Code: 13136-009, Coordinates: 4.057, 113.846
+
+#### BUKIT KISI LAND DISTRICT
+
+Code: 13136-007, Coordinates: 3.97, 113.965
+
+#### NIAH LAND DISTRICT
+
+Code: 13136-003, Coordinates: 3.866, 113.792
+
+#### NIAH TOWN DISTRICT
+
+Code: 13136-002, Coordinates: 3.866, 113.723
+
+#### SAWAI LAND DISTRICT
+
+Code: 13136-004, Coordinates: 3.584, 113.781
+
+#### SIBUTI LAND DISTRICT
+
+Code: 13136-008, Coordinates: 4.052, 113.847
+
+#### SUAI LAND DISTRICT
+
+Code: 13136-001, Coordinates: 3.653, 113.561
+
+#### SUAI TOWN DISTRICT
+
+Code: 13136-005, Coordinates: 3.796, 113.632
+
+### Tanjung Manis
+
+Code: 13137, Coordinates: 2.256, 111.343
+Subdistricts: 5
+
+#### BELAWAI TOWN DISTRICT
+
+Code: 13137-005, Coordinates: 2.234, 111.22
+
+#### JERIJEH TOWN DISTRICT
+
+Code: 13137-004, Coordinates: 2.139, 111.184
+
+#### KEDANG LAND DISTRICT
+
+Code: 13137-002, Coordinates: 2.287, 111.236
+
+#### PALOH TOWN DISTRICT
+
+Code: 13137-003, Coordinates: 2.418, 111.253
+
+#### RAJANG TOWN DISTRICT
+
+Code: 13137-001, Coordinates: 2.153, 111.256
+
+### Tatau
+
+Code: 13138, Coordinates: 2.644, 112.968
+Subdistricts: 5
+
+#### ANAP LAND DISTRICT
+
+Code: 13138-004, Coordinates: 2.373, 112.797
+
+#### KAKUS LAND DISTRICT
+
+Code: 13138-005, Coordinates: 2.641, 113.32
+
+#### KUALA TATAU TOWN DISTRICT
+
+Code: 13138-001, Coordinates: 3.078, 112.806
+
+#### SANGAN LAND DISTRICT
+
+Code: 13138-002, Coordinates: 2.799, 112.898
+
+#### TATAU TOWN DISTRICT
+
+Code: 13138-003, Coordinates: 2.879, 112.859
+
+### Tebedu
+
+Code: 13139, Coordinates: 0.987, 110.423
+Subdistricts: 5
+
+#### KAYAN LAND DISTRICT
+
+Code: 13139-005, Coordinates: 1.039, 110.38
+
+#### MUARA MONGKOS TOWN DISTRICT
+
+Code: 13139-001, Coordinates: 0.925, 110.576
+
+#### SUNGAI KEDUP LAND DISTRICT
+
+Code: 13139-002, Coordinates: 0.968, 110.62
+
+#### TEBEDU TOWN DISTRICT
+
+Code: 13139-004, Coordinates: 1.024, 110.363
+
+#### TERBAT TOWN DISTRICT
+
+Code: 13139-003, Coordinates: 0.924, 110.527
+
+### Telang Usan
+
+Code: 13140, Coordinates: 3.389, 114.732
+Subdistricts: 6
+
+#### AKAH LAND DISTRICT
+
+Code: 13140-004, Coordinates: 3.353, 114.941
+
+#### LONG AKAH TOWN DISTRICT
+
+Code: 13140-005, Coordinates: 3.315, 114.792
+
+#### LONG LAMA TOWN DISTRICT
+
+Code: 13140-002, Coordinates: 3.763, 114.404
+
+#### PATAH LAND DISTRICT
+
+Code: 13140-001, Coordinates: 3.604, 114.513
+
+#### SILAT LAND DISTRICT
+
+Code: 13140-006, Coordinates: 2.889, 114.877
+
+#### TELANG USANG LAND DISTRICT
+
+Code: 13140-003, Coordinates: 3.673, 114.437
+

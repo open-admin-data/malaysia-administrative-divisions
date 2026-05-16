@@ -1,0 +1,434 @@
+[
+  {
+    "id": "13112-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "DAP TOWN DISTRICT",
+      "en": "DAP TOWN DISTRICT",
+      "slug": "dap-town-district-13112-001"
+    },
+    "code": {
+      "id": "13112-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13112",
+      "level": 2,
+      "name": {
+        "local": "Kanowit",
+        "en": "Kanowit",
+        "slug": "kanowit-13112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13112",
+        "level": 2,
+        "name": {
+          "local": "Kanowit",
+          "en": "Kanowit",
+          "slug": "kanowit-13112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.056",
+      "lon": "112.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13112-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "KANOWIT TOWN DISTRICT",
+      "en": "KANOWIT TOWN DISTRICT",
+      "slug": "kanowit-town-district-13112-005"
+    },
+    "code": {
+      "id": "13112-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "13112",
+      "level": 2,
+      "name": {
+        "local": "Kanowit",
+        "en": "Kanowit",
+        "slug": "kanowit-13112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13112",
+        "level": 2,
+        "name": {
+          "local": "Kanowit",
+          "en": "Kanowit",
+          "slug": "kanowit-13112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.1",
+      "lon": "112.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13112-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "LUKUT LAND DISTRICT",
+      "en": "LUKUT LAND DISTRICT",
+      "slug": "lukut-land-district-13112-006"
+    },
+    "code": {
+      "id": "13112-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "13112",
+      "level": 2,
+      "name": {
+        "local": "Kanowit",
+        "en": "Kanowit",
+        "slug": "kanowit-13112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13112",
+        "level": 2,
+        "name": {
+          "local": "Kanowit",
+          "en": "Kanowit",
+          "slug": "kanowit-13112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.071",
+      "lon": "112.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13112-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MACHAN TOWN DISTRICT",
+      "en": "MACHAN TOWN DISTRICT",
+      "slug": "machan-town-district-13112-007"
+    },
+    "code": {
+      "id": "13112-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "13112",
+      "level": 2,
+      "name": {
+        "local": "Kanowit",
+        "en": "Kanowit",
+        "slug": "kanowit-13112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13112",
+        "level": 2,
+        "name": {
+          "local": "Kanowit",
+          "en": "Kanowit",
+          "slug": "kanowit-13112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.018",
+      "lon": "112.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13112-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MAPAI LAND DISTRICT",
+      "en": "MAPAI LAND DISTRICT",
+      "slug": "mapai-land-district-13112-004"
+    },
+    "code": {
+      "id": "13112-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13112",
+      "level": 2,
+      "name": {
+        "local": "Kanowit",
+        "en": "Kanowit",
+        "slug": "kanowit-13112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13112",
+        "level": 2,
+        "name": {
+          "local": "Kanowit",
+          "en": "Kanowit",
+          "slug": "kanowit-13112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.059",
+      "lon": "112.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13112-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MAROH LAND DISTRICT",
+      "en": "MAROH LAND DISTRICT",
+      "slug": "maroh-land-district-13112-002"
+    },
+    "code": {
+      "id": "13112-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13112",
+      "level": 2,
+      "name": {
+        "local": "Kanowit",
+        "en": "Kanowit",
+        "slug": "kanowit-13112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13112",
+        "level": 2,
+        "name": {
+          "local": "Kanowit",
+          "en": "Kanowit",
+          "slug": "kanowit-13112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.839",
+      "lon": "112.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13112-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "NGEMAH TOWN DISTRICT",
+      "en": "NGEMAH TOWN DISTRICT",
+      "slug": "ngemah-town-district-13112-008"
+    },
+    "code": {
+      "id": "13112-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "13112",
+      "level": 2,
+      "name": {
+        "local": "Kanowit",
+        "en": "Kanowit",
+        "slug": "kanowit-13112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13112",
+        "level": 2,
+        "name": {
+          "local": "Kanowit",
+          "en": "Kanowit",
+          "slug": "kanowit-13112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.024",
+      "lon": "112.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13112-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SPALI LAND DISTRICT",
+      "en": "SPALI LAND DISTRICT",
+      "slug": "spali-land-district-13112-003"
+    },
+    "code": {
+      "id": "13112-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13112",
+      "level": 2,
+      "name": {
+        "local": "Kanowit",
+        "en": "Kanowit",
+        "slug": "kanowit-13112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13112",
+        "level": 2,
+        "name": {
+          "local": "Kanowit",
+          "en": "Kanowit",
+          "slug": "kanowit-13112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.788",
+      "lon": "112.322"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

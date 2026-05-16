@@ -1,0 +1,164 @@
+[
+  {
+    "id": "13126-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUARA TUANG LAND DISTRICT",
+      "en": "MUARA TUANG LAND DISTRICT",
+      "slug": "muara-tuang-land-district-13126-001"
+    },
+    "code": {
+      "id": "13126-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13126",
+      "level": 2,
+      "name": {
+        "local": "Samarahan",
+        "en": "Samarahan",
+        "slug": "samarahan-13126"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13126",
+        "level": 2,
+        "name": {
+          "local": "Samarahan",
+          "en": "Samarahan",
+          "slug": "samarahan-13126"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.503",
+      "lon": "110.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13126-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUARA TUANG TOWN DISTRICT",
+      "en": "MUARA TUANG TOWN DISTRICT",
+      "slug": "muara-tuang-town-district-13126-003"
+    },
+    "code": {
+      "id": "13126-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13126",
+      "level": 2,
+      "name": {
+        "local": "Samarahan",
+        "en": "Samarahan",
+        "slug": "samarahan-13126"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13126",
+        "level": 2,
+        "name": {
+          "local": "Samarahan",
+          "en": "Samarahan",
+          "slug": "samarahan-13126"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.457",
+      "lon": "110.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13126-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SAMARAHAN LAND DISTRICT",
+      "en": "SAMARAHAN LAND DISTRICT",
+      "slug": "samarahan-land-district-13126-002"
+    },
+    "code": {
+      "id": "13126-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13126",
+      "level": 2,
+      "name": {
+        "local": "Samarahan",
+        "en": "Samarahan",
+        "slug": "samarahan-13126"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13126",
+        "level": 2,
+        "name": {
+          "local": "Samarahan",
+          "en": "Samarahan",
+          "slug": "samarahan-13126"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.377",
+      "lon": "110.472"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

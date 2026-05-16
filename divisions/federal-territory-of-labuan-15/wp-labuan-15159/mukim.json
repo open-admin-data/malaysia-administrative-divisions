@@ -1,0 +1,56 @@
+[
+  {
+    "id": "15159-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR",
+      "en": "BANDAR",
+      "slug": "bandar-15159-001"
+    },
+    "code": {
+      "id": "15159-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "15159",
+      "level": 2,
+      "name": {
+        "local": "W.P. Labuan",
+        "en": "W.P. Labuan",
+        "slug": "wp-labuan-15159"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "W.P. Labuan",
+          "en": "Federal Territory of Labuan",
+          "slug": "federal-territory-of-labuan-15"
+        }
+      },
+      {
+        "id": "15159",
+        "level": 2,
+        "name": {
+          "local": "W.P. Labuan",
+          "en": "W.P. Labuan",
+          "slug": "wp-labuan-15159"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.297",
+      "lon": "115.249"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,920 @@
+[
+  {
+    "id": "0863-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM ASAM KUMBANG",
+      "en": "ASAM KUMBANG",
+      "slug": "asam-kumbang-0863-013"
+    },
+    "code": {
+      "id": "0863-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0863",
+      "level": 2,
+      "name": {
+        "local": "Larut Dan Matang",
+        "en": "Larut Dan Matang",
+        "slug": "larut-dan-matang-0863"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0863",
+        "level": 2,
+        "name": {
+          "local": "Larut Dan Matang",
+          "en": "Larut Dan Matang",
+          "slug": "larut-dan-matang-0863"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.905",
+      "lon": "100.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0863-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR KAMUNTING",
+      "en": "BANDAR KAMUNTING",
+      "slug": "bandar-kamunting-0863-002"
+    },
+    "code": {
+      "id": "0863-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0863",
+      "level": 2,
+      "name": {
+        "local": "Larut Dan Matang",
+        "en": "Larut Dan Matang",
+        "slug": "larut-dan-matang-0863"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0863",
+        "level": 2,
+        "name": {
+          "local": "Larut Dan Matang",
+          "en": "Larut Dan Matang",
+          "slug": "larut-dan-matang-0863"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.89",
+      "lon": "100.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0863-017",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR KUALA SEPETANG",
+      "en": "BANDAR KUALA SEPETANG",
+      "slug": "bandar-kuala-sepetang-0863-017"
+    },
+    "code": {
+      "id": "0863-017",
+      "iso": null
+    },
+    "parent": {
+      "id": "0863",
+      "level": 2,
+      "name": {
+        "local": "Larut Dan Matang",
+        "en": "Larut Dan Matang",
+        "slug": "larut-dan-matang-0863"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0863",
+        "level": 2,
+        "name": {
+          "local": "Larut Dan Matang",
+          "en": "Larut Dan Matang",
+          "slug": "larut-dan-matang-0863"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.836",
+      "lon": "100.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0863-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR MATANG",
+      "en": "BANDAR MATANG",
+      "slug": "bandar-matang-0863-006"
+    },
+    "code": {
+      "id": "0863-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0863",
+      "level": 2,
+      "name": {
+        "local": "Larut Dan Matang",
+        "en": "Larut Dan Matang",
+        "slug": "larut-dan-matang-0863"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0863",
+        "level": 2,
+        "name": {
+          "local": "Larut Dan Matang",
+          "en": "Larut Dan Matang",
+          "slug": "larut-dan-matang-0863"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.817",
+      "lon": "100.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0863-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR TAIPING",
+      "en": "BANDAR TAIPING",
+      "slug": "bandar-taiping-0863-004"
+    },
+    "code": {
+      "id": "0863-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0863",
+      "level": 2,
+      "name": {
+        "local": "Larut Dan Matang",
+        "en": "Larut Dan Matang",
+        "slug": "larut-dan-matang-0863"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0863",
+        "level": 2,
+        "name": {
+          "local": "Larut Dan Matang",
+          "en": "Larut Dan Matang",
+          "slug": "larut-dan-matang-0863"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.854",
+      "lon": "100.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0863-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BATU KURAU",
+      "en": "BATU KURAU",
+      "slug": "batu-kurau-0863-011"
+    },
+    "code": {
+      "id": "0863-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0863",
+      "level": 2,
+      "name": {
+        "local": "Larut Dan Matang",
+        "en": "Larut Dan Matang",
+        "slug": "larut-dan-matang-0863"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0863",
+        "level": 2,
+        "name": {
+          "local": "Larut Dan Matang",
+          "en": "Larut Dan Matang",
+          "slug": "larut-dan-matang-0863"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.013",
+      "lon": "100.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0863-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BUKIT GANTANG",
+      "en": "BUKIT GANTANG",
+      "slug": "bukit-gantang-0863-016"
+    },
+    "code": {
+      "id": "0863-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "0863",
+      "level": 2,
+      "name": {
+        "local": "Larut Dan Matang",
+        "en": "Larut Dan Matang",
+        "slug": "larut-dan-matang-0863"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0863",
+        "level": 2,
+        "name": {
+          "local": "Larut Dan Matang",
+          "en": "Larut Dan Matang",
+          "slug": "larut-dan-matang-0863"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.71",
+      "lon": "100.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0863-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KAMUNTING",
+      "en": "KAMUNTING",
+      "slug": "kamunting-0863-008"
+    },
+    "code": {
+      "id": "0863-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0863",
+      "level": 2,
+      "name": {
+        "local": "Larut Dan Matang",
+        "en": "Larut Dan Matang",
+        "slug": "larut-dan-matang-0863"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0863",
+        "level": 2,
+        "name": {
+          "local": "Larut Dan Matang",
+          "en": "Larut Dan Matang",
+          "slug": "larut-dan-matang-0863"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.888",
+      "lon": "100.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0863-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BATU KURAU",
+      "en": "PEKAN BATU KURAU",
+      "slug": "pekan-batu-kurau-0863-003"
+    },
+    "code": {
+      "id": "0863-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0863",
+      "level": 2,
+      "name": {
+        "local": "Larut Dan Matang",
+        "en": "Larut Dan Matang",
+        "slug": "larut-dan-matang-0863"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0863",
+        "level": 2,
+        "name": {
+          "local": "Larut Dan Matang",
+          "en": "Larut Dan Matang",
+          "slug": "larut-dan-matang-0863"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.975",
+      "lon": "100.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0863-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN CHANGKAT JERING",
+      "en": "PEKAN CHANGKAT JERING",
+      "slug": "pekan-changkat-jering-0863-015"
+    },
+    "code": {
+      "id": "0863-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "0863",
+      "level": 2,
+      "name": {
+        "local": "Larut Dan Matang",
+        "en": "Larut Dan Matang",
+        "slug": "larut-dan-matang-0863"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0863",
+        "level": 2,
+        "name": {
+          "local": "Larut Dan Matang",
+          "en": "Larut Dan Matang",
+          "slug": "larut-dan-matang-0863"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.787",
+      "lon": "100.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0863-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SIMPANG",
+      "en": "PEKAN SIMPANG",
+      "slug": "pekan-simpang-0863-009"
+    },
+    "code": {
+      "id": "0863-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0863",
+      "level": 2,
+      "name": {
+        "local": "Larut Dan Matang",
+        "en": "Larut Dan Matang",
+        "slug": "larut-dan-matang-0863"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0863",
+        "level": 2,
+        "name": {
+          "local": "Larut Dan Matang",
+          "en": "Larut Dan Matang",
+          "slug": "larut-dan-matang-0863"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.82",
+      "lon": "100.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0863-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TERUNG",
+      "en": "PEKAN TERUNG",
+      "slug": "pekan-terung-0863-010"
+    },
+    "code": {
+      "id": "0863-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0863",
+      "level": 2,
+      "name": {
+        "local": "Larut Dan Matang",
+        "en": "Larut Dan Matang",
+        "slug": "larut-dan-matang-0863"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0863",
+        "level": 2,
+        "name": {
+          "local": "Larut Dan Matang",
+          "en": "Larut Dan Matang",
+          "slug": "larut-dan-matang-0863"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.71",
+      "lon": "100.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0863-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PENGKALAN AOR",
+      "en": "PENGKALAN AOR",
+      "slug": "pengkalan-aor-0863-007"
+    },
+    "code": {
+      "id": "0863-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0863",
+      "level": 2,
+      "name": {
+        "local": "Larut Dan Matang",
+        "en": "Larut Dan Matang",
+        "slug": "larut-dan-matang-0863"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0863",
+        "level": 2,
+        "name": {
+          "local": "Larut Dan Matang",
+          "en": "Larut Dan Matang",
+          "slug": "larut-dan-matang-0863"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.806",
+      "lon": "100.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0863-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SIMPANG",
+      "en": "SIMPANG",
+      "slug": "simpang-0863-005"
+    },
+    "code": {
+      "id": "0863-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0863",
+      "level": 2,
+      "name": {
+        "local": "Larut Dan Matang",
+        "en": "Larut Dan Matang",
+        "slug": "larut-dan-matang-0863"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0863",
+        "level": 2,
+        "name": {
+          "local": "Larut Dan Matang",
+          "en": "Larut Dan Matang",
+          "slug": "larut-dan-matang-0863"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.768",
+      "lon": "100.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0863-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SUNGAI LIMAU",
+      "en": "SUNGAI LIMAU",
+      "slug": "sungai-limau-0863-014"
+    },
+    "code": {
+      "id": "0863-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "0863",
+      "level": 2,
+      "name": {
+        "local": "Larut Dan Matang",
+        "en": "Larut Dan Matang",
+        "slug": "larut-dan-matang-0863"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0863",
+        "level": 2,
+        "name": {
+          "local": "Larut Dan Matang",
+          "en": "Larut Dan Matang",
+          "slug": "larut-dan-matang-0863"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.78",
+      "lon": "100.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0863-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TERUNG",
+      "en": "TERUNG",
+      "slug": "terung-0863-012"
+    },
+    "code": {
+      "id": "0863-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0863",
+      "level": 2,
+      "name": {
+        "local": "Larut Dan Matang",
+        "en": "Larut Dan Matang",
+        "slug": "larut-dan-matang-0863"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0863",
+        "level": 2,
+        "name": {
+          "local": "Larut Dan Matang",
+          "en": "Larut Dan Matang",
+          "slug": "larut-dan-matang-0863"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.693",
+      "lon": "100.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0863-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TUPAI",
+      "en": "TUPAI",
+      "slug": "tupai-0863-001"
+    },
+    "code": {
+      "id": "0863-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0863",
+      "level": 2,
+      "name": {
+        "local": "Larut Dan Matang",
+        "en": "Larut Dan Matang",
+        "slug": "larut-dan-matang-0863"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0863",
+        "level": 2,
+        "name": {
+          "local": "Larut Dan Matang",
+          "en": "Larut Dan Matang",
+          "slug": "larut-dan-matang-0863"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.843",
+      "lon": "100.761"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,472 @@
+[
+  {
+    "id": "0101",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Batu Pahat",
+      "en": "Batu Pahat",
+      "slug": "batu-pahat-0101"
+    },
+    "code": {
+      "id": "0101",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Johor",
+        "en": "Johor",
+        "slug": "johor-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.878",
+      "lon": "103.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Johor Bahru",
+      "en": "Johor Bahru",
+      "slug": "johor-bahru-0102"
+    },
+    "code": {
+      "id": "0102",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Johor",
+        "en": "Johor",
+        "slug": "johor-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.532",
+      "lon": "103.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0103",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kluang",
+      "en": "Kluang",
+      "slug": "kluang-0103"
+    },
+    "code": {
+      "id": "0103",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Johor",
+        "en": "Johor",
+        "slug": "johor-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.976",
+      "lon": "103.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0104",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kota Tinggi",
+      "en": "Kota Tinggi",
+      "slug": "kota-tinggi-0104"
+    },
+    "code": {
+      "id": "0104",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Johor",
+        "en": "Johor",
+        "slug": "johor-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.67",
+      "lon": "103.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kulai",
+      "en": "Kulai",
+      "slug": "kulai-0105"
+    },
+    "code": {
+      "id": "0105",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Johor",
+        "en": "Johor",
+        "slug": "johor-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.655",
+      "lon": "103.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0106",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mersing",
+      "en": "Mersing",
+      "slug": "mersing-0106"
+    },
+    "code": {
+      "id": "0106",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Johor",
+        "en": "Johor",
+        "slug": "johor-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.425",
+      "lon": "104.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0107",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Muar",
+      "en": "Muar",
+      "slug": "muar-0107"
+    },
+    "code": {
+      "id": "0107",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Johor",
+        "en": "Johor",
+        "slug": "johor-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.199",
+      "lon": "102.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0108",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pontian",
+      "en": "Pontian",
+      "slug": "pontian-0108"
+    },
+    "code": {
+      "id": "0108",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Johor",
+        "en": "Johor",
+        "slug": "johor-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.502",
+      "lon": "103.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0109",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Segamat",
+      "en": "Segamat",
+      "slug": "segamat-0109"
+    },
+    "code": {
+      "id": "0109",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Johor",
+        "en": "Johor",
+        "slug": "johor-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.438",
+      "lon": "102.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tangkak",
+      "en": "Tangkak",
+      "slug": "tangkak-0110"
+    },
+    "code": {
+      "id": "0110",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Johor",
+        "en": "Johor",
+        "slug": "johor-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.25",
+      "lon": "102.583"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

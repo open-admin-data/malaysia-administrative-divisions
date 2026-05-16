@@ -1,0 +1,1406 @@
+[
+  {
+    "id": "0214-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR AMAN JAYA",
+      "en": "BANDAR AMAN JAYA",
+      "slug": "bandar-aman-jaya-0214-003"
+    },
+    "code": {
+      "id": "0214-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "Kuala Muda",
+        "en": "Kuala Muda",
+        "slug": "kuala-muda-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "Kuala Muda",
+          "en": "Kuala Muda",
+          "slug": "kuala-muda-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.674",
+      "lon": "100.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0214-026",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BEDONG",
+      "en": "BANDAR BEDONG",
+      "slug": "bandar-bedong-0214-026"
+    },
+    "code": {
+      "id": "0214-026",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "Kuala Muda",
+        "en": "Kuala Muda",
+        "slug": "kuala-muda-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "Kuala Muda",
+          "en": "Kuala Muda",
+          "slug": "kuala-muda-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.736",
+      "lon": "100.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0214-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR GURUN",
+      "en": "BANDAR GURUN",
+      "slug": "bandar-gurun-0214-013"
+    },
+    "code": {
+      "id": "0214-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "Kuala Muda",
+        "en": "Kuala Muda",
+        "slug": "kuala-muda-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "Kuala Muda",
+          "en": "Kuala Muda",
+          "slug": "kuala-muda-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.816",
+      "lon": "100.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0214-022",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR MERBOK",
+      "en": "BANDAR MERBOK",
+      "slug": "bandar-merbok-0214-022"
+    },
+    "code": {
+      "id": "0214-022",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "Kuala Muda",
+        "en": "Kuala Muda",
+        "slug": "kuala-muda-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "Kuala Muda",
+          "en": "Kuala Muda",
+          "slug": "kuala-muda-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.721",
+      "lon": "100.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0214-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SEMELING",
+      "en": "BANDAR SEMELING",
+      "slug": "bandar-semeling-0214-002"
+    },
+    "code": {
+      "id": "0214-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "Kuala Muda",
+        "en": "Kuala Muda",
+        "slug": "kuala-muda-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "Kuala Muda",
+          "en": "Kuala Muda",
+          "slug": "kuala-muda-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.709",
+      "lon": "100.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0214-017",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SUNGAI LALANG",
+      "en": "BANDAR SUNGAI LALANG",
+      "slug": "bandar-sungai-lalang-0214-017"
+    },
+    "code": {
+      "id": "0214-017",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "Kuala Muda",
+        "en": "Kuala Muda",
+        "slug": "kuala-muda-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "Kuala Muda",
+          "en": "Kuala Muda",
+          "slug": "kuala-muda-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.714",
+      "lon": "100.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0214-019",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SUNGAI PETANI",
+      "en": "BANDAR SUNGAI PETANI",
+      "slug": "bandar-sungai-petani-0214-019"
+    },
+    "code": {
+      "id": "0214-019",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "Kuala Muda",
+        "en": "Kuala Muda",
+        "slug": "kuala-muda-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "Kuala Muda",
+          "en": "Kuala Muda",
+          "slug": "kuala-muda-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.625",
+      "lon": "100.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0214-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR TIKAM BATU",
+      "en": "BANDAR TIKAM BATU",
+      "slug": "bandar-tikam-batu-0214-015"
+    },
+    "code": {
+      "id": "0214-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "Kuala Muda",
+        "en": "Kuala Muda",
+        "slug": "kuala-muda-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "Kuala Muda",
+          "en": "Kuala Muda",
+          "slug": "kuala-muda-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.585",
+      "lon": "100.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0214-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BUJANG",
+      "en": "BUJANG",
+      "slug": "bujang-0214-006"
+    },
+    "code": {
+      "id": "0214-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "Kuala Muda",
+        "en": "Kuala Muda",
+        "slug": "kuala-muda-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "Kuala Muda",
+          "en": "Kuala Muda",
+          "slug": "kuala-muda-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.7",
+      "lon": "100.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0214-021",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BUKIT MERIAM",
+      "en": "BUKIT MERIAM",
+      "slug": "bukit-meriam-0214-021"
+    },
+    "code": {
+      "id": "0214-021",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "Kuala Muda",
+        "en": "Kuala Muda",
+        "slug": "kuala-muda-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "Kuala Muda",
+          "en": "Kuala Muda",
+          "slug": "kuala-muda-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.64",
+      "lon": "100.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0214-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM GURUN",
+      "en": "GURUN",
+      "slug": "gurun-0214-011"
+    },
+    "code": {
+      "id": "0214-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "Kuala Muda",
+        "en": "Kuala Muda",
+        "slug": "kuala-muda-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "Kuala Muda",
+          "en": "Kuala Muda",
+          "slug": "kuala-muda-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.803",
+      "lon": "100.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0214-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM HAJI KUDONG",
+      "en": "HAJI KUDONG",
+      "slug": "haji-kudong-0214-008"
+    },
+    "code": {
+      "id": "0214-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "Kuala Muda",
+        "en": "Kuala Muda",
+        "slug": "kuala-muda-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "Kuala Muda",
+          "en": "Kuala Muda",
+          "slug": "kuala-muda-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.587",
+      "lon": "100.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0214-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUALA",
+      "en": "KUALA",
+      "slug": "kuala-0214-005"
+    },
+    "code": {
+      "id": "0214-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "Kuala Muda",
+        "en": "Kuala Muda",
+        "slug": "kuala-muda-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "Kuala Muda",
+          "en": "Kuala Muda",
+          "slug": "kuala-muda-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.599",
+      "lon": "100.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0214-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM MERBOK",
+      "en": "MERBOK",
+      "slug": "merbok-0214-012"
+    },
+    "code": {
+      "id": "0214-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "Kuala Muda",
+        "en": "Kuala Muda",
+        "slug": "kuala-muda-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "Kuala Muda",
+          "en": "Kuala Muda",
+          "slug": "kuala-muda-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.721",
+      "lon": "100.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0214-018",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BUKIT SELAMBAU",
+      "en": "PEKAN BUKIT SELAMBAU",
+      "slug": "pekan-bukit-selambau-0214-018"
+    },
+    "code": {
+      "id": "0214-018",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "Kuala Muda",
+        "en": "Kuala Muda",
+        "slug": "kuala-muda-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "Kuala Muda",
+          "en": "Kuala Muda",
+          "slug": "kuala-muda-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.682",
+      "lon": "100.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0214-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN JENIANG",
+      "en": "PEKAN JENIANG",
+      "slug": "pekan-jeniang-0214-014"
+    },
+    "code": {
+      "id": "0214-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "Kuala Muda",
+        "en": "Kuala Muda",
+        "slug": "kuala-muda-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "Kuala Muda",
+          "en": "Kuala Muda",
+          "slug": "kuala-muda-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.804",
+      "lon": "100.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0214-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KOTA KUALA MUDA",
+      "en": "PEKAN KOTA KUALA MUDA",
+      "slug": "pekan-kota-kuala-muda-0214-007"
+    },
+    "code": {
+      "id": "0214-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "Kuala Muda",
+        "en": "Kuala Muda",
+        "slug": "kuala-muda-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "Kuala Muda",
+          "en": "Kuala Muda",
+          "slug": "kuala-muda-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.586",
+      "lon": "100.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0214-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TANJUNG DAWAI",
+      "en": "PEKAN TANJUNG DAWAI",
+      "slug": "pekan-tanjung-dawai-0214-004"
+    },
+    "code": {
+      "id": "0214-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "Kuala Muda",
+        "en": "Kuala Muda",
+        "slug": "kuala-muda-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "Kuala Muda",
+          "en": "Kuala Muda",
+          "slug": "kuala-muda-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.693",
+      "lon": "100.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0214-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PEKULA",
+      "en": "PEKULA",
+      "slug": "pekula-0214-001"
+    },
+    "code": {
+      "id": "0214-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "Kuala Muda",
+        "en": "Kuala Muda",
+        "slug": "kuala-muda-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "Kuala Muda",
+          "en": "Kuala Muda",
+          "slug": "kuala-muda-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.585",
+      "lon": "100.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0214-020",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PINANG TUNGGAL",
+      "en": "PINANG TUNGGAL",
+      "slug": "pinang-tunggal-0214-020"
+    },
+    "code": {
+      "id": "0214-020",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "Kuala Muda",
+        "en": "Kuala Muda",
+        "slug": "kuala-muda-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "Kuala Muda",
+          "en": "Kuala Muda",
+          "slug": "kuala-muda-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.57",
+      "lon": "100.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0214-023",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SEMELING",
+      "en": "SEMELING",
+      "slug": "semeling-0214-023"
+    },
+    "code": {
+      "id": "0214-023",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "Kuala Muda",
+        "en": "Kuala Muda",
+        "slug": "kuala-muda-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "Kuala Muda",
+          "en": "Kuala Muda",
+          "slug": "kuala-muda-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.715",
+      "lon": "100.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0214-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SIDAM KIRI",
+      "en": "SIDAM KIRI",
+      "slug": "sidam-kiri-0214-016"
+    },
+    "code": {
+      "id": "0214-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "Kuala Muda",
+        "en": "Kuala Muda",
+        "slug": "kuala-muda-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "Kuala Muda",
+          "en": "Kuala Muda",
+          "slug": "kuala-muda-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.574",
+      "lon": "100.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0214-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SIMPOR",
+      "en": "SIMPOR",
+      "slug": "simpor-0214-009"
+    },
+    "code": {
+      "id": "0214-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "Kuala Muda",
+        "en": "Kuala Muda",
+        "slug": "kuala-muda-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "Kuala Muda",
+          "en": "Kuala Muda",
+          "slug": "kuala-muda-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.609",
+      "lon": "100.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0214-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SUNGAI PASIR",
+      "en": "SUNGAI PASIR",
+      "slug": "sungai-pasir-0214-010"
+    },
+    "code": {
+      "id": "0214-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "Kuala Muda",
+        "en": "Kuala Muda",
+        "slug": "kuala-muda-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "Kuala Muda",
+          "en": "Kuala Muda",
+          "slug": "kuala-muda-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.618",
+      "lon": "100.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0214-024",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SUNGAI PETANI",
+      "en": "SUNGAI PETANI",
+      "slug": "sungai-petani-0214-024"
+    },
+    "code": {
+      "id": "0214-024",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "Kuala Muda",
+        "en": "Kuala Muda",
+        "slug": "kuala-muda-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "Kuala Muda",
+          "en": "Kuala Muda",
+          "slug": "kuala-muda-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.697",
+      "lon": "100.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0214-025",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TELOI KIRI",
+      "en": "TELOI KIRI",
+      "slug": "teloi-kiri-0214-025"
+    },
+    "code": {
+      "id": "0214-025",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "Kuala Muda",
+        "en": "Kuala Muda",
+        "slug": "kuala-muda-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "Kuala Muda",
+          "en": "Kuala Muda",
+          "slug": "kuala-muda-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.709",
+      "lon": "100.626"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

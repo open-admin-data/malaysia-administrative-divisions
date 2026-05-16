@@ -1,0 +1,14 @@
+# Federal Territory of Putrajaya — Malaysia Administrative Divisions
+
+> 1 districts, 0 subdistricts
+> Code: 16
+> Coordinates: 2.93, 101.683
+> Last updated: 2026-05-16. License: CC-BY-4.0.
+
+## Districts
+
+### W.P. Putrajaya
+
+Code: 16160, Coordinates: 2.938, 101.692
+Subdistricts: 0
+

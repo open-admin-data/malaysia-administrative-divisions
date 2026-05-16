@@ -1,0 +1,47 @@
+{
+  "id": "0540",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Port Dickson",
+    "en": "Port Dickson",
+    "slug": "port-dickson-0540"
+  },
+  "code": {
+    "id": "0540",
+    "iso": null
+  },
+  "parent": {
+    "id": "05",
+    "level": 1,
+    "name": {
+      "local": "Negeri Sembilan",
+      "en": "Negeri Sembilan",
+      "slug": "negeri-sembilan-05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "05",
+      "level": 1,
+      "name": {
+        "local": "Negeri Sembilan",
+        "en": "Negeri Sembilan",
+        "slug": "negeri-sembilan-05"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.549",
+    "lon": "101.849"
+  },
+  "metadata": {},
+  "source": {}
+}

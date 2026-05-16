@@ -1,0 +1,434 @@
+[
+  {
+    "id": "13122-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BAREO LAND DISTRICT",
+      "en": "BAREO LAND DISTRICT",
+      "slug": "bareo-land-district-13122-004"
+    },
+    "code": {
+      "id": "13122-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13122",
+      "level": 2,
+      "name": {
+        "local": "Miri",
+        "en": "Miri",
+        "slug": "miri-13122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13122",
+        "level": 2,
+        "name": {
+          "local": "Miri",
+          "en": "Miri",
+          "slug": "miri-13122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.709",
+      "lon": "115.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13122-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "KUALA BARAM LAND DISTRICT",
+      "en": "KUALA BARAM LAND DISTRICT",
+      "slug": "kuala-baram-land-district-13122-008"
+    },
+    "code": {
+      "id": "13122-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "13122",
+      "level": 2,
+      "name": {
+        "local": "Miri",
+        "en": "Miri",
+        "slug": "miri-13122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13122",
+        "level": 2,
+        "name": {
+          "local": "Miri",
+          "en": "Miri",
+          "slug": "miri-13122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.488",
+      "lon": "114.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13122-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "KUALA BARAM TOWN DISTRICT",
+      "en": "KUALA BARAM TOWN DISTRICT",
+      "slug": "kuala-baram-town-district-13122-005"
+    },
+    "code": {
+      "id": "13122-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "13122",
+      "level": 2,
+      "name": {
+        "local": "Miri",
+        "en": "Miri",
+        "slug": "miri-13122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13122",
+        "level": 2,
+        "name": {
+          "local": "Miri",
+          "en": "Miri",
+          "slug": "miri-13122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.577",
+      "lon": "113.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13122-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "LAMBIR LAND DISTRICT",
+      "en": "LAMBIR LAND DISTRICT",
+      "slug": "lambir-land-district-13122-003"
+    },
+    "code": {
+      "id": "13122-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13122",
+      "level": 2,
+      "name": {
+        "local": "Miri",
+        "en": "Miri",
+        "slug": "miri-13122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13122",
+        "level": 2,
+        "name": {
+          "local": "Miri",
+          "en": "Miri",
+          "slug": "miri-13122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.225",
+      "lon": "113.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13122-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "LIO MATOH LAND DISTRICT",
+      "en": "LIO MATOH LAND DISTRICT",
+      "slug": "lio-matoh-land-district-13122-001"
+    },
+    "code": {
+      "id": "13122-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13122",
+      "level": 2,
+      "name": {
+        "local": "Miri",
+        "en": "Miri",
+        "slug": "miri-13122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13122",
+        "level": 2,
+        "name": {
+          "local": "Miri",
+          "en": "Miri",
+          "slug": "miri-13122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.102",
+      "lon": "115.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13122-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "LUTONG TOWN DISTRICT",
+      "en": "LUTONG TOWN DISTRICT",
+      "slug": "lutong-town-district-13122-007"
+    },
+    "code": {
+      "id": "13122-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "13122",
+      "level": 2,
+      "name": {
+        "local": "Miri",
+        "en": "Miri",
+        "slug": "miri-13122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13122",
+        "level": 2,
+        "name": {
+          "local": "Miri",
+          "en": "Miri",
+          "slug": "miri-13122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.465",
+      "lon": "114.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13122-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MIRI CONCESSION LAND DISTRICT",
+      "en": "MIRI CONCESSION LAND DISTRICT",
+      "slug": "miri-concession-land-district-13122-002"
+    },
+    "code": {
+      "id": "13122-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13122",
+      "level": 2,
+      "name": {
+        "local": "Miri",
+        "en": "Miri",
+        "slug": "miri-13122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13122",
+        "level": 2,
+        "name": {
+          "local": "Miri",
+          "en": "Miri",
+          "slug": "miri-13122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.418",
+      "lon": "113.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13122-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "RIAM ROAD BAZAAR TOWN DISTRICT",
+      "en": "RIAM ROAD BAZAAR TOWN DISTRICT",
+      "slug": "riam-road-bazaar-town-district-13122-006"
+    },
+    "code": {
+      "id": "13122-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "13122",
+      "level": 2,
+      "name": {
+        "local": "Miri",
+        "en": "Miri",
+        "slug": "miri-13122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13122",
+        "level": 2,
+        "name": {
+          "local": "Miri",
+          "en": "Miri",
+          "slug": "miri-13122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.342",
+      "lon": "114.003"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

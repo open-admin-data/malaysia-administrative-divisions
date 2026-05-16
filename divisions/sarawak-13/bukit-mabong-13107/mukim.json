@@ -1,0 +1,380 @@
+[
+  {
+    "id": "13107-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANING LAND DISTRICT",
+      "en": "BANING LAND DISTRICT",
+      "slug": "baning-land-district-13107-007"
+    },
+    "code": {
+      "id": "13107-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "13107",
+      "level": 2,
+      "name": {
+        "local": "Bukit Mabong",
+        "en": "Bukit Mabong",
+        "slug": "bukit-mabong-13107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13107",
+        "level": 2,
+        "name": {
+          "local": "Bukit Mabong",
+          "en": "Bukit Mabong",
+          "slug": "bukit-mabong-13107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.901",
+      "lon": "113.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13107-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ENTEMU LAND DISTRICT",
+      "en": "ENTEMU LAND DISTRICT",
+      "slug": "entemu-land-district-13107-002"
+    },
+    "code": {
+      "id": "13107-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13107",
+      "level": 2,
+      "name": {
+        "local": "Bukit Mabong",
+        "en": "Bukit Mabong",
+        "slug": "bukit-mabong-13107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13107",
+        "level": 2,
+        "name": {
+          "local": "Bukit Mabong",
+          "en": "Bukit Mabong",
+          "slug": "bukit-mabong-13107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.593",
+      "lon": "113.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13107-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "KUMBONG LAND DISTRICT",
+      "en": "KUMBONG LAND DISTRICT",
+      "slug": "kumbong-land-district-13107-005"
+    },
+    "code": {
+      "id": "13107-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "13107",
+      "level": 2,
+      "name": {
+        "local": "Bukit Mabong",
+        "en": "Bukit Mabong",
+        "slug": "bukit-mabong-13107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13107",
+        "level": 2,
+        "name": {
+          "local": "Bukit Mabong",
+          "en": "Bukit Mabong",
+          "slug": "bukit-mabong-13107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.995",
+      "lon": "114.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13107-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MAJAU LAND DISTRICT",
+      "en": "MAJAU LAND DISTRICT",
+      "slug": "majau-land-district-13107-004"
+    },
+    "code": {
+      "id": "13107-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13107",
+      "level": 2,
+      "name": {
+        "local": "Bukit Mabong",
+        "en": "Bukit Mabong",
+        "slug": "bukit-mabong-13107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13107",
+        "level": 2,
+        "name": {
+          "local": "Bukit Mabong",
+          "en": "Bukit Mabong",
+          "slug": "bukit-mabong-13107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.091",
+      "lon": "113.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13107-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MENGIONG LAND DISTRICT",
+      "en": "MENGIONG LAND DISTRICT",
+      "slug": "mengiong-land-district-13107-001"
+    },
+    "code": {
+      "id": "13107-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13107",
+      "level": 2,
+      "name": {
+        "local": "Bukit Mabong",
+        "en": "Bukit Mabong",
+        "slug": "bukit-mabong-13107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13107",
+        "level": 2,
+        "name": {
+          "local": "Bukit Mabong",
+          "en": "Bukit Mabong",
+          "slug": "bukit-mabong-13107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.462",
+      "lon": "113.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13107-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MERIRAI LAND DISTRICT",
+      "en": "MERIRAI LAND DISTRICT",
+      "slug": "merirai-land-district-13107-006"
+    },
+    "code": {
+      "id": "13107-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "13107",
+      "level": 2,
+      "name": {
+        "local": "Bukit Mabong",
+        "en": "Bukit Mabong",
+        "slug": "bukit-mabong-13107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13107",
+        "level": 2,
+        "name": {
+          "local": "Bukit Mabong",
+          "en": "Bukit Mabong",
+          "slug": "bukit-mabong-13107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.874",
+      "lon": "113.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13107-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SERANI LAND DISTRICT",
+      "en": "SERANI LAND DISTRICT",
+      "slug": "serani-land-district-13107-003"
+    },
+    "code": {
+      "id": "13107-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13107",
+      "level": 2,
+      "name": {
+        "local": "Bukit Mabong",
+        "en": "Bukit Mabong",
+        "slug": "bukit-mabong-13107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13107",
+        "level": 2,
+        "name": {
+          "local": "Bukit Mabong",
+          "en": "Bukit Mabong",
+          "slug": "bukit-mabong-13107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.6",
+      "lon": "114.156"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

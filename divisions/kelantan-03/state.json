@@ -1,0 +1,30 @@
+{
+  "id": "03",
+  "level": 1,
+  "level_name": {
+    "local": "Negeri",
+    "en": "State"
+  },
+  "name": {
+    "local": "Kelantan",
+    "en": "Kelantan",
+    "slug": "kelantan-03"
+  },
+  "code": {
+    "id": "03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 11,
+    "mukim": 302
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.629",
+    "lon": "101.943"
+  },
+  "metadata": {},
+  "source": {}
+}

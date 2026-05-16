@@ -1,0 +1,920 @@
+[
+  {
+    "id": "0862-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR KUALA KANGSAR",
+      "en": "BANDAR KUALA KANGSAR",
+      "slug": "bandar-kuala-kangsar-0862-006"
+    },
+    "code": {
+      "id": "0862-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0862",
+      "level": 2,
+      "name": {
+        "local": "Kuala Kangsar",
+        "en": "Kuala Kangsar",
+        "slug": "kuala-kangsar-0862"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0862",
+        "level": 2,
+        "name": {
+          "local": "Kuala Kangsar",
+          "en": "Kuala Kangsar",
+          "slug": "kuala-kangsar-0862"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.771",
+      "lon": "100.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0862-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SUNGAI SIPUT",
+      "en": "BANDAR SUNGAI SIPUT",
+      "slug": "bandar-sungai-siput-0862-012"
+    },
+    "code": {
+      "id": "0862-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0862",
+      "level": 2,
+      "name": {
+        "local": "Kuala Kangsar",
+        "en": "Kuala Kangsar",
+        "slug": "kuala-kangsar-0862"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0862",
+        "level": 2,
+        "name": {
+          "local": "Kuala Kangsar",
+          "en": "Kuala Kangsar",
+          "slug": "kuala-kangsar-0862"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.82",
+      "lon": "101.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0862-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM CHEGAR GALAH",
+      "en": "CHEGAR GALAH",
+      "slug": "chegar-galah-0862-011"
+    },
+    "code": {
+      "id": "0862-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0862",
+      "level": 2,
+      "name": {
+        "local": "Kuala Kangsar",
+        "en": "Kuala Kangsar",
+        "slug": "kuala-kangsar-0862"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0862",
+        "level": 2,
+        "name": {
+          "local": "Kuala Kangsar",
+          "en": "Kuala Kangsar",
+          "slug": "kuala-kangsar-0862"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.901",
+      "lon": "100.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0862-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KAMPONG BUAYA",
+      "en": "KAMPONG BUAYA",
+      "slug": "kampong-buaya-0862-004"
+    },
+    "code": {
+      "id": "0862-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0862",
+      "level": 2,
+      "name": {
+        "local": "Kuala Kangsar",
+        "en": "Kuala Kangsar",
+        "slug": "kuala-kangsar-0862"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0862",
+        "level": 2,
+        "name": {
+          "local": "Kuala Kangsar",
+          "en": "Kuala Kangsar",
+          "slug": "kuala-kangsar-0862"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.774",
+      "lon": "100.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0862-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KOTA LAMA KANAN",
+      "en": "KOTA LAMA KANAN",
+      "slug": "kota-lama-kanan-0862-016"
+    },
+    "code": {
+      "id": "0862-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "0862",
+      "level": 2,
+      "name": {
+        "local": "Kuala Kangsar",
+        "en": "Kuala Kangsar",
+        "slug": "kuala-kangsar-0862"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0862",
+        "level": 2,
+        "name": {
+          "local": "Kuala Kangsar",
+          "en": "Kuala Kangsar",
+          "slug": "kuala-kangsar-0862"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.816",
+      "lon": "100.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0862-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KOTA LAMA KIRI",
+      "en": "KOTA LAMA KIRI",
+      "slug": "kota-lama-kiri-0862-002"
+    },
+    "code": {
+      "id": "0862-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0862",
+      "level": 2,
+      "name": {
+        "local": "Kuala Kangsar",
+        "en": "Kuala Kangsar",
+        "slug": "kuala-kangsar-0862"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0862",
+        "level": 2,
+        "name": {
+          "local": "Kuala Kangsar",
+          "en": "Kuala Kangsar",
+          "slug": "kuala-kangsar-0862"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.852",
+      "lon": "100.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0862-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM LUBOK MERBAU",
+      "en": "LUBOK MERBAU",
+      "slug": "lubok-merbau-0862-014"
+    },
+    "code": {
+      "id": "0862-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "0862",
+      "level": 2,
+      "name": {
+        "local": "Kuala Kangsar",
+        "en": "Kuala Kangsar",
+        "slug": "kuala-kangsar-0862"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0862",
+        "level": 2,
+        "name": {
+          "local": "Kuala Kangsar",
+          "en": "Kuala Kangsar",
+          "slug": "kuala-kangsar-0862"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.815",
+      "lon": "100.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0862-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN GUNONG PONDOK",
+      "en": "PEKAN GUNONG PONDOK",
+      "slug": "pekan-gunong-pondok-0862-015"
+    },
+    "code": {
+      "id": "0862-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "0862",
+      "level": 2,
+      "name": {
+        "local": "Kuala Kangsar",
+        "en": "Kuala Kangsar",
+        "slug": "kuala-kangsar-0862"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0862",
+        "level": 2,
+        "name": {
+          "local": "Kuala Kangsar",
+          "en": "Kuala Kangsar",
+          "slug": "kuala-kangsar-0862"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.781",
+      "lon": "100.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0862-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN JERLUN",
+      "en": "PEKAN JERLUN",
+      "slug": "pekan-jerlun-0862-003"
+    },
+    "code": {
+      "id": "0862-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0862",
+      "level": 2,
+      "name": {
+        "local": "Kuala Kangsar",
+        "en": "Kuala Kangsar",
+        "slug": "kuala-kangsar-0862"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0862",
+        "level": 2,
+        "name": {
+          "local": "Kuala Kangsar",
+          "en": "Kuala Kangsar",
+          "slug": "kuala-kangsar-0862"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.729",
+      "lon": "100.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0862-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KARAI",
+      "en": "PEKAN KARAI",
+      "slug": "pekan-karai-0862-009"
+    },
+    "code": {
+      "id": "0862-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0862",
+      "level": 2,
+      "name": {
+        "local": "Kuala Kangsar",
+        "en": "Kuala Kangsar",
+        "slug": "kuala-kangsar-0862"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0862",
+        "level": 2,
+        "name": {
+          "local": "Kuala Kangsar",
+          "en": "Kuala Kangsar",
+          "slug": "kuala-kangsar-0862"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.835",
+      "lon": "100.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0862-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KATI",
+      "en": "PEKAN KATI",
+      "slug": "pekan-kati-0862-013"
+    },
+    "code": {
+      "id": "0862-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0862",
+      "level": 2,
+      "name": {
+        "local": "Kuala Kangsar",
+        "en": "Kuala Kangsar",
+        "slug": "kuala-kangsar-0862"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0862",
+        "level": 2,
+        "name": {
+          "local": "Kuala Kangsar",
+          "en": "Kuala Kangsar",
+          "slug": "kuala-kangsar-0862"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.876",
+      "lon": "100.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0862-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN MANONG",
+      "en": "PEKAN MANONG",
+      "slug": "pekan-manong-0862-001"
+    },
+    "code": {
+      "id": "0862-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0862",
+      "level": 2,
+      "name": {
+        "local": "Kuala Kangsar",
+        "en": "Kuala Kangsar",
+        "slug": "kuala-kangsar-0862"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0862",
+        "level": 2,
+        "name": {
+          "local": "Kuala Kangsar",
+          "en": "Kuala Kangsar",
+          "slug": "kuala-kangsar-0862"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.594",
+      "lon": "100.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0862-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PADANG RENGAS",
+      "en": "PEKAN PADANG RENGAS",
+      "slug": "pekan-padang-rengas-0862-005"
+    },
+    "code": {
+      "id": "0862-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0862",
+      "level": 2,
+      "name": {
+        "local": "Kuala Kangsar",
+        "en": "Kuala Kangsar",
+        "slug": "kuala-kangsar-0862"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0862",
+        "level": 2,
+        "name": {
+          "local": "Kuala Kangsar",
+          "en": "Kuala Kangsar",
+          "slug": "kuala-kangsar-0862"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.776",
+      "lon": "100.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0862-017",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PULAU KAMIRI",
+      "en": "PULAU KAMIRI",
+      "slug": "pulau-kamiri-0862-017"
+    },
+    "code": {
+      "id": "0862-017",
+      "iso": null
+    },
+    "parent": {
+      "id": "0862",
+      "level": 2,
+      "name": {
+        "local": "Kuala Kangsar",
+        "en": "Kuala Kangsar",
+        "slug": "kuala-kangsar-0862"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0862",
+        "level": 2,
+        "name": {
+          "local": "Kuala Kangsar",
+          "en": "Kuala Kangsar",
+          "slug": "kuala-kangsar-0862"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.977",
+      "lon": "101.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0862-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SAYUNG",
+      "en": "SAYUNG",
+      "slug": "sayung-0862-008"
+    },
+    "code": {
+      "id": "0862-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0862",
+      "level": 2,
+      "name": {
+        "local": "Kuala Kangsar",
+        "en": "Kuala Kangsar",
+        "slug": "kuala-kangsar-0862"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0862",
+        "level": 2,
+        "name": {
+          "local": "Kuala Kangsar",
+          "en": "Kuala Kangsar",
+          "slug": "kuala-kangsar-0862"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.75",
+      "lon": "100.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0862-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SENGGANG",
+      "en": "SENGGANG",
+      "slug": "senggang-0862-007"
+    },
+    "code": {
+      "id": "0862-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0862",
+      "level": 2,
+      "name": {
+        "local": "Kuala Kangsar",
+        "en": "Kuala Kangsar",
+        "slug": "kuala-kangsar-0862"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0862",
+        "level": 2,
+        "name": {
+          "local": "Kuala Kangsar",
+          "en": "Kuala Kangsar",
+          "slug": "kuala-kangsar-0862"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.626",
+      "lon": "100.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0862-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SUNGAI SIPUT",
+      "en": "SUNGAI SIPUT",
+      "slug": "sungai-siput-0862-010"
+    },
+    "code": {
+      "id": "0862-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0862",
+      "level": 2,
+      "name": {
+        "local": "Kuala Kangsar",
+        "en": "Kuala Kangsar",
+        "slug": "kuala-kangsar-0862"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0862",
+        "level": 2,
+        "name": {
+          "local": "Kuala Kangsar",
+          "en": "Kuala Kangsar",
+          "slug": "kuala-kangsar-0862"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.842",
+      "lon": "101.267"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

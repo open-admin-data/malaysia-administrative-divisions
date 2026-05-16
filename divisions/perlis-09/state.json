@@ -1,0 +1,30 @@
+{
+  "id": "09",
+  "level": 1,
+  "level_name": {
+    "local": "Negeri",
+    "en": "State"
+  },
+  "name": {
+    "local": "Perlis",
+    "en": "Perlis",
+    "slug": "perlis-09"
+  },
+  "code": {
+    "id": "09",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 1,
+    "mukim": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.586",
+    "lon": "100.221"
+  },
+  "metadata": {},
+  "source": {}
+}

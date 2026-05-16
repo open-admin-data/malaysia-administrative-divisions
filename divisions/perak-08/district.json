@@ -1,0 +1,613 @@
+[
+  {
+    "id": "0855",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bagan Datuk",
+      "en": "Bagan Datuk",
+      "slug": "bagan-datuk-0855"
+    },
+    "code": {
+      "id": "0855",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.851",
+      "lon": "100.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0856",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Batang Padang",
+      "en": "Batang Padang",
+      "slug": "batang-padang-0856"
+    },
+    "code": {
+      "id": "0856",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.241",
+      "lon": "101.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0857",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hilir Perak",
+      "en": "Hilir Perak",
+      "slug": "hilir-perak-0857"
+    },
+    "code": {
+      "id": "0857",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.041",
+      "lon": "100.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0858",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hulu Perak",
+      "en": "Hulu Perak",
+      "slug": "hulu-perak-0858"
+    },
+    "code": {
+      "id": "0858",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.374",
+      "lon": "101.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0859",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kampar",
+      "en": "Kampar",
+      "slug": "kampar-0859"
+    },
+    "code": {
+      "id": "0859",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.412",
+      "lon": "101.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0860",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kerian",
+      "en": "Kerian",
+      "slug": "kerian-0860"
+    },
+    "code": {
+      "id": "0860",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.029",
+      "lon": "100.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0861",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kinta",
+      "en": "Kinta",
+      "slug": "kinta-0861"
+    },
+    "code": {
+      "id": "0861",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.568",
+      "lon": "101.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0862",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuala Kangsar",
+      "en": "Kuala Kangsar",
+      "slug": "kuala-kangsar-0862"
+    },
+    "code": {
+      "id": "0862",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.819",
+      "lon": "101.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0863",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Larut Dan Matang",
+      "en": "Larut Dan Matang",
+      "slug": "larut-dan-matang-0863"
+    },
+    "code": {
+      "id": "0863",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.806",
+      "lon": "100.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0864",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Manjung",
+      "en": "Manjung",
+      "slug": "manjung-0864"
+    },
+    "code": {
+      "id": "0864",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.23",
+      "lon": "100.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0865",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Muallim",
+      "en": "Muallim",
+      "slug": "muallim-0865"
+    },
+    "code": {
+      "id": "0865",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.852",
+      "lon": "101.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0866",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Perak Tengah",
+      "en": "Perak Tengah",
+      "slug": "perak-tengah-0866"
+    },
+    "code": {
+      "id": "0866",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.225",
+      "lon": "100.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0867",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Selama",
+      "en": "Selama",
+      "slug": "selama-0867"
+    },
+    "code": {
+      "id": "0867",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.223",
+      "lon": "100.834"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

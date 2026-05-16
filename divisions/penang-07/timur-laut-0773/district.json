@@ -1,0 +1,47 @@
+{
+  "id": "0773",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Timur Laut",
+    "en": "Timur Laut",
+    "slug": "timur-laut-0773"
+  },
+  "code": {
+    "id": "0773",
+    "iso": null
+  },
+  "parent": {
+    "id": "07",
+    "level": 1,
+    "name": {
+      "local": "Pulau Pinang",
+      "en": "Penang",
+      "slug": "penang-07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "07",
+      "level": 1,
+      "name": {
+        "local": "Pulau Pinang",
+        "en": "Penang",
+        "slug": "penang-07"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.379",
+    "lon": "100.297"
+  },
+  "metadata": {},
+  "source": {}
+}

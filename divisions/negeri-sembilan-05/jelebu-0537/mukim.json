@@ -1,0 +1,866 @@
+[
+  {
+    "id": "0537-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR KUALA KLAWANG",
+      "en": "BANDAR KUALA KLAWANG",
+      "slug": "bandar-kuala-klawang-0537-011"
+    },
+    "code": {
+      "id": "0537-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0537",
+      "level": 2,
+      "name": {
+        "local": "Jelebu",
+        "en": "Jelebu",
+        "slug": "jelebu-0537"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0537",
+        "level": 2,
+        "name": {
+          "local": "Jelebu",
+          "en": "Jelebu",
+          "slug": "jelebu-0537"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.939",
+      "lon": "102.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0537-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM GLAMI LEMI",
+      "en": "GLAMI LEMI",
+      "slug": "glami-lemi-0537-002"
+    },
+    "code": {
+      "id": "0537-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0537",
+      "level": 2,
+      "name": {
+        "local": "Jelebu",
+        "en": "Jelebu",
+        "slug": "jelebu-0537"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0537",
+        "level": 2,
+        "name": {
+          "local": "Jelebu",
+          "en": "Jelebu",
+          "slug": "jelebu-0537"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.002",
+      "lon": "102.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0537-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KENABOI",
+      "en": "KENABOI",
+      "slug": "kenaboi-0537-005"
+    },
+    "code": {
+      "id": "0537-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0537",
+      "level": 2,
+      "name": {
+        "local": "Jelebu",
+        "en": "Jelebu",
+        "slug": "jelebu-0537"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0537",
+        "level": 2,
+        "name": {
+          "local": "Jelebu",
+          "en": "Jelebu",
+          "slug": "jelebu-0537"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.144",
+      "lon": "102.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0537-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUALA KLAWANG",
+      "en": "KUALA KLAWANG",
+      "slug": "kuala-klawang-0537-001"
+    },
+    "code": {
+      "id": "0537-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0537",
+      "level": 2,
+      "name": {
+        "local": "Jelebu",
+        "en": "Jelebu",
+        "slug": "jelebu-0537"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0537",
+        "level": 2,
+        "name": {
+          "local": "Jelebu",
+          "en": "Jelebu",
+          "slug": "jelebu-0537"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.923",
+      "lon": "102.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0537-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KUALA KLAWANG",
+      "en": "PEKAN KUALA KLAWANG",
+      "slug": "pekan-kuala-klawang-0537-008"
+    },
+    "code": {
+      "id": "0537-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0537",
+      "level": 2,
+      "name": {
+        "local": "Jelebu",
+        "en": "Jelebu",
+        "slug": "jelebu-0537"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0537",
+        "level": 2,
+        "name": {
+          "local": "Jelebu",
+          "en": "Jelebu",
+          "slug": "jelebu-0537"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.952",
+      "lon": "102.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0537-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PERTANG",
+      "en": "PEKAN PERTANG",
+      "slug": "pekan-pertang-0537-015"
+    },
+    "code": {
+      "id": "0537-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "0537",
+      "level": 2,
+      "name": {
+        "local": "Jelebu",
+        "en": "Jelebu",
+        "slug": "jelebu-0537"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0537",
+        "level": 2,
+        "name": {
+          "local": "Jelebu",
+          "en": "Jelebu",
+          "slug": "jelebu-0537"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.959",
+      "lon": "102.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0537-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PETALING",
+      "en": "PEKAN PETALING",
+      "slug": "pekan-petaling-0537-007"
+    },
+    "code": {
+      "id": "0537-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0537",
+      "level": 2,
+      "name": {
+        "local": "Jelebu",
+        "en": "Jelebu",
+        "slug": "jelebu-0537"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0537",
+        "level": 2,
+        "name": {
+          "local": "Jelebu",
+          "en": "Jelebu",
+          "slug": "jelebu-0537"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.998",
+      "lon": "101.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0537-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SIMPANG DURIAN",
+      "en": "PEKAN SIMPANG DURIAN",
+      "slug": "pekan-simpang-durian-0537-014"
+    },
+    "code": {
+      "id": "0537-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "0537",
+      "level": 2,
+      "name": {
+        "local": "Jelebu",
+        "en": "Jelebu",
+        "slug": "jelebu-0537"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0537",
+        "level": 2,
+        "name": {
+          "local": "Jelebu",
+          "en": "Jelebu",
+          "slug": "jelebu-0537"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.1",
+      "lon": "102.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0537-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SIMPANG PERTANG",
+      "en": "PEKAN SIMPANG PERTANG",
+      "slug": "pekan-simpang-pertang-0537-006"
+    },
+    "code": {
+      "id": "0537-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0537",
+      "level": 2,
+      "name": {
+        "local": "Jelebu",
+        "en": "Jelebu",
+        "slug": "jelebu-0537"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0537",
+        "level": 2,
+        "name": {
+          "local": "Jelebu",
+          "en": "Jelebu",
+          "slug": "jelebu-0537"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.945",
+      "lon": "102.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0537-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SUNGAI MUNTOH",
+      "en": "PEKAN SUNGAI MUNTOH",
+      "slug": "pekan-sungai-muntoh-0537-016"
+    },
+    "code": {
+      "id": "0537-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "0537",
+      "level": 2,
+      "name": {
+        "local": "Jelebu",
+        "en": "Jelebu",
+        "slug": "jelebu-0537"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0537",
+        "level": 2,
+        "name": {
+          "local": "Jelebu",
+          "en": "Jelebu",
+          "slug": "jelebu-0537"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.02",
+      "lon": "102.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0537-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TITI",
+      "en": "PEKAN TITI",
+      "slug": "pekan-titi-0537-009"
+    },
+    "code": {
+      "id": "0537-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0537",
+      "level": 2,
+      "name": {
+        "local": "Jelebu",
+        "en": "Jelebu",
+        "slug": "jelebu-0537"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0537",
+        "level": 2,
+        "name": {
+          "local": "Jelebu",
+          "en": "Jelebu",
+          "slug": "jelebu-0537"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.991",
+      "lon": "102.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0537-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PERADONG",
+      "en": "PERADONG",
+      "slug": "peradong-0537-012"
+    },
+    "code": {
+      "id": "0537-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0537",
+      "level": 2,
+      "name": {
+        "local": "Jelebu",
+        "en": "Jelebu",
+        "slug": "jelebu-0537"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0537",
+        "level": 2,
+        "name": {
+          "local": "Jelebu",
+          "en": "Jelebu",
+          "slug": "jelebu-0537"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.971",
+      "lon": "102.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0537-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PERTANG",
+      "en": "PERTANG",
+      "slug": "pertang-0537-010"
+    },
+    "code": {
+      "id": "0537-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0537",
+      "level": 2,
+      "name": {
+        "local": "Jelebu",
+        "en": "Jelebu",
+        "slug": "jelebu-0537"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0537",
+        "level": 2,
+        "name": {
+          "local": "Jelebu",
+          "en": "Jelebu",
+          "slug": "jelebu-0537"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.997",
+      "lon": "102.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0537-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TRIANG ILIR",
+      "en": "TRIANG ILIR",
+      "slug": "triang-ilir-0537-004"
+    },
+    "code": {
+      "id": "0537-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0537",
+      "level": 2,
+      "name": {
+        "local": "Jelebu",
+        "en": "Jelebu",
+        "slug": "jelebu-0537"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0537",
+        "level": 2,
+        "name": {
+          "local": "Jelebu",
+          "en": "Jelebu",
+          "slug": "jelebu-0537"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.106",
+      "lon": "102.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0537-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM ULU KLAWANG",
+      "en": "ULU KLAWANG",
+      "slug": "ulu-klawang-0537-013"
+    },
+    "code": {
+      "id": "0537-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0537",
+      "level": 2,
+      "name": {
+        "local": "Jelebu",
+        "en": "Jelebu",
+        "slug": "jelebu-0537"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0537",
+        "level": 2,
+        "name": {
+          "local": "Jelebu",
+          "en": "Jelebu",
+          "slug": "jelebu-0537"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.891",
+      "lon": "102.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0537-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM ULU TRIANG",
+      "en": "ULU TRIANG",
+      "slug": "ulu-triang-0537-003"
+    },
+    "code": {
+      "id": "0537-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0537",
+      "level": 2,
+      "name": {
+        "local": "Jelebu",
+        "en": "Jelebu",
+        "slug": "jelebu-0537"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0537",
+        "level": 2,
+        "name": {
+          "local": "Jelebu",
+          "en": "Jelebu",
+          "slug": "jelebu-0537"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.967",
+      "lon": "102.024"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

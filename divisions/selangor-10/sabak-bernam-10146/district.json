@@ -1,0 +1,47 @@
+{
+  "id": "10146",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sabak Bernam",
+    "en": "Sabak Bernam",
+    "slug": "sabak-bernam-10146"
+  },
+  "code": {
+    "id": "10146",
+    "iso": null
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "local": "Selangor",
+      "en": "Selangor",
+      "slug": "selangor-10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "Selangor",
+        "en": "Selangor",
+        "slug": "selangor-10"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.741",
+    "lon": "101.106"
+  },
+  "metadata": {},
+  "source": {}
+}

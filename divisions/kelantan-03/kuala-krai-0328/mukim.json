@@ -1,0 +1,920 @@
+[
+  {
+    "id": "0328-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR KUALA KRAI",
+      "en": "BANDAR KUALA KRAI",
+      "slug": "bandar-kuala-krai-0328-012"
+    },
+    "code": {
+      "id": "0328-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0328",
+      "level": 2,
+      "name": {
+        "local": "Kuala Krai",
+        "en": "Kuala Krai",
+        "slug": "kuala-krai-0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0328",
+        "level": 2,
+        "name": {
+          "local": "Kuala Krai",
+          "en": "Kuala Krai",
+          "slug": "kuala-krai-0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.539",
+      "lon": "102.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0328-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BATU MENGKEBANG",
+      "en": "BATU MENGKEBANG",
+      "slug": "batu-mengkebang-0328-014"
+    },
+    "code": {
+      "id": "0328-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "0328",
+      "level": 2,
+      "name": {
+        "local": "Kuala Krai",
+        "en": "Kuala Krai",
+        "slug": "kuala-krai-0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0328",
+        "level": 2,
+        "name": {
+          "local": "Kuala Krai",
+          "en": "Kuala Krai",
+          "slug": "kuala-krai-0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.537",
+      "lon": "102.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0328-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM ENGGONG",
+      "en": "ENGGONG",
+      "slug": "enggong-0328-013"
+    },
+    "code": {
+      "id": "0328-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0328",
+      "level": 2,
+      "name": {
+        "local": "Kuala Krai",
+        "en": "Kuala Krai",
+        "slug": "kuala-krai-0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0328",
+        "level": 2,
+        "name": {
+          "local": "Kuala Krai",
+          "en": "Kuala Krai",
+          "slug": "kuala-krai-0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.588",
+      "lon": "102.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0328-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM GAJAH",
+      "en": "GAJAH",
+      "slug": "gajah-0328-015"
+    },
+    "code": {
+      "id": "0328-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "0328",
+      "level": 2,
+      "name": {
+        "local": "Kuala Krai",
+        "en": "Kuala Krai",
+        "slug": "kuala-krai-0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0328",
+        "level": 2,
+        "name": {
+          "local": "Kuala Krai",
+          "en": "Kuala Krai",
+          "slug": "kuala-krai-0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.349",
+      "lon": "102.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0328-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KANDEK",
+      "en": "KANDEK",
+      "slug": "kandek-0328-007"
+    },
+    "code": {
+      "id": "0328-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0328",
+      "level": 2,
+      "name": {
+        "local": "Kuala Krai",
+        "en": "Kuala Krai",
+        "slug": "kuala-krai-0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0328",
+        "level": 2,
+        "name": {
+          "local": "Kuala Krai",
+          "en": "Kuala Krai",
+          "slug": "kuala-krai-0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.442",
+      "lon": "102.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0328-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KENOR",
+      "en": "KENOR",
+      "slug": "kenor-0328-003"
+    },
+    "code": {
+      "id": "0328-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0328",
+      "level": 2,
+      "name": {
+        "local": "Kuala Krai",
+        "en": "Kuala Krai",
+        "slug": "kuala-krai-0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0328",
+        "level": 2,
+        "name": {
+          "local": "Kuala Krai",
+          "en": "Kuala Krai",
+          "slug": "kuala-krai-0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.55",
+      "lon": "102.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0328-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KETIL",
+      "en": "KETIL",
+      "slug": "ketil-0328-004"
+    },
+    "code": {
+      "id": "0328-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0328",
+      "level": 2,
+      "name": {
+        "local": "Kuala Krai",
+        "en": "Kuala Krai",
+        "slug": "kuala-krai-0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0328",
+        "level": 2,
+        "name": {
+          "local": "Kuala Krai",
+          "en": "Kuala Krai",
+          "slug": "kuala-krai-0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.24",
+      "lon": "102.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0328-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUALA GERIS",
+      "en": "KUALA GERIS",
+      "slug": "kuala-geris-0328-011"
+    },
+    "code": {
+      "id": "0328-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0328",
+      "level": 2,
+      "name": {
+        "local": "Kuala Krai",
+        "en": "Kuala Krai",
+        "slug": "kuala-krai-0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0328",
+        "level": 2,
+        "name": {
+          "local": "Kuala Krai",
+          "en": "Kuala Krai",
+          "slug": "kuala-krai-0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.389",
+      "lon": "102.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0328-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUALA KRAI",
+      "en": "KUALA KRAI",
+      "slug": "kuala-krai-0328-002"
+    },
+    "code": {
+      "id": "0328-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0328",
+      "level": 2,
+      "name": {
+        "local": "Kuala Krai",
+        "en": "Kuala Krai",
+        "slug": "kuala-krai-0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0328",
+        "level": 2,
+        "name": {
+          "local": "Kuala Krai",
+          "en": "Kuala Krai",
+          "slug": "kuala-krai-0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.498",
+      "lon": "102.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0328-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUALA NAL",
+      "en": "KUALA NAL",
+      "slug": "kuala-nal-0328-005"
+    },
+    "code": {
+      "id": "0328-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0328",
+      "level": 2,
+      "name": {
+        "local": "Kuala Krai",
+        "en": "Kuala Krai",
+        "slug": "kuala-krai-0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0328",
+        "level": 2,
+        "name": {
+          "local": "Kuala Krai",
+          "en": "Kuala Krai",
+          "slug": "kuala-krai-0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.578",
+      "lon": "102.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0328-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUALA PAHI",
+      "en": "KUALA PAHI",
+      "slug": "kuala-pahi-0328-008"
+    },
+    "code": {
+      "id": "0328-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0328",
+      "level": 2,
+      "name": {
+        "local": "Kuala Krai",
+        "en": "Kuala Krai",
+        "slug": "kuala-krai-0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0328",
+        "level": 2,
+        "name": {
+          "local": "Kuala Krai",
+          "en": "Kuala Krai",
+          "slug": "kuala-krai-0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.486",
+      "lon": "102.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0328-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUALA PERGAU",
+      "en": "KUALA PERGAU",
+      "slug": "kuala-pergau-0328-009"
+    },
+    "code": {
+      "id": "0328-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0328",
+      "level": 2,
+      "name": {
+        "local": "Kuala Krai",
+        "en": "Kuala Krai",
+        "slug": "kuala-krai-0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0328",
+        "level": 2,
+        "name": {
+          "local": "Kuala Krai",
+          "en": "Kuala Krai",
+          "slug": "kuala-krai-0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.365",
+      "lon": "102.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0328-017",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUALA STONG",
+      "en": "KUALA STONG",
+      "slug": "kuala-stong-0328-017"
+    },
+    "code": {
+      "id": "0328-017",
+      "iso": null
+    },
+    "parent": {
+      "id": "0328",
+      "level": 2,
+      "name": {
+        "local": "Kuala Krai",
+        "en": "Kuala Krai",
+        "slug": "kuala-krai-0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0328",
+        "level": 2,
+        "name": {
+          "local": "Kuala Krai",
+          "en": "Kuala Krai",
+          "slug": "kuala-krai-0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.316",
+      "lon": "102.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0328-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM MAMBONG",
+      "en": "MAMBONG",
+      "slug": "mambong-0328-016"
+    },
+    "code": {
+      "id": "0328-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "0328",
+      "level": 2,
+      "name": {
+        "local": "Kuala Krai",
+        "en": "Kuala Krai",
+        "slug": "kuala-krai-0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0328",
+        "level": 2,
+        "name": {
+          "local": "Kuala Krai",
+          "en": "Kuala Krai",
+          "slug": "kuala-krai-0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.471",
+      "lon": "102.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0328-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM MANEK URAI",
+      "en": "MANEK URAI",
+      "slug": "manek-urai-0328-006"
+    },
+    "code": {
+      "id": "0328-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0328",
+      "level": 2,
+      "name": {
+        "local": "Kuala Krai",
+        "en": "Kuala Krai",
+        "slug": "kuala-krai-0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0328",
+        "level": 2,
+        "name": {
+          "local": "Kuala Krai",
+          "en": "Kuala Krai",
+          "slug": "kuala-krai-0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.395",
+      "lon": "102.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0328-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM MANJOR",
+      "en": "MANJOR",
+      "slug": "manjor-0328-001"
+    },
+    "code": {
+      "id": "0328-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0328",
+      "level": 2,
+      "name": {
+        "local": "Kuala Krai",
+        "en": "Kuala Krai",
+        "slug": "kuala-krai-0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0328",
+        "level": 2,
+        "name": {
+          "local": "Kuala Krai",
+          "en": "Kuala Krai",
+          "slug": "kuala-krai-0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.325",
+      "lon": "102.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0328-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TELEKONG",
+      "en": "TELEKONG",
+      "slug": "telekong-0328-010"
+    },
+    "code": {
+      "id": "0328-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0328",
+      "level": 2,
+      "name": {
+        "local": "Kuala Krai",
+        "en": "Kuala Krai",
+        "slug": "kuala-krai-0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0328",
+        "level": 2,
+        "name": {
+          "local": "Kuala Krai",
+          "en": "Kuala Krai",
+          "slug": "kuala-krai-0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.637",
+      "lon": "102.267"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

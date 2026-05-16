@@ -1,0 +1,164 @@
+[
+  {
+    "id": "0772-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM 3",
+      "en": "3",
+      "slug": "3-0772-001"
+    },
+    "code": {
+      "id": "0772-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0772",
+      "level": 2,
+      "name": {
+        "local": "Seberang Perai Utara",
+        "en": "Seberang Perai Utara",
+        "slug": "seberang-perai-utara-0772"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0772",
+        "level": 2,
+        "name": {
+          "local": "Seberang Perai Utara",
+          "en": "Seberang Perai Utara",
+          "slug": "seberang-perai-utara-0772"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.447",
+      "lon": "100.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0772-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BUTTERWORTH",
+      "en": "BANDAR BUTTERWORTH",
+      "slug": "bandar-butterworth-0772-002"
+    },
+    "code": {
+      "id": "0772-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0772",
+      "level": 2,
+      "name": {
+        "local": "Seberang Perai Utara",
+        "en": "Seberang Perai Utara",
+        "slug": "seberang-perai-utara-0772"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0772",
+        "level": 2,
+        "name": {
+          "local": "Seberang Perai Utara",
+          "en": "Seberang Perai Utara",
+          "slug": "seberang-perai-utara-0772"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.411",
+      "lon": "100.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0772-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR PRAI",
+      "en": "BANDAR PRAI",
+      "slug": "bandar-prai-0772-003"
+    },
+    "code": {
+      "id": "0772-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0772",
+      "level": 2,
+      "name": {
+        "local": "Seberang Perai Utara",
+        "en": "Seberang Perai Utara",
+        "slug": "seberang-perai-utara-0772"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0772",
+        "level": 2,
+        "name": {
+          "local": "Seberang Perai Utara",
+          "en": "Seberang Perai Utara",
+          "slug": "seberang-perai-utara-0772"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.401",
+      "lon": "100.391"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "0214",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kuala Muda",
+    "en": "Kuala Muda",
+    "slug": "kuala-muda-0214"
+  },
+  "code": {
+    "id": "0214",
+    "iso": null
+  },
+  "parent": {
+    "id": "02",
+    "level": 1,
+    "name": {
+      "local": "Kedah",
+      "en": "Kedah",
+      "slug": "kedah-02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "Kedah",
+        "en": "Kedah",
+        "slug": "kedah-02"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 26
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.66",
+    "lon": "100.515"
+  },
+  "metadata": {},
+  "source": {}
+}

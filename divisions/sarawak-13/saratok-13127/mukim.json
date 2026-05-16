@@ -1,0 +1,272 @@
+[
+  {
+    "id": "13127-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "AWIK-KRIAN LAND DISTRICT",
+      "en": "AWIK-KRIAN LAND DISTRICT",
+      "slug": "awik-krian-land-district-13127-005"
+    },
+    "code": {
+      "id": "13127-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "13127",
+      "level": 2,
+      "name": {
+        "local": "Saratok",
+        "en": "Saratok",
+        "slug": "saratok-13127"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13127",
+        "level": 2,
+        "name": {
+          "local": "Saratok",
+          "en": "Saratok",
+          "slug": "saratok-13127"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.769",
+      "lon": "111.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13127-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BUDU LAND DISTRICT",
+      "en": "BUDU LAND DISTRICT",
+      "slug": "budu-land-district-13127-003"
+    },
+    "code": {
+      "id": "13127-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13127",
+      "level": 2,
+      "name": {
+        "local": "Saratok",
+        "en": "Saratok",
+        "slug": "saratok-13127"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13127",
+        "level": 2,
+        "name": {
+          "local": "Saratok",
+          "en": "Saratok",
+          "slug": "saratok-13127"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.759",
+      "lon": "111.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13127-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "KABA TOWN DISTRICT",
+      "en": "KABA TOWN DISTRICT",
+      "slug": "kaba-town-district-13127-002"
+    },
+    "code": {
+      "id": "13127-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13127",
+      "level": 2,
+      "name": {
+        "local": "Saratok",
+        "en": "Saratok",
+        "slug": "saratok-13127"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13127",
+        "level": 2,
+        "name": {
+          "local": "Saratok",
+          "en": "Saratok",
+          "slug": "saratok-13127"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.728",
+      "lon": "111.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13127-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "KAKI WONG TOWN DISTRICT",
+      "en": "KAKI WONG TOWN DISTRICT",
+      "slug": "kaki-wong-town-district-13127-001"
+    },
+    "code": {
+      "id": "13127-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13127",
+      "level": 2,
+      "name": {
+        "local": "Saratok",
+        "en": "Saratok",
+        "slug": "saratok-13127"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13127",
+        "level": 2,
+        "name": {
+          "local": "Saratok",
+          "en": "Saratok",
+          "slug": "saratok-13127"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.737",
+      "lon": "111.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13127-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SARATOK TOWN DISTRICT",
+      "en": "SARATOK TOWN DISTRICT",
+      "slug": "saratok-town-district-13127-004"
+    },
+    "code": {
+      "id": "13127-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13127",
+      "level": 2,
+      "name": {
+        "local": "Saratok",
+        "en": "Saratok",
+        "slug": "saratok-13127"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13127",
+        "level": 2,
+        "name": {
+          "local": "Saratok",
+          "en": "Saratok",
+          "slug": "saratok-13127"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.74",
+      "lon": "111.338"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

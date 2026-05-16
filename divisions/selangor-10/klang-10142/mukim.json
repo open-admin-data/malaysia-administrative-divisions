@@ -1,0 +1,650 @@
+[
+  {
+    "id": "10142-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR KLANG",
+      "en": "BANDAR KLANG",
+      "slug": "bandar-klang-10142-004"
+    },
+    "code": {
+      "id": "10142-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "10142",
+      "level": 2,
+      "name": {
+        "local": "Klang",
+        "en": "Klang",
+        "slug": "klang-10142"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10142",
+        "level": 2,
+        "name": {
+          "local": "Klang",
+          "en": "Klang",
+          "slug": "klang-10142"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.044",
+      "lon": "101.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10142-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR PORT SWETTENHAM",
+      "en": "BANDAR PORT SWETTENHAM",
+      "slug": "bandar-port-swettenham-10142-012"
+    },
+    "code": {
+      "id": "10142-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "10142",
+      "level": 2,
+      "name": {
+        "local": "Klang",
+        "en": "Klang",
+        "slug": "klang-10142"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10142",
+        "level": 2,
+        "name": {
+          "local": "Klang",
+          "en": "Klang",
+          "slug": "klang-10142"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.007",
+      "lon": "101.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10142-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SULTAN SULAIMAN",
+      "en": "BANDAR SULTAN SULAIMAN",
+      "slug": "bandar-sultan-sulaiman-10142-011"
+    },
+    "code": {
+      "id": "10142-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "10142",
+      "level": 2,
+      "name": {
+        "local": "Klang",
+        "en": "Klang",
+        "slug": "klang-10142"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10142",
+        "level": 2,
+        "name": {
+          "local": "Klang",
+          "en": "Klang",
+          "slug": "klang-10142"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.017",
+      "lon": "101.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10142-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KAPAR",
+      "en": "KAPAR",
+      "slug": "kapar-10142-008"
+    },
+    "code": {
+      "id": "10142-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "10142",
+      "level": 2,
+      "name": {
+        "local": "Klang",
+        "en": "Klang",
+        "slug": "klang-10142"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10142",
+        "level": 2,
+        "name": {
+          "local": "Klang",
+          "en": "Klang",
+          "slug": "klang-10142"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.067",
+      "lon": "101.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10142-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KLANG",
+      "en": "KLANG",
+      "slug": "klang-10142-003"
+    },
+    "code": {
+      "id": "10142-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "10142",
+      "level": 2,
+      "name": {
+        "local": "Klang",
+        "en": "Klang",
+        "slug": "klang-10142"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10142",
+        "level": 2,
+        "name": {
+          "local": "Klang",
+          "en": "Klang",
+          "slug": "klang-10142"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.997",
+      "lon": "101.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10142-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BATU EMPAT",
+      "en": "PEKAN BATU EMPAT",
+      "slug": "pekan-batu-empat-10142-002"
+    },
+    "code": {
+      "id": "10142-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "10142",
+      "level": 2,
+      "name": {
+        "local": "Klang",
+        "en": "Klang",
+        "slug": "klang-10142"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10142",
+        "level": 2,
+        "name": {
+          "local": "Klang",
+          "en": "Klang",
+          "slug": "klang-10142"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.085",
+      "lon": "101.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10142-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BUKIT KEMUNING",
+      "en": "PEKAN BUKIT KEMUNING",
+      "slug": "pekan-bukit-kemuning-10142-005"
+    },
+    "code": {
+      "id": "10142-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "10142",
+      "level": 2,
+      "name": {
+        "local": "Klang",
+        "en": "Klang",
+        "slug": "klang-10142"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10142",
+        "level": 2,
+        "name": {
+          "local": "Klang",
+          "en": "Klang",
+          "slug": "klang-10142"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.016",
+      "lon": "101.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10142-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN HICOM",
+      "en": "PEKAN HICOM",
+      "slug": "pekan-hicom-10142-006"
+    },
+    "code": {
+      "id": "10142-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "10142",
+      "level": 2,
+      "name": {
+        "local": "Klang",
+        "en": "Klang",
+        "slug": "klang-10142"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10142",
+        "level": 2,
+        "name": {
+          "local": "Klang",
+          "en": "Klang",
+          "slug": "klang-10142"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.018",
+      "lon": "101.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10142-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KAPAR",
+      "en": "PEKAN KAPAR",
+      "slug": "pekan-kapar-10142-001"
+    },
+    "code": {
+      "id": "10142-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "10142",
+      "level": 2,
+      "name": {
+        "local": "Klang",
+        "en": "Klang",
+        "slug": "klang-10142"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10142",
+        "level": 2,
+        "name": {
+          "local": "Klang",
+          "en": "Klang",
+          "slug": "klang-10142"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.135",
+      "lon": "101.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10142-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN MERU",
+      "en": "PEKAN MERU",
+      "slug": "pekan-meru-10142-010"
+    },
+    "code": {
+      "id": "10142-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "10142",
+      "level": 2,
+      "name": {
+        "local": "Klang",
+        "en": "Klang",
+        "slug": "klang-10142"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10142",
+        "level": 2,
+        "name": {
+          "local": "Klang",
+          "en": "Klang",
+          "slug": "klang-10142"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.135",
+      "lon": "101.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10142-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PANDAMARAN",
+      "en": "PEKAN PANDAMARAN",
+      "slug": "pekan-pandamaran-10142-009"
+    },
+    "code": {
+      "id": "10142-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "10142",
+      "level": 2,
+      "name": {
+        "local": "Klang",
+        "en": "Klang",
+        "slug": "klang-10142"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10142",
+        "level": 2,
+        "name": {
+          "local": "Klang",
+          "en": "Klang",
+          "slug": "klang-10142"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.005",
+      "lon": "101.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10142-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TELOK  MENEGUN",
+      "en": "PEKAN TELOK  MENEGUN",
+      "slug": "pekan-telok-menegun-10142-007"
+    },
+    "code": {
+      "id": "10142-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "10142",
+      "level": 2,
+      "name": {
+        "local": "Klang",
+        "en": "Klang",
+        "slug": "klang-10142"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10142",
+        "level": 2,
+        "name": {
+          "local": "Klang",
+          "en": "Klang",
+          "slug": "klang-10142"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.031",
+      "lon": "101.478"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

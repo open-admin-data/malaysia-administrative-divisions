@@ -1,0 +1,47 @@
+{
+  "id": "0855",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bagan Datuk",
+    "en": "Bagan Datuk",
+    "slug": "bagan-datuk-0855"
+  },
+  "code": {
+    "id": "0855",
+    "iso": null
+  },
+  "parent": {
+    "id": "08",
+    "level": 1,
+    "name": {
+      "local": "Perak",
+      "en": "Perak",
+      "slug": "perak-08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Perak",
+        "en": "Perak",
+        "slug": "perak-08"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.851",
+    "lon": "100.991"
+  },
+  "metadata": {},
+  "source": {}
+}

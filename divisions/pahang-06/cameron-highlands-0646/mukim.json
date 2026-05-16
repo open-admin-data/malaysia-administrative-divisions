@@ -1,0 +1,380 @@
+[
+  {
+    "id": "0646-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR TANAH RATA",
+      "en": "BANDAR TANAH RATA",
+      "slug": "bandar-tanah-rata-0646-001"
+    },
+    "code": {
+      "id": "0646-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0646",
+      "level": 2,
+      "name": {
+        "local": "Cameron Highlands",
+        "en": "Cameron Highlands",
+        "slug": "cameron-highlands-0646"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0646",
+        "level": 2,
+        "name": {
+          "local": "Cameron Highlands",
+          "en": "Cameron Highlands",
+          "slug": "cameron-highlands-0646"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.469",
+      "lon": "101.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0646-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM HULU TELOM",
+      "en": "HULU TELOM",
+      "slug": "hulu-telom-0646-006"
+    },
+    "code": {
+      "id": "0646-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0646",
+      "level": 2,
+      "name": {
+        "local": "Cameron Highlands",
+        "en": "Cameron Highlands",
+        "slug": "cameron-highlands-0646"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0646",
+        "level": 2,
+        "name": {
+          "local": "Cameron Highlands",
+          "en": "Cameron Highlands",
+          "slug": "cameron-highlands-0646"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.55",
+      "lon": "101.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0646-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BRINCHANG",
+      "en": "PEKAN BRINCHANG",
+      "slug": "pekan-brinchang-0646-003"
+    },
+    "code": {
+      "id": "0646-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0646",
+      "level": 2,
+      "name": {
+        "local": "Cameron Highlands",
+        "en": "Cameron Highlands",
+        "slug": "cameron-highlands-0646"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0646",
+        "level": 2,
+        "name": {
+          "local": "Cameron Highlands",
+          "en": "Cameron Highlands",
+          "slug": "cameron-highlands-0646"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.491",
+      "lon": "101.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0646-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN LUBOK TAMANG",
+      "en": "PEKAN LUBOK TAMANG",
+      "slug": "pekan-lubok-tamang-0646-002"
+    },
+    "code": {
+      "id": "0646-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0646",
+      "level": 2,
+      "name": {
+        "local": "Cameron Highlands",
+        "en": "Cameron Highlands",
+        "slug": "cameron-highlands-0646"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0646",
+        "level": 2,
+        "name": {
+          "local": "Cameron Highlands",
+          "en": "Cameron Highlands",
+          "slug": "cameron-highlands-0646"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.43",
+      "lon": "101.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0646-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN RINGLET",
+      "en": "PEKAN RINGLET",
+      "slug": "pekan-ringlet-0646-004"
+    },
+    "code": {
+      "id": "0646-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0646",
+      "level": 2,
+      "name": {
+        "local": "Cameron Highlands",
+        "en": "Cameron Highlands",
+        "slug": "cameron-highlands-0646"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0646",
+        "level": 2,
+        "name": {
+          "local": "Cameron Highlands",
+          "en": "Cameron Highlands",
+          "slug": "cameron-highlands-0646"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.413",
+      "lon": "101.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0646-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM RINGLET",
+      "en": "RINGLET",
+      "slug": "ringlet-0646-005"
+    },
+    "code": {
+      "id": "0646-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0646",
+      "level": 2,
+      "name": {
+        "local": "Cameron Highlands",
+        "en": "Cameron Highlands",
+        "slug": "cameron-highlands-0646"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0646",
+        "level": 2,
+        "name": {
+          "local": "Cameron Highlands",
+          "en": "Cameron Highlands",
+          "slug": "cameron-highlands-0646"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.434",
+      "lon": "101.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0646-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TANAH RATA",
+      "en": "TANAH RATA",
+      "slug": "tanah-rata-0646-007"
+    },
+    "code": {
+      "id": "0646-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0646",
+      "level": 2,
+      "name": {
+        "local": "Cameron Highlands",
+        "en": "Cameron Highlands",
+        "slug": "cameron-highlands-0646"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0646",
+        "level": 2,
+        "name": {
+          "local": "Cameron Highlands",
+          "en": "Cameron Highlands",
+          "slug": "cameron-highlands-0646"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.489",
+      "lon": "101.378"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

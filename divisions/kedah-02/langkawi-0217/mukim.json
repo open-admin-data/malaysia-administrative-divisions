@@ -1,0 +1,488 @@
+[
+  {
+    "id": "0217-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM AYER HANGAT",
+      "en": "AYER HANGAT",
+      "slug": "ayer-hangat-0217-006"
+    },
+    "code": {
+      "id": "0217-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0217",
+      "level": 2,
+      "name": {
+        "local": "Langkawi",
+        "en": "Langkawi",
+        "slug": "langkawi-0217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0217",
+        "level": 2,
+        "name": {
+          "local": "Langkawi",
+          "en": "Langkawi",
+          "slug": "langkawi-0217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.441",
+      "lon": "99.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0217-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR KUAH",
+      "en": "BANDAR KUAH",
+      "slug": "bandar-kuah-xx-1734"
+    },
+    "code": {
+      "id": "0217-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0217",
+      "level": 2,
+      "name": {
+        "local": "Langkawi",
+        "en": "Langkawi",
+        "slug": "langkawi-0217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0217",
+        "level": 2,
+        "name": {
+          "local": "Langkawi",
+          "en": "Langkawi",
+          "slug": "langkawi-0217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.283",
+      "lon": "99.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0217-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR PADANG LALANG",
+      "en": "BANDAR PADANG LALANG",
+      "slug": "bandar-padang-lalang-0217-005"
+    },
+    "code": {
+      "id": "0217-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0217",
+      "level": 2,
+      "name": {
+        "local": "Langkawi",
+        "en": "Langkawi",
+        "slug": "langkawi-0217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0217",
+        "level": 2,
+        "name": {
+          "local": "Langkawi",
+          "en": "Langkawi",
+          "slug": "langkawi-0217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.439",
+      "lon": "99.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0217-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR PADANG MAT SIRAT",
+      "en": "BANDAR PADANG MAT SIRAT",
+      "slug": "bandar-padang-mat-sirat-xx-1676"
+    },
+    "code": {
+      "id": "0217-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0217",
+      "level": 2,
+      "name": {
+        "local": "Langkawi",
+        "en": "Langkawi",
+        "slug": "langkawi-0217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0217",
+        "level": 2,
+        "name": {
+          "local": "Langkawi",
+          "en": "Langkawi",
+          "slug": "langkawi-0217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.324",
+      "lon": "99.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0217-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BOHOR",
+      "en": "BOHOR",
+      "slug": "bohor-0217-004"
+    },
+    "code": {
+      "id": "0217-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0217",
+      "level": 2,
+      "name": {
+        "local": "Langkawi",
+        "en": "Langkawi",
+        "slug": "langkawi-0217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0217",
+        "level": 2,
+        "name": {
+          "local": "Langkawi",
+          "en": "Langkawi",
+          "slug": "langkawi-0217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.374",
+      "lon": "99.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0217-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KEDAWANG",
+      "en": "KEDAWANG",
+      "slug": "kedawang-xx-1786"
+    },
+    "code": {
+      "id": "0217-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0217",
+      "level": 2,
+      "name": {
+        "local": "Langkawi",
+        "en": "Langkawi",
+        "slug": "langkawi-0217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0217",
+        "level": 2,
+        "name": {
+          "local": "Langkawi",
+          "en": "Langkawi",
+          "slug": "langkawi-0217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.241",
+      "lon": "99.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0217-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PADANG MAT SIRAT",
+      "en": "PADANG MAT SIRAT",
+      "slug": "padang-mat-sirat-0217-002"
+    },
+    "code": {
+      "id": "0217-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0217",
+      "level": 2,
+      "name": {
+        "local": "Langkawi",
+        "en": "Langkawi",
+        "slug": "langkawi-0217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0217",
+        "level": 2,
+        "name": {
+          "local": "Langkawi",
+          "en": "Langkawi",
+          "slug": "langkawi-0217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.398",
+      "lon": "99.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0217-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TELOK DATAI",
+      "en": "PEKAN TELOK DATAI",
+      "slug": "pekan-telok-datai-0217-003"
+    },
+    "code": {
+      "id": "0217-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0217",
+      "level": 2,
+      "name": {
+        "local": "Langkawi",
+        "en": "Langkawi",
+        "slug": "langkawi-0217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0217",
+        "level": 2,
+        "name": {
+          "local": "Langkawi",
+          "en": "Langkawi",
+          "slug": "langkawi-0217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.429",
+      "lon": "99.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0217-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM ULU MELAKA",
+      "en": "ULU MELAKA",
+      "slug": "ulu-melaka-0217-001"
+    },
+    "code": {
+      "id": "0217-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0217",
+      "level": 2,
+      "name": {
+        "local": "Langkawi",
+        "en": "Langkawi",
+        "slug": "langkawi-0217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0217",
+        "level": 2,
+        "name": {
+          "local": "Langkawi",
+          "en": "Langkawi",
+          "slug": "langkawi-0217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.355",
+      "lon": "99.809"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

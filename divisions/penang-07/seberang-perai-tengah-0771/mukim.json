@@ -1,0 +1,596 @@
+[
+  {
+    "id": "0771-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM 12",
+      "en": "12",
+      "slug": "12-xx-375"
+    },
+    "code": {
+      "id": "0771-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0771",
+      "level": 2,
+      "name": {
+        "local": "Seberang Perai Tengah",
+        "en": "Seberang Perai Tengah",
+        "slug": "seberang-perai-tengah-0771"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0771",
+        "level": 2,
+        "name": {
+          "local": "Seberang Perai Tengah",
+          "en": "Seberang Perai Tengah",
+          "slug": "seberang-perai-tengah-0771"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.316",
+      "lon": "100.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0771-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM 13",
+      "en": "13",
+      "slug": "13-0771-006"
+    },
+    "code": {
+      "id": "0771-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0771",
+      "level": 2,
+      "name": {
+        "local": "Seberang Perai Tengah",
+        "en": "Seberang Perai Tengah",
+        "slug": "seberang-perai-tengah-0771"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0771",
+        "level": 2,
+        "name": {
+          "local": "Seberang Perai Tengah",
+          "en": "Seberang Perai Tengah",
+          "slug": "seberang-perai-tengah-0771"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.372",
+      "lon": "100.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0771-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM 14",
+      "en": "14",
+      "slug": "14-0771-005"
+    },
+    "code": {
+      "id": "0771-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0771",
+      "level": 2,
+      "name": {
+        "local": "Seberang Perai Tengah",
+        "en": "Seberang Perai Tengah",
+        "slug": "seberang-perai-tengah-0771"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0771",
+        "level": 2,
+        "name": {
+          "local": "Seberang Perai Tengah",
+          "en": "Seberang Perai Tengah",
+          "slug": "seberang-perai-tengah-0771"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.331",
+      "lon": "100.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0771-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM 15",
+      "en": "15",
+      "slug": "15-0771-004"
+    },
+    "code": {
+      "id": "0771-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0771",
+      "level": 2,
+      "name": {
+        "local": "Seberang Perai Tengah",
+        "en": "Seberang Perai Tengah",
+        "slug": "seberang-perai-tengah-0771"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0771",
+        "level": 2,
+        "name": {
+          "local": "Seberang Perai Tengah",
+          "en": "Seberang Perai Tengah",
+          "slug": "seberang-perai-tengah-0771"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.345",
+      "lon": "100.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0771-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM 16",
+      "en": "16",
+      "slug": "16-0771-003"
+    },
+    "code": {
+      "id": "0771-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0771",
+      "level": 2,
+      "name": {
+        "local": "Seberang Perai Tengah",
+        "en": "Seberang Perai Tengah",
+        "slug": "seberang-perai-tengah-0771"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0771",
+        "level": 2,
+        "name": {
+          "local": "Seberang Perai Tengah",
+          "en": "Seberang Perai Tengah",
+          "slug": "seberang-perai-tengah-0771"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.354",
+      "lon": "100.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0771-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM 19",
+      "en": "19",
+      "slug": "19-0771-002"
+    },
+    "code": {
+      "id": "0771-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0771",
+      "level": 2,
+      "name": {
+        "local": "Seberang Perai Tengah",
+        "en": "Seberang Perai Tengah",
+        "slug": "seberang-perai-tengah-0771"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0771",
+        "level": 2,
+        "name": {
+          "local": "Seberang Perai Tengah",
+          "en": "Seberang Perai Tengah",
+          "slug": "seberang-perai-tengah-0771"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.428",
+      "lon": "100.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0771-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM 20",
+      "en": "20",
+      "slug": "20-0771-008"
+    },
+    "code": {
+      "id": "0771-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0771",
+      "level": 2,
+      "name": {
+        "local": "Seberang Perai Tengah",
+        "en": "Seberang Perai Tengah",
+        "slug": "seberang-perai-tengah-0771"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0771",
+        "level": 2,
+        "name": {
+          "local": "Seberang Perai Tengah",
+          "en": "Seberang Perai Tengah",
+          "slug": "seberang-perai-tengah-0771"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.416",
+      "lon": "100.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0771-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM 21",
+      "en": "21",
+      "slug": "21-0771-007"
+    },
+    "code": {
+      "id": "0771-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0771",
+      "level": 2,
+      "name": {
+        "local": "Seberang Perai Tengah",
+        "en": "Seberang Perai Tengah",
+        "slug": "seberang-perai-tengah-0771"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0771",
+        "level": 2,
+        "name": {
+          "local": "Seberang Perai Tengah",
+          "en": "Seberang Perai Tengah",
+          "slug": "seberang-perai-tengah-0771"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.438",
+      "lon": "100.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0771-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM 5",
+      "en": "5",
+      "slug": "5-xx-132"
+    },
+    "code": {
+      "id": "0771-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0771",
+      "level": 2,
+      "name": {
+        "local": "Seberang Perai Tengah",
+        "en": "Seberang Perai Tengah",
+        "slug": "seberang-perai-tengah-0771"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0771",
+        "level": 2,
+        "name": {
+          "local": "Seberang Perai Tengah",
+          "en": "Seberang Perai Tengah",
+          "slug": "seberang-perai-tengah-0771"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.334",
+      "lon": "100.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0771-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM 6",
+      "en": "6",
+      "slug": "6-0771-001"
+    },
+    "code": {
+      "id": "0771-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0771",
+      "level": 2,
+      "name": {
+        "local": "Seberang Perai Tengah",
+        "en": "Seberang Perai Tengah",
+        "slug": "seberang-perai-tengah-0771"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0771",
+        "level": 2,
+        "name": {
+          "local": "Seberang Perai Tengah",
+          "en": "Seberang Perai Tengah",
+          "slug": "seberang-perai-tengah-0771"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.367",
+      "lon": "100.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0771-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BUKIT MERTAJAM",
+      "en": "BANDAR BUKIT MERTAJAM",
+      "slug": "bandar-bukit-mertajam-0771-009"
+    },
+    "code": {
+      "id": "0771-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0771",
+      "level": 2,
+      "name": {
+        "local": "Seberang Perai Tengah",
+        "en": "Seberang Perai Tengah",
+        "slug": "seberang-perai-tengah-0771"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0771",
+        "level": 2,
+        "name": {
+          "local": "Seberang Perai Tengah",
+          "en": "Seberang Perai Tengah",
+          "slug": "seberang-perai-tengah-0771"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.361",
+      "lon": "100.464"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "0102-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR JOHOR BAHRU",
+      "en": "BANDAR JOHOR BAHRU",
+      "slug": "bandar-johor-bahru-0102-005"
+    },
+    "code": {
+      "id": "0102-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0102",
+      "level": 2,
+      "name": {
+        "local": "Johor Bahru",
+        "en": "Johor Bahru",
+        "slug": "johor-bahru-0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0102",
+        "level": 2,
+        "name": {
+          "local": "Johor Bahru",
+          "en": "Johor Bahru",
+          "slug": "johor-bahru-0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.494",
+      "lon": "103.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PLENTONG",
+      "en": "PLENTONG",
+      "slug": "plentong-0102-002"
+    },
+    "code": {
+      "id": "0102-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0102",
+      "level": 2,
+      "name": {
+        "local": "Johor Bahru",
+        "en": "Johor Bahru",
+        "slug": "johor-bahru-0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0102",
+        "level": 2,
+        "name": {
+          "local": "Johor Bahru",
+          "en": "Johor Bahru",
+          "slug": "johor-bahru-0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.534",
+      "lon": "103.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SUNGAI TIRAM",
+      "en": "SUNGAI TIRAM",
+      "slug": "sungai-tiram-0102-001"
+    },
+    "code": {
+      "id": "0102-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0102",
+      "level": 2,
+      "name": {
+        "local": "Johor Bahru",
+        "en": "Johor Bahru",
+        "slug": "johor-bahru-0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0102",
+        "level": 2,
+        "name": {
+          "local": "Johor Bahru",
+          "en": "Johor Bahru",
+          "slug": "johor-bahru-0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.598",
+      "lon": "103.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TANJUNG KUPANG",
+      "en": "TANJUNG KUPANG",
+      "slug": "tanjung-kupang-0102-003"
+    },
+    "code": {
+      "id": "0102-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0102",
+      "level": 2,
+      "name": {
+        "local": "Johor Bahru",
+        "en": "Johor Bahru",
+        "slug": "johor-bahru-0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0102",
+        "level": 2,
+        "name": {
+          "local": "Johor Bahru",
+          "en": "Johor Bahru",
+          "slug": "johor-bahru-0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.411",
+      "lon": "103.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TEBRAU",
+      "en": "TEBRAU",
+      "slug": "tebrau-0102-004"
+    },
+    "code": {
+      "id": "0102-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0102",
+      "level": 2,
+      "name": {
+        "local": "Johor Bahru",
+        "en": "Johor Bahru",
+        "slug": "johor-bahru-0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0102",
+        "level": 2,
+        "name": {
+          "local": "Johor Bahru",
+          "en": "Johor Bahru",
+          "slug": "johor-bahru-0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.584",
+      "lon": "103.75"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

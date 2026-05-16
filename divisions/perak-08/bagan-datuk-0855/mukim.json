@@ -1,0 +1,542 @@
+[
+  {
+    "id": "0855-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BAGAN DATUK",
+      "en": "BAGAN DATUK",
+      "slug": "bagan-datuk-0855-002"
+    },
+    "code": {
+      "id": "0855-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0855",
+      "level": 2,
+      "name": {
+        "local": "Bagan Datuk",
+        "en": "Bagan Datuk",
+        "slug": "bagan-datuk-0855"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0855",
+        "level": 2,
+        "name": {
+          "local": "Bagan Datuk",
+          "en": "Bagan Datuk",
+          "slug": "bagan-datuk-0855"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.97",
+      "lon": "100.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0855-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BAGAN DATUK",
+      "en": "PEKAN BAGAN DATUK",
+      "slug": "pekan-bagan-datuk-0855-010"
+    },
+    "code": {
+      "id": "0855-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0855",
+      "level": 2,
+      "name": {
+        "local": "Bagan Datuk",
+        "en": "Bagan Datuk",
+        "slug": "bagan-datuk-0855"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0855",
+        "level": 2,
+        "name": {
+          "local": "Bagan Datuk",
+          "en": "Bagan Datuk",
+          "slug": "bagan-datuk-0855"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.991",
+      "lon": "100.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0855-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BATU DUA PULOH",
+      "en": "PEKAN BATU DUA PULOH",
+      "slug": "pekan-batu-dua-puloh-0855-008"
+    },
+    "code": {
+      "id": "0855-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0855",
+      "level": 2,
+      "name": {
+        "local": "Bagan Datuk",
+        "en": "Bagan Datuk",
+        "slug": "bagan-datuk-0855"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0855",
+        "level": 2,
+        "name": {
+          "local": "Bagan Datuk",
+          "en": "Bagan Datuk",
+          "slug": "bagan-datuk-0855"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.891",
+      "lon": "100.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0855-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN HUTAN MELINTANG",
+      "en": "PEKAN HUTAN MELINTANG",
+      "slug": "pekan-hutan-melintang-0855-006"
+    },
+    "code": {
+      "id": "0855-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0855",
+      "level": 2,
+      "name": {
+        "local": "Bagan Datuk",
+        "en": "Bagan Datuk",
+        "slug": "bagan-datuk-0855"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0855",
+        "level": 2,
+        "name": {
+          "local": "Bagan Datuk",
+          "en": "Bagan Datuk",
+          "slug": "bagan-datuk-0855"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.875",
+      "lon": "100.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0855-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN JENDARATA",
+      "en": "PEKAN JENDARATA",
+      "slug": "pekan-jendarata-0855-001"
+    },
+    "code": {
+      "id": "0855-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0855",
+      "level": 2,
+      "name": {
+        "local": "Bagan Datuk",
+        "en": "Bagan Datuk",
+        "slug": "bagan-datuk-0855"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0855",
+        "level": 2,
+        "name": {
+          "local": "Bagan Datuk",
+          "en": "Bagan Datuk",
+          "slug": "bagan-datuk-0855"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.911",
+      "lon": "100.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0855-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KAMPONG SUNGAI HAJI MOHAMED",
+      "en": "PEKAN KAMPONG SUNGAI HAJI MOHAMED",
+      "slug": "pekan-kampong-sungai-haji-mohamed-0855-007"
+    },
+    "code": {
+      "id": "0855-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0855",
+      "level": 2,
+      "name": {
+        "local": "Bagan Datuk",
+        "en": "Bagan Datuk",
+        "slug": "bagan-datuk-0855"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0855",
+        "level": 2,
+        "name": {
+          "local": "Bagan Datuk",
+          "en": "Bagan Datuk",
+          "slug": "bagan-datuk-0855"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.903",
+      "lon": "100.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0855-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SELEKOH",
+      "en": "PEKAN SELEKOH",
+      "slug": "pekan-selekoh-0855-009"
+    },
+    "code": {
+      "id": "0855-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0855",
+      "level": 2,
+      "name": {
+        "local": "Bagan Datuk",
+        "en": "Bagan Datuk",
+        "slug": "bagan-datuk-0855"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0855",
+        "level": 2,
+        "name": {
+          "local": "Bagan Datuk",
+          "en": "Bagan Datuk",
+          "slug": "bagan-datuk-0855"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.908",
+      "lon": "100.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0855-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SUNGAI SUMUN",
+      "en": "PEKAN SUNGAI SUMUN",
+      "slug": "pekan-sungai-sumun-0855-005"
+    },
+    "code": {
+      "id": "0855-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0855",
+      "level": 2,
+      "name": {
+        "local": "Bagan Datuk",
+        "en": "Bagan Datuk",
+        "slug": "bagan-datuk-0855"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0855",
+        "level": 2,
+        "name": {
+          "local": "Bagan Datuk",
+          "en": "Bagan Datuk",
+          "slug": "bagan-datuk-0855"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.868",
+      "lon": "100.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0855-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM RUNGKUP",
+      "en": "RUNGKUP",
+      "slug": "rungkup-0855-004"
+    },
+    "code": {
+      "id": "0855-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0855",
+      "level": 2,
+      "name": {
+        "local": "Bagan Datuk",
+        "en": "Bagan Datuk",
+        "slug": "bagan-datuk-0855"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0855",
+        "level": 2,
+        "name": {
+          "local": "Bagan Datuk",
+          "en": "Bagan Datuk",
+          "slug": "bagan-datuk-0855"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.884",
+      "lon": "100.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0855-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TELUK BARU",
+      "en": "TELUK BARU",
+      "slug": "teluk-baru-0855-003"
+    },
+    "code": {
+      "id": "0855-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0855",
+      "level": 2,
+      "name": {
+        "local": "Bagan Datuk",
+        "en": "Bagan Datuk",
+        "slug": "bagan-datuk-0855"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0855",
+        "level": 2,
+        "name": {
+          "local": "Bagan Datuk",
+          "en": "Bagan Datuk",
+          "slug": "bagan-datuk-0855"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.963",
+      "lon": "100.93"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

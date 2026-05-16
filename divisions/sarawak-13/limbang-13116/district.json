@@ -1,0 +1,47 @@
+{
+  "id": "13116",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Limbang",
+    "en": "Limbang",
+    "slug": "limbang-13116"
+  },
+  "code": {
+    "id": "13116",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "Sarawak",
+      "en": "Sarawak",
+      "slug": "sarawak-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.374",
+    "lon": "115.07"
+  },
+  "metadata": {},
+  "source": {}
+}

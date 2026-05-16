@@ -1,0 +1,488 @@
+[
+  {
+    "id": "13136-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BATU NIAH TOWN DISTRICT",
+      "en": "BATU NIAH TOWN DISTRICT",
+      "slug": "batu-niah-town-district-13136-006"
+    },
+    "code": {
+      "id": "13136-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "13136",
+      "level": 2,
+      "name": {
+        "local": "Subis",
+        "en": "Subis",
+        "slug": "subis-13136"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13136",
+        "level": 2,
+        "name": {
+          "local": "Subis",
+          "en": "Subis",
+          "slug": "subis-13136"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.803",
+      "lon": "113.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13136-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BEKENU TOWN DISTRICT",
+      "en": "BEKENU TOWN DISTRICT",
+      "slug": "bekenu-town-district-13136-009"
+    },
+    "code": {
+      "id": "13136-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "13136",
+      "level": 2,
+      "name": {
+        "local": "Subis",
+        "en": "Subis",
+        "slug": "subis-13136"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13136",
+        "level": 2,
+        "name": {
+          "local": "Subis",
+          "en": "Subis",
+          "slug": "subis-13136"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.057",
+      "lon": "113.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13136-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BUKIT KISI LAND DISTRICT",
+      "en": "BUKIT KISI LAND DISTRICT",
+      "slug": "bukit-kisi-land-district-13136-007"
+    },
+    "code": {
+      "id": "13136-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "13136",
+      "level": 2,
+      "name": {
+        "local": "Subis",
+        "en": "Subis",
+        "slug": "subis-13136"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13136",
+        "level": 2,
+        "name": {
+          "local": "Subis",
+          "en": "Subis",
+          "slug": "subis-13136"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.97",
+      "lon": "113.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13136-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "NIAH LAND DISTRICT",
+      "en": "NIAH LAND DISTRICT",
+      "slug": "niah-land-district-13136-003"
+    },
+    "code": {
+      "id": "13136-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13136",
+      "level": 2,
+      "name": {
+        "local": "Subis",
+        "en": "Subis",
+        "slug": "subis-13136"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13136",
+        "level": 2,
+        "name": {
+          "local": "Subis",
+          "en": "Subis",
+          "slug": "subis-13136"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.866",
+      "lon": "113.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13136-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "NIAH TOWN DISTRICT",
+      "en": "NIAH TOWN DISTRICT",
+      "slug": "niah-town-district-13136-002"
+    },
+    "code": {
+      "id": "13136-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13136",
+      "level": 2,
+      "name": {
+        "local": "Subis",
+        "en": "Subis",
+        "slug": "subis-13136"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13136",
+        "level": 2,
+        "name": {
+          "local": "Subis",
+          "en": "Subis",
+          "slug": "subis-13136"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.866",
+      "lon": "113.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13136-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SAWAI LAND DISTRICT",
+      "en": "SAWAI LAND DISTRICT",
+      "slug": "sawai-land-district-13136-004"
+    },
+    "code": {
+      "id": "13136-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13136",
+      "level": 2,
+      "name": {
+        "local": "Subis",
+        "en": "Subis",
+        "slug": "subis-13136"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13136",
+        "level": 2,
+        "name": {
+          "local": "Subis",
+          "en": "Subis",
+          "slug": "subis-13136"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.584",
+      "lon": "113.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13136-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SIBUTI LAND DISTRICT",
+      "en": "SIBUTI LAND DISTRICT",
+      "slug": "sibuti-land-district-13136-008"
+    },
+    "code": {
+      "id": "13136-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "13136",
+      "level": 2,
+      "name": {
+        "local": "Subis",
+        "en": "Subis",
+        "slug": "subis-13136"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13136",
+        "level": 2,
+        "name": {
+          "local": "Subis",
+          "en": "Subis",
+          "slug": "subis-13136"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.052",
+      "lon": "113.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13136-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SUAI LAND DISTRICT",
+      "en": "SUAI LAND DISTRICT",
+      "slug": "suai-land-district-13136-001"
+    },
+    "code": {
+      "id": "13136-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13136",
+      "level": 2,
+      "name": {
+        "local": "Subis",
+        "en": "Subis",
+        "slug": "subis-13136"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13136",
+        "level": 2,
+        "name": {
+          "local": "Subis",
+          "en": "Subis",
+          "slug": "subis-13136"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.653",
+      "lon": "113.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13136-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SUAI TOWN DISTRICT",
+      "en": "SUAI TOWN DISTRICT",
+      "slug": "suai-town-district-13136-005"
+    },
+    "code": {
+      "id": "13136-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "13136",
+      "level": 2,
+      "name": {
+        "local": "Subis",
+        "en": "Subis",
+        "slug": "subis-13136"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13136",
+        "level": 2,
+        "name": {
+          "local": "Subis",
+          "en": "Subis",
+          "slug": "subis-13136"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.796",
+      "lon": "113.632"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "0212",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bandar Baharu",
+    "en": "Bandar Baharu",
+    "slug": "bandar-baharu-0212"
+  },
+  "code": {
+    "id": "0212",
+    "iso": null
+  },
+  "parent": {
+    "id": "02",
+    "level": 1,
+    "name": {
+      "local": "Kedah",
+      "en": "Kedah",
+      "slug": "kedah-02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "Kedah",
+        "en": "Kedah",
+        "slug": "kedah-02"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.193",
+    "lon": "100.601"
+  },
+  "metadata": {},
+  "source": {}
+}

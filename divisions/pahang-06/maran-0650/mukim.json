@@ -1,0 +1,434 @@
+[
+  {
+    "id": "0650-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR MARAN",
+      "en": "BANDAR MARAN",
+      "slug": "bandar-maran-0650-003"
+    },
+    "code": {
+      "id": "0650-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0650",
+      "level": 2,
+      "name": {
+        "local": "Maran",
+        "en": "Maran",
+        "slug": "maran-0650"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0650",
+        "level": 2,
+        "name": {
+          "local": "Maran",
+          "en": "Maran",
+          "slug": "maran-0650"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.584",
+      "lon": "102.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0650-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BUKIT SEGUMPAL",
+      "en": "BUKIT SEGUMPAL",
+      "slug": "bukit-segumpal-0650-006"
+    },
+    "code": {
+      "id": "0650-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0650",
+      "level": 2,
+      "name": {
+        "local": "Maran",
+        "en": "Maran",
+        "slug": "maran-0650"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0650",
+        "level": 2,
+        "name": {
+          "local": "Maran",
+          "en": "Maran",
+          "slug": "maran-0650"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.525",
+      "lon": "102.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0650-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM CHENOR",
+      "en": "CHENOR",
+      "slug": "chenor-0650-005"
+    },
+    "code": {
+      "id": "0650-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0650",
+      "level": 2,
+      "name": {
+        "local": "Maran",
+        "en": "Maran",
+        "slug": "maran-0650"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0650",
+        "level": 2,
+        "name": {
+          "local": "Maran",
+          "en": "Maran",
+          "slug": "maran-0650"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.672",
+      "lon": "102.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0650-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KERTAU",
+      "en": "KERTAU",
+      "slug": "kertau-0650-008"
+    },
+    "code": {
+      "id": "0650-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0650",
+      "level": 2,
+      "name": {
+        "local": "Maran",
+        "en": "Maran",
+        "slug": "maran-0650"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0650",
+        "level": 2,
+        "name": {
+          "local": "Maran",
+          "en": "Maran",
+          "slug": "maran-0650"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.41",
+      "lon": "102.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0650-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM LUIT",
+      "en": "LUIT",
+      "slug": "luit-0650-001"
+    },
+    "code": {
+      "id": "0650-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0650",
+      "level": 2,
+      "name": {
+        "local": "Maran",
+        "en": "Maran",
+        "slug": "maran-0650"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0650",
+        "level": 2,
+        "name": {
+          "local": "Maran",
+          "en": "Maran",
+          "slug": "maran-0650"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.578",
+      "lon": "102.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0650-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PALOH",
+      "en": "PALOH",
+      "slug": "paloh-0650-007"
+    },
+    "code": {
+      "id": "0650-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0650",
+      "level": 2,
+      "name": {
+        "local": "Maran",
+        "en": "Maran",
+        "slug": "maran-0650"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0650",
+        "level": 2,
+        "name": {
+          "local": "Maran",
+          "en": "Maran",
+          "slug": "maran-0650"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.671",
+      "lon": "102.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0650-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN CHENOR",
+      "en": "PEKAN CHENOR",
+      "slug": "pekan-chenor-0650-002"
+    },
+    "code": {
+      "id": "0650-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0650",
+      "level": 2,
+      "name": {
+        "local": "Maran",
+        "en": "Maran",
+        "slug": "maran-0650"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0650",
+        "level": 2,
+        "name": {
+          "local": "Maran",
+          "en": "Maran",
+          "slug": "maran-0650"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.48",
+      "lon": "102.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0650-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SRI JAYA",
+      "en": "PEKAN SRI JAYA",
+      "slug": "pekan-sri-jaya-0650-004"
+    },
+    "code": {
+      "id": "0650-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0650",
+      "level": 2,
+      "name": {
+        "local": "Maran",
+        "en": "Maran",
+        "slug": "maran-0650"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0650",
+        "level": 2,
+        "name": {
+          "local": "Maran",
+          "en": "Maran",
+          "slug": "maran-0650"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.67",
+      "lon": "102.875"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

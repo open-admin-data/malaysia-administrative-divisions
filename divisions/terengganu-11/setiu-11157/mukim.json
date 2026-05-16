@@ -1,0 +1,326 @@
+[
+  {
+    "id": "11157-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BINJAI",
+      "en": "BINJAI",
+      "slug": "binjai-11157-006"
+    },
+    "code": {
+      "id": "11157-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "11157",
+      "level": 2,
+      "name": {
+        "local": "Setiu",
+        "en": "Setiu",
+        "slug": "setiu-11157"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11157",
+        "level": 2,
+        "name": {
+          "local": "Setiu",
+          "en": "Setiu",
+          "slug": "setiu-11157"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.319",
+      "lon": "102.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11157-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM CALUK",
+      "en": "CALUK",
+      "slug": "caluk-11157-003"
+    },
+    "code": {
+      "id": "11157-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "11157",
+      "level": 2,
+      "name": {
+        "local": "Setiu",
+        "en": "Setiu",
+        "slug": "setiu-11157"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11157",
+        "level": 2,
+        "name": {
+          "local": "Setiu",
+          "en": "Setiu",
+          "slug": "setiu-11157"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.473",
+      "lon": "102.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11157-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM GUNTUNG",
+      "en": "GUNTUNG",
+      "slug": "guntung-11157-004"
+    },
+    "code": {
+      "id": "11157-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "11157",
+      "level": 2,
+      "name": {
+        "local": "Setiu",
+        "en": "Setiu",
+        "slug": "setiu-11157"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11157",
+        "level": 2,
+        "name": {
+          "local": "Setiu",
+          "en": "Setiu",
+          "slug": "setiu-11157"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.579",
+      "lon": "102.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11157-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM HULU NERUS",
+      "en": "HULU NERUS",
+      "slug": "hulu-nerus-11157-002"
+    },
+    "code": {
+      "id": "11157-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "11157",
+      "level": 2,
+      "name": {
+        "local": "Setiu",
+        "en": "Setiu",
+        "slug": "setiu-11157"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11157",
+        "level": 2,
+        "name": {
+          "local": "Setiu",
+          "en": "Setiu",
+          "slug": "setiu-11157"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.332",
+      "lon": "102.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11157-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM HULU SETIU",
+      "en": "HULU SETIU",
+      "slug": "hulu-setiu-11157-005"
+    },
+    "code": {
+      "id": "11157-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "11157",
+      "level": 2,
+      "name": {
+        "local": "Setiu",
+        "en": "Setiu",
+        "slug": "setiu-11157"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11157",
+        "level": 2,
+        "name": {
+          "local": "Setiu",
+          "en": "Setiu",
+          "slug": "setiu-11157"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.465",
+      "lon": "102.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11157-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM MERANG",
+      "en": "MERANG",
+      "slug": "merang-11157-001"
+    },
+    "code": {
+      "id": "11157-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "11157",
+      "level": 2,
+      "name": {
+        "local": "Setiu",
+        "en": "Setiu",
+        "slug": "setiu-11157"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11157",
+        "level": 2,
+        "name": {
+          "local": "Setiu",
+          "en": "Setiu",
+          "slug": "setiu-11157"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.496",
+      "lon": "102.929"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

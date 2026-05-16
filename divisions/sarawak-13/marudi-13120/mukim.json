@@ -1,0 +1,380 @@
+[
+  {
+    "id": "13120-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "APOH LAND DISTRICT",
+      "en": "APOH LAND DISTRICT",
+      "slug": "apoh-land-district-13120-001"
+    },
+    "code": {
+      "id": "13120-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13120",
+      "level": 2,
+      "name": {
+        "local": "Marudi",
+        "en": "Marudi",
+        "slug": "marudi-13120"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13120",
+        "level": 2,
+        "name": {
+          "local": "Marudi",
+          "en": "Marudi",
+          "slug": "marudi-13120"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.922",
+      "lon": "114.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13120-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "KAMUNTING LAND DISTRICT",
+      "en": "KAMUNTING LAND DISTRICT",
+      "slug": "kamunting-land-district-13120-002"
+    },
+    "code": {
+      "id": "13120-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13120",
+      "level": 2,
+      "name": {
+        "local": "Marudi",
+        "en": "Marudi",
+        "slug": "marudi-13120"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13120",
+        "level": 2,
+        "name": {
+          "local": "Marudi",
+          "en": "Marudi",
+          "slug": "marudi-13120"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.114",
+      "lon": "114.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13120-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "LUBOK NIBONG TOWN DISTRICT",
+      "en": "LUBOK NIBONG TOWN DISTRICT",
+      "slug": "lubok-nibong-town-district-13120-006"
+    },
+    "code": {
+      "id": "13120-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "13120",
+      "level": 2,
+      "name": {
+        "local": "Marudi",
+        "en": "Marudi",
+        "slug": "marudi-13120"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13120",
+        "level": 2,
+        "name": {
+          "local": "Marudi",
+          "en": "Marudi",
+          "slug": "marudi-13120"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.155",
+      "lon": "114.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13120-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MARUDI TOWN DISTRICT",
+      "en": "MARUDI TOWN DISTRICT",
+      "slug": "marudi-town-district-13120-003"
+    },
+    "code": {
+      "id": "13120-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13120",
+      "level": 2,
+      "name": {
+        "local": "Marudi",
+        "en": "Marudi",
+        "slug": "marudi-13120"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13120",
+        "level": 2,
+        "name": {
+          "local": "Marudi",
+          "en": "Marudi",
+          "slug": "marudi-13120"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.179",
+      "lon": "114.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13120-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PUYUT LAND DISTRICT",
+      "en": "PUYUT LAND DISTRICT",
+      "slug": "puyut-land-district-13120-005"
+    },
+    "code": {
+      "id": "13120-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "13120",
+      "level": 2,
+      "name": {
+        "local": "Marudi",
+        "en": "Marudi",
+        "slug": "marudi-13120"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13120",
+        "level": 2,
+        "name": {
+          "local": "Marudi",
+          "en": "Marudi",
+          "slug": "marudi-13120"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.063",
+      "lon": "114.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13120-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "TERAJA LAND DISTRICT",
+      "en": "TERAJA LAND DISTRICT",
+      "slug": "teraja-land-district-13120-007"
+    },
+    "code": {
+      "id": "13120-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "13120",
+      "level": 2,
+      "name": {
+        "local": "Marudi",
+        "en": "Marudi",
+        "slug": "marudi-13120"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13120",
+        "level": 2,
+        "name": {
+          "local": "Marudi",
+          "en": "Marudi",
+          "slug": "marudi-13120"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.278",
+      "lon": "114.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13120-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "TUTOH LAND DISTRICT",
+      "en": "TUTOH LAND DISTRICT",
+      "slug": "tutoh-land-district-13120-004"
+    },
+    "code": {
+      "id": "13120-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13120",
+      "level": 2,
+      "name": {
+        "local": "Marudi",
+        "en": "Marudi",
+        "slug": "marudi-13120"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13120",
+        "level": 2,
+        "name": {
+          "local": "Marudi",
+          "en": "Marudi",
+          "slug": "marudi-13120"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.995",
+      "lon": "115.02"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

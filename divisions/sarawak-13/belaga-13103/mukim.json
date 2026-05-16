@@ -1,0 +1,326 @@
+[
+  {
+    "id": "13103-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BALUI LAND DISTRICT",
+      "en": "BALUI LAND DISTRICT",
+      "slug": "balui-land-district-13103-002"
+    },
+    "code": {
+      "id": "13103-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13103",
+      "level": 2,
+      "name": {
+        "local": "Belaga",
+        "en": "Belaga",
+        "slug": "belaga-13103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13103",
+        "level": 2,
+        "name": {
+          "local": "Belaga",
+          "en": "Belaga",
+          "slug": "belaga-13103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.172",
+      "lon": "114.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13103-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BATU LAGA LAND DISTRICT",
+      "en": "BATU LAGA LAND DISTRICT",
+      "slug": "batu-laga-land-district-13103-005"
+    },
+    "code": {
+      "id": "13103-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "13103",
+      "level": 2,
+      "name": {
+        "local": "Belaga",
+        "en": "Belaga",
+        "slug": "belaga-13103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13103",
+        "level": 2,
+        "name": {
+          "local": "Belaga",
+          "en": "Belaga",
+          "slug": "belaga-13103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.54",
+      "lon": "114.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13103-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "DANUM LAND DISTRICT",
+      "en": "DANUM LAND DISTRICT",
+      "slug": "danum-land-district-13103-006"
+    },
+    "code": {
+      "id": "13103-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "13103",
+      "level": 2,
+      "name": {
+        "local": "Belaga",
+        "en": "Belaga",
+        "slug": "belaga-13103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13103",
+        "level": 2,
+        "name": {
+          "local": "Belaga",
+          "en": "Belaga",
+          "slug": "belaga-13103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.519",
+      "lon": "114.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13103-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MAMAU LAND DISTRICT",
+      "en": "MAMAU LAND DISTRICT",
+      "slug": "mamau-land-district-13103-001"
+    },
+    "code": {
+      "id": "13103-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13103",
+      "level": 2,
+      "name": {
+        "local": "Belaga",
+        "en": "Belaga",
+        "slug": "belaga-13103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13103",
+        "level": 2,
+        "name": {
+          "local": "Belaga",
+          "en": "Belaga",
+          "slug": "belaga-13103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.711",
+      "lon": "113.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13103-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MURUM LAND DISTRICT",
+      "en": "MURUM LAND DISTRICT",
+      "slug": "murum-land-district-13103-004"
+    },
+    "code": {
+      "id": "13103-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13103",
+      "level": 2,
+      "name": {
+        "local": "Belaga",
+        "en": "Belaga",
+        "slug": "belaga-13103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13103",
+        "level": 2,
+        "name": {
+          "local": "Belaga",
+          "en": "Belaga",
+          "slug": "belaga-13103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.653",
+      "lon": "114.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13103-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PUNAN LAND DISTRICT",
+      "en": "PUNAN LAND DISTRICT",
+      "slug": "punan-land-district-13103-003"
+    },
+    "code": {
+      "id": "13103-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13103",
+      "level": 2,
+      "name": {
+        "local": "Belaga",
+        "en": "Belaga",
+        "slug": "belaga-13103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13103",
+        "level": 2,
+        "name": {
+          "local": "Belaga",
+          "en": "Belaga",
+          "slug": "belaga-13103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.128",
+      "lon": "114.146"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

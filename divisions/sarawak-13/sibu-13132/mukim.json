@@ -1,0 +1,542 @@
+[
+  {
+    "id": "13132-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ASSAN LAND DISTRICT",
+      "en": "ASSAN LAND DISTRICT",
+      "slug": "assan-land-district-13132-010"
+    },
+    "code": {
+      "id": "13132-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "13132",
+      "level": 2,
+      "name": {
+        "local": "Sibu",
+        "en": "Sibu",
+        "slug": "sibu-13132"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13132",
+        "level": 2,
+        "name": {
+          "local": "Sibu",
+          "en": "Sibu",
+          "slug": "sibu-13132"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.187",
+      "lon": "111.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13132-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "DURIN TOWN DISTRICT",
+      "en": "DURIN TOWN DISTRICT",
+      "slug": "durin-town-district-13132-006"
+    },
+    "code": {
+      "id": "13132-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "13132",
+      "level": 2,
+      "name": {
+        "local": "Sibu",
+        "en": "Sibu",
+        "slug": "sibu-13132"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13132",
+        "level": 2,
+        "name": {
+          "local": "Sibu",
+          "en": "Sibu",
+          "slug": "sibu-13132"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.139",
+      "lon": "111.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13132-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ENGKILO LAND DISTRICT",
+      "en": "ENGKILO LAND DISTRICT",
+      "slug": "engkilo-land-district-13132-004"
+    },
+    "code": {
+      "id": "13132-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13132",
+      "level": 2,
+      "name": {
+        "local": "Sibu",
+        "en": "Sibu",
+        "slug": "sibu-13132"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13132",
+        "level": 2,
+        "name": {
+          "local": "Sibu",
+          "en": "Sibu",
+          "slug": "sibu-13132"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.318",
+      "lon": "111.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13132-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "KABANG LAND DISTRICT",
+      "en": "KABANG LAND DISTRICT",
+      "slug": "kabang-land-district-13132-003"
+    },
+    "code": {
+      "id": "13132-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13132",
+      "level": 2,
+      "name": {
+        "local": "Sibu",
+        "en": "Sibu",
+        "slug": "sibu-13132"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13132",
+        "level": 2,
+        "name": {
+          "local": "Sibu",
+          "en": "Sibu",
+          "slug": "sibu-13132"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.445",
+      "lon": "111.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13132-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MENYAN LAND DISTRICT",
+      "en": "MENYAN LAND DISTRICT",
+      "slug": "menyan-land-district-13132-002"
+    },
+    "code": {
+      "id": "13132-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13132",
+      "level": 2,
+      "name": {
+        "local": "Sibu",
+        "en": "Sibu",
+        "slug": "sibu-13132"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13132",
+        "level": 2,
+        "name": {
+          "local": "Sibu",
+          "en": "Sibu",
+          "slug": "sibu-13132"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.107",
+      "lon": "112.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13132-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PASAI-SIONG LAND DISTRICT",
+      "en": "PASAI-SIONG LAND DISTRICT",
+      "slug": "pasai-siong-land-district-13132-001"
+    },
+    "code": {
+      "id": "13132-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13132",
+      "level": 2,
+      "name": {
+        "local": "Sibu",
+        "en": "Sibu",
+        "slug": "sibu-13132"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13132",
+        "level": 2,
+        "name": {
+          "local": "Sibu",
+          "en": "Sibu",
+          "slug": "sibu-13132"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.383",
+      "lon": "111.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13132-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SEDUAN LAND DISTRICT",
+      "en": "SEDUAN LAND DISTRICT",
+      "slug": "seduan-land-district-13132-009"
+    },
+    "code": {
+      "id": "13132-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "13132",
+      "level": 2,
+      "name": {
+        "local": "Sibu",
+        "en": "Sibu",
+        "slug": "sibu-13132"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13132",
+        "level": 2,
+        "name": {
+          "local": "Sibu",
+          "en": "Sibu",
+          "slug": "sibu-13132"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.318",
+      "lon": "111.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13132-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SIBINTEK TOWN DISTRICT",
+      "en": "SIBINTEK TOWN DISTRICT",
+      "slug": "sibintek-town-district-13132-008"
+    },
+    "code": {
+      "id": "13132-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "13132",
+      "level": 2,
+      "name": {
+        "local": "Sibu",
+        "en": "Sibu",
+        "slug": "sibu-13132"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13132",
+        "level": 2,
+        "name": {
+          "local": "Sibu",
+          "en": "Sibu",
+          "slug": "sibu-13132"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.335",
+      "lon": "112.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13132-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SIBU TOWN DISTRICT",
+      "en": "SIBU TOWN DISTRICT",
+      "slug": "sibu-town-district-13132-005"
+    },
+    "code": {
+      "id": "13132-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "13132",
+      "level": 2,
+      "name": {
+        "local": "Sibu",
+        "en": "Sibu",
+        "slug": "sibu-13132"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13132",
+        "level": 2,
+        "name": {
+          "local": "Sibu",
+          "en": "Sibu",
+          "slug": "sibu-13132"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.285",
+      "lon": "111.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13132-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SUNGAI MERAH TOWN DISTRICT",
+      "en": "SUNGAI MERAH TOWN DISTRICT",
+      "slug": "sungai-merah-town-district-13132-007"
+    },
+    "code": {
+      "id": "13132-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "13132",
+      "level": 2,
+      "name": {
+        "local": "Sibu",
+        "en": "Sibu",
+        "slug": "sibu-13132"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13132",
+        "level": 2,
+        "name": {
+          "local": "Sibu",
+          "en": "Sibu",
+          "slug": "sibu-13132"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.326",
+      "lon": "111.841"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

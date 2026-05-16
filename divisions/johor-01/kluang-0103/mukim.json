@@ -1,0 +1,380 @@
+[
+  {
+    "id": "0103-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KAHANG",
+      "en": "KAHANG",
+      "slug": "kahang-0103-005"
+    },
+    "code": {
+      "id": "0103-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0103",
+      "level": 2,
+      "name": {
+        "local": "Kluang",
+        "en": "Kluang",
+        "slug": "kluang-0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0103",
+        "level": 2,
+        "name": {
+          "local": "Kluang",
+          "en": "Kluang",
+          "slug": "kluang-0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.304",
+      "lon": "103.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0103-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KLUANG",
+      "en": "KLUANG",
+      "slug": "kluang-0103-003"
+    },
+    "code": {
+      "id": "0103-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0103",
+      "level": 2,
+      "name": {
+        "local": "Kluang",
+        "en": "Kluang",
+        "slug": "kluang-0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0103",
+        "level": 2,
+        "name": {
+          "local": "Kluang",
+          "en": "Kluang",
+          "slug": "kluang-0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.013",
+      "lon": "103.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0103-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM LAYANG-LAYANG",
+      "en": "LAYANG-LAYANG",
+      "slug": "layang-layang-0103-007"
+    },
+    "code": {
+      "id": "0103-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0103",
+      "level": 2,
+      "name": {
+        "local": "Kluang",
+        "en": "Kluang",
+        "slug": "kluang-0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0103",
+        "level": 2,
+        "name": {
+          "local": "Kluang",
+          "en": "Kluang",
+          "slug": "kluang-0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.808",
+      "lon": "103.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0103-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM NIYOR",
+      "en": "NIYOR",
+      "slug": "niyor-0103-001"
+    },
+    "code": {
+      "id": "0103-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0103",
+      "level": 2,
+      "name": {
+        "local": "Kluang",
+        "en": "Kluang",
+        "slug": "kluang-0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0103",
+        "level": 2,
+        "name": {
+          "local": "Kluang",
+          "en": "Kluang",
+          "slug": "kluang-0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.145",
+      "lon": "103.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0103-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PONTIAN",
+      "en": "PONTIAN",
+      "slug": "pontian-0103-004"
+    },
+    "code": {
+      "id": "0103-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0103",
+      "level": 2,
+      "name": {
+        "local": "Kluang",
+        "en": "Kluang",
+        "slug": "kluang-0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0103",
+        "level": 2,
+        "name": {
+          "local": "Kluang",
+          "en": "Kluang",
+          "slug": "kluang-0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.094",
+      "lon": "103.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0103-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM RENGAM",
+      "en": "RENGAM",
+      "slug": "rengam-0103-002"
+    },
+    "code": {
+      "id": "0103-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0103",
+      "level": 2,
+      "name": {
+        "local": "Kluang",
+        "en": "Kluang",
+        "slug": "kluang-0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0103",
+        "level": 2,
+        "name": {
+          "local": "Kluang",
+          "en": "Kluang",
+          "slug": "kluang-0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.875",
+      "lon": "103.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0103-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM ULU BENUT",
+      "en": "ULU BENUT",
+      "slug": "ulu-benut-0103-006"
+    },
+    "code": {
+      "id": "0103-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0103",
+      "level": 2,
+      "name": {
+        "local": "Kluang",
+        "en": "Kluang",
+        "slug": "kluang-0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0103",
+        "level": 2,
+        "name": {
+          "local": "Kluang",
+          "en": "Kluang",
+          "slug": "kluang-0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.802",
+      "lon": "103.288"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

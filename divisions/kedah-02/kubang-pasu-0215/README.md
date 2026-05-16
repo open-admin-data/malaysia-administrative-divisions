@@ -1,0 +1,63 @@
+# Kubang Pasu
+
+[Home](../../../) &gt; [Kedah](../) > **Kubang Pasu**
+
+Kubang Pasu is a district in Malaysia, under Kedah.
+
+## Overview
+
+| Item | Details |
+|------|---------|
+| Subdistricts | 34 |
+| Code | 0215 |
+| Coordinates | 6.345, 100.431 |
+| Parent | Kedah |
+
+## Subdistricts
+
+| # | Name | Coordinates | Code |
+|---|------|-------------|------|
+| 1 | MUKIM AH (AH) | 6.348, 100.332 | 0215-009 |
+| 2 | BANDAR BANDAR DARULAMAN | 6.242, 100.428 | 0215-008 |
+| 3 | BANDAR BUKIT KAYU HITAM | 6.495, 100.423 | 0215-025 |
+| 4 | BANDAR CHANGLUN | 6.425, 100.428 | 0215-023 |
+| 5 | BANDAR JITRA | 6.281, 100.42 | 0215-026 |
+| 6 | BANDAR KODIANG | 6.397, 100.312 | 0215-019 |
+| 7 | BANDAR PADANG SERA | 6.361, 100.338 | 0215-007 |
+| 8 | BANDAR TUNJANG | 6.288, 100.378 | 0215-022 |
+| 9 | MUKIM BINJAL (BINJAL) | 6.326, 100.441 | 0215-034 |
+| 10 | MUKIM BUKIT TINGGI (BUKIT TINGGI) | 6.219, 100.435 | 0215-029 |
+| 11 | MUKIM GELONG (GELONG) | 6.303, 100.397 | 0215-013 |
+| 12 | MUKIM HUSBA (HUSBA) | 6.352, 100.419 | 0215-010 |
+| 13 | MUKIM JERLUN (JERLUN) | 6.235, 100.256 | 0215-005 |
+| 14 | MUKIM JITRA (JITRA) | 6.28, 100.434 | 0215-011 |
+| 15 | MUKIM KEPELU (KEPELU) | 6.391, 100.316 | 0215-028 |
+| 16 | MUKIM KUBANG PASU (KUBANG PASU) | 6.374, 100.437 | 0215-027 |
+| 17 | MUKIM MALAU (MALAU) | 6.298, 100.49 | 0215-020 |
+| 18 | MUKIM NAGA (NAGA) | 6.237, 100.368 | 0215-012 |
+| 19 | MUKIM PADANG PERAHU (PADANG PERAHU) | 6.311, 100.341 | 0215-006 |
+| 20 | PEKAN AYER HITAM | 6.234, 100.249 | 0215-030 |
+| 21 | PEKAN KERPAN | 6.258, 100.23 | 0215-018 |
+| 22 | PEKAN KUALA SANGLANG | 6.262, 100.201 | 0215-001 |
+| 23 | PEKAN NAPOH | 6.363, 100.423 | 0215-024 |
+| 24 | PEKAN SANGLANG | 6.282, 100.218 | 0215-031 |
+| 25 | PEKAN SINTOK | 6.463, 100.498 | 0215-033 |
+| 26 | PEKAN SUNGAI KOROK | 6.233, 100.323 | 0215-016 |
+| 27 | MUKIM PELUBANG (PELUBANG) | 6.224, 100.457 | 0215-021 |
+| 28 | MUKIM PERING (PERING) | 6.372, 100.328 | 0215-014 |
+| 29 | MUKIM PUTAT (PUTAT) | 6.335, 100.342 | 0215-032 |
+| 30 | MUKIM SANGLANG (SANGLANG) | 6.287, 100.215 | 0215-017 |
+| 31 | MUKIM SUNGAI LAKA (SUNGAI LAKA) | 6.483, 100.411 | 0215-002 |
+| 32 | MUKIM TEMIN (TEMIN) | 6.447, 100.5 | 0215-003 |
+| 33 | MUKIM TUNJANG (TUNJANG) | 6.29, 100.356 | 0215-015 |
+| 34 | MUKIM WANG TEPUS (WANG TEPUS) | 6.257, 100.481 | 0215-004 |
+
+## Data Files
+
+- [district.json](district.json) — District metadata
+- [mukim.json](mukim.json) — All subdistricts (JSON)
+- [mukim.csv](mukim.csv) — CSV format
+
+---
+
+<- Back to [Kedah](../)

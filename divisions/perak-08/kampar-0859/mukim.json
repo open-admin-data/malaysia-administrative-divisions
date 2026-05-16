@@ -1,0 +1,326 @@
+[
+  {
+    "id": "0859-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR GOPENG",
+      "en": "BANDAR GOPENG",
+      "slug": "bandar-gopeng-0859-001"
+    },
+    "code": {
+      "id": "0859-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0859",
+      "level": 2,
+      "name": {
+        "local": "Kampar",
+        "en": "Kampar",
+        "slug": "kampar-0859"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0859",
+        "level": 2,
+        "name": {
+          "local": "Kampar",
+          "en": "Kampar",
+          "slug": "kampar-0859"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.474",
+      "lon": "101.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0859-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR KAMPAR",
+      "en": "BANDAR KAMPAR",
+      "slug": "bandar-kampar-0859-005"
+    },
+    "code": {
+      "id": "0859-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0859",
+      "level": 2,
+      "name": {
+        "local": "Kampar",
+        "en": "Kampar",
+        "slug": "kampar-0859"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0859",
+        "level": 2,
+        "name": {
+          "local": "Kampar",
+          "en": "Kampar",
+          "slug": "kampar-0859"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.309",
+      "lon": "101.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0859-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KAMPAR",
+      "en": "KAMPAR",
+      "slug": "kampar-0859-004"
+    },
+    "code": {
+      "id": "0859-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0859",
+      "level": 2,
+      "name": {
+        "local": "Kampar",
+        "en": "Kampar",
+        "slug": "kampar-0859"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0859",
+        "level": 2,
+        "name": {
+          "local": "Kampar",
+          "en": "Kampar",
+          "slug": "kampar-0859"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.387",
+      "lon": "101.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0859-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KOTA BAHARU",
+      "en": "PEKAN KOTA BAHARU",
+      "slug": "pekan-kota-baharu-0859-006"
+    },
+    "code": {
+      "id": "0859-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0859",
+      "level": 2,
+      "name": {
+        "local": "Kampar",
+        "en": "Kampar",
+        "slug": "kampar-0859"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0859",
+        "level": 2,
+        "name": {
+          "local": "Kampar",
+          "en": "Kampar",
+          "slug": "kampar-0859"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.399",
+      "lon": "101.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0859-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN MALIM NAWAR",
+      "en": "PEKAN MALIM NAWAR",
+      "slug": "pekan-malim-nawar-0859-002"
+    },
+    "code": {
+      "id": "0859-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0859",
+      "level": 2,
+      "name": {
+        "local": "Kampar",
+        "en": "Kampar",
+        "slug": "kampar-0859"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0859",
+        "level": 2,
+        "name": {
+          "local": "Kampar",
+          "en": "Kampar",
+          "slug": "kampar-0859"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.351",
+      "lon": "101.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0859-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TEJA",
+      "en": "TEJA",
+      "slug": "teja-0859-003"
+    },
+    "code": {
+      "id": "0859-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0859",
+      "level": 2,
+      "name": {
+        "local": "Kampar",
+        "en": "Kampar",
+        "slug": "kampar-0859"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0859",
+        "level": 2,
+        "name": {
+          "local": "Kampar",
+          "en": "Kampar",
+          "slug": "kampar-0859"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.453",
+      "lon": "101.216"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

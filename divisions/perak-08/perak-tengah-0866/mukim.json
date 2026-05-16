@@ -1,0 +1,974 @@
+[
+  {
+    "id": "0866-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BANDAR SERI ISKANDAR",
+      "en": "BANDAR BANDAR SERI ISKANDAR",
+      "slug": "bandar-bandar-seri-iskandar-0866-011"
+    },
+    "code": {
+      "id": "0866-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0866",
+      "level": 2,
+      "name": {
+        "local": "Perak Tengah",
+        "en": "Perak Tengah",
+        "slug": "perak-tengah-0866"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0866",
+        "level": 2,
+        "name": {
+          "local": "Perak Tengah",
+          "en": "Perak Tengah",
+          "slug": "perak-tengah-0866"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.365",
+      "lon": "100.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0866-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BOTA",
+      "en": "BOTA",
+      "slug": "bota-0866-005"
+    },
+    "code": {
+      "id": "0866-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0866",
+      "level": 2,
+      "name": {
+        "local": "Perak Tengah",
+        "en": "Perak Tengah",
+        "slug": "perak-tengah-0866"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0866",
+        "level": 2,
+        "name": {
+          "local": "Perak Tengah",
+          "en": "Perak Tengah",
+          "slug": "perak-tengah-0866"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.348",
+      "lon": "100.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0866-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM JAYA BARU",
+      "en": "JAYA BARU",
+      "slug": "jaya-baru-0866-006"
+    },
+    "code": {
+      "id": "0866-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0866",
+      "level": 2,
+      "name": {
+        "local": "Perak Tengah",
+        "en": "Perak Tengah",
+        "slug": "perak-tengah-0866"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0866",
+        "level": 2,
+        "name": {
+          "local": "Perak Tengah",
+          "en": "Perak Tengah",
+          "slug": "perak-tengah-0866"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.142",
+      "lon": "100.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0866-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KAMPONG GAJAH",
+      "en": "KAMPONG GAJAH",
+      "slug": "kampong-gajah-0866-002"
+    },
+    "code": {
+      "id": "0866-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0866",
+      "level": 2,
+      "name": {
+        "local": "Perak Tengah",
+        "en": "Perak Tengah",
+        "slug": "perak-tengah-0866"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0866",
+        "level": 2,
+        "name": {
+          "local": "Perak Tengah",
+          "en": "Perak Tengah",
+          "slug": "perak-tengah-0866"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.21",
+      "lon": "101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0866-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KOTA SETIA",
+      "en": "KOTA SETIA",
+      "slug": "kota-setia-0866-010"
+    },
+    "code": {
+      "id": "0866-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0866",
+      "level": 2,
+      "name": {
+        "local": "Perak Tengah",
+        "en": "Perak Tengah",
+        "slug": "perak-tengah-0866"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0866",
+        "level": 2,
+        "name": {
+          "local": "Perak Tengah",
+          "en": "Perak Tengah",
+          "slug": "perak-tengah-0866"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.036",
+      "lon": "100.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0866-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM LAMBOR KANAN",
+      "en": "LAMBOR KANAN",
+      "slug": "lambor-kanan-0866-007"
+    },
+    "code": {
+      "id": "0866-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0866",
+      "level": 2,
+      "name": {
+        "local": "Perak Tengah",
+        "en": "Perak Tengah",
+        "slug": "perak-tengah-0866"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0866",
+        "level": 2,
+        "name": {
+          "local": "Perak Tengah",
+          "en": "Perak Tengah",
+          "slug": "perak-tengah-0866"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.286",
+      "lon": "100.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0866-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM LAMBOR KIRI",
+      "en": "LAMBOR KIRI",
+      "slug": "lambor-kiri-0866-015"
+    },
+    "code": {
+      "id": "0866-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "0866",
+      "level": 2,
+      "name": {
+        "local": "Perak Tengah",
+        "en": "Perak Tengah",
+        "slug": "perak-tengah-0866"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0866",
+        "level": 2,
+        "name": {
+          "local": "Perak Tengah",
+          "en": "Perak Tengah",
+          "slug": "perak-tengah-0866"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.285",
+      "lon": "100.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0866-017",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM LAYANG LAYANG",
+      "en": "LAYANG LAYANG",
+      "slug": "layang-layang-0866-017"
+    },
+    "code": {
+      "id": "0866-017",
+      "iso": null
+    },
+    "parent": {
+      "id": "0866",
+      "level": 2,
+      "name": {
+        "local": "Perak Tengah",
+        "en": "Perak Tengah",
+        "slug": "perak-tengah-0866"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0866",
+        "level": 2,
+        "name": {
+          "local": "Perak Tengah",
+          "en": "Perak Tengah",
+          "slug": "perak-tengah-0866"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.401",
+      "lon": "100.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0866-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PASIR PANJANG HULU",
+      "en": "PASIR PANJANG HULU",
+      "slug": "pasir-panjang-hulu-0866-012"
+    },
+    "code": {
+      "id": "0866-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0866",
+      "level": 2,
+      "name": {
+        "local": "Perak Tengah",
+        "en": "Perak Tengah",
+        "slug": "perak-tengah-0866"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0866",
+        "level": 2,
+        "name": {
+          "local": "Perak Tengah",
+          "en": "Perak Tengah",
+          "slug": "perak-tengah-0866"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.177",
+      "lon": "101.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0866-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PASIR SALAK",
+      "en": "PASIR SALAK",
+      "slug": "pasir-salak-0866-014"
+    },
+    "code": {
+      "id": "0866-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "0866",
+      "level": 2,
+      "name": {
+        "local": "Perak Tengah",
+        "en": "Perak Tengah",
+        "slug": "perak-tengah-0866"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0866",
+        "level": 2,
+        "name": {
+          "local": "Perak Tengah",
+          "en": "Perak Tengah",
+          "slug": "perak-tengah-0866"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.132",
+      "lon": "100.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0866-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BOTA KANAN",
+      "en": "PEKAN BOTA KANAN",
+      "slug": "pekan-bota-kanan-0866-003"
+    },
+    "code": {
+      "id": "0866-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0866",
+      "level": 2,
+      "name": {
+        "local": "Perak Tengah",
+        "en": "Perak Tengah",
+        "slug": "perak-tengah-0866"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0866",
+        "level": 2,
+        "name": {
+          "local": "Perak Tengah",
+          "en": "Perak Tengah",
+          "slug": "perak-tengah-0866"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.35",
+      "lon": "100.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0866-018",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KAMPONG BULOH AKAR",
+      "en": "PEKAN KAMPONG BULOH AKAR",
+      "slug": "pekan-kampong-buloh-akar-0866-018"
+    },
+    "code": {
+      "id": "0866-018",
+      "iso": null
+    },
+    "parent": {
+      "id": "0866",
+      "level": 2,
+      "name": {
+        "local": "Perak Tengah",
+        "en": "Perak Tengah",
+        "slug": "perak-tengah-0866"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0866",
+        "level": 2,
+        "name": {
+          "local": "Perak Tengah",
+          "en": "Perak Tengah",
+          "slug": "perak-tengah-0866"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.526",
+      "lon": "100.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0866-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KOTA SETIA",
+      "en": "PEKAN KOTA SETIA",
+      "slug": "pekan-kota-setia-0866-008"
+    },
+    "code": {
+      "id": "0866-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0866",
+      "level": 2,
+      "name": {
+        "local": "Perak Tengah",
+        "en": "Perak Tengah",
+        "slug": "perak-tengah-0866"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0866",
+        "level": 2,
+        "name": {
+          "local": "Perak Tengah",
+          "en": "Perak Tengah",
+          "slug": "perak-tengah-0866"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.02",
+      "lon": "100.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0866-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PARIT",
+      "en": "PEKAN PARIT",
+      "slug": "pekan-parit-0866-013"
+    },
+    "code": {
+      "id": "0866-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0866",
+      "level": 2,
+      "name": {
+        "local": "Perak Tengah",
+        "en": "Perak Tengah",
+        "slug": "perak-tengah-0866"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0866",
+        "level": 2,
+        "name": {
+          "local": "Perak Tengah",
+          "en": "Perak Tengah",
+          "slug": "perak-tengah-0866"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.477",
+      "lon": "100.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0866-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SIMPANG EMPAT",
+      "en": "PEKAN SIMPANG EMPAT",
+      "slug": "pekan-simpang-empat-0866-004"
+    },
+    "code": {
+      "id": "0866-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0866",
+      "level": 2,
+      "name": {
+        "local": "Perak Tengah",
+        "en": "Perak Tengah",
+        "slug": "perak-tengah-0866"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0866",
+        "level": 2,
+        "name": {
+          "local": "Perak Tengah",
+          "en": "Perak Tengah",
+          "slug": "perak-tengah-0866"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.183",
+      "lon": "100.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0866-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TANJONG BELANJA",
+      "en": "PEKAN TANJONG BELANJA",
+      "slug": "pekan-tanjong-belanja-0866-009"
+    },
+    "code": {
+      "id": "0866-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0866",
+      "level": 2,
+      "name": {
+        "local": "Perak Tengah",
+        "en": "Perak Tengah",
+        "slug": "perak-tengah-0866"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0866",
+        "level": 2,
+        "name": {
+          "local": "Perak Tengah",
+          "en": "Perak Tengah",
+          "slug": "perak-tengah-0866"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.507",
+      "lon": "100.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0866-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PULAU TIGA",
+      "en": "PULAU TIGA",
+      "slug": "pulau-tiga-0866-001"
+    },
+    "code": {
+      "id": "0866-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0866",
+      "level": 2,
+      "name": {
+        "local": "Perak Tengah",
+        "en": "Perak Tengah",
+        "slug": "perak-tengah-0866"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0866",
+        "level": 2,
+        "name": {
+          "local": "Perak Tengah",
+          "en": "Perak Tengah",
+          "slug": "perak-tengah-0866"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.228",
+      "lon": "100.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0866-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SUNGAI TINGGI",
+      "en": "SUNGAI TINGGI",
+      "slug": "sungai-tinggi-0866-016"
+    },
+    "code": {
+      "id": "0866-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "0866",
+      "level": 2,
+      "name": {
+        "local": "Perak Tengah",
+        "en": "Perak Tengah",
+        "slug": "perak-tengah-0866"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0866",
+        "level": 2,
+        "name": {
+          "local": "Perak Tengah",
+          "en": "Perak Tengah",
+          "slug": "perak-tengah-0866"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.372",
+      "lon": "100.857"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

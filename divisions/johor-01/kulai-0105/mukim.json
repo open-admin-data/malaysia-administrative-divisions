@@ -1,0 +1,272 @@
+[
+  {
+    "id": "0105-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR KULAI",
+      "en": "BANDAR KULAI",
+      "slug": "bandar-kulai-0105-001"
+    },
+    "code": {
+      "id": "0105-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0105",
+      "level": 2,
+      "name": {
+        "local": "Kulai",
+        "en": "Kulai",
+        "slug": "kulai-0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0105",
+        "level": 2,
+        "name": {
+          "local": "Kulai",
+          "en": "Kulai",
+          "slug": "kulai-0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.655",
+      "lon": "103.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BUKIT BATU",
+      "en": "BUKIT BATU",
+      "slug": "bukit-batu-0105-005"
+    },
+    "code": {
+      "id": "0105-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0105",
+      "level": 2,
+      "name": {
+        "local": "Kulai",
+        "en": "Kulai",
+        "slug": "kulai-0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0105",
+        "level": 2,
+        "name": {
+          "local": "Kulai",
+          "en": "Kulai",
+          "slug": "kulai-0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.691",
+      "lon": "103.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KULAI",
+      "en": "KULAI",
+      "slug": "kulai-0105-003"
+    },
+    "code": {
+      "id": "0105-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0105",
+      "level": 2,
+      "name": {
+        "local": "Kulai",
+        "en": "Kulai",
+        "slug": "kulai-0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0105",
+        "level": 2,
+        "name": {
+          "local": "Kulai",
+          "en": "Kulai",
+          "slug": "kulai-0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.608",
+      "lon": "103.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SEDENAK",
+      "en": "SEDENAK",
+      "slug": "sedenak-0105-002"
+    },
+    "code": {
+      "id": "0105-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0105",
+      "level": 2,
+      "name": {
+        "local": "Kulai",
+        "en": "Kulai",
+        "slug": "kulai-0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0105",
+        "level": 2,
+        "name": {
+          "local": "Kulai",
+          "en": "Kulai",
+          "slug": "kulai-0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.774",
+      "lon": "103.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SENAI",
+      "en": "SENAI",
+      "slug": "senai-0105-004"
+    },
+    "code": {
+      "id": "0105-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0105",
+      "level": 2,
+      "name": {
+        "local": "Kulai",
+        "en": "Kulai",
+        "slug": "kulai-0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0105",
+        "level": 2,
+        "name": {
+          "local": "Kulai",
+          "en": "Kulai",
+          "slug": "kulai-0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.669",
+      "lon": "103.632"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

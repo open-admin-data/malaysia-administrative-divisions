@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "11155-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM ATAS TOL",
+      "en": "ATAS TOL",
+      "slug": "atas-tol-11155-007"
+    },
+    "code": {
+      "id": "11155-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "11155",
+      "level": 2,
+      "name": {
+        "local": "Kuala Terengganu",
+        "en": "Kuala Terengganu",
+        "slug": "kuala-terengganu-11155"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11155",
+        "level": 2,
+        "name": {
+          "local": "Kuala Terengganu",
+          "en": "Kuala Terengganu",
+          "slug": "kuala-terengganu-11155"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.257",
+      "lon": "103.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11155-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR KUALA TERENGGANU",
+      "en": "BANDAR KUALA TERENGGANU",
+      "slug": "bandar-kuala-terengganu-11155-010"
+    },
+    "code": {
+      "id": "11155-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "11155",
+      "level": 2,
+      "name": {
+        "local": "Kuala Terengganu",
+        "en": "Kuala Terengganu",
+        "slug": "kuala-terengganu-11155"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11155",
+        "level": 2,
+        "name": {
+          "local": "Kuala Terengganu",
+          "en": "Kuala Terengganu",
+          "slug": "kuala-terengganu-11155"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.329",
+      "lon": "103.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11155-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BATU BURUK",
+      "en": "BATU BURUK",
+      "slug": "batu-buruk-11155-004"
+    },
+    "code": {
+      "id": "11155-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "11155",
+      "level": 2,
+      "name": {
+        "local": "Kuala Terengganu",
+        "en": "Kuala Terengganu",
+        "slug": "kuala-terengganu-11155"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11155",
+        "level": 2,
+        "name": {
+          "local": "Kuala Terengganu",
+          "en": "Kuala Terengganu",
+          "slug": "kuala-terengganu-11155"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.307",
+      "lon": "103.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11155-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BELARA",
+      "en": "BELARA",
+      "slug": "belara-11155-013"
+    },
+    "code": {
+      "id": "11155-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "11155",
+      "level": 2,
+      "name": {
+        "local": "Kuala Terengganu",
+        "en": "Kuala Terengganu",
+        "slug": "kuala-terengganu-11155"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11155",
+        "level": 2,
+        "name": {
+          "local": "Kuala Terengganu",
+          "en": "Kuala Terengganu",
+          "slug": "kuala-terengganu-11155"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.283",
+      "lon": "103.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11155-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BUKIT BESAR",
+      "en": "BUKIT BESAR",
+      "slug": "bukit-besar-11155-009"
+    },
+    "code": {
+      "id": "11155-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "11155",
+      "level": 2,
+      "name": {
+        "local": "Kuala Terengganu",
+        "en": "Kuala Terengganu",
+        "slug": "kuala-terengganu-11155"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11155",
+        "level": 2,
+        "name": {
+          "local": "Kuala Terengganu",
+          "en": "Kuala Terengganu",
+          "slug": "kuala-terengganu-11155"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.295",
+      "lon": "103.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11155-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM CABANG TIGA",
+      "en": "CABANG TIGA",
+      "slug": "cabang-tiga-11155-001"
+    },
+    "code": {
+      "id": "11155-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "11155",
+      "level": 2,
+      "name": {
+        "local": "Kuala Terengganu",
+        "en": "Kuala Terengganu",
+        "slug": "kuala-terengganu-11155"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11155",
+        "level": 2,
+        "name": {
+          "local": "Kuala Terengganu",
+          "en": "Kuala Terengganu",
+          "slug": "kuala-terengganu-11155"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.309",
+      "lon": "103.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11155-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM CENERING",
+      "en": "CENERING",
+      "slug": "cenering-11155-014"
+    },
+    "code": {
+      "id": "11155-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "11155",
+      "level": 2,
+      "name": {
+        "local": "Kuala Terengganu",
+        "en": "Kuala Terengganu",
+        "slug": "kuala-terengganu-11155"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11155",
+        "level": 2,
+        "name": {
+          "local": "Kuala Terengganu",
+          "en": "Kuala Terengganu",
+          "slug": "kuala-terengganu-11155"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.264",
+      "lon": "103.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11155-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM GELUGUR KEDAI",
+      "en": "GELUGUR KEDAI",
+      "slug": "gelugur-kedai-11155-003"
+    },
+    "code": {
+      "id": "11155-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "11155",
+      "level": 2,
+      "name": {
+        "local": "Kuala Terengganu",
+        "en": "Kuala Terengganu",
+        "slug": "kuala-terengganu-11155"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11155",
+        "level": 2,
+        "name": {
+          "local": "Kuala Terengganu",
+          "en": "Kuala Terengganu",
+          "slug": "kuala-terengganu-11155"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.267",
+      "lon": "103.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11155-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM GELUGUR RAJA",
+      "en": "GELUGUR RAJA",
+      "slug": "gelugur-raja-11155-015"
+    },
+    "code": {
+      "id": "11155-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "11155",
+      "level": 2,
+      "name": {
+        "local": "Kuala Terengganu",
+        "en": "Kuala Terengganu",
+        "slug": "kuala-terengganu-11155"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11155",
+        "level": 2,
+        "name": {
+          "local": "Kuala Terengganu",
+          "en": "Kuala Terengganu",
+          "slug": "kuala-terengganu-11155"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.288",
+      "lon": "103.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11155-018",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KEPUNG",
+      "en": "KEPUNG",
+      "slug": "kepung-11155-018"
+    },
+    "code": {
+      "id": "11155-018",
+      "iso": null
+    },
+    "parent": {
+      "id": "11155",
+      "level": 2,
+      "name": {
+        "local": "Kuala Terengganu",
+        "en": "Kuala Terengganu",
+        "slug": "kuala-terengganu-11155"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11155",
+        "level": 2,
+        "name": {
+          "local": "Kuala Terengganu",
+          "en": "Kuala Terengganu",
+          "slug": "kuala-terengganu-11155"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.275",
+      "lon": "103.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11155-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUALA IBAI",
+      "en": "KUALA IBAI",
+      "slug": "kuala-ibai-11155-016"
+    },
+    "code": {
+      "id": "11155-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "11155",
+      "level": 2,
+      "name": {
+        "local": "Kuala Terengganu",
+        "en": "Kuala Terengganu",
+        "slug": "kuala-terengganu-11155"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11155",
+        "level": 2,
+        "name": {
+          "local": "Kuala Terengganu",
+          "en": "Kuala Terengganu",
+          "slug": "kuala-terengganu-11155"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.286",
+      "lon": "103.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11155-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUBANG PARIT",
+      "en": "KUBANG PARIT",
+      "slug": "kubang-parit-11155-002"
+    },
+    "code": {
+      "id": "11155-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "11155",
+      "level": 2,
+      "name": {
+        "local": "Kuala Terengganu",
+        "en": "Kuala Terengganu",
+        "slug": "kuala-terengganu-11155"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11155",
+        "level": 2,
+        "name": {
+          "local": "Kuala Terengganu",
+          "en": "Kuala Terengganu",
+          "slug": "kuala-terengganu-11155"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.299",
+      "lon": "103.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11155-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM LOSONG",
+      "en": "LOSONG",
+      "slug": "losong-11155-006"
+    },
+    "code": {
+      "id": "11155-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "11155",
+      "level": 2,
+      "name": {
+        "local": "Kuala Terengganu",
+        "en": "Kuala Terengganu",
+        "slug": "kuala-terengganu-11155"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11155",
+        "level": 2,
+        "name": {
+          "local": "Kuala Terengganu",
+          "en": "Kuala Terengganu",
+          "slug": "kuala-terengganu-11155"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.316",
+      "lon": "103.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11155-019",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM MANIR",
+      "en": "MANIR",
+      "slug": "manir-11155-019"
+    },
+    "code": {
+      "id": "11155-019",
+      "iso": null
+    },
+    "parent": {
+      "id": "11155",
+      "level": 2,
+      "name": {
+        "local": "Kuala Terengganu",
+        "en": "Kuala Terengganu",
+        "slug": "kuala-terengganu-11155"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11155",
+        "level": 2,
+        "name": {
+          "local": "Kuala Terengganu",
+          "en": "Kuala Terengganu",
+          "slug": "kuala-terengganu-11155"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.304",
+      "lon": "103.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11155-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PALUH",
+      "en": "PALUH",
+      "slug": "paluh-11155-012"
+    },
+    "code": {
+      "id": "11155-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "11155",
+      "level": 2,
+      "name": {
+        "local": "Kuala Terengganu",
+        "en": "Kuala Terengganu",
+        "slug": "kuala-terengganu-11155"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11155",
+        "level": 2,
+        "name": {
+          "local": "Kuala Terengganu",
+          "en": "Kuala Terengganu",
+          "slug": "kuala-terengganu-11155"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.309",
+      "lon": "103.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11155-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN CABANG TIGA",
+      "en": "PEKAN CABANG TIGA",
+      "slug": "pekan-cabang-tiga-11155-005"
+    },
+    "code": {
+      "id": "11155-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "11155",
+      "level": 2,
+      "name": {
+        "local": "Kuala Terengganu",
+        "en": "Kuala Terengganu",
+        "slug": "kuala-terengganu-11155"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11155",
+        "level": 2,
+        "name": {
+          "local": "Kuala Terengganu",
+          "en": "Kuala Terengganu",
+          "slug": "kuala-terengganu-11155"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.315",
+      "lon": "103.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11155-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PENGADANG BULUH",
+      "en": "PENGADANG BULUH",
+      "slug": "pengadang-buluh-11155-008"
+    },
+    "code": {
+      "id": "11155-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "11155",
+      "level": 2,
+      "name": {
+        "local": "Kuala Terengganu",
+        "en": "Kuala Terengganu",
+        "slug": "kuala-terengganu-11155"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11155",
+        "level": 2,
+        "name": {
+          "local": "Kuala Terengganu",
+          "en": "Kuala Terengganu",
+          "slug": "kuala-terengganu-11155"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.244",
+      "lon": "103.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11155-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM RENGAS",
+      "en": "RENGAS",
+      "slug": "rengas-11155-011"
+    },
+    "code": {
+      "id": "11155-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "11155",
+      "level": 2,
+      "name": {
+        "local": "Kuala Terengganu",
+        "en": "Kuala Terengganu",
+        "slug": "kuala-terengganu-11155"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11155",
+        "level": 2,
+        "name": {
+          "local": "Kuala Terengganu",
+          "en": "Kuala Terengganu",
+          "slug": "kuala-terengganu-11155"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.29",
+      "lon": "103.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11155-020",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SERADA",
+      "en": "SERADA",
+      "slug": "serada-11155-020"
+    },
+    "code": {
+      "id": "11155-020",
+      "iso": null
+    },
+    "parent": {
+      "id": "11155",
+      "level": 2,
+      "name": {
+        "local": "Kuala Terengganu",
+        "en": "Kuala Terengganu",
+        "slug": "kuala-terengganu-11155"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11155",
+        "level": 2,
+        "name": {
+          "local": "Kuala Terengganu",
+          "en": "Kuala Terengganu",
+          "slug": "kuala-terengganu-11155"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.244",
+      "lon": "103.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11155-017",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TUK JAMAL",
+      "en": "TUK JAMAL",
+      "slug": "tuk-jamal-11155-017"
+    },
+    "code": {
+      "id": "11155-017",
+      "iso": null
+    },
+    "parent": {
+      "id": "11155",
+      "level": 2,
+      "name": {
+        "local": "Kuala Terengganu",
+        "en": "Kuala Terengganu",
+        "slug": "kuala-terengganu-11155"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Terengganu",
+          "en": "Terengganu",
+          "slug": "terengganu-11"
+        }
+      },
+      {
+        "id": "11155",
+        "level": 2,
+        "name": {
+          "local": "Kuala Terengganu",
+          "en": "Kuala Terengganu",
+          "slug": "kuala-terengganu-11155"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.281",
+      "lon": "103.114"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

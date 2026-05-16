@@ -1,0 +1,47 @@
+{
+  "id": "13115",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lawas",
+    "en": "Lawas",
+    "slug": "lawas-13115"
+  },
+  "code": {
+    "id": "13115",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "Sarawak",
+      "en": "Sarawak",
+      "slug": "sarawak-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.504",
+    "lon": "115.436"
+  },
+  "metadata": {},
+  "source": {}
+}

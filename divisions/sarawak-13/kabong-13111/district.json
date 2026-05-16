@@ -1,0 +1,47 @@
+{
+  "id": "13111",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kabong",
+    "en": "Kabong",
+    "slug": "kabong-13111"
+  },
+  "code": {
+    "id": "13111",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "Sarawak",
+      "en": "Sarawak",
+      "slug": "sarawak-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.912",
+    "lon": "111.235"
+  },
+  "metadata": {},
+  "source": {}
+}

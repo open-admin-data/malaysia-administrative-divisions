@@ -1,0 +1,47 @@
+{
+  "id": "11154",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kuala Nerus",
+    "en": "Kuala Nerus",
+    "slug": "kuala-nerus-11154"
+  },
+  "code": {
+    "id": "11154",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "Terengganu",
+      "en": "Terengganu",
+      "slug": "terengganu-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Terengganu",
+        "en": "Terengganu",
+        "slug": "terengganu-11"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.668",
+    "lon": "103.024"
+  },
+  "metadata": {},
+  "source": {}
+}

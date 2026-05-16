@@ -1,0 +1,47 @@
+{
+  "id": "0217",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Langkawi",
+    "en": "Langkawi",
+    "slug": "langkawi-0217"
+  },
+  "code": {
+    "id": "0217",
+    "iso": null
+  },
+  "parent": {
+    "id": "02",
+    "level": 1,
+    "name": {
+      "local": "Kedah",
+      "en": "Kedah",
+      "slug": "kedah-02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "Kedah",
+        "en": "Kedah",
+        "slug": "kedah-02"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.298",
+    "lon": "99.815"
+  },
+  "metadata": {},
+  "source": {}
+}

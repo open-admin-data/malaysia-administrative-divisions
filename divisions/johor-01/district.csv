@@ -1,0 +1,11 @@
+id,name.local,name.en,name.slug,code.id,children_count.mukim,geo.lat,geo.lon
+0101,Batu Pahat,Batu Pahat,batu-pahat-0101,0101,15,1.878,103.04
+0102,Johor Bahru,Johor Bahru,johor-bahru-0102,0102,5,1.532,103.741
+0103,Kluang,Kluang,kluang-0103,0103,7,1.976,103.428
+0104,Kota Tinggi,Kota Tinggi,kota-tinggi-0104,0104,10,1.67,103.994
+0105,Kulai,Kulai,kulai-0105,0105,5,1.655,103.587
+0106,Mersing,Mersing,mersing-0106,0106,7,2.425,104.05
+0107,Muar,Muar,muar-0107,0107,14,2.199,102.758
+0108,Pontian,Pontian,pontian-0108,0108,11,1.502,103.414
+0109,Segamat,Segamat,segamat-0109,0109,13,2.438,102.787
+0110,Tangkak,Tangkak,tangkak-0110,0110,8,2.25,102.583

@@ -1,0 +1,47 @@
+{
+  "id": "14158",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "W.P. Kuala Lumpur",
+    "en": "W.P. Kuala Lumpur",
+    "slug": "wp-kuala-lumpur-14158"
+  },
+  "code": {
+    "id": "14158",
+    "iso": null
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "local": "W.P. Kuala Lumpur",
+      "en": "Federal Territory of Kuala Lumpur",
+      "slug": "federal-territory-of-kuala-lumpur-14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "W.P. Kuala Lumpur",
+        "en": "Federal Territory of Kuala Lumpur",
+        "slug": "federal-territory-of-kuala-lumpur-14"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.142",
+    "lon": "101.697"
+  },
+  "metadata": {},
+  "source": {}
+}

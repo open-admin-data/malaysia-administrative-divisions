@@ -1,0 +1,380 @@
+[
+  {
+    "id": "13104-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BAKONG LAND DISTRICT",
+      "en": "BAKONG LAND DISTRICT",
+      "slug": "bakong-land-district-13104-003"
+    },
+    "code": {
+      "id": "13104-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13104",
+      "level": 2,
+      "name": {
+        "local": "Beluru",
+        "en": "Beluru",
+        "slug": "beluru-13104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13104",
+        "level": 2,
+        "name": {
+          "local": "Beluru",
+          "en": "Beluru",
+          "slug": "beluru-13104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.045",
+      "lon": "114.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13104-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BELURU TOWN DISTRICT",
+      "en": "BELURU TOWN DISTRICT",
+      "slug": "beluru-town-district-13104-006"
+    },
+    "code": {
+      "id": "13104-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "13104",
+      "level": 2,
+      "name": {
+        "local": "Beluru",
+        "en": "Beluru",
+        "slug": "beluru-13104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13104",
+        "level": 2,
+        "name": {
+          "local": "Beluru",
+          "en": "Beluru",
+          "slug": "beluru-13104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.974",
+      "lon": "114.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13104-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BOK LAND DISTRICT",
+      "en": "BOK LAND DISTRICT",
+      "slug": "bok-land-district-13104-007"
+    },
+    "code": {
+      "id": "13104-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "13104",
+      "level": 2,
+      "name": {
+        "local": "Beluru",
+        "en": "Beluru",
+        "slug": "beluru-13104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13104",
+        "level": 2,
+        "name": {
+          "local": "Beluru",
+          "en": "Beluru",
+          "slug": "beluru-13104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.857",
+      "lon": "114.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13104-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "DULIT LAND DISTRICT",
+      "en": "DULIT LAND DISTRICT",
+      "slug": "dulit-land-district-13104-005"
+    },
+    "code": {
+      "id": "13104-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "13104",
+      "level": 2,
+      "name": {
+        "local": "Beluru",
+        "en": "Beluru",
+        "slug": "beluru-13104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13104",
+        "level": 2,
+        "name": {
+          "local": "Beluru",
+          "en": "Beluru",
+          "slug": "beluru-13104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.363",
+      "lon": "114.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13104-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "LEPU LAJU LAND DISTRICT",
+      "en": "LEPU LAJU LAND DISTRICT",
+      "slug": "lepu-laju-land-district-13104-001"
+    },
+    "code": {
+      "id": "13104-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13104",
+      "level": 2,
+      "name": {
+        "local": "Beluru",
+        "en": "Beluru",
+        "slug": "beluru-13104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13104",
+        "level": 2,
+        "name": {
+          "local": "Beluru",
+          "en": "Beluru",
+          "slug": "beluru-13104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.291",
+      "lon": "114.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13104-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "LONG TERU TOWN DISTRICT",
+      "en": "LONG TERU TOWN DISTRICT",
+      "slug": "long-teru-town-district-13104-004"
+    },
+    "code": {
+      "id": "13104-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13104",
+      "level": 2,
+      "name": {
+        "local": "Beluru",
+        "en": "Beluru",
+        "slug": "beluru-13104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13104",
+        "level": 2,
+        "name": {
+          "local": "Beluru",
+          "en": "Beluru",
+          "slug": "beluru-13104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.863",
+      "lon": "114.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13104-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "TINJAR LAND DISTRICT",
+      "en": "TINJAR LAND DISTRICT",
+      "slug": "tinjar-land-district-13104-002"
+    },
+    "code": {
+      "id": "13104-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13104",
+      "level": 2,
+      "name": {
+        "local": "Beluru",
+        "en": "Beluru",
+        "slug": "beluru-13104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13104",
+        "level": 2,
+        "name": {
+          "local": "Beluru",
+          "en": "Beluru",
+          "slug": "beluru-13104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.806",
+      "lon": "114.289"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "13139-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "KAYAN LAND DISTRICT",
+      "en": "KAYAN LAND DISTRICT",
+      "slug": "kayan-land-district-13139-005"
+    },
+    "code": {
+      "id": "13139-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "13139",
+      "level": 2,
+      "name": {
+        "local": "Tebedu",
+        "en": "Tebedu",
+        "slug": "tebedu-13139"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13139",
+        "level": 2,
+        "name": {
+          "local": "Tebedu",
+          "en": "Tebedu",
+          "slug": "tebedu-13139"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.039",
+      "lon": "110.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13139-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUARA MONGKOS TOWN DISTRICT",
+      "en": "MUARA MONGKOS TOWN DISTRICT",
+      "slug": "muara-mongkos-town-district-13139-001"
+    },
+    "code": {
+      "id": "13139-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13139",
+      "level": 2,
+      "name": {
+        "local": "Tebedu",
+        "en": "Tebedu",
+        "slug": "tebedu-13139"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13139",
+        "level": 2,
+        "name": {
+          "local": "Tebedu",
+          "en": "Tebedu",
+          "slug": "tebedu-13139"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.925",
+      "lon": "110.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13139-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SUNGAI KEDUP LAND DISTRICT",
+      "en": "SUNGAI KEDUP LAND DISTRICT",
+      "slug": "sungai-kedup-land-district-13139-002"
+    },
+    "code": {
+      "id": "13139-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13139",
+      "level": 2,
+      "name": {
+        "local": "Tebedu",
+        "en": "Tebedu",
+        "slug": "tebedu-13139"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13139",
+        "level": 2,
+        "name": {
+          "local": "Tebedu",
+          "en": "Tebedu",
+          "slug": "tebedu-13139"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.968",
+      "lon": "110.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13139-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "TEBEDU TOWN DISTRICT",
+      "en": "TEBEDU TOWN DISTRICT",
+      "slug": "tebedu-town-district-13139-004"
+    },
+    "code": {
+      "id": "13139-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13139",
+      "level": 2,
+      "name": {
+        "local": "Tebedu",
+        "en": "Tebedu",
+        "slug": "tebedu-13139"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13139",
+        "level": 2,
+        "name": {
+          "local": "Tebedu",
+          "en": "Tebedu",
+          "slug": "tebedu-13139"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.024",
+      "lon": "110.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13139-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "TERBAT TOWN DISTRICT",
+      "en": "TERBAT TOWN DISTRICT",
+      "slug": "terbat-town-district-13139-003"
+    },
+    "code": {
+      "id": "13139-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13139",
+      "level": 2,
+      "name": {
+        "local": "Tebedu",
+        "en": "Tebedu",
+        "slug": "tebedu-13139"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13139",
+        "level": 2,
+        "name": {
+          "local": "Tebedu",
+          "en": "Tebedu",
+          "slug": "tebedu-13139"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.924",
+      "lon": "110.527"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

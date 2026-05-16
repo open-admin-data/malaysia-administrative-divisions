@@ -1,0 +1,30 @@
+{
+  "id": "02",
+  "level": 1,
+  "level_name": {
+    "local": "Negeri",
+    "en": "State"
+  },
+  "name": {
+    "local": "Kedah",
+    "en": "Kedah",
+    "slug": "kedah-02"
+  },
+  "code": {
+    "id": "02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 12,
+    "mukim": 212
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.128",
+    "lon": "100.333"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "10144",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kuala Selangor",
+    "en": "Kuala Selangor",
+    "slug": "kuala-selangor-10144"
+  },
+  "code": {
+    "id": "10144",
+    "iso": null
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "local": "Selangor",
+      "en": "Selangor",
+      "slug": "selangor-10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "Selangor",
+        "en": "Selangor",
+        "slug": "selangor-10"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 25
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.321",
+    "lon": "101.325"
+  },
+  "metadata": {},
+  "source": {}
+}

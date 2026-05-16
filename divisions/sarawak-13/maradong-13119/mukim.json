@@ -1,0 +1,218 @@
+[
+  {
+    "id": "13119-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BINATANG TOWN DISTRICT",
+      "en": "BINATANG TOWN DISTRICT",
+      "slug": "binatang-town-district-13119-003"
+    },
+    "code": {
+      "id": "13119-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13119",
+      "level": 2,
+      "name": {
+        "local": "Maradong",
+        "en": "Maradong",
+        "slug": "maradong-13119"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13119",
+        "level": 2,
+        "name": {
+          "local": "Maradong",
+          "en": "Maradong",
+          "slug": "maradong-13119"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.166",
+      "lon": "111.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13119-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MARADONG LAND DISTRICT",
+      "en": "MARADONG LAND DISTRICT",
+      "slug": "maradong-land-district-13119-002"
+    },
+    "code": {
+      "id": "13119-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13119",
+      "level": 2,
+      "name": {
+        "local": "Maradong",
+        "en": "Maradong",
+        "slug": "maradong-13119"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13119",
+        "level": 2,
+        "name": {
+          "local": "Maradong",
+          "en": "Maradong",
+          "slug": "maradong-13119"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.099",
+      "lon": "111.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13119-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SEREDENG LAND DISTRICT",
+      "en": "SEREDENG LAND DISTRICT",
+      "slug": "seredeng-land-district-13119-004"
+    },
+    "code": {
+      "id": "13119-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13119",
+      "level": 2,
+      "name": {
+        "local": "Maradong",
+        "en": "Maradong",
+        "slug": "maradong-13119"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13119",
+        "level": 2,
+        "name": {
+          "local": "Maradong",
+          "en": "Maradong",
+          "slug": "maradong-13119"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.256",
+      "lon": "111.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13119-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "TULAI LAND DISTRICT",
+      "en": "TULAI LAND DISTRICT",
+      "slug": "tulai-land-district-13119-001"
+    },
+    "code": {
+      "id": "13119-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13119",
+      "level": 2,
+      "name": {
+        "local": "Maradong",
+        "en": "Maradong",
+        "slug": "maradong-13119"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13119",
+        "level": 2,
+        "name": {
+          "local": "Maradong",
+          "en": "Maradong",
+          "slug": "maradong-13119"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.109",
+      "lon": "111.692"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

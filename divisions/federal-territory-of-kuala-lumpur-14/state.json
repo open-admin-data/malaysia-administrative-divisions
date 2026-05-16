@@ -1,0 +1,30 @@
+{
+  "id": "14",
+  "level": 1,
+  "level_name": {
+    "local": "Negeri",
+    "en": "State"
+  },
+  "name": {
+    "local": "W.P. Kuala Lumpur",
+    "en": "Federal Territory of Kuala Lumpur",
+    "slug": "federal-territory-of-kuala-lumpur-14"
+  },
+  "code": {
+    "id": "14",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 1,
+    "mukim": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.141",
+    "lon": "101.684"
+  },
+  "metadata": {},
+  "source": {}
+}

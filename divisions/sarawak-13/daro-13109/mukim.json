@@ -1,0 +1,164 @@
+[
+  {
+    "id": "13109-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BRUIT LAND DISTRICT",
+      "en": "BRUIT LAND DISTRICT",
+      "slug": "bruit-land-district-13109-002"
+    },
+    "code": {
+      "id": "13109-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13109",
+      "level": 2,
+      "name": {
+        "local": "Daro",
+        "en": "Daro",
+        "slug": "daro-13109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13109",
+        "level": 2,
+        "name": {
+          "local": "Daro",
+          "en": "Daro",
+          "slug": "daro-13109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.581",
+      "lon": "111.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13109-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "DARO TOWN DISTRICT",
+      "en": "DARO TOWN DISTRICT",
+      "slug": "daro-town-district-13109-003"
+    },
+    "code": {
+      "id": "13109-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13109",
+      "level": 2,
+      "name": {
+        "local": "Daro",
+        "en": "Daro",
+        "slug": "daro-13109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13109",
+        "level": 2,
+        "name": {
+          "local": "Daro",
+          "en": "Daro",
+          "slug": "daro-13109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.514",
+      "lon": "111.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13109-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SEMAH LAND DISTRICT",
+      "en": "SEMAH LAND DISTRICT",
+      "slug": "semah-land-district-13109-001"
+    },
+    "code": {
+      "id": "13109-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13109",
+      "level": 2,
+      "name": {
+        "local": "Daro",
+        "en": "Daro",
+        "slug": "daro-13109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13109",
+        "level": 2,
+        "name": {
+          "local": "Daro",
+          "en": "Daro",
+          "slug": "daro-13109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.379",
+      "lon": "111.495"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

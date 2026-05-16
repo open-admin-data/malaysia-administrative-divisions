@@ -1,0 +1,380 @@
+[
+  {
+    "id": "0645-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BAGAN",
+      "en": "BAGAN",
+      "slug": "bagan-0645-002"
+    },
+    "code": {
+      "id": "0645-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0645",
+      "level": 2,
+      "name": {
+        "local": "Bera",
+        "en": "Bera",
+        "slug": "bera-0645"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0645",
+        "level": 2,
+        "name": {
+          "local": "Bera",
+          "en": "Bera",
+          "slug": "bera-0645"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.853",
+      "lon": "102.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0645-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR TRIANG",
+      "en": "BANDAR TRIANG",
+      "slug": "bandar-triang-0645-004"
+    },
+    "code": {
+      "id": "0645-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0645",
+      "level": 2,
+      "name": {
+        "local": "Bera",
+        "en": "Bera",
+        "slug": "bera-0645"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0645",
+        "level": 2,
+        "name": {
+          "local": "Bera",
+          "en": "Bera",
+          "slug": "bera-0645"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.247",
+      "lon": "102.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0645-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BERA",
+      "en": "BERA",
+      "slug": "bera-0645-003"
+    },
+    "code": {
+      "id": "0645-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0645",
+      "level": 2,
+      "name": {
+        "local": "Bera",
+        "en": "Bera",
+        "slug": "bera-0645"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0645",
+        "level": 2,
+        "name": {
+          "local": "Bera",
+          "en": "Bera",
+          "slug": "bera-0645"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.182",
+      "lon": "102.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0645-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN DURIAN TAWAR",
+      "en": "PEKAN DURIAN TAWAR",
+      "slug": "pekan-durian-tawar-0645-007"
+    },
+    "code": {
+      "id": "0645-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0645",
+      "level": 2,
+      "name": {
+        "local": "Bera",
+        "en": "Bera",
+        "slug": "bera-0645"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0645",
+        "level": 2,
+        "name": {
+          "local": "Bera",
+          "en": "Bera",
+          "slug": "bera-0645"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.344",
+      "lon": "102.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0645-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN MENGKARAK",
+      "en": "PEKAN MENGKARAK",
+      "slug": "pekan-mengkarak-0645-005"
+    },
+    "code": {
+      "id": "0645-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0645",
+      "level": 2,
+      "name": {
+        "local": "Bera",
+        "en": "Bera",
+        "slug": "bera-0645"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0645",
+        "level": 2,
+        "name": {
+          "local": "Bera",
+          "en": "Bera",
+          "slug": "bera-0645"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.33",
+      "lon": "102.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0645-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN MENGKUANG",
+      "en": "PEKAN MENGKUANG",
+      "slug": "pekan-mengkuang-0645-006"
+    },
+    "code": {
+      "id": "0645-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0645",
+      "level": 2,
+      "name": {
+        "local": "Bera",
+        "en": "Bera",
+        "slug": "bera-0645"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0645",
+        "level": 2,
+        "name": {
+          "local": "Bera",
+          "en": "Bera",
+          "slug": "bera-0645"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.189",
+      "lon": "102.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0645-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TRIANG",
+      "en": "TRIANG",
+      "slug": "triang-0645-001"
+    },
+    "code": {
+      "id": "0645-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0645",
+      "level": 2,
+      "name": {
+        "local": "Bera",
+        "en": "Bera",
+        "slug": "bera-0645"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "Pahang",
+          "en": "Pahang",
+          "slug": "pahang-06"
+        }
+      },
+      {
+        "id": "0645",
+        "level": 2,
+        "name": {
+          "local": "Bera",
+          "en": "Bera",
+          "slug": "bera-0645"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.172",
+      "lon": "102.546"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

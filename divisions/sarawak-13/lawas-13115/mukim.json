@@ -1,0 +1,650 @@
+[
+  {
+    "id": "13115-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BA'KELALAN LAND DISTRICT",
+      "en": "BA'KELALAN LAND DISTRICT",
+      "slug": "bakelalan-land-district-13115-008"
+    },
+    "code": {
+      "id": "13115-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "13115",
+      "level": 2,
+      "name": {
+        "local": "Lawas",
+        "en": "Lawas",
+        "slug": "lawas-13115"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13115",
+        "level": 2,
+        "name": {
+          "local": "Lawas",
+          "en": "Lawas",
+          "slug": "lawas-13115"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.084",
+      "lon": "115.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13115-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "LAWAS LAND DISTRICT",
+      "en": "LAWAS LAND DISTRICT",
+      "slug": "lawas-land-district-13115-010"
+    },
+    "code": {
+      "id": "13115-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "13115",
+      "level": 2,
+      "name": {
+        "local": "Lawas",
+        "en": "Lawas",
+        "slug": "lawas-13115"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13115",
+        "level": 2,
+        "name": {
+          "local": "Lawas",
+          "en": "Lawas",
+          "slug": "lawas-13115"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.851",
+      "lon": "115.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13115-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "LAWAS TOWN DISTRICT",
+      "en": "LAWAS TOWN DISTRICT",
+      "slug": "lawas-town-district-13115-005"
+    },
+    "code": {
+      "id": "13115-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "13115",
+      "level": 2,
+      "name": {
+        "local": "Lawas",
+        "en": "Lawas",
+        "slug": "lawas-13115"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13115",
+        "level": 2,
+        "name": {
+          "local": "Lawas",
+          "en": "Lawas",
+          "slug": "lawas-13115"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.86",
+      "lon": "115.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13115-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "LONG MERARAP LAND DISTRICT",
+      "en": "LONG MERARAP LAND DISTRICT",
+      "slug": "long-merarap-land-district-13115-001"
+    },
+    "code": {
+      "id": "13115-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13115",
+      "level": 2,
+      "name": {
+        "local": "Lawas",
+        "en": "Lawas",
+        "slug": "lawas-13115"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13115",
+        "level": 2,
+        "name": {
+          "local": "Lawas",
+          "en": "Lawas",
+          "slug": "lawas-13115"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.41",
+      "lon": "115.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13115-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "LONG SEMADO LAND DISTRICT",
+      "en": "LONG SEMADO LAND DISTRICT",
+      "slug": "long-semado-land-district-13115-012"
+    },
+    "code": {
+      "id": "13115-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "13115",
+      "level": 2,
+      "name": {
+        "local": "Lawas",
+        "en": "Lawas",
+        "slug": "lawas-13115"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13115",
+        "level": 2,
+        "name": {
+          "local": "Lawas",
+          "en": "Lawas",
+          "slug": "lawas-13115"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.237",
+      "lon": "115.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13115-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MERAPOK LAND DISTRICT",
+      "en": "MERAPOK LAND DISTRICT",
+      "slug": "merapok-land-district-13115-009"
+    },
+    "code": {
+      "id": "13115-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "13115",
+      "level": 2,
+      "name": {
+        "local": "Lawas",
+        "en": "Lawas",
+        "slug": "lawas-13115"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13115",
+        "level": 2,
+        "name": {
+          "local": "Lawas",
+          "en": "Lawas",
+          "slug": "lawas-13115"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.916",
+      "lon": "115.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13115-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MERAPOK TOWN DISTRICT",
+      "en": "MERAPOK TOWN DISTRICT",
+      "slug": "merapok-town-district-13115-004"
+    },
+    "code": {
+      "id": "13115-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13115",
+      "level": 2,
+      "name": {
+        "local": "Lawas",
+        "en": "Lawas",
+        "slug": "lawas-13115"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13115",
+        "level": 2,
+        "name": {
+          "local": "Lawas",
+          "en": "Lawas",
+          "slug": "lawas-13115"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.953",
+      "lon": "115.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13115-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SUNDAR TOWN DISTRICT",
+      "en": "SUNDAR TOWN DISTRICT",
+      "slug": "sundar-town-district-13115-007"
+    },
+    "code": {
+      "id": "13115-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "13115",
+      "level": 2,
+      "name": {
+        "local": "Lawas",
+        "en": "Lawas",
+        "slug": "lawas-13115"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13115",
+        "level": 2,
+        "name": {
+          "local": "Lawas",
+          "en": "Lawas",
+          "slug": "lawas-13115"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.888",
+      "lon": "115.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13115-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SUNGAI ADANG LAND DISTRICT",
+      "en": "SUNGAI ADANG LAND DISTRICT",
+      "slug": "sungai-adang-land-district-13115-003"
+    },
+    "code": {
+      "id": "13115-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13115",
+      "level": 2,
+      "name": {
+        "local": "Lawas",
+        "en": "Lawas",
+        "slug": "lawas-13115"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13115",
+        "level": 2,
+        "name": {
+          "local": "Lawas",
+          "en": "Lawas",
+          "slug": "lawas-13115"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.26",
+      "lon": "115.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13115-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "TENGOA-SUKANG LAND DISTRICT",
+      "en": "TENGOA-SUKANG LAND DISTRICT",
+      "slug": "tengoa-sukang-land-district-13115-002"
+    },
+    "code": {
+      "id": "13115-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13115",
+      "level": 2,
+      "name": {
+        "local": "Lawas",
+        "en": "Lawas",
+        "slug": "lawas-13115"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13115",
+        "level": 2,
+        "name": {
+          "local": "Lawas",
+          "en": "Lawas",
+          "slug": "lawas-13115"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.593",
+      "lon": "115.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13115-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "TRUSAN LAND DISTRICT",
+      "en": "TRUSAN LAND DISTRICT",
+      "slug": "trusan-land-district-13115-006"
+    },
+    "code": {
+      "id": "13115-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "13115",
+      "level": 2,
+      "name": {
+        "local": "Lawas",
+        "en": "Lawas",
+        "slug": "lawas-13115"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13115",
+        "level": 2,
+        "name": {
+          "local": "Lawas",
+          "en": "Lawas",
+          "slug": "lawas-13115"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.791",
+      "lon": "115.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13115-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "TRUSAN TOWN DISTRICT",
+      "en": "TRUSAN TOWN DISTRICT",
+      "slug": "trusan-town-district-13115-011"
+    },
+    "code": {
+      "id": "13115-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "13115",
+      "level": 2,
+      "name": {
+        "local": "Lawas",
+        "en": "Lawas",
+        "slug": "lawas-13115"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13115",
+        "level": 2,
+        "name": {
+          "local": "Lawas",
+          "en": "Lawas",
+          "slug": "lawas-13115"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.784",
+      "lon": "115.275"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

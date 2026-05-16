@@ -1,0 +1,47 @@
+{
+  "id": "0106",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mersing",
+    "en": "Mersing",
+    "slug": "mersing-0106"
+  },
+  "code": {
+    "id": "0106",
+    "iso": null
+  },
+  "parent": {
+    "id": "01",
+    "level": 1,
+    "name": {
+      "local": "Johor",
+      "en": "Johor",
+      "slug": "johor-01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Johor",
+        "en": "Johor",
+        "slug": "johor-01"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.425",
+    "lon": "104.05"
+  },
+  "metadata": {},
+  "source": {}
+}

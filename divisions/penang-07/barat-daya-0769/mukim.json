@@ -1,0 +1,650 @@
+[
+  {
+    "id": "0769-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM A",
+      "en": "A",
+      "slug": "a-0769-006"
+    },
+    "code": {
+      "id": "0769-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0769",
+      "level": 2,
+      "name": {
+        "local": "Barat Daya",
+        "en": "Barat Daya",
+        "slug": "barat-daya-0769"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0769",
+        "level": 2,
+        "name": {
+          "local": "Barat Daya",
+          "en": "Barat Daya",
+          "slug": "barat-daya-0769"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.398",
+      "lon": "100.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0769-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM B",
+      "en": "B",
+      "slug": "b-0769-005"
+    },
+    "code": {
+      "id": "0769-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0769",
+      "level": 2,
+      "name": {
+        "local": "Barat Daya",
+        "en": "Barat Daya",
+        "slug": "barat-daya-0769"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0769",
+        "level": 2,
+        "name": {
+          "local": "Barat Daya",
+          "en": "Barat Daya",
+          "slug": "barat-daya-0769"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.386",
+      "lon": "100.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0769-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BALIK PULAU",
+      "en": "BANDAR BALIK PULAU",
+      "slug": "bandar-balik-pulau-0769-012"
+    },
+    "code": {
+      "id": "0769-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0769",
+      "level": 2,
+      "name": {
+        "local": "Barat Daya",
+        "en": "Barat Daya",
+        "slug": "barat-daya-0769"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0769",
+        "level": 2,
+        "name": {
+          "local": "Barat Daya",
+          "en": "Barat Daya",
+          "slug": "barat-daya-0769"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.351",
+      "lon": "100.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0769-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BAYAN LEPAS",
+      "en": "BANDAR BAYAN LEPAS",
+      "slug": "bandar-bayan-lepas-0769-011"
+    },
+    "code": {
+      "id": "0769-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0769",
+      "level": 2,
+      "name": {
+        "local": "Barat Daya",
+        "en": "Barat Daya",
+        "slug": "barat-daya-0769"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0769",
+        "level": 2,
+        "name": {
+          "local": "Barat Daya",
+          "en": "Barat Daya",
+          "slug": "barat-daya-0769"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.295",
+      "lon": "100.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0769-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM C",
+      "en": "C",
+      "slug": "c-0769-004"
+    },
+    "code": {
+      "id": "0769-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0769",
+      "level": 2,
+      "name": {
+        "local": "Barat Daya",
+        "en": "Barat Daya",
+        "slug": "barat-daya-0769"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0769",
+        "level": 2,
+        "name": {
+          "local": "Barat Daya",
+          "en": "Barat Daya",
+          "slug": "barat-daya-0769"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.365",
+      "lon": "100.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0769-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM D",
+      "en": "D",
+      "slug": "d-0769-010"
+    },
+    "code": {
+      "id": "0769-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0769",
+      "level": 2,
+      "name": {
+        "local": "Barat Daya",
+        "en": "Barat Daya",
+        "slug": "barat-daya-0769"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0769",
+        "level": 2,
+        "name": {
+          "local": "Barat Daya",
+          "en": "Barat Daya",
+          "slug": "barat-daya-0769"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.356",
+      "lon": "100.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0769-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM E",
+      "en": "E",
+      "slug": "e-0769-009"
+    },
+    "code": {
+      "id": "0769-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0769",
+      "level": 2,
+      "name": {
+        "local": "Barat Daya",
+        "en": "Barat Daya",
+        "slug": "barat-daya-0769"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0769",
+        "level": 2,
+        "name": {
+          "local": "Barat Daya",
+          "en": "Barat Daya",
+          "slug": "barat-daya-0769"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.355",
+      "lon": "100.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0769-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM F",
+      "en": "F",
+      "slug": "f-0769-008"
+    },
+    "code": {
+      "id": "0769-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0769",
+      "level": 2,
+      "name": {
+        "local": "Barat Daya",
+        "en": "Barat Daya",
+        "slug": "barat-daya-0769"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0769",
+        "level": 2,
+        "name": {
+          "local": "Barat Daya",
+          "en": "Barat Daya",
+          "slug": "barat-daya-0769"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.35",
+      "lon": "100.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0769-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM G",
+      "en": "G",
+      "slug": "g-0769-007"
+    },
+    "code": {
+      "id": "0769-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0769",
+      "level": 2,
+      "name": {
+        "local": "Barat Daya",
+        "en": "Barat Daya",
+        "slug": "barat-daya-0769"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0769",
+        "level": 2,
+        "name": {
+          "local": "Barat Daya",
+          "en": "Barat Daya",
+          "slug": "barat-daya-0769"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.337",
+      "lon": "100.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0769-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM H",
+      "en": "H",
+      "slug": "h-0769-003"
+    },
+    "code": {
+      "id": "0769-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0769",
+      "level": 2,
+      "name": {
+        "local": "Barat Daya",
+        "en": "Barat Daya",
+        "slug": "barat-daya-0769"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0769",
+        "level": 2,
+        "name": {
+          "local": "Barat Daya",
+          "en": "Barat Daya",
+          "slug": "barat-daya-0769"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.339",
+      "lon": "100.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0769-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM I",
+      "en": "I",
+      "slug": "i-0769-002"
+    },
+    "code": {
+      "id": "0769-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0769",
+      "level": 2,
+      "name": {
+        "local": "Barat Daya",
+        "en": "Barat Daya",
+        "slug": "barat-daya-0769"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0769",
+        "level": 2,
+        "name": {
+          "local": "Barat Daya",
+          "en": "Barat Daya",
+          "slug": "barat-daya-0769"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.316",
+      "lon": "100.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0769-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM J",
+      "en": "J",
+      "slug": "j-0769-001"
+    },
+    "code": {
+      "id": "0769-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0769",
+      "level": 2,
+      "name": {
+        "local": "Barat Daya",
+        "en": "Barat Daya",
+        "slug": "barat-daya-0769"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "Pulau Pinang",
+          "en": "Penang",
+          "slug": "penang-07"
+        }
+      },
+      {
+        "id": "0769",
+        "level": 2,
+        "name": {
+          "local": "Barat Daya",
+          "en": "Barat Daya",
+          "slug": "barat-daya-0769"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.323",
+      "lon": "100.214"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

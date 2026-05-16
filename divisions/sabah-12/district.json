@@ -1,0 +1,1271 @@
+[
+  {
+    "id": "1274",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Beaufort",
+      "en": "Beaufort",
+      "slug": "beaufort-1274"
+    },
+    "code": {
+      "id": "1274",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.287",
+      "lon": "115.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1275",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Beluran",
+      "en": "Beluran",
+      "slug": "beluran-1275"
+    },
+    "code": {
+      "id": "1275",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.238",
+      "lon": "117.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1276",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kalabakan",
+      "en": "Kalabakan",
+      "slug": "kalabakan-1276"
+    },
+    "code": {
+      "id": "1276",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.398",
+      "lon": "117.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1277",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Keningau",
+      "en": "Keningau",
+      "slug": "keningau-1277"
+    },
+    "code": {
+      "id": "1277",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.361",
+      "lon": "116.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1278",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kinabatangan",
+      "en": "Kinabatangan",
+      "slug": "kinabatangan-1278"
+    },
+    "code": {
+      "id": "1278",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.48",
+      "lon": "118.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1279",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kota Belud",
+      "en": "Kota Belud",
+      "slug": "kota-belud-1279"
+    },
+    "code": {
+      "id": "1279",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.393",
+      "lon": "116.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1280",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kota Kinabalu",
+      "en": "Kota Kinabalu",
+      "slug": "kota-kinabalu-1280"
+    },
+    "code": {
+      "id": "1280",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.015",
+      "lon": "116.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1281",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kota Marudu",
+      "en": "Kota Marudu",
+      "slug": "kota-marudu-1281"
+    },
+    "code": {
+      "id": "1281",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.47",
+      "lon": "116.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1282",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuala Penyu",
+      "en": "Kuala Penyu",
+      "slug": "kuala-penyu-1282"
+    },
+    "code": {
+      "id": "1282",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.469",
+      "lon": "115.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1283",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kudat",
+      "en": "Kudat",
+      "slug": "kudat-1283"
+    },
+    "code": {
+      "id": "1283",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.12",
+      "lon": "117.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1284",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kunak",
+      "en": "Kunak",
+      "slug": "kunak-1284"
+    },
+    "code": {
+      "id": "1284",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.709",
+      "lon": "118.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1285",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lahad Datu",
+      "en": "Lahad Datu",
+      "slug": "lahad-datu-1285"
+    },
+    "code": {
+      "id": "1285",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.03",
+      "lon": "118.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1286",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nabawan",
+      "en": "Nabawan",
+      "slug": "nabawan-1286"
+    },
+    "code": {
+      "id": "1286",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.584",
+      "lon": "116.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1287",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Papar",
+      "en": "Papar",
+      "slug": "papar-1287"
+    },
+    "code": {
+      "id": "1287",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.607",
+      "lon": "116.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1288",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Penampang",
+      "en": "Penampang",
+      "slug": "penampang-1288"
+    },
+    "code": {
+      "id": "1288",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.865",
+      "lon": "116.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1289",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pitas",
+      "en": "Pitas",
+      "slug": "pitas-1289"
+    },
+    "code": {
+      "id": "1289",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.783",
+      "lon": "117.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1290",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Putatan",
+      "en": "Putatan",
+      "slug": "putatan-1290"
+    },
+    "code": {
+      "id": "1290",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.892",
+      "lon": "116.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1291",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ranau",
+      "en": "Ranau",
+      "slug": "ranau-1291"
+    },
+    "code": {
+      "id": "1291",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.874",
+      "lon": "116.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1292",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sandakan",
+      "en": "Sandakan",
+      "slug": "sandakan-1292"
+    },
+    "code": {
+      "id": "1292",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.813",
+      "lon": "118.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1293",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Semporna",
+      "en": "Semporna",
+      "slug": "semporna-1293"
+    },
+    "code": {
+      "id": "1293",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.573",
+      "lon": "118.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1294",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sipitang",
+      "en": "Sipitang",
+      "slug": "sipitang-1294"
+    },
+    "code": {
+      "id": "1294",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.678",
+      "lon": "115.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1295",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tambunan",
+      "en": "Tambunan",
+      "slug": "tambunan-1295"
+    },
+    "code": {
+      "id": "1295",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.719",
+      "lon": "116.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1296",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tawau",
+      "en": "Tawau",
+      "slug": "tawau-1296"
+    },
+    "code": {
+      "id": "1296",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.457",
+      "lon": "118.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1297",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Telupid",
+      "en": "Telupid",
+      "slug": "telupid-1297"
+    },
+    "code": {
+      "id": "1297",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.827",
+      "lon": "117.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1298",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tenom",
+      "en": "Tenom",
+      "slug": "tenom-1298"
+    },
+    "code": {
+      "id": "1298",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.922",
+      "lon": "115.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1299",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tongod",
+      "en": "Tongod",
+      "slug": "tongod-1299"
+    },
+    "code": {
+      "id": "1299",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.045",
+      "lon": "116.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12100",
+    "level": 2,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tuaran",
+      "en": "Tuaran",
+      "slug": "tuaran-12100"
+    },
+    "code": {
+      "id": "12100",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sabah",
+        "en": "Sabah",
+        "slug": "sabah-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sabah",
+          "en": "Sabah",
+          "slug": "sabah-12"
+        }
+      }
+    ],
+    "children_count": {
+      "mukim": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.052",
+      "lon": "116.289"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

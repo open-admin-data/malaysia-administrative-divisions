@@ -1,0 +1,47 @@
+{
+  "id": "0769",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Barat Daya",
+    "en": "Barat Daya",
+    "slug": "barat-daya-0769"
+  },
+  "code": {
+    "id": "0769",
+    "iso": null
+  },
+  "parent": {
+    "id": "07",
+    "level": 1,
+    "name": {
+      "local": "Pulau Pinang",
+      "en": "Penang",
+      "slug": "penang-07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "07",
+      "level": 1,
+      "name": {
+        "local": "Pulau Pinang",
+        "en": "Penang",
+        "slug": "penang-07"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.355",
+    "lon": "100.233"
+  },
+  "metadata": {},
+  "source": {}
+}

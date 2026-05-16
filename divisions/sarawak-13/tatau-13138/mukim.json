@@ -1,0 +1,272 @@
+[
+  {
+    "id": "13138-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ANAP LAND DISTRICT",
+      "en": "ANAP LAND DISTRICT",
+      "slug": "anap-land-district-13138-004"
+    },
+    "code": {
+      "id": "13138-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13138",
+      "level": 2,
+      "name": {
+        "local": "Tatau",
+        "en": "Tatau",
+        "slug": "tatau-13138"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13138",
+        "level": 2,
+        "name": {
+          "local": "Tatau",
+          "en": "Tatau",
+          "slug": "tatau-13138"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.373",
+      "lon": "112.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13138-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "KAKUS LAND DISTRICT",
+      "en": "KAKUS LAND DISTRICT",
+      "slug": "kakus-land-district-13138-005"
+    },
+    "code": {
+      "id": "13138-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "13138",
+      "level": 2,
+      "name": {
+        "local": "Tatau",
+        "en": "Tatau",
+        "slug": "tatau-13138"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13138",
+        "level": 2,
+        "name": {
+          "local": "Tatau",
+          "en": "Tatau",
+          "slug": "tatau-13138"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.641",
+      "lon": "113.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13138-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "KUALA TATAU TOWN DISTRICT",
+      "en": "KUALA TATAU TOWN DISTRICT",
+      "slug": "kuala-tatau-town-district-13138-001"
+    },
+    "code": {
+      "id": "13138-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13138",
+      "level": 2,
+      "name": {
+        "local": "Tatau",
+        "en": "Tatau",
+        "slug": "tatau-13138"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13138",
+        "level": 2,
+        "name": {
+          "local": "Tatau",
+          "en": "Tatau",
+          "slug": "tatau-13138"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.078",
+      "lon": "112.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13138-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SANGAN LAND DISTRICT",
+      "en": "SANGAN LAND DISTRICT",
+      "slug": "sangan-land-district-13138-002"
+    },
+    "code": {
+      "id": "13138-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13138",
+      "level": 2,
+      "name": {
+        "local": "Tatau",
+        "en": "Tatau",
+        "slug": "tatau-13138"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13138",
+        "level": 2,
+        "name": {
+          "local": "Tatau",
+          "en": "Tatau",
+          "slug": "tatau-13138"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.799",
+      "lon": "112.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13138-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "TATAU TOWN DISTRICT",
+      "en": "TATAU TOWN DISTRICT",
+      "slug": "tatau-town-district-13138-003"
+    },
+    "code": {
+      "id": "13138-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13138",
+      "level": 2,
+      "name": {
+        "local": "Tatau",
+        "en": "Tatau",
+        "slug": "tatau-13138"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13138",
+        "level": 2,
+        "name": {
+          "local": "Tatau",
+          "en": "Tatau",
+          "slug": "tatau-13138"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.879",
+      "lon": "112.859"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

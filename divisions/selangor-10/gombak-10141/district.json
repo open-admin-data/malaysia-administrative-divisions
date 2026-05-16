@@ -1,0 +1,47 @@
+{
+  "id": "10141",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gombak",
+    "en": "Gombak",
+    "slug": "gombak-10141"
+  },
+  "code": {
+    "id": "10141",
+    "iso": null
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "local": "Selangor",
+      "en": "Selangor",
+      "slug": "selangor-10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "Selangor",
+        "en": "Selangor",
+        "slug": "selangor-10"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.254",
+    "lon": "101.678"
+  },
+  "metadata": {},
+  "source": {}
+}

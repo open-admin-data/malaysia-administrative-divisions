@@ -1,0 +1,434 @@
+[
+  {
+    "id": "13118-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "GADING LUNDU LAND DISTRICT",
+      "en": "GADING LUNDU LAND DISTRICT",
+      "slug": "gading-lundu-land-district-13118-007"
+    },
+    "code": {
+      "id": "13118-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "13118",
+      "level": 2,
+      "name": {
+        "local": "Lundu",
+        "en": "Lundu",
+        "slug": "lundu-13118"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13118",
+        "level": 2,
+        "name": {
+          "local": "Lundu",
+          "en": "Lundu",
+          "slug": "lundu-13118"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.7",
+      "lon": "109.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13118-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "LUNDU TOWN DISTRICT",
+      "en": "LUNDU TOWN DISTRICT",
+      "slug": "lundu-town-district-13118-001"
+    },
+    "code": {
+      "id": "13118-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13118",
+      "level": 2,
+      "name": {
+        "local": "Lundu",
+        "en": "Lundu",
+        "slug": "lundu-13118"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13118",
+        "level": 2,
+        "name": {
+          "local": "Lundu",
+          "en": "Lundu",
+          "slug": "lundu-13118"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.673",
+      "lon": "109.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13118-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PUEH LAND DISTRICT",
+      "en": "PUEH LAND DISTRICT",
+      "slug": "pueh-land-district-xx-110"
+    },
+    "code": {
+      "id": "13118-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "13118",
+      "level": 2,
+      "name": {
+        "local": "Lundu",
+        "en": "Lundu",
+        "slug": "lundu-13118"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13118",
+        "level": 2,
+        "name": {
+          "local": "Lundu",
+          "en": "Lundu",
+          "slug": "lundu-13118"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.894",
+      "lon": "109.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13118-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "RAMBUNGAN TOWN DISTRICT",
+      "en": "RAMBUNGAN TOWN DISTRICT",
+      "slug": "rambungan-town-district-13118-004"
+    },
+    "code": {
+      "id": "13118-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13118",
+      "level": 2,
+      "name": {
+        "local": "Lundu",
+        "en": "Lundu",
+        "slug": "lundu-13118"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13118",
+        "level": 2,
+        "name": {
+          "local": "Lundu",
+          "en": "Lundu",
+          "slug": "lundu-13118"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.684",
+      "lon": "110.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13118-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SAMPADI LAND DISTRICT",
+      "en": "SAMPADI LAND DISTRICT",
+      "slug": "sampadi-land-district-13118-005"
+    },
+    "code": {
+      "id": "13118-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "13118",
+      "level": 2,
+      "name": {
+        "local": "Lundu",
+        "en": "Lundu",
+        "slug": "lundu-13118"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13118",
+        "level": 2,
+        "name": {
+          "local": "Lundu",
+          "en": "Lundu",
+          "slug": "lundu-13118"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.639",
+      "lon": "110.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13118-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SEMATAN TOWN DISTRICT",
+      "en": "SEMATAN TOWN DISTRICT",
+      "slug": "sematan-town-district-13118-002"
+    },
+    "code": {
+      "id": "13118-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13118",
+      "level": 2,
+      "name": {
+        "local": "Lundu",
+        "en": "Lundu",
+        "slug": "lundu-13118"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13118",
+        "level": 2,
+        "name": {
+          "local": "Lundu",
+          "en": "Lundu",
+          "slug": "lundu-13118"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.805",
+      "lon": "109.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13118-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "STUNGKOR LAND DISTRICT",
+      "en": "STUNGKOR LAND DISTRICT",
+      "slug": "stungkor-land-district-13118-006"
+    },
+    "code": {
+      "id": "13118-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "13118",
+      "level": 2,
+      "name": {
+        "local": "Lundu",
+        "en": "Lundu",
+        "slug": "lundu-13118"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13118",
+        "level": 2,
+        "name": {
+          "local": "Lundu",
+          "en": "Lundu",
+          "slug": "lundu-13118"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.527",
+      "lon": "109.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13118-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "STUNGKOR TOWN DISTRICT",
+      "en": "STUNGKOR TOWN DISTRICT",
+      "slug": "stungkor-town-district-13118-003"
+    },
+    "code": {
+      "id": "13118-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13118",
+      "level": 2,
+      "name": {
+        "local": "Lundu",
+        "en": "Lundu",
+        "slug": "lundu-13118"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13118",
+        "level": 2,
+        "name": {
+          "local": "Lundu",
+          "en": "Lundu",
+          "slug": "lundu-13118"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.499",
+      "lon": "109.918"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

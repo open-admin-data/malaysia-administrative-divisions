@@ -1,0 +1,30 @@
+{
+  "id": "10",
+  "level": 1,
+  "level_name": {
+    "local": "Negeri",
+    "en": "State"
+  },
+  "name": {
+    "local": "Selangor",
+    "en": "Selangor",
+    "slug": "selangor-10"
+  },
+  "code": {
+    "id": "10",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 9,
+    "mukim": 212
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.366",
+    "lon": "101.321"
+  },
+  "metadata": {},
+  "source": {}
+}

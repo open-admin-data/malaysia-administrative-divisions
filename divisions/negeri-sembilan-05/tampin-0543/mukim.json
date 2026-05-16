@@ -1,0 +1,866 @@
+[
+  {
+    "id": "0543-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM AIR KUNING",
+      "en": "AIR KUNING",
+      "slug": "air-kuning-0543-001"
+    },
+    "code": {
+      "id": "0543-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0543",
+      "level": 2,
+      "name": {
+        "local": "Tampin",
+        "en": "Tampin",
+        "slug": "tampin-0543"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0543",
+        "level": 2,
+        "name": {
+          "local": "Tampin",
+          "en": "Tampin",
+          "slug": "tampin-0543"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.481",
+      "lon": "102.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0543-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR GEMAS",
+      "en": "BANDAR GEMAS",
+      "slug": "bandar-gemas-0543-006"
+    },
+    "code": {
+      "id": "0543-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0543",
+      "level": 2,
+      "name": {
+        "local": "Tampin",
+        "en": "Tampin",
+        "slug": "tampin-0543"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0543",
+        "level": 2,
+        "name": {
+          "local": "Tampin",
+          "en": "Tampin",
+          "slug": "tampin-0543"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.567",
+      "lon": "102.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0543-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR TAMPIN",
+      "en": "BANDAR TAMPIN",
+      "slug": "bandar-tampin-0543-007"
+    },
+    "code": {
+      "id": "0543-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0543",
+      "level": 2,
+      "name": {
+        "local": "Tampin",
+        "en": "Tampin",
+        "slug": "tampin-0543"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0543",
+        "level": 2,
+        "name": {
+          "local": "Tampin",
+          "en": "Tampin",
+          "slug": "tampin-0543"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.471",
+      "lon": "102.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0543-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM GEMENCHEH",
+      "en": "GEMENCHEH",
+      "slug": "gemencheh-0543-014"
+    },
+    "code": {
+      "id": "0543-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "0543",
+      "level": 2,
+      "name": {
+        "local": "Tampin",
+        "en": "Tampin",
+        "slug": "tampin-0543"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0543",
+        "level": 2,
+        "name": {
+          "local": "Tampin",
+          "en": "Tampin",
+          "slug": "tampin-0543"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.563",
+      "lon": "102.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0543-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KERU",
+      "en": "KERU",
+      "slug": "keru-0543-015"
+    },
+    "code": {
+      "id": "0543-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "0543",
+      "level": 2,
+      "name": {
+        "local": "Tampin",
+        "en": "Tampin",
+        "slug": "tampin-0543"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0543",
+        "level": 2,
+        "name": {
+          "local": "Tampin",
+          "en": "Tampin",
+          "slug": "tampin-0543"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.491",
+      "lon": "102.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0543-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN AIR KUNING SELATAN",
+      "en": "PEKAN AIR KUNING SELATAN",
+      "slug": "pekan-air-kuning-selatan-0543-010"
+    },
+    "code": {
+      "id": "0543-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0543",
+      "level": 2,
+      "name": {
+        "local": "Tampin",
+        "en": "Tampin",
+        "slug": "tampin-0543"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0543",
+        "level": 2,
+        "name": {
+          "local": "Tampin",
+          "en": "Tampin",
+          "slug": "tampin-0543"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.508",
+      "lon": "102.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0543-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BATANG MALAKA",
+      "en": "PEKAN BATANG MALAKA",
+      "slug": "pekan-batang-malaka-0543-003"
+    },
+    "code": {
+      "id": "0543-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0543",
+      "level": 2,
+      "name": {
+        "local": "Tampin",
+        "en": "Tampin",
+        "slug": "tampin-0543"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0543",
+        "level": 2,
+        "name": {
+          "local": "Tampin",
+          "en": "Tampin",
+          "slug": "tampin-0543"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.473",
+      "lon": "102.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0543-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BATANG MELAKA",
+      "en": "PEKAN BATANG MELAKA",
+      "slug": "pekan-batang-melaka-0543-009"
+    },
+    "code": {
+      "id": "0543-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0543",
+      "level": 2,
+      "name": {
+        "local": "Tampin",
+        "en": "Tampin",
+        "slug": "tampin-0543"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0543",
+        "level": 2,
+        "name": {
+          "local": "Tampin",
+          "en": "Tampin",
+          "slug": "tampin-0543"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.476",
+      "lon": "102.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0543-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN GEMENCHEH BAHRU",
+      "en": "PEKAN GEMENCHEH BAHRU",
+      "slug": "pekan-gemencheh-bahru-0543-002"
+    },
+    "code": {
+      "id": "0543-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0543",
+      "level": 2,
+      "name": {
+        "local": "Tampin",
+        "en": "Tampin",
+        "slug": "tampin-0543"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0543",
+        "level": 2,
+        "name": {
+          "local": "Tampin",
+          "en": "Tampin",
+          "slug": "tampin-0543"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.527",
+      "lon": "102.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0543-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PASIR BESAR",
+      "en": "PEKAN PASIR BESAR",
+      "slug": "pekan-pasir-besar-0543-016"
+    },
+    "code": {
+      "id": "0543-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "0543",
+      "level": 2,
+      "name": {
+        "local": "Tampin",
+        "en": "Tampin",
+        "slug": "tampin-0543"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0543",
+        "level": 2,
+        "name": {
+          "local": "Tampin",
+          "en": "Tampin",
+          "slug": "tampin-0543"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.649",
+      "lon": "102.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0543-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN REPAH",
+      "en": "PEKAN REPAH",
+      "slug": "pekan-repah-0543-005"
+    },
+    "code": {
+      "id": "0543-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0543",
+      "level": 2,
+      "name": {
+        "local": "Tampin",
+        "en": "Tampin",
+        "slug": "tampin-0543"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0543",
+        "level": 2,
+        "name": {
+          "local": "Tampin",
+          "en": "Tampin",
+          "slug": "tampin-0543"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.489",
+      "lon": "102.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0543-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN REPAH JAYA",
+      "en": "PEKAN REPAH JAYA",
+      "slug": "pekan-repah-jaya-0543-012"
+    },
+    "code": {
+      "id": "0543-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0543",
+      "level": 2,
+      "name": {
+        "local": "Tampin",
+        "en": "Tampin",
+        "slug": "tampin-0543"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0543",
+        "level": 2,
+        "name": {
+          "local": "Tampin",
+          "en": "Tampin",
+          "slug": "tampin-0543"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.49",
+      "lon": "102.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0543-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN REPAH PERMAI",
+      "en": "PEKAN REPAH PERMAI",
+      "slug": "pekan-repah-permai-0543-013"
+    },
+    "code": {
+      "id": "0543-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0543",
+      "level": 2,
+      "name": {
+        "local": "Tampin",
+        "en": "Tampin",
+        "slug": "tampin-0543"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0543",
+        "level": 2,
+        "name": {
+          "local": "Tampin",
+          "en": "Tampin",
+          "slug": "tampin-0543"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.508",
+      "lon": "102.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0543-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TAMPIN TENGAH",
+      "en": "PEKAN TAMPIN TENGAH",
+      "slug": "pekan-tampin-tengah-0543-011"
+    },
+    "code": {
+      "id": "0543-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0543",
+      "level": 2,
+      "name": {
+        "local": "Tampin",
+        "en": "Tampin",
+        "slug": "tampin-0543"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0543",
+        "level": 2,
+        "name": {
+          "local": "Tampin",
+          "en": "Tampin",
+          "slug": "tampin-0543"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.478",
+      "lon": "102.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0543-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM REPAH",
+      "en": "REPAH",
+      "slug": "repah-0543-004"
+    },
+    "code": {
+      "id": "0543-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0543",
+      "level": 2,
+      "name": {
+        "local": "Tampin",
+        "en": "Tampin",
+        "slug": "tampin-0543"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0543",
+        "level": 2,
+        "name": {
+          "local": "Tampin",
+          "en": "Tampin",
+          "slug": "tampin-0543"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.512",
+      "lon": "102.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0543-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TAMPIN TENGAH",
+      "en": "TAMPIN TENGAH",
+      "slug": "tampin-tengah-0543-008"
+    },
+    "code": {
+      "id": "0543-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0543",
+      "level": 2,
+      "name": {
+        "local": "Tampin",
+        "en": "Tampin",
+        "slug": "tampin-0543"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0543",
+        "level": 2,
+        "name": {
+          "local": "Tampin",
+          "en": "Tampin",
+          "slug": "tampin-0543"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.482",
+      "lon": "102.241"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

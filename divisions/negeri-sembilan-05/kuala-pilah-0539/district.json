@@ -1,0 +1,47 @@
+{
+  "id": "0539",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kuala Pilah",
+    "en": "Kuala Pilah",
+    "slug": "kuala-pilah-0539"
+  },
+  "code": {
+    "id": "0539",
+    "iso": null
+  },
+  "parent": {
+    "id": "05",
+    "level": 1,
+    "name": {
+      "local": "Negeri Sembilan",
+      "en": "Negeri Sembilan",
+      "slug": "negeri-sembilan-05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "05",
+      "level": 1,
+      "name": {
+        "local": "Negeri Sembilan",
+        "en": "Negeri Sembilan",
+        "slug": "negeri-sembilan-05"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.731",
+    "lon": "102.206"
+  },
+  "metadata": {},
+  "source": {}
+}

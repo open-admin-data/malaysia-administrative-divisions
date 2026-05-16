@@ -1,0 +1,596 @@
+[
+  {
+    "id": "13114-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "8 MILE(MATANG ROAD) TOWN",
+      "en": "8 MILE(MATANG ROAD) TOWN",
+      "slug": "8-milematang-road-town-13114-010"
+    },
+    "code": {
+      "id": "13114-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "13114",
+      "level": 2,
+      "name": {
+        "local": "Kuching",
+        "en": "Kuching",
+        "slug": "kuching-13114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13114",
+        "level": 2,
+        "name": {
+          "local": "Kuching",
+          "en": "Kuching",
+          "slug": "kuching-13114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.58",
+      "lon": "110.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13114-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BAKO TOWN DISTRICT",
+      "en": "BAKO TOWN DISTRICT",
+      "slug": "bako-town-district-13114-005"
+    },
+    "code": {
+      "id": "13114-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "13114",
+      "level": 2,
+      "name": {
+        "local": "Kuching",
+        "en": "Kuching",
+        "slug": "kuching-13114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13114",
+        "level": 2,
+        "name": {
+          "local": "Kuching",
+          "en": "Kuching",
+          "slug": "kuching-13114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.665",
+      "lon": "110.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13114-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BATU KAWA TOWN DISTRICT",
+      "en": "BATU KAWA TOWN DISTRICT",
+      "slug": "batu-kawa-town-district-13114-006"
+    },
+    "code": {
+      "id": "13114-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "13114",
+      "level": 2,
+      "name": {
+        "local": "Kuching",
+        "en": "Kuching",
+        "slug": "kuching-13114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13114",
+        "level": 2,
+        "name": {
+          "local": "Kuching",
+          "en": "Kuching",
+          "slug": "kuching-13114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.511",
+      "lon": "110.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13114-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "KUCHING CENTRAL LAND DISTRICT",
+      "en": "KUCHING CENTRAL LAND DISTRICT",
+      "slug": "kuching-central-land-district-13114-007"
+    },
+    "code": {
+      "id": "13114-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "13114",
+      "level": 2,
+      "name": {
+        "local": "Kuching",
+        "en": "Kuching",
+        "slug": "kuching-13114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13114",
+        "level": 2,
+        "name": {
+          "local": "Kuching",
+          "en": "Kuching",
+          "slug": "kuching-13114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.467",
+      "lon": "110.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13114-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "KUCHING NORTH LAND DISTRICT",
+      "en": "KUCHING NORTH LAND DISTRICT",
+      "slug": "kuching-north-land-district-13114-002"
+    },
+    "code": {
+      "id": "13114-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13114",
+      "level": 2,
+      "name": {
+        "local": "Kuching",
+        "en": "Kuching",
+        "slug": "kuching-13114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13114",
+        "level": 2,
+        "name": {
+          "local": "Kuching",
+          "en": "Kuching",
+          "slug": "kuching-13114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.51",
+      "lon": "110.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13114-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "KUCHING TOWN LAND DISTRICT",
+      "en": "KUCHING TOWN LAND DISTRICT",
+      "slug": "kuching-town-land-district-13114-004"
+    },
+    "code": {
+      "id": "13114-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13114",
+      "level": 2,
+      "name": {
+        "local": "Kuching",
+        "en": "Kuching",
+        "slug": "kuching-13114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13114",
+        "level": 2,
+        "name": {
+          "local": "Kuching",
+          "en": "Kuching",
+          "slug": "kuching-13114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.555",
+      "lon": "110.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13114-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MATANG LAND DISTRICT",
+      "en": "MATANG LAND DISTRICT",
+      "slug": "matang-land-district-13114-001"
+    },
+    "code": {
+      "id": "13114-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13114",
+      "level": 2,
+      "name": {
+        "local": "Kuching",
+        "en": "Kuching",
+        "slug": "kuching-13114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13114",
+        "level": 2,
+        "name": {
+          "local": "Kuching",
+          "en": "Kuching",
+          "slug": "kuching-13114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.541",
+      "lon": "110.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13114-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUARA TEBAS LAND DISTRICT",
+      "en": "MUARA TEBAS LAND DISTRICT",
+      "slug": "muara-tebas-land-district-13114-008"
+    },
+    "code": {
+      "id": "13114-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "13114",
+      "level": 2,
+      "name": {
+        "local": "Kuching",
+        "en": "Kuching",
+        "slug": "kuching-13114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13114",
+        "level": 2,
+        "name": {
+          "local": "Kuching",
+          "en": "Kuching",
+          "slug": "kuching-13114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.646",
+      "lon": "110.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13114-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PANGKALAN AMPAT LAND DISTRICT",
+      "en": "PANGKALAN AMPAT LAND DISTRICT",
+      "slug": "pangkalan-ampat-land-district-13114-009"
+    },
+    "code": {
+      "id": "13114-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "13114",
+      "level": 2,
+      "name": {
+        "local": "Kuching",
+        "en": "Kuching",
+        "slug": "kuching-13114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13114",
+        "level": 2,
+        "name": {
+          "local": "Kuching",
+          "en": "Kuching",
+          "slug": "kuching-13114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.283",
+      "lon": "110.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13114-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SALAK LAND DISTRICT",
+      "en": "SALAK LAND DISTRICT",
+      "slug": "salak-land-district-xx-104"
+    },
+    "code": {
+      "id": "13114-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "13114",
+      "level": 2,
+      "name": {
+        "local": "Kuching",
+        "en": "Kuching",
+        "slug": "kuching-13114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13114",
+        "level": 2,
+        "name": {
+          "local": "Kuching",
+          "en": "Kuching",
+          "slug": "kuching-13114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.699",
+      "lon": "110.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13114-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SANTUBONG TOWN DISTRICT",
+      "en": "SANTUBONG TOWN DISTRICT",
+      "slug": "santubong-town-district-13114-003"
+    },
+    "code": {
+      "id": "13114-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13114",
+      "level": 2,
+      "name": {
+        "local": "Kuching",
+        "en": "Kuching",
+        "slug": "kuching-13114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13114",
+        "level": 2,
+        "name": {
+          "local": "Kuching",
+          "en": "Kuching",
+          "slug": "kuching-13114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.718",
+      "lon": "110.318"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,2216 @@
+[
+  {
+    "id": "0542-032",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM AMPANGAN",
+      "en": "AMPANGAN",
+      "slug": "ampangan-0542-032"
+    },
+    "code": {
+      "id": "0542-032",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.726",
+      "lon": "101.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-024",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BARU ENSTEK",
+      "en": "BANDAR BARU ENSTEK",
+      "slug": "bandar-baru-enstek-0542-024"
+    },
+    "code": {
+      "id": "0542-024",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.726",
+      "lon": "101.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-026",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BARU KOTA SRI MAS",
+      "en": "BANDAR BARU KOTA SRI MAS",
+      "slug": "bandar-baru-kota-sri-mas-0542-026"
+    },
+    "code": {
+      "id": "0542-026",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.78",
+      "lon": "101.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-018",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR MANTIN UTAMA",
+      "en": "BANDAR MANTIN UTAMA",
+      "slug": "bandar-mantin-utama-0542-018"
+    },
+    "code": {
+      "id": "0542-018",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.847",
+      "lon": "101.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-035",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR NILAI UTAMA",
+      "en": "BANDAR NILAI UTAMA",
+      "slug": "bandar-nilai-utama-0542-035"
+    },
+    "code": {
+      "id": "0542-035",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.835",
+      "lon": "101.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-027",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SEREMBAN",
+      "en": "BANDAR SEREMBAN",
+      "slug": "bandar-seremban-0542-027"
+    },
+    "code": {
+      "id": "0542-027",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.716",
+      "lon": "101.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-034",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SEREMBAN 3",
+      "en": "BANDAR SEREMBAN 3",
+      "slug": "bandar-seremban-3-0542-034"
+    },
+    "code": {
+      "id": "0542-034",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.674",
+      "lon": "101.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-022",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SEREMBAN UTAMA",
+      "en": "BANDAR SEREMBAN UTAMA",
+      "slug": "bandar-seremban-utama-0542-022"
+    },
+    "code": {
+      "id": "0542-022",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.69",
+      "lon": "101.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SRI SENDAYAN",
+      "en": "BANDAR SRI SENDAYAN",
+      "slug": "bandar-sri-sendayan-0542-016"
+    },
+    "code": {
+      "id": "0542-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.669",
+      "lon": "101.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM LABU",
+      "en": "LABU",
+      "slug": "labu-0542-015"
+    },
+    "code": {
+      "id": "0542-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.744",
+      "lon": "101.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-038",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM LENGGENG",
+      "en": "LENGGENG",
+      "slug": "lenggeng-0542-038"
+    },
+    "code": {
+      "id": "0542-038",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.873",
+      "lon": "101.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BROGA",
+      "en": "PEKAN BROGA",
+      "slug": "pekan-broga-0542-003"
+    },
+    "code": {
+      "id": "0542-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.935",
+      "lon": "101.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BUKIT KEPAYANG",
+      "en": "PEKAN BUKIT KEPAYANG",
+      "slug": "pekan-bukit-kepayang-0542-013"
+    },
+    "code": {
+      "id": "0542-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.713",
+      "lon": "101.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-019",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BUKTI",
+      "en": "PEKAN BUKTI",
+      "slug": "pekan-bukti-0542-019"
+    },
+    "code": {
+      "id": "0542-019",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.719",
+      "lon": "101.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN DUSUN SETIA",
+      "en": "PEKAN DUSUN SETIA",
+      "slug": "pekan-dusun-setia-0542-006"
+    },
+    "code": {
+      "id": "0542-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.714",
+      "lon": "101.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-030",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN LABU",
+      "en": "PEKAN LABU",
+      "slug": "pekan-labu-0542-030"
+    },
+    "code": {
+      "id": "0542-030",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.754",
+      "lon": "101.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-033",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN LENGGENG",
+      "en": "PEKAN LENGGENG",
+      "slug": "pekan-lenggeng-0542-033"
+    },
+    "code": {
+      "id": "0542-033",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.856",
+      "lon": "101.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-039",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN MAMBAU",
+      "en": "PEKAN MAMBAU",
+      "slug": "pekan-mambau-0542-039"
+    },
+    "code": {
+      "id": "0542-039",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.668",
+      "lon": "101.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-025",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN MANTIN",
+      "en": "PEKAN MANTIN",
+      "slug": "pekan-mantin-0542-025"
+    },
+    "code": {
+      "id": "0542-025",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.822",
+      "lon": "101.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-021",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN NILAI",
+      "en": "PEKAN NILAI",
+      "slug": "pekan-nilai-0542-021"
+    },
+    "code": {
+      "id": "0542-021",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.812",
+      "lon": "101.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-028",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PAJAM",
+      "en": "PEKAN PAJAM",
+      "slug": "pekan-pajam-0542-028"
+    },
+    "code": {
+      "id": "0542-028",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.844",
+      "lon": "101.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PANCOR",
+      "en": "PEKAN PANCOR",
+      "slug": "pekan-pancor-0542-001"
+    },
+    "code": {
+      "id": "0542-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.735",
+      "lon": "102.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PAROI",
+      "en": "PEKAN PAROI",
+      "slug": "pekan-paroi-0542-007"
+    },
+    "code": {
+      "id": "0542-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.725",
+      "lon": "101.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-020",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PAROI JAYA",
+      "en": "PEKAN PAROI JAYA",
+      "slug": "pekan-paroi-jaya-0542-020"
+    },
+    "code": {
+      "id": "0542-020",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.732",
+      "lon": "101.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN RAHANG BARU",
+      "en": "PEKAN RAHANG BARU",
+      "slug": "pekan-rahang-baru-0542-009"
+    },
+    "code": {
+      "id": "0542-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.693",
+      "lon": "101.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN RANTAU",
+      "en": "PEKAN RANTAU",
+      "slug": "pekan-rantau-0542-002"
+    },
+    "code": {
+      "id": "0542-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.588",
+      "lon": "101.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN RASAH JAYA",
+      "en": "PEKAN RASAH JAYA",
+      "slug": "pekan-rasah-jaya-0542-010"
+    },
+    "code": {
+      "id": "0542-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.681",
+      "lon": "101.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-017",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SENAWANG",
+      "en": "PEKAN SENAWANG",
+      "slug": "pekan-senawang-0542-017"
+    },
+    "code": {
+      "id": "0542-017",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.703",
+      "lon": "101.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SEREMBAN JAYA",
+      "en": "PEKAN SEREMBAN JAYA",
+      "slug": "pekan-seremban-jaya-0542-005"
+    },
+    "code": {
+      "id": "0542-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.67",
+      "lon": "101.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-040",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SETUL",
+      "en": "PEKAN SETUL",
+      "slug": "pekan-setul-0542-040"
+    },
+    "code": {
+      "id": "0542-040",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.744",
+      "lon": "101.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SHAH BANDAR",
+      "en": "PEKAN SHAH BANDAR",
+      "slug": "pekan-shah-bandar-0542-004"
+    },
+    "code": {
+      "id": "0542-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.719",
+      "lon": "101.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SIKAMAT",
+      "en": "PEKAN SIKAMAT",
+      "slug": "pekan-sikamat-0542-011"
+    },
+    "code": {
+      "id": "0542-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.749",
+      "lon": "101.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-031",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SUNGAI GADUT",
+      "en": "PEKAN SUNGAI GADUT",
+      "slug": "pekan-sungai-gadut-0542-031"
+    },
+    "code": {
+      "id": "0542-031",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.669",
+      "lon": "101.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TAMAN SEREMBAN",
+      "en": "PEKAN TAMAN SEREMBAN",
+      "slug": "pekan-taman-seremban-0542-012"
+    },
+    "code": {
+      "id": "0542-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.701",
+      "lon": "101.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-037",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TIROI",
+      "en": "PEKAN TIROI",
+      "slug": "pekan-tiroi-0542-037"
+    },
+    "code": {
+      "id": "0542-037",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.74",
+      "lon": "101.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN ULU BERANANG",
+      "en": "PEKAN ULU BERANANG",
+      "slug": "pekan-ulu-beranang-0542-008"
+    },
+    "code": {
+      "id": "0542-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.895",
+      "lon": "101.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN ULU TEMIANG",
+      "en": "PEKAN ULU TEMIANG",
+      "slug": "pekan-ulu-temiang-0542-014"
+    },
+    "code": {
+      "id": "0542-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.76",
+      "lon": "101.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-029",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM RANTAU",
+      "en": "RANTAU",
+      "slug": "rantau-0542-029"
+    },
+    "code": {
+      "id": "0542-029",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.623",
+      "lon": "101.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-041",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM RASAH",
+      "en": "RASAH",
+      "slug": "rasah-0542-041"
+    },
+    "code": {
+      "id": "0542-041",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.674",
+      "lon": "101.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-036",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SEREMBAN",
+      "en": "SEREMBAN",
+      "slug": "seremban-0542-036"
+    },
+    "code": {
+      "id": "0542-036",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.749",
+      "lon": "101.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0542-023",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SETUL",
+      "en": "SETUL",
+      "slug": "setul-0542-023"
+    },
+    "code": {
+      "id": "0542-023",
+      "iso": null
+    },
+    "parent": {
+      "id": "0542",
+      "level": 2,
+      "name": {
+        "local": "Seremban",
+        "en": "Seremban",
+        "slug": "seremban-0542"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0542",
+        "level": 2,
+        "name": {
+          "local": "Seremban",
+          "en": "Seremban",
+          "slug": "seremban-0542"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.837",
+      "lon": "101.842"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

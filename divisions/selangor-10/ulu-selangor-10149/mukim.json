@@ -1,0 +1,1460 @@
+[
+  {
+    "id": "10149-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM AMPANG PECHAH",
+      "en": "AMPANG PECHAH",
+      "slug": "ampang-pechah-10149-006"
+    },
+    "code": {
+      "id": "10149-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "10149",
+      "level": 2,
+      "name": {
+        "local": "Ulu Selangor",
+        "en": "Ulu Selangor",
+        "slug": "ulu-selangor-10149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10149",
+        "level": 2,
+        "name": {
+          "local": "Ulu Selangor",
+          "en": "Ulu Selangor",
+          "slug": "ulu-selangor-10149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.569",
+      "lon": "101.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10149-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BATANG KALI",
+      "en": "BANDAR BATANG KALI",
+      "slug": "bandar-batang-kali-10149-002"
+    },
+    "code": {
+      "id": "10149-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "10149",
+      "level": 2,
+      "name": {
+        "local": "Ulu Selangor",
+        "en": "Ulu Selangor",
+        "slug": "ulu-selangor-10149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10149",
+        "level": 2,
+        "name": {
+          "local": "Ulu Selangor",
+          "en": "Ulu Selangor",
+          "slug": "ulu-selangor-10149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.485",
+      "lon": "101.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10149-027",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR KALUMPANG",
+      "en": "BANDAR KALUMPANG",
+      "slug": "bandar-kalumpang-10149-027"
+    },
+    "code": {
+      "id": "10149-027",
+      "iso": null
+    },
+    "parent": {
+      "id": "10149",
+      "level": 2,
+      "name": {
+        "local": "Ulu Selangor",
+        "en": "Ulu Selangor",
+        "slug": "ulu-selangor-10149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10149",
+        "level": 2,
+        "name": {
+          "local": "Ulu Selangor",
+          "en": "Ulu Selangor",
+          "slug": "ulu-selangor-10149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.649",
+      "lon": "101.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10149-022",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR KUALA KUBU BAHARU",
+      "en": "BANDAR KUALA KUBU BAHARU",
+      "slug": "bandar-kuala-kubu-baharu-10149-022"
+    },
+    "code": {
+      "id": "10149-022",
+      "iso": null
+    },
+    "parent": {
+      "id": "10149",
+      "level": 2,
+      "name": {
+        "local": "Ulu Selangor",
+        "en": "Ulu Selangor",
+        "slug": "ulu-selangor-10149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10149",
+        "level": 2,
+        "name": {
+          "local": "Ulu Selangor",
+          "en": "Ulu Selangor",
+          "slug": "ulu-selangor-10149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.553",
+      "lon": "101.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10149-019",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR RASA",
+      "en": "BANDAR RASA",
+      "slug": "bandar-rasa-10149-019"
+    },
+    "code": {
+      "id": "10149-019",
+      "iso": null
+    },
+    "parent": {
+      "id": "10149",
+      "level": 2,
+      "name": {
+        "local": "Ulu Selangor",
+        "en": "Ulu Selangor",
+        "slug": "ulu-selangor-10149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10149",
+        "level": 2,
+        "name": {
+          "local": "Ulu Selangor",
+          "en": "Ulu Selangor",
+          "slug": "ulu-selangor-10149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.504",
+      "lon": "101.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10149-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SERENDAH",
+      "en": "BANDAR SERENDAH",
+      "slug": "bandar-serendah-10149-014"
+    },
+    "code": {
+      "id": "10149-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "10149",
+      "level": 2,
+      "name": {
+        "local": "Ulu Selangor",
+        "en": "Ulu Selangor",
+        "slug": "ulu-selangor-10149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10149",
+        "level": 2,
+        "name": {
+          "local": "Ulu Selangor",
+          "en": "Ulu Selangor",
+          "slug": "ulu-selangor-10149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.382",
+      "lon": "101.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10149-020",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SUNGAI CHIK",
+      "en": "BANDAR SUNGAI CHIK",
+      "slug": "bandar-sungai-chik-10149-020"
+    },
+    "code": {
+      "id": "10149-020",
+      "iso": null
+    },
+    "parent": {
+      "id": "10149",
+      "level": 2,
+      "name": {
+        "local": "Ulu Selangor",
+        "en": "Ulu Selangor",
+        "slug": "ulu-selangor-10149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10149",
+        "level": 2,
+        "name": {
+          "local": "Ulu Selangor",
+          "en": "Ulu Selangor",
+          "slug": "ulu-selangor-10149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.427",
+      "lon": "101.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10149-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR TANJONG MALIM",
+      "en": "BANDAR TANJONG MALIM",
+      "slug": "bandar-tanjong-malim-10149-010"
+    },
+    "code": {
+      "id": "10149-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "10149",
+      "level": 2,
+      "name": {
+        "local": "Ulu Selangor",
+        "en": "Ulu Selangor",
+        "slug": "ulu-selangor-10149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10149",
+        "level": 2,
+        "name": {
+          "local": "Ulu Selangor",
+          "en": "Ulu Selangor",
+          "slug": "ulu-selangor-10149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.681",
+      "lon": "101.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10149-025",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR ULU BERNAM I",
+      "en": "BANDAR ULU BERNAM I",
+      "slug": "bandar-ulu-bernam-i-10149-025"
+    },
+    "code": {
+      "id": "10149-025",
+      "iso": null
+    },
+    "parent": {
+      "id": "10149",
+      "level": 2,
+      "name": {
+        "local": "Ulu Selangor",
+        "en": "Ulu Selangor",
+        "slug": "ulu-selangor-10149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10149",
+        "level": 2,
+        "name": {
+          "local": "Ulu Selangor",
+          "en": "Ulu Selangor",
+          "slug": "ulu-selangor-10149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.673",
+      "lon": "101.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10149-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR ULU BERNAM II",
+      "en": "BANDAR ULU BERNAM II",
+      "slug": "bandar-ulu-bernam-ii-10149-004"
+    },
+    "code": {
+      "id": "10149-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "10149",
+      "level": 2,
+      "name": {
+        "local": "Ulu Selangor",
+        "en": "Ulu Selangor",
+        "slug": "ulu-selangor-10149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10149",
+        "level": 2,
+        "name": {
+          "local": "Ulu Selangor",
+          "en": "Ulu Selangor",
+          "slug": "ulu-selangor-10149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.669",
+      "lon": "101.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10149-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR ULU YAM",
+      "en": "BANDAR ULU YAM",
+      "slug": "bandar-ulu-yam-10149-007"
+    },
+    "code": {
+      "id": "10149-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "10149",
+      "level": 2,
+      "name": {
+        "local": "Ulu Selangor",
+        "en": "Ulu Selangor",
+        "slug": "ulu-selangor-10149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10149",
+        "level": 2,
+        "name": {
+          "local": "Ulu Selangor",
+          "en": "Ulu Selangor",
+          "slug": "ulu-selangor-10149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.416",
+      "lon": "101.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10149-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR ULU YAM BAHARU",
+      "en": "BANDAR ULU YAM BAHARU",
+      "slug": "bandar-ulu-yam-baharu-10149-013"
+    },
+    "code": {
+      "id": "10149-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "10149",
+      "level": 2,
+      "name": {
+        "local": "Ulu Selangor",
+        "en": "Ulu Selangor",
+        "slug": "ulu-selangor-10149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10149",
+        "level": 2,
+        "name": {
+          "local": "Ulu Selangor",
+          "en": "Ulu Selangor",
+          "slug": "ulu-selangor-10149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.435",
+      "lon": "101.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10149-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BATANG KALI",
+      "en": "BATANG KALI",
+      "slug": "batang-kali-10149-012"
+    },
+    "code": {
+      "id": "10149-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "10149",
+      "level": 2,
+      "name": {
+        "local": "Ulu Selangor",
+        "en": "Ulu Selangor",
+        "slug": "ulu-selangor-10149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10149",
+        "level": 2,
+        "name": {
+          "local": "Ulu Selangor",
+          "en": "Ulu Selangor",
+          "slug": "ulu-selangor-10149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.457",
+      "lon": "101.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10149-026",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BULOH TELOR",
+      "en": "BULOH TELOR",
+      "slug": "buloh-telor-10149-026"
+    },
+    "code": {
+      "id": "10149-026",
+      "iso": null
+    },
+    "parent": {
+      "id": "10149",
+      "level": 2,
+      "name": {
+        "local": "Ulu Selangor",
+        "en": "Ulu Selangor",
+        "slug": "ulu-selangor-10149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10149",
+        "level": 2,
+        "name": {
+          "local": "Ulu Selangor",
+          "en": "Ulu Selangor",
+          "slug": "ulu-selangor-10149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.548",
+      "lon": "101.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10149-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KALUMPANG",
+      "en": "KALUMPANG",
+      "slug": "kalumpang-10149-008"
+    },
+    "code": {
+      "id": "10149-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "10149",
+      "level": 2,
+      "name": {
+        "local": "Ulu Selangor",
+        "en": "Ulu Selangor",
+        "slug": "ulu-selangor-10149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10149",
+        "level": 2,
+        "name": {
+          "local": "Ulu Selangor",
+          "en": "Ulu Selangor",
+          "slug": "ulu-selangor-10149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.656",
+      "lon": "101.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10149-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KERLING",
+      "en": "KERLING",
+      "slug": "kerling-10149-003"
+    },
+    "code": {
+      "id": "10149-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "10149",
+      "level": 2,
+      "name": {
+        "local": "Ulu Selangor",
+        "en": "Ulu Selangor",
+        "slug": "ulu-selangor-10149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10149",
+        "level": 2,
+        "name": {
+          "local": "Ulu Selangor",
+          "en": "Ulu Selangor",
+          "slug": "ulu-selangor-10149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.622",
+      "lon": "101.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10149-021",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUALA KALUMPANG",
+      "en": "KUALA KALUMPANG",
+      "slug": "kuala-kalumpang-10149-021"
+    },
+    "code": {
+      "id": "10149-021",
+      "iso": null
+    },
+    "parent": {
+      "id": "10149",
+      "level": 2,
+      "name": {
+        "local": "Ulu Selangor",
+        "en": "Ulu Selangor",
+        "slug": "ulu-selangor-10149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10149",
+        "level": 2,
+        "name": {
+          "local": "Ulu Selangor",
+          "en": "Ulu Selangor",
+          "slug": "ulu-selangor-10149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.64",
+      "lon": "101.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10149-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KERLING",
+      "en": "PEKAN KERLING",
+      "slug": "pekan-kerling-10149-005"
+    },
+    "code": {
+      "id": "10149-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "10149",
+      "level": 2,
+      "name": {
+        "local": "Ulu Selangor",
+        "en": "Ulu Selangor",
+        "slug": "ulu-selangor-10149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10149",
+        "level": 2,
+        "name": {
+          "local": "Ulu Selangor",
+          "en": "Ulu Selangor",
+          "slug": "ulu-selangor-10149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.59",
+      "lon": "101.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10149-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PERETAK",
+      "en": "PEKAN PERETAK",
+      "slug": "pekan-peretak-10149-016"
+    },
+    "code": {
+      "id": "10149-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "10149",
+      "level": 2,
+      "name": {
+        "local": "Ulu Selangor",
+        "en": "Ulu Selangor",
+        "slug": "ulu-selangor-10149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10149",
+        "level": 2,
+        "name": {
+          "local": "Ulu Selangor",
+          "en": "Ulu Selangor",
+          "slug": "ulu-selangor-10149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.583",
+      "lon": "101.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10149-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SALAK",
+      "en": "PEKAN SALAK",
+      "slug": "pekan-salak-10149-015"
+    },
+    "code": {
+      "id": "10149-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "10149",
+      "level": 2,
+      "name": {
+        "local": "Ulu Selangor",
+        "en": "Ulu Selangor",
+        "slug": "ulu-selangor-10149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10149",
+        "level": 2,
+        "name": {
+          "local": "Ulu Selangor",
+          "en": "Ulu Selangor",
+          "slug": "ulu-selangor-10149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.687",
+      "lon": "101.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10149-023",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SIMPANG SUNGAI CHOH",
+      "en": "PEKAN SIMPANG SUNGAI CHOH",
+      "slug": "pekan-simpang-sungai-choh-10149-023"
+    },
+    "code": {
+      "id": "10149-023",
+      "iso": null
+    },
+    "parent": {
+      "id": "10149",
+      "level": 2,
+      "name": {
+        "local": "Ulu Selangor",
+        "en": "Ulu Selangor",
+        "slug": "ulu-selangor-10149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10149",
+        "level": 2,
+        "name": {
+          "local": "Ulu Selangor",
+          "en": "Ulu Selangor",
+          "slug": "ulu-selangor-10149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.346",
+      "lon": "101.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10149-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PERETAK",
+      "en": "PERETAK",
+      "slug": "peretak-10149-001"
+    },
+    "code": {
+      "id": "10149-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "10149",
+      "level": 2,
+      "name": {
+        "local": "Ulu Selangor",
+        "en": "Ulu Selangor",
+        "slug": "ulu-selangor-10149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10149",
+        "level": 2,
+        "name": {
+          "local": "Ulu Selangor",
+          "en": "Ulu Selangor",
+          "slug": "ulu-selangor-10149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.631",
+      "lon": "101.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10149-017",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM RASA",
+      "en": "RASA",
+      "slug": "rasa-10149-017"
+    },
+    "code": {
+      "id": "10149-017",
+      "iso": null
+    },
+    "parent": {
+      "id": "10149",
+      "level": 2,
+      "name": {
+        "local": "Ulu Selangor",
+        "en": "Ulu Selangor",
+        "slug": "ulu-selangor-10149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10149",
+        "level": 2,
+        "name": {
+          "local": "Ulu Selangor",
+          "en": "Ulu Selangor",
+          "slug": "ulu-selangor-10149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.508",
+      "lon": "101.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10149-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SERENDAH",
+      "en": "SERENDAH",
+      "slug": "serendah-10149-009"
+    },
+    "code": {
+      "id": "10149-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "10149",
+      "level": 2,
+      "name": {
+        "local": "Ulu Selangor",
+        "en": "Ulu Selangor",
+        "slug": "ulu-selangor-10149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10149",
+        "level": 2,
+        "name": {
+          "local": "Ulu Selangor",
+          "en": "Ulu Selangor",
+          "slug": "ulu-selangor-10149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.382",
+      "lon": "101.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10149-024",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SUNGAI GUMUT",
+      "en": "SUNGAI GUMUT",
+      "slug": "sungai-gumut-10149-024"
+    },
+    "code": {
+      "id": "10149-024",
+      "iso": null
+    },
+    "parent": {
+      "id": "10149",
+      "level": 2,
+      "name": {
+        "local": "Ulu Selangor",
+        "en": "Ulu Selangor",
+        "slug": "ulu-selangor-10149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10149",
+        "level": 2,
+        "name": {
+          "local": "Ulu Selangor",
+          "en": "Ulu Selangor",
+          "slug": "ulu-selangor-10149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.615",
+      "lon": "101.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10149-018",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SUNGAI TERAP",
+      "en": "SUNGAI TERAP",
+      "slug": "sungai-terap-10149-018"
+    },
+    "code": {
+      "id": "10149-018",
+      "iso": null
+    },
+    "parent": {
+      "id": "10149",
+      "level": 2,
+      "name": {
+        "local": "Ulu Selangor",
+        "en": "Ulu Selangor",
+        "slug": "ulu-selangor-10149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10149",
+        "level": 2,
+        "name": {
+          "local": "Ulu Selangor",
+          "en": "Ulu Selangor",
+          "slug": "ulu-selangor-10149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.672",
+      "lon": "101.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10149-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM ULU YAM",
+      "en": "ULU YAM",
+      "slug": "ulu-yam-10149-011"
+    },
+    "code": {
+      "id": "10149-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "10149",
+      "level": 2,
+      "name": {
+        "local": "Ulu Selangor",
+        "en": "Ulu Selangor",
+        "slug": "ulu-selangor-10149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "Selangor",
+          "en": "Selangor",
+          "slug": "selangor-10"
+        }
+      },
+      {
+        "id": "10149",
+        "level": 2,
+        "name": {
+          "local": "Ulu Selangor",
+          "en": "Ulu Selangor",
+          "slug": "ulu-selangor-10149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.427",
+      "lon": "101.624"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

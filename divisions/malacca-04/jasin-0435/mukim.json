@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "0435-018",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM AYER PANAS",
+      "en": "AYER PANAS",
+      "slug": "ayer-panas-0435-018"
+    },
+    "code": {
+      "id": "0435-018",
+      "iso": null
+    },
+    "parent": {
+      "id": "0435",
+      "level": 2,
+      "name": {
+        "local": "Jasin",
+        "en": "Jasin",
+        "slug": "jasin-0435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0435",
+        "level": 2,
+        "name": {
+          "local": "Jasin",
+          "en": "Jasin",
+          "slug": "jasin-0435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.278",
+      "lon": "102.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435-023",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR MERLIMAU",
+      "en": "BANDAR MERLIMAU",
+      "slug": "bandar-merlimau-0435-023"
+    },
+    "code": {
+      "id": "0435-023",
+      "iso": null
+    },
+    "parent": {
+      "id": "0435",
+      "level": 2,
+      "name": {
+        "local": "Jasin",
+        "en": "Jasin",
+        "slug": "jasin-0435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0435",
+        "level": 2,
+        "name": {
+          "local": "Jasin",
+          "en": "Jasin",
+          "slug": "jasin-0435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.146",
+      "lon": "102.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435-017",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BATANG MALAKA",
+      "en": "BATANG MALAKA",
+      "slug": "batang-malaka-0435-017"
+    },
+    "code": {
+      "id": "0435-017",
+      "iso": null
+    },
+    "parent": {
+      "id": "0435",
+      "level": 2,
+      "name": {
+        "local": "Jasin",
+        "en": "Jasin",
+        "slug": "jasin-0435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0435",
+        "level": 2,
+        "name": {
+          "local": "Jasin",
+          "en": "Jasin",
+          "slug": "jasin-0435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.451",
+      "lon": "102.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435-027",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BUKIT SENGGEH",
+      "en": "BUKIT SENGGEH",
+      "slug": "bukit-senggeh-0435-027"
+    },
+    "code": {
+      "id": "0435-027",
+      "iso": null
+    },
+    "parent": {
+      "id": "0435",
+      "level": 2,
+      "name": {
+        "local": "Jasin",
+        "en": "Jasin",
+        "slug": "jasin-0435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0435",
+        "level": 2,
+        "name": {
+          "local": "Jasin",
+          "en": "Jasin",
+          "slug": "jasin-0435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.396",
+      "lon": "102.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM CHABAU",
+      "en": "CHABAU",
+      "slug": "chabau-0435-007"
+    },
+    "code": {
+      "id": "0435-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0435",
+      "level": 2,
+      "name": {
+        "local": "Jasin",
+        "en": "Jasin",
+        "slug": "jasin-0435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0435",
+        "level": 2,
+        "name": {
+          "local": "Jasin",
+          "en": "Jasin",
+          "slug": "jasin-0435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.368",
+      "lon": "102.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435-029",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM CHIN CHIN",
+      "en": "CHIN CHIN",
+      "slug": "chin-chin-0435-029"
+    },
+    "code": {
+      "id": "0435-029",
+      "iso": null
+    },
+    "parent": {
+      "id": "0435",
+      "level": 2,
+      "name": {
+        "local": "Jasin",
+        "en": "Jasin",
+        "slug": "jasin-0435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0435",
+        "level": 2,
+        "name": {
+          "local": "Jasin",
+          "en": "Jasin",
+          "slug": "jasin-0435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.274",
+      "lon": "102.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM CHOHONG",
+      "en": "CHOHONG",
+      "slug": "chohong-0435-010"
+    },
+    "code": {
+      "id": "0435-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0435",
+      "level": 2,
+      "name": {
+        "local": "Jasin",
+        "en": "Jasin",
+        "slug": "jasin-0435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0435",
+        "level": 2,
+        "name": {
+          "local": "Jasin",
+          "en": "Jasin",
+          "slug": "jasin-0435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.3",
+      "lon": "102.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM JASIN",
+      "en": "JASIN",
+      "slug": "jasin-0435-011"
+    },
+    "code": {
+      "id": "0435-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0435",
+      "level": 2,
+      "name": {
+        "local": "Jasin",
+        "en": "Jasin",
+        "slug": "jasin-0435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0435",
+        "level": 2,
+        "name": {
+          "local": "Jasin",
+          "en": "Jasin",
+          "slug": "jasin-0435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.281",
+      "lon": "102.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM JUS",
+      "en": "JUS",
+      "slug": "jus-0435-014"
+    },
+    "code": {
+      "id": "0435-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "0435",
+      "level": 2,
+      "name": {
+        "local": "Jasin",
+        "en": "Jasin",
+        "slug": "jasin-0435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0435",
+        "level": 2,
+        "name": {
+          "local": "Jasin",
+          "en": "Jasin",
+          "slug": "jasin-0435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.426",
+      "lon": "102.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435-021",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KESANG",
+      "en": "KESANG",
+      "slug": "kesang-0435-021"
+    },
+    "code": {
+      "id": "0435-021",
+      "iso": null
+    },
+    "parent": {
+      "id": "0435",
+      "level": 2,
+      "name": {
+        "local": "Jasin",
+        "en": "Jasin",
+        "slug": "jasin-0435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0435",
+        "level": 2,
+        "name": {
+          "local": "Jasin",
+          "en": "Jasin",
+          "slug": "jasin-0435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.25",
+      "lon": "102.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUNDANG",
+      "en": "KUNDANG",
+      "slug": "kundang-0435-005"
+    },
+    "code": {
+      "id": "0435-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0435",
+      "level": 2,
+      "name": {
+        "local": "Jasin",
+        "en": "Jasin",
+        "slug": "jasin-0435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0435",
+        "level": 2,
+        "name": {
+          "local": "Jasin",
+          "en": "Jasin",
+          "slug": "jasin-0435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.163",
+      "lon": "102.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM MERLIMAU",
+      "en": "MERLIMAU",
+      "slug": "merlimau-0435-008"
+    },
+    "code": {
+      "id": "0435-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0435",
+      "level": 2,
+      "name": {
+        "local": "Jasin",
+        "en": "Jasin",
+        "slug": "jasin-0435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0435",
+        "level": 2,
+        "name": {
+          "local": "Jasin",
+          "en": "Jasin",
+          "slug": "jasin-0435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.166",
+      "lon": "102.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM NYALAS",
+      "en": "NYALAS",
+      "slug": "nyalas-0435-004"
+    },
+    "code": {
+      "id": "0435-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0435",
+      "level": 2,
+      "name": {
+        "local": "Jasin",
+        "en": "Jasin",
+        "slug": "jasin-0435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0435",
+        "level": 2,
+        "name": {
+          "local": "Jasin",
+          "en": "Jasin",
+          "slug": "jasin-0435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.398",
+      "lon": "102.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435-026",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BEMBAN",
+      "en": "PEKAN BEMBAN",
+      "slug": "pekan-bemban-0435-026"
+    },
+    "code": {
+      "id": "0435-026",
+      "iso": null
+    },
+    "parent": {
+      "id": "0435",
+      "level": 2,
+      "name": {
+        "local": "Jasin",
+        "en": "Jasin",
+        "slug": "jasin-0435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0435",
+        "level": 2,
+        "name": {
+          "local": "Jasin",
+          "en": "Jasin",
+          "slug": "jasin-0435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.267",
+      "lon": "102.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN CHIN CHIN",
+      "en": "PEKAN CHIN CHIN",
+      "slug": "pekan-chin-chin-0435-015"
+    },
+    "code": {
+      "id": "0435-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "0435",
+      "level": 2,
+      "name": {
+        "local": "Jasin",
+        "en": "Jasin",
+        "slug": "jasin-0435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0435",
+        "level": 2,
+        "name": {
+          "local": "Jasin",
+          "en": "Jasin",
+          "slug": "jasin-0435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.288",
+      "lon": "102.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435-030",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KESANG PAJAK",
+      "en": "PEKAN KESANG PAJAK",
+      "slug": "pekan-kesang-pajak-0435-030"
+    },
+    "code": {
+      "id": "0435-030",
+      "iso": null
+    },
+    "parent": {
+      "id": "0435",
+      "level": 2,
+      "name": {
+        "local": "Jasin",
+        "en": "Jasin",
+        "slug": "jasin-0435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0435",
+        "level": 2,
+        "name": {
+          "local": "Jasin",
+          "en": "Jasin",
+          "slug": "jasin-0435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.328",
+      "lon": "102.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435-024",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN NYALAS",
+      "en": "PEKAN NYALAS",
+      "slug": "pekan-nyalas-0435-024"
+    },
+    "code": {
+      "id": "0435-024",
+      "iso": null
+    },
+    "parent": {
+      "id": "0435",
+      "level": 2,
+      "name": {
+        "local": "Jasin",
+        "en": "Jasin",
+        "slug": "jasin-0435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0435",
+        "level": 2,
+        "name": {
+          "local": "Jasin",
+          "en": "Jasin",
+          "slug": "jasin-0435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.435",
+      "lon": "102.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435-022",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SELANDAR",
+      "en": "PEKAN SELANDAR",
+      "slug": "pekan-selandar-0435-022"
+    },
+    "code": {
+      "id": "0435-022",
+      "iso": null
+    },
+    "parent": {
+      "id": "0435",
+      "level": 2,
+      "name": {
+        "local": "Jasin",
+        "en": "Jasin",
+        "slug": "jasin-0435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0435",
+        "level": 2,
+        "name": {
+          "local": "Jasin",
+          "en": "Jasin",
+          "slug": "jasin-0435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.39",
+      "lon": "102.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SEMPANG BEKOH",
+      "en": "PEKAN SEMPANG BEKOH",
+      "slug": "pekan-sempang-bekoh-0435-009"
+    },
+    "code": {
+      "id": "0435-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0435",
+      "level": 2,
+      "name": {
+        "local": "Jasin",
+        "en": "Jasin",
+        "slug": "jasin-0435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0435",
+        "level": 2,
+        "name": {
+          "local": "Jasin",
+          "en": "Jasin",
+          "slug": "jasin-0435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.36",
+      "lon": "102.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435-019",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SUNGAI RAMBAI",
+      "en": "PEKAN SUNGAI RAMBAI",
+      "slug": "pekan-sungai-rambai-0435-019"
+    },
+    "code": {
+      "id": "0435-019",
+      "iso": null
+    },
+    "parent": {
+      "id": "0435",
+      "level": 2,
+      "name": {
+        "local": "Jasin",
+        "en": "Jasin",
+        "slug": "jasin-0435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0435",
+        "level": 2,
+        "name": {
+          "local": "Jasin",
+          "en": "Jasin",
+          "slug": "jasin-0435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.125",
+      "lon": "102.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM RIM",
+      "en": "RIM",
+      "slug": "rim-0435-001"
+    },
+    "code": {
+      "id": "0435-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0435",
+      "level": 2,
+      "name": {
+        "local": "Jasin",
+        "en": "Jasin",
+        "slug": "jasin-0435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0435",
+        "level": 2,
+        "name": {
+          "local": "Jasin",
+          "en": "Jasin",
+          "slug": "jasin-0435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.324",
+      "lon": "102.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SEBATU",
+      "en": "SEBATU",
+      "slug": "sebatu-0435-013"
+    },
+    "code": {
+      "id": "0435-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0435",
+      "level": 2,
+      "name": {
+        "local": "Jasin",
+        "en": "Jasin",
+        "slug": "jasin-0435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0435",
+        "level": 2,
+        "name": {
+          "local": "Jasin",
+          "en": "Jasin",
+          "slug": "jasin-0435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.137",
+      "lon": "102.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435-020",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SELANDAR",
+      "en": "SELANDAR",
+      "slug": "selandar-0435-020"
+    },
+    "code": {
+      "id": "0435-020",
+      "iso": null
+    },
+    "parent": {
+      "id": "0435",
+      "level": 2,
+      "name": {
+        "local": "Jasin",
+        "en": "Jasin",
+        "slug": "jasin-0435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0435",
+        "level": 2,
+        "name": {
+          "local": "Jasin",
+          "en": "Jasin",
+          "slug": "jasin-0435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.384",
+      "lon": "102.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435-025",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SEMPANG",
+      "en": "SEMPANG",
+      "slug": "sempang-0435-025"
+    },
+    "code": {
+      "id": "0435-025",
+      "iso": null
+    },
+    "parent": {
+      "id": "0435",
+      "level": 2,
+      "name": {
+        "local": "Jasin",
+        "en": "Jasin",
+        "slug": "jasin-0435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0435",
+        "level": 2,
+        "name": {
+          "local": "Jasin",
+          "en": "Jasin",
+          "slug": "jasin-0435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.147",
+      "lon": "102.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435-028",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SEMUJOK",
+      "en": "SEMUJOK",
+      "slug": "semujok-0435-028"
+    },
+    "code": {
+      "id": "0435-028",
+      "iso": null
+    },
+    "parent": {
+      "id": "0435",
+      "level": 2,
+      "name": {
+        "local": "Jasin",
+        "en": "Jasin",
+        "slug": "jasin-0435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0435",
+        "level": 2,
+        "name": {
+          "local": "Jasin",
+          "en": "Jasin",
+          "slug": "jasin-0435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.221",
+      "lon": "102.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SERKAM",
+      "en": "SERKAM",
+      "slug": "serkam-0435-016"
+    },
+    "code": {
+      "id": "0435-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "0435",
+      "level": 2,
+      "name": {
+        "local": "Jasin",
+        "en": "Jasin",
+        "slug": "jasin-0435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0435",
+        "level": 2,
+        "name": {
+          "local": "Jasin",
+          "en": "Jasin",
+          "slug": "jasin-0435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.172",
+      "lon": "102.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SRI MENANTI",
+      "en": "SRI MENANTI",
+      "slug": "sri-menanti-0435-002"
+    },
+    "code": {
+      "id": "0435-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0435",
+      "level": 2,
+      "name": {
+        "local": "Jasin",
+        "en": "Jasin",
+        "slug": "jasin-0435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0435",
+        "level": 2,
+        "name": {
+          "local": "Jasin",
+          "en": "Jasin",
+          "slug": "jasin-0435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.295",
+      "lon": "102.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SUNGEI RAMBAI",
+      "en": "SUNGEI RAMBAI",
+      "slug": "sungei-rambai-0435-006"
+    },
+    "code": {
+      "id": "0435-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0435",
+      "level": 2,
+      "name": {
+        "local": "Jasin",
+        "en": "Jasin",
+        "slug": "jasin-0435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0435",
+        "level": 2,
+        "name": {
+          "local": "Jasin",
+          "en": "Jasin",
+          "slug": "jasin-0435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.142",
+      "lon": "102.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TEDONG",
+      "en": "TEDONG",
+      "slug": "tedong-0435-012"
+    },
+    "code": {
+      "id": "0435-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0435",
+      "level": 2,
+      "name": {
+        "local": "Jasin",
+        "en": "Jasin",
+        "slug": "jasin-0435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0435",
+        "level": 2,
+        "name": {
+          "local": "Jasin",
+          "en": "Jasin",
+          "slug": "jasin-0435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.148",
+      "lon": "102.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0435-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM UMBAI",
+      "en": "UMBAI",
+      "slug": "umbai-0435-003"
+    },
+    "code": {
+      "id": "0435-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0435",
+      "level": 2,
+      "name": {
+        "local": "Jasin",
+        "en": "Jasin",
+        "slug": "jasin-0435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Melaka",
+          "en": "Malacca",
+          "slug": "malacca-04"
+        }
+      },
+      {
+        "id": "0435",
+        "level": 2,
+        "name": {
+          "local": "Jasin",
+          "en": "Jasin",
+          "slug": "jasin-0435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.166",
+      "lon": "102.359"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

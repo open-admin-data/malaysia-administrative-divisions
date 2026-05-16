@@ -1,0 +1,47 @@
+{
+  "id": "13131",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Serian",
+    "en": "Serian",
+    "slug": "serian-13131"
+  },
+  "code": {
+    "id": "13131",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "Sarawak",
+      "en": "Sarawak",
+      "slug": "sarawak-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.1",
+    "lon": "110.645"
+  },
+  "metadata": {},
+  "source": {}
+}

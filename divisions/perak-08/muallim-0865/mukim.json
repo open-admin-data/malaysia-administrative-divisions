@@ -1,0 +1,380 @@
+[
+  {
+    "id": "0865-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM HULU BERNAM BARAT",
+      "en": "HULU BERNAM BARAT",
+      "slug": "hulu-bernam-barat-0865-001"
+    },
+    "code": {
+      "id": "0865-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0865",
+      "level": 2,
+      "name": {
+        "local": "Muallim",
+        "en": "Muallim",
+        "slug": "muallim-0865"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0865",
+        "level": 2,
+        "name": {
+          "local": "Muallim",
+          "en": "Muallim",
+          "slug": "muallim-0865"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.747",
+      "lon": "101.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0865-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM HULU BERNAM TIMUR",
+      "en": "HULU BERNAM TIMUR",
+      "slug": "hulu-bernam-timur-0865-005"
+    },
+    "code": {
+      "id": "0865-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0865",
+      "level": 2,
+      "name": {
+        "local": "Muallim",
+        "en": "Muallim",
+        "slug": "muallim-0865"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0865",
+        "level": 2,
+        "name": {
+          "local": "Muallim",
+          "en": "Muallim",
+          "slug": "muallim-0865"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.757",
+      "lon": "101.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0865-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BANTANG",
+      "en": "PEKAN BANTANG",
+      "slug": "pekan-bantang-0865-002"
+    },
+    "code": {
+      "id": "0865-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0865",
+      "level": 2,
+      "name": {
+        "local": "Muallim",
+        "en": "Muallim",
+        "slug": "muallim-0865"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0865",
+        "level": 2,
+        "name": {
+          "local": "Muallim",
+          "en": "Muallim",
+          "slug": "muallim-0865"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.829",
+      "lon": "101.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0865-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SLIM",
+      "en": "PEKAN SLIM",
+      "slug": "pekan-slim-0865-003"
+    },
+    "code": {
+      "id": "0865-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0865",
+      "level": 2,
+      "name": {
+        "local": "Muallim",
+        "en": "Muallim",
+        "slug": "muallim-0865"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0865",
+        "level": 2,
+        "name": {
+          "local": "Muallim",
+          "en": "Muallim",
+          "slug": "muallim-0865"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.85",
+      "lon": "101.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0865-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TEROLAK",
+      "en": "PEKAN TEROLAK",
+      "slug": "pekan-terolak-0865-004"
+    },
+    "code": {
+      "id": "0865-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0865",
+      "level": 2,
+      "name": {
+        "local": "Muallim",
+        "en": "Muallim",
+        "slug": "muallim-0865"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0865",
+        "level": 2,
+        "name": {
+          "local": "Muallim",
+          "en": "Muallim",
+          "slug": "muallim-0865"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.891",
+      "lon": "101.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0865-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SLIM",
+      "en": "SLIM",
+      "slug": "slim-0865-006"
+    },
+    "code": {
+      "id": "0865-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0865",
+      "level": 2,
+      "name": {
+        "local": "Muallim",
+        "en": "Muallim",
+        "slug": "muallim-0865"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0865",
+        "level": 2,
+        "name": {
+          "local": "Muallim",
+          "en": "Muallim",
+          "slug": "muallim-0865"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.899",
+      "lon": "101.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0865-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM ULU BERNAM",
+      "en": "ULU BERNAM",
+      "slug": "ulu-bernam-0865-007"
+    },
+    "code": {
+      "id": "0865-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0865",
+      "level": 2,
+      "name": {
+        "local": "Muallim",
+        "en": "Muallim",
+        "slug": "muallim-0865"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0865",
+        "level": 2,
+        "name": {
+          "local": "Muallim",
+          "en": "Muallim",
+          "slug": "muallim-0865"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.734",
+      "lon": "101.469"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

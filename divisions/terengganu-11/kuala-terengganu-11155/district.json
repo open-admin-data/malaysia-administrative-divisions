@@ -1,0 +1,47 @@
+{
+  "id": "11155",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kuala Terengganu",
+    "en": "Kuala Terengganu",
+    "slug": "kuala-terengganu-11155"
+  },
+  "code": {
+    "id": "11155",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "Terengganu",
+      "en": "Terengganu",
+      "slug": "terengganu-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Terengganu",
+        "en": "Terengganu",
+        "slug": "terengganu-11"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.274",
+    "lon": "103.071"
+  },
+  "metadata": {},
+  "source": {}
+}

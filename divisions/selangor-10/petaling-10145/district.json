@@ -1,0 +1,47 @@
+{
+  "id": "10145",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Petaling",
+    "en": "Petaling",
+    "slug": "petaling-10145"
+  },
+  "code": {
+    "id": "10145",
+    "iso": null
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "local": "Selangor",
+      "en": "Selangor",
+      "slug": "selangor-10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "Selangor",
+        "en": "Selangor",
+        "slug": "selangor-10"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 31
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.091",
+    "lon": "101.591"
+  },
+  "metadata": {},
+  "source": {}
+}

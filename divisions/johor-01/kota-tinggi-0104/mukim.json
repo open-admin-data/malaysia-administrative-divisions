@@ -1,0 +1,542 @@
+[
+  {
+    "id": "0104-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM JOHOR LAMA",
+      "en": "JOHOR LAMA",
+      "slug": "johor-lama-0104-003"
+    },
+    "code": {
+      "id": "0104-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0104",
+      "level": 2,
+      "name": {
+        "local": "Kota Tinggi",
+        "en": "Kota Tinggi",
+        "slug": "kota-tinggi-0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0104",
+        "level": 2,
+        "name": {
+          "local": "Kota Tinggi",
+          "en": "Kota Tinggi",
+          "slug": "kota-tinggi-0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.628",
+      "lon": "104.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0104-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KAMBAU",
+      "en": "KAMBAU",
+      "slug": "kambau-0104-001"
+    },
+    "code": {
+      "id": "0104-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0104",
+      "level": 2,
+      "name": {
+        "local": "Kota Tinggi",
+        "en": "Kota Tinggi",
+        "slug": "kota-tinggi-0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0104",
+        "level": 2,
+        "name": {
+          "local": "Kota Tinggi",
+          "en": "Kota Tinggi",
+          "slug": "kota-tinggi-0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.986",
+      "lon": "104.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0104-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KOTA TINGGI",
+      "en": "KOTA TINGGI",
+      "slug": "kota-tinggi-0104-004"
+    },
+    "code": {
+      "id": "0104-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0104",
+      "level": 2,
+      "name": {
+        "local": "Kota Tinggi",
+        "en": "Kota Tinggi",
+        "slug": "kota-tinggi-0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0104",
+        "level": 2,
+        "name": {
+          "local": "Kota Tinggi",
+          "en": "Kota Tinggi",
+          "slug": "kota-tinggi-0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.69",
+      "lon": "103.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0104-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PANTAI TIMUR",
+      "en": "PANTAI TIMUR",
+      "slug": "pantai-timur-0104-007"
+    },
+    "code": {
+      "id": "0104-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0104",
+      "level": 2,
+      "name": {
+        "local": "Kota Tinggi",
+        "en": "Kota Tinggi",
+        "slug": "kota-tinggi-0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0104",
+        "level": 2,
+        "name": {
+          "local": "Kota Tinggi",
+          "en": "Kota Tinggi",
+          "slug": "kota-tinggi-0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.457",
+      "lon": "104.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0104-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PENGERANG",
+      "en": "PENGERANG",
+      "slug": "pengerang-0104-002"
+    },
+    "code": {
+      "id": "0104-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0104",
+      "level": 2,
+      "name": {
+        "local": "Kota Tinggi",
+        "en": "Kota Tinggi",
+        "slug": "kota-tinggi-0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0104",
+        "level": 2,
+        "name": {
+          "local": "Kota Tinggi",
+          "en": "Kota Tinggi",
+          "slug": "kota-tinggi-0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.428",
+      "lon": "104.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0104-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SEDILI BESAR",
+      "en": "SEDILI BESAR",
+      "slug": "sedili-besar-0104-010"
+    },
+    "code": {
+      "id": "0104-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0104",
+      "level": 2,
+      "name": {
+        "local": "Kota Tinggi",
+        "en": "Kota Tinggi",
+        "slug": "kota-tinggi-0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0104",
+        "level": 2,
+        "name": {
+          "local": "Kota Tinggi",
+          "en": "Kota Tinggi",
+          "slug": "kota-tinggi-0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.871",
+      "lon": "104.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0104-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SEDILI KECHIL",
+      "en": "SEDILI KECHIL",
+      "slug": "sedili-kechil-0104-008"
+    },
+    "code": {
+      "id": "0104-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0104",
+      "level": 2,
+      "name": {
+        "local": "Kota Tinggi",
+        "en": "Kota Tinggi",
+        "slug": "kota-tinggi-0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0104",
+        "level": 2,
+        "name": {
+          "local": "Kota Tinggi",
+          "en": "Kota Tinggi",
+          "slug": "kota-tinggi-0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.727",
+      "lon": "104.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0104-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TANJUNG SURAT",
+      "en": "TANJUNG SURAT",
+      "slug": "tanjung-surat-0104-006"
+    },
+    "code": {
+      "id": "0104-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0104",
+      "level": 2,
+      "name": {
+        "local": "Kota Tinggi",
+        "en": "Kota Tinggi",
+        "slug": "kota-tinggi-0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0104",
+        "level": 2,
+        "name": {
+          "local": "Kota Tinggi",
+          "en": "Kota Tinggi",
+          "slug": "kota-tinggi-0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.557",
+      "lon": "104.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0104-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM ULU SUNGAI JOHOR",
+      "en": "ULU SUNGAI JOHOR",
+      "slug": "ulu-sungai-johor-0104-009"
+    },
+    "code": {
+      "id": "0104-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0104",
+      "level": 2,
+      "name": {
+        "local": "Kota Tinggi",
+        "en": "Kota Tinggi",
+        "slug": "kota-tinggi-0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0104",
+        "level": 2,
+        "name": {
+          "local": "Kota Tinggi",
+          "en": "Kota Tinggi",
+          "slug": "kota-tinggi-0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.757",
+      "lon": "103.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0104-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM ULU SUNGEI SEDILI BESAR",
+      "en": "ULU SUNGEI SEDILI BESAR",
+      "slug": "ulu-sungei-sedili-besar-0104-005"
+    },
+    "code": {
+      "id": "0104-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0104",
+      "level": 2,
+      "name": {
+        "local": "Kota Tinggi",
+        "en": "Kota Tinggi",
+        "slug": "kota-tinggi-0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0104",
+        "level": 2,
+        "name": {
+          "local": "Kota Tinggi",
+          "en": "Kota Tinggi",
+          "slug": "kota-tinggi-0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.856",
+      "lon": "103.973"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

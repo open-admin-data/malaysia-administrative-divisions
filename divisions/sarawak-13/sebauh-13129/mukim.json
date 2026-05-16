@@ -1,0 +1,596 @@
+[
+  {
+    "id": "13129-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BATU KAPAL LAND DISTRICT",
+      "en": "BATU KAPAL LAND DISTRICT",
+      "slug": "batu-kapal-land-district-13129-008"
+    },
+    "code": {
+      "id": "13129-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "13129",
+      "level": 2,
+      "name": {
+        "local": "Sebauh",
+        "en": "Sebauh",
+        "slug": "sebauh-13129"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13129",
+        "level": 2,
+        "name": {
+          "local": "Sebauh",
+          "en": "Sebauh",
+          "slug": "sebauh-13129"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.049",
+      "lon": "113.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13129-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BINIO LAND DISTRICT",
+      "en": "BINIO LAND DISTRICT",
+      "slug": "binio-land-district-13129-007"
+    },
+    "code": {
+      "id": "13129-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "13129",
+      "level": 2,
+      "name": {
+        "local": "Sebauh",
+        "en": "Sebauh",
+        "slug": "sebauh-13129"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13129",
+        "level": 2,
+        "name": {
+          "local": "Sebauh",
+          "en": "Sebauh",
+          "slug": "sebauh-13129"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.941",
+      "lon": "113.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13129-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "JELALONG LAND DISTRICT",
+      "en": "JELALONG LAND DISTRICT",
+      "slug": "jelalong-land-district-13129-006"
+    },
+    "code": {
+      "id": "13129-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "13129",
+      "level": 2,
+      "name": {
+        "local": "Sebauh",
+        "en": "Sebauh",
+        "slug": "sebauh-13129"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13129",
+        "level": 2,
+        "name": {
+          "local": "Sebauh",
+          "en": "Sebauh",
+          "slug": "sebauh-13129"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.278",
+      "lon": "113.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13129-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "LAVANG LAND DISTRICT",
+      "en": "LAVANG LAND DISTRICT",
+      "slug": "lavang-land-district-13129-011"
+    },
+    "code": {
+      "id": "13129-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "13129",
+      "level": 2,
+      "name": {
+        "local": "Sebauh",
+        "en": "Sebauh",
+        "slug": "sebauh-13129"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13129",
+        "level": 2,
+        "name": {
+          "local": "Sebauh",
+          "en": "Sebauh",
+          "slug": "sebauh-13129"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.27",
+      "lon": "113.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13129-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "LAVANG TOWN DISTRICT",
+      "en": "LAVANG TOWN DISTRICT",
+      "slug": "lavang-town-district-13129-010"
+    },
+    "code": {
+      "id": "13129-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "13129",
+      "level": 2,
+      "name": {
+        "local": "Sebauh",
+        "en": "Sebauh",
+        "slug": "sebauh-13129"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13129",
+        "level": 2,
+        "name": {
+          "local": "Sebauh",
+          "en": "Sebauh",
+          "slug": "sebauh-13129"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.259",
+      "lon": "113.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13129-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PANDAN LAND DISTRICT",
+      "en": "PANDAN LAND DISTRICT",
+      "slug": "pandan-land-district-13129-009"
+    },
+    "code": {
+      "id": "13129-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "13129",
+      "level": 2,
+      "name": {
+        "local": "Sebauh",
+        "en": "Sebauh",
+        "slug": "sebauh-13129"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13129",
+        "level": 2,
+        "name": {
+          "local": "Sebauh",
+          "en": "Sebauh",
+          "slug": "sebauh-13129"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.075",
+      "lon": "113.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13129-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PANDAN TOWN DISTRICT",
+      "en": "PANDAN TOWN DISTRICT",
+      "slug": "pandan-town-district-13129-002"
+    },
+    "code": {
+      "id": "13129-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13129",
+      "level": 2,
+      "name": {
+        "local": "Sebauh",
+        "en": "Sebauh",
+        "slug": "sebauh-13129"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13129",
+        "level": 2,
+        "name": {
+          "local": "Sebauh",
+          "en": "Sebauh",
+          "slug": "sebauh-13129"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.15",
+      "lon": "113.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13129-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "RASAN LAND DISTRICT",
+      "en": "RASAN LAND DISTRICT",
+      "slug": "rasan-land-district-13129-003"
+    },
+    "code": {
+      "id": "13129-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13129",
+      "level": 2,
+      "name": {
+        "local": "Sebauh",
+        "en": "Sebauh",
+        "slug": "sebauh-13129"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13129",
+        "level": 2,
+        "name": {
+          "local": "Sebauh",
+          "en": "Sebauh",
+          "slug": "sebauh-13129"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.276",
+      "lon": "113.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13129-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SEBAUH TOWN DISTRICT",
+      "en": "SEBAUH TOWN DISTRICT",
+      "slug": "sebauh-town-district-13129-005"
+    },
+    "code": {
+      "id": "13129-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "13129",
+      "level": 2,
+      "name": {
+        "local": "Sebauh",
+        "en": "Sebauh",
+        "slug": "sebauh-13129"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13129",
+        "level": 2,
+        "name": {
+          "local": "Sebauh",
+          "en": "Sebauh",
+          "slug": "sebauh-13129"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.111",
+      "lon": "113.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13129-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SELEZU LAND DISTRICT",
+      "en": "SELEZU LAND DISTRICT",
+      "slug": "selezu-land-district-13129-001"
+    },
+    "code": {
+      "id": "13129-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13129",
+      "level": 2,
+      "name": {
+        "local": "Sebauh",
+        "en": "Sebauh",
+        "slug": "sebauh-13129"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13129",
+        "level": 2,
+        "name": {
+          "local": "Sebauh",
+          "en": "Sebauh",
+          "slug": "sebauh-13129"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.18",
+      "lon": "113.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13129-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "TUBAU TOWN DISTRICT",
+      "en": "TUBAU TOWN DISTRICT",
+      "slug": "tubau-town-district-13129-004"
+    },
+    "code": {
+      "id": "13129-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13129",
+      "level": 2,
+      "name": {
+        "local": "Sebauh",
+        "en": "Sebauh",
+        "slug": "sebauh-13129"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13129",
+        "level": 2,
+        "name": {
+          "local": "Sebauh",
+          "en": "Sebauh",
+          "slug": "sebauh-13129"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.161",
+      "lon": "113.71"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

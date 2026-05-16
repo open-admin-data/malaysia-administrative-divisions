@@ -1,0 +1,47 @@
+{
+  "id": "13112",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kanowit",
+    "en": "Kanowit",
+    "slug": "kanowit-13112"
+  },
+  "code": {
+    "id": "13112",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "Sarawak",
+      "en": "Sarawak",
+      "slug": "sarawak-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.922",
+    "lon": "112.256"
+  },
+  "metadata": {},
+  "source": {}
+}

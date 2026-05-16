@@ -1,0 +1,60 @@
+# Bachok
+
+[Home](../../../) &gt; [Kelantan](../) > **Bachok**
+
+Bachok is a district in Malaysia, under Kelantan.
+
+## Overview
+
+| Item | Details |
+|------|---------|
+| Subdistricts | 31 |
+| Code | 0323 |
+| Coordinates | 5.958, 102.347 |
+| Parent | Kelantan |
+
+## Subdistricts
+
+| # | Name | Coordinates | Code |
+|---|------|-------------|------|
+| 1 | MUKIM ALOR BAKAT (ALOR BAKAT) | 5.96, 102.319 | 0323-003 |
+| 2 | MUKIM BACHOK (BACHOK) | 6.063, 102.392 | 0323-022 |
+| 3 | BANDAR BACHOK | 6.061, 102.399 | 0323-027 |
+| 4 | MUKIM BATOR (BATOR) | 5.991, 102.377 | 0323-011 |
+| 5 | MUKIM CHAP (CHAP) | 6.045, 102.348 | 0323-028 |
+| 6 | MUKIM CHERANG HANGUS (CHERANG HANGUS) | 6.035, 102.358 | 0323-001 |
+| 7 | MUKIM KEMASIN (KEMASIN) | 6.11, 102.373 | 0323-009 |
+| 8 | MUKIM KUAU (KUAU) | 6.029, 102.384 | 0323-005 |
+| 9 | MUKIM KUBANG TELAGA (KUBANG TELAGA) | 5.941, 102.368 | 0323-008 |
+| 10 | MUKIM KUCHELONG (KUCHELONG) | 6.025, 102.343 | 0323-029 |
+| 11 | MUKIM LUBOK TEMBESU (LUBOK TEMBESU) | 5.91, 102.387 | 0323-019 |
+| 12 | MUKIM MAK LIPAH (MAK LIPAH) | 5.949, 102.292 | 0323-031 |
+| 13 | MUKIM MELAWI (MELAWI) | 6.034, 102.402 | 0323-023 |
+| 14 | MUKIM NIPAH (NIPAH) | 6.05, 102.398 | 0323-007 |
+| 15 | MUKIM PAK PURA (PAK PURA) | 6.066, 102.367 | 0323-016 |
+| 16 | MUKIM PAUH SEMBILAN (PAUH SEMBILAN) | 6.092, 102.355 | 0323-015 |
+| 17 | MUKIM PAYA MENGKUANG (PAYA MENGKUANG) | 6.083, 102.385 | 0323-013 |
+| 18 | PEKAN JELAWAT | 6.012, 102.375 | 0323-017 |
+| 19 | MUKIM PERUPOK (PERUPOK) | 6.085, 102.388 | 0323-026 |
+| 20 | MUKIM REPEK (REPEK) | 6.006, 102.408 | 0323-030 |
+| 21 | MUKIM RUSA (RUSA) | 5.986, 102.397 | 0323-006 |
+| 22 | MUKIM SENAK (SENAK) | 6.14, 102.344 | 0323-010 |
+| 23 | MUKIM TAKANG (TAKANG) | 6.088, 102.333 | 0323-012 |
+| 24 | MUKIM TANJONG (TANJONG) | 6.095, 102.322 | 0323-018 |
+| 25 | MUKIM TANJONG JERING (TANJONG JERING) | 6.071, 102.347 | 0323-002 |
+| 26 | MUKIM TANJONG PAUH (TANJONG PAUH) | 6.049, 102.377 | 0323-021 |
+| 27 | MUKIM TELOK MESIRA (TELOK MESIRA) | 6.106, 102.323 | 0323-004 |
+| 28 | MUKIM TELONG (TELONG) | 5.96, 102.423 | 0323-020 |
+| 29 | MUKIM TEMU RANGGAS (TEMU RANGGAS) | 6.041, 102.327 | 0323-024 |
+| 30 | MUKIM TEPUS (TEPUS) | 5.998, 102.35 | 0323-025 |
+| 31 | MUKIM TUALANG SALAK (TUALANG SALAK) | 6.031, 102.367 | 0323-014 |
+
+## Data Files
+
+- [district.json](district.json) — District metadata
+- [mukim.json](mukim.json) — All subdistricts (JSON)
+- [mukim.csv](mukim.csv) — CSV format
+
+---
+
+<- Back to [Kelantan](../)

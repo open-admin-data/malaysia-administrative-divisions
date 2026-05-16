@@ -1,0 +1,47 @@
+{
+  "id": "13139",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tebedu",
+    "en": "Tebedu",
+    "slug": "tebedu-13139"
+  },
+  "code": {
+    "id": "13139",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "Sarawak",
+      "en": "Sarawak",
+      "slug": "sarawak-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.987",
+    "lon": "110.423"
+  },
+  "metadata": {},
+  "source": {}
+}

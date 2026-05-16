@@ -1,0 +1,218 @@
+[
+  {
+    "id": "13128-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "GUNONG AYER TOWN DISTRICT",
+      "en": "GUNONG AYER TOWN DISTRICT",
+      "slug": "gunong-ayer-town-district-13128-004"
+    },
+    "code": {
+      "id": "13128-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13128",
+      "level": 2,
+      "name": {
+        "local": "Sarikei",
+        "en": "Sarikei",
+        "slug": "sarikei-13128"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13128",
+        "level": 2,
+        "name": {
+          "local": "Sarikei",
+          "en": "Sarikei",
+          "slug": "sarikei-13128"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.136",
+      "lon": "111.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13128-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SARE LAND DISTRICT",
+      "en": "SARE LAND DISTRICT",
+      "slug": "sare-land-district-13128-001"
+    },
+    "code": {
+      "id": "13128-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13128",
+      "level": 2,
+      "name": {
+        "local": "Sarikei",
+        "en": "Sarikei",
+        "slug": "sarikei-13128"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13128",
+        "level": 2,
+        "name": {
+          "local": "Sarikei",
+          "en": "Sarikei",
+          "slug": "sarikei-13128"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.078",
+      "lon": "111.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13128-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SARIKEI LAND DISTRICT",
+      "en": "SARIKEI LAND DISTRICT",
+      "slug": "sarikei-land-district-13128-002"
+    },
+    "code": {
+      "id": "13128-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13128",
+      "level": 2,
+      "name": {
+        "local": "Sarikei",
+        "en": "Sarikei",
+        "slug": "sarikei-13128"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13128",
+        "level": 2,
+        "name": {
+          "local": "Sarikei",
+          "en": "Sarikei",
+          "slug": "sarikei-13128"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.087",
+      "lon": "111.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13128-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SELALANG TOWN DISTRICT",
+      "en": "SELALANG TOWN DISTRICT",
+      "slug": "selalang-town-district-13128-003"
+    },
+    "code": {
+      "id": "13128-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13128",
+      "level": 2,
+      "name": {
+        "local": "Sarikei",
+        "en": "Sarikei",
+        "slug": "sarikei-13128"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13128",
+        "level": 2,
+        "name": {
+          "local": "Sarikei",
+          "en": "Sarikei",
+          "slug": "sarikei-13128"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.016",
+      "lon": "111.319"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

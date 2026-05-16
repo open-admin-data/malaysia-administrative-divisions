@@ -1,0 +1,47 @@
+{
+  "id": "13122",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Miri",
+    "en": "Miri",
+    "slug": "miri-13122"
+  },
+  "code": {
+    "id": "13122",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "Sarawak",
+      "en": "Sarawak",
+      "slug": "sarawak-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.761",
+    "lon": "115.075"
+  },
+  "metadata": {},
+  "source": {}
+}

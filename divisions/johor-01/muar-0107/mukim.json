@@ -1,0 +1,758 @@
+[
+  {
+    "id": "0107-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM AYER HITAM",
+      "en": "AYER HITAM",
+      "slug": "ayer-hitam-0107-006"
+    },
+    "code": {
+      "id": "0107-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0107",
+      "level": 2,
+      "name": {
+        "local": "Muar",
+        "en": "Muar",
+        "slug": "muar-0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0107",
+        "level": 2,
+        "name": {
+          "local": "Muar",
+          "en": "Muar",
+          "slug": "muar-0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.005",
+      "lon": "102.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0107-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BANDAR MAHARANI",
+      "en": "BANDAR BANDAR MAHARANI",
+      "slug": "bandar-bandar-maharani-0107-011"
+    },
+    "code": {
+      "id": "0107-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0107",
+      "level": 2,
+      "name": {
+        "local": "Muar",
+        "en": "Muar",
+        "slug": "muar-0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0107",
+        "level": 2,
+        "name": {
+          "local": "Muar",
+          "en": "Muar",
+          "slug": "muar-0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.048",
+      "lon": "102.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0107-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BUKIT KEPONG",
+      "en": "BANDAR BUKIT KEPONG",
+      "slug": "bandar-bukit-kepong-0107-007"
+    },
+    "code": {
+      "id": "0107-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0107",
+      "level": 2,
+      "name": {
+        "local": "Muar",
+        "en": "Muar",
+        "slug": "muar-0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0107",
+        "level": 2,
+        "name": {
+          "local": "Muar",
+          "en": "Muar",
+          "slug": "muar-0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.346",
+      "lon": "102.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0107-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR PARIT BUNGA",
+      "en": "BANDAR PARIT BUNGA",
+      "slug": "bandar-parit-bunga-0107-012"
+    },
+    "code": {
+      "id": "0107-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0107",
+      "level": 2,
+      "name": {
+        "local": "Muar",
+        "en": "Muar",
+        "slug": "muar-0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0107",
+        "level": 2,
+        "name": {
+          "local": "Muar",
+          "en": "Muar",
+          "slug": "muar-0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.074",
+      "lon": "102.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0107-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BUKIT KEPONG",
+      "en": "BUKIT KEPONG",
+      "slug": "bukit-kepong-0107-003"
+    },
+    "code": {
+      "id": "0107-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0107",
+      "level": 2,
+      "name": {
+        "local": "Muar",
+        "en": "Muar",
+        "slug": "muar-0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0107",
+        "level": 2,
+        "name": {
+          "local": "Muar",
+          "en": "Muar",
+          "slug": "muar-0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.366",
+      "lon": "102.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0107-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM GRISEK",
+      "en": "GRISEK",
+      "slug": "grisek-xx-1753"
+    },
+    "code": {
+      "id": "0107-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "0107",
+      "level": 2,
+      "name": {
+        "local": "Muar",
+        "en": "Muar",
+        "slug": "muar-0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0107",
+        "level": 2,
+        "name": {
+          "local": "Muar",
+          "en": "Muar",
+          "slug": "muar-0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.213",
+      "lon": "102.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0107-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM JALAN BAKRI",
+      "en": "JALAN BAKRI",
+      "slug": "jalan-bakri-0107-001"
+    },
+    "code": {
+      "id": "0107-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0107",
+      "level": 2,
+      "name": {
+        "local": "Muar",
+        "en": "Muar",
+        "slug": "muar-0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0107",
+        "level": 2,
+        "name": {
+          "local": "Muar",
+          "en": "Muar",
+          "slug": "muar-0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.05",
+      "lon": "102.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0107-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM JORAK",
+      "en": "JORAK",
+      "slug": "jorak-0107-002"
+    },
+    "code": {
+      "id": "0107-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0107",
+      "level": 2,
+      "name": {
+        "local": "Muar",
+        "en": "Muar",
+        "slug": "muar-0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0107",
+        "level": 2,
+        "name": {
+          "local": "Muar",
+          "en": "Muar",
+          "slug": "muar-0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.14",
+      "lon": "102.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0107-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM LENGA",
+      "en": "LENGA",
+      "slug": "lenga-0107-009"
+    },
+    "code": {
+      "id": "0107-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0107",
+      "level": 2,
+      "name": {
+        "local": "Muar",
+        "en": "Muar",
+        "slug": "muar-0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0107",
+        "level": 2,
+        "name": {
+          "local": "Muar",
+          "en": "Muar",
+          "slug": "muar-0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.248",
+      "lon": "102.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0107-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM MACHAP",
+      "en": "MACHAP",
+      "slug": "machap-0107-005"
+    },
+    "code": {
+      "id": "0107-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0107",
+      "level": 2,
+      "name": {
+        "local": "Muar",
+        "en": "Muar",
+        "slug": "muar-0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0107",
+        "level": 2,
+        "name": {
+          "local": "Muar",
+          "en": "Muar",
+          "slug": "muar-0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.143",
+      "lon": "102.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0107-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PARIT BAKAR",
+      "en": "PARIT BAKAR",
+      "slug": "parit-bakar-0107-004"
+    },
+    "code": {
+      "id": "0107-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0107",
+      "level": 2,
+      "name": {
+        "local": "Muar",
+        "en": "Muar",
+        "slug": "muar-0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0107",
+        "level": 2,
+        "name": {
+          "local": "Muar",
+          "en": "Muar",
+          "slug": "muar-0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.008",
+      "lon": "102.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0107-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PARIT JAWA",
+      "en": "PARIT JAWA",
+      "slug": "parit-jawa-0107-008"
+    },
+    "code": {
+      "id": "0107-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0107",
+      "level": 2,
+      "name": {
+        "local": "Muar",
+        "en": "Muar",
+        "slug": "muar-0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0107",
+        "level": 2,
+        "name": {
+          "local": "Muar",
+          "en": "Muar",
+          "slug": "muar-0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.994",
+      "lon": "102.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0107-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN GRISEK",
+      "en": "PEKAN GRISEK",
+      "slug": "pekan-grisek-xx-719"
+    },
+    "code": {
+      "id": "0107-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0107",
+      "level": 2,
+      "name": {
+        "local": "Muar",
+        "en": "Muar",
+        "slug": "muar-0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0107",
+        "level": 2,
+        "name": {
+          "local": "Muar",
+          "en": "Muar",
+          "slug": "muar-0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.208",
+      "lon": "102.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0107-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SUNGAI BALANG",
+      "en": "SUNGAI BALANG",
+      "slug": "sungai-balang-0107-010"
+    },
+    "code": {
+      "id": "0107-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0107",
+      "level": 2,
+      "name": {
+        "local": "Muar",
+        "en": "Muar",
+        "slug": "muar-0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0107",
+        "level": 2,
+        "name": {
+          "local": "Muar",
+          "en": "Muar",
+          "slug": "muar-0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.907",
+      "lon": "102.749"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

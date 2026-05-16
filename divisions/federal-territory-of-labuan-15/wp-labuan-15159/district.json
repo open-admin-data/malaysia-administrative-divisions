@@ -1,0 +1,47 @@
+{
+  "id": "15159",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "W.P. Labuan",
+    "en": "W.P. Labuan",
+    "slug": "wp-labuan-15159"
+  },
+  "code": {
+    "id": "15159",
+    "iso": null
+  },
+  "parent": {
+    "id": "15",
+    "level": 1,
+    "name": {
+      "local": "W.P. Labuan",
+      "en": "Federal Territory of Labuan",
+      "slug": "federal-territory-of-labuan-15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "W.P. Labuan",
+        "en": "Federal Territory of Labuan",
+        "slug": "federal-territory-of-labuan-15"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.275",
+    "lon": "115.205"
+  },
+  "metadata": {},
+  "source": {}
+}

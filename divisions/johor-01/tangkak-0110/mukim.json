@@ -1,0 +1,434 @@
+[
+  {
+    "id": "0110-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM API-API",
+      "en": "API-API",
+      "slug": "api-api-xx-389"
+    },
+    "code": {
+      "id": "0110-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0110",
+      "level": 2,
+      "name": {
+        "local": "Tangkak",
+        "en": "Tangkak",
+        "slug": "tangkak-0110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0110",
+        "level": 2,
+        "name": {
+          "local": "Tangkak",
+          "en": "Tangkak",
+          "slug": "tangkak-0110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.185",
+      "lon": "102.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BUKIT KANGKAR",
+      "en": "BANDAR BUKIT KANGKAR",
+      "slug": "bandar-bukit-kangkar-xx-023"
+    },
+    "code": {
+      "id": "0110-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0110",
+      "level": 2,
+      "name": {
+        "local": "Tangkak",
+        "en": "Tangkak",
+        "slug": "tangkak-0110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0110",
+        "level": 2,
+        "name": {
+          "local": "Tangkak",
+          "en": "Tangkak",
+          "slug": "tangkak-0110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.172",
+      "lon": "102.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SEROM",
+      "en": "BANDAR SEROM",
+      "slug": "bandar-serom-xx-1461"
+    },
+    "code": {
+      "id": "0110-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0110",
+      "level": 2,
+      "name": {
+        "local": "Tangkak",
+        "en": "Tangkak",
+        "slug": "tangkak-0110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0110",
+        "level": 2,
+        "name": {
+          "local": "Tangkak",
+          "en": "Tangkak",
+          "slug": "tangkak-0110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.164",
+      "lon": "102.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SUNGAI MATI",
+      "en": "BANDAR SUNGAI MATI",
+      "slug": "bandar-sungai-mati-xx-765"
+    },
+    "code": {
+      "id": "0110-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0110",
+      "level": 2,
+      "name": {
+        "local": "Tangkak",
+        "en": "Tangkak",
+        "slug": "tangkak-0110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0110",
+        "level": 2,
+        "name": {
+          "local": "Tangkak",
+          "en": "Tangkak",
+          "slug": "tangkak-0110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.147",
+      "lon": "102.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR TANGKAK",
+      "en": "BANDAR TANGKAK",
+      "slug": "bandar-tangkak-xx-1770"
+    },
+    "code": {
+      "id": "0110-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0110",
+      "level": 2,
+      "name": {
+        "local": "Tangkak",
+        "en": "Tangkak",
+        "slug": "tangkak-0110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0110",
+        "level": 2,
+        "name": {
+          "local": "Tangkak",
+          "en": "Tangkak",
+          "slug": "tangkak-0110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.268",
+      "lon": "102.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN ASAHAN",
+      "en": "PEKAN ASAHAN",
+      "slug": "pekan-asahan-xx-979"
+    },
+    "code": {
+      "id": "0110-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0110",
+      "level": 2,
+      "name": {
+        "local": "Tangkak",
+        "en": "Tangkak",
+        "slug": "tangkak-0110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0110",
+        "level": 2,
+        "name": {
+          "local": "Tangkak",
+          "en": "Tangkak",
+          "slug": "tangkak-0110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.393",
+      "lon": "102.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SEROM",
+      "en": "SEROM",
+      "slug": "serom-xx-087"
+    },
+    "code": {
+      "id": "0110-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0110",
+      "level": 2,
+      "name": {
+        "local": "Tangkak",
+        "en": "Tangkak",
+        "slug": "tangkak-0110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0110",
+        "level": 2,
+        "name": {
+          "local": "Tangkak",
+          "en": "Tangkak",
+          "slug": "tangkak-0110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.168",
+      "lon": "102.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TANGKAK",
+      "en": "TANGKAK",
+      "slug": "tangkak-xx-164"
+    },
+    "code": {
+      "id": "0110-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0110",
+      "level": 2,
+      "name": {
+        "local": "Tangkak",
+        "en": "Tangkak",
+        "slug": "tangkak-0110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0110",
+        "level": 2,
+        "name": {
+          "local": "Tangkak",
+          "en": "Tangkak",
+          "slug": "tangkak-0110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.339",
+      "lon": "102.562"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,812 @@
+[
+  {
+    "id": "0101-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR BANDAR PENGGARAM",
+      "en": "BANDAR BANDAR PENGGARAM",
+      "slug": "bandar-bandar-penggaram-0101-014"
+    },
+    "code": {
+      "id": "0101-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "0101",
+      "level": 2,
+      "name": {
+        "local": "Batu Pahat",
+        "en": "Batu Pahat",
+        "slug": "batu-pahat-0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0101",
+        "level": 2,
+        "name": {
+          "local": "Batu Pahat",
+          "en": "Batu Pahat",
+          "slug": "batu-pahat-0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.848",
+      "lon": "102.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SENGGARANG",
+      "en": "BANDAR SENGGARANG",
+      "slug": "bandar-senggarang-0101-002"
+    },
+    "code": {
+      "id": "0101-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0101",
+      "level": 2,
+      "name": {
+        "local": "Batu Pahat",
+        "en": "Batu Pahat",
+        "slug": "batu-pahat-0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0101",
+        "level": 2,
+        "name": {
+          "local": "Batu Pahat",
+          "en": "Batu Pahat",
+          "slug": "batu-pahat-0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.748",
+      "lon": "103.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM CHAAH BAHRU",
+      "en": "CHAAH BAHRU",
+      "slug": "chaah-bahru-0101-001"
+    },
+    "code": {
+      "id": "0101-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0101",
+      "level": 2,
+      "name": {
+        "local": "Batu Pahat",
+        "en": "Batu Pahat",
+        "slug": "batu-pahat-0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0101",
+        "level": 2,
+        "name": {
+          "local": "Batu Pahat",
+          "en": "Batu Pahat",
+          "slug": "batu-pahat-0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.089",
+      "lon": "103.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KAMPUNG BAHRU",
+      "en": "KAMPUNG BAHRU",
+      "slug": "kampung-bahru-0101-008"
+    },
+    "code": {
+      "id": "0101-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0101",
+      "level": 2,
+      "name": {
+        "local": "Batu Pahat",
+        "en": "Batu Pahat",
+        "slug": "batu-pahat-0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0101",
+        "level": 2,
+        "name": {
+          "local": "Batu Pahat",
+          "en": "Batu Pahat",
+          "slug": "batu-pahat-0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.771",
+      "lon": "103.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM LINAU",
+      "en": "LINAU",
+      "slug": "linau-0101-007"
+    },
+    "code": {
+      "id": "0101-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0101",
+      "level": 2,
+      "name": {
+        "local": "Batu Pahat",
+        "en": "Batu Pahat",
+        "slug": "batu-pahat-0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0101",
+        "level": 2,
+        "name": {
+          "local": "Batu Pahat",
+          "en": "Batu Pahat",
+          "slug": "batu-pahat-0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.923",
+      "lon": "102.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM LUBOK",
+      "en": "LUBOK",
+      "slug": "lubok-0101-006"
+    },
+    "code": {
+      "id": "0101-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0101",
+      "level": 2,
+      "name": {
+        "local": "Batu Pahat",
+        "en": "Batu Pahat",
+        "slug": "batu-pahat-0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0101",
+        "level": 2,
+        "name": {
+          "local": "Batu Pahat",
+          "en": "Batu Pahat",
+          "slug": "batu-pahat-0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.904",
+      "lon": "102.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM MINYAK BEKU",
+      "en": "MINYAK BEKU",
+      "slug": "minyak-beku-0101-015"
+    },
+    "code": {
+      "id": "0101-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "0101",
+      "level": 2,
+      "name": {
+        "local": "Batu Pahat",
+        "en": "Batu Pahat",
+        "slug": "batu-pahat-0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0101",
+        "level": 2,
+        "name": {
+          "local": "Batu Pahat",
+          "en": "Batu Pahat",
+          "slug": "batu-pahat-0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.781",
+      "lon": "103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PESERAI",
+      "en": "PESERAI",
+      "slug": "peserai-0101-009"
+    },
+    "code": {
+      "id": "0101-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0101",
+      "level": 2,
+      "name": {
+        "local": "Batu Pahat",
+        "en": "Batu Pahat",
+        "slug": "batu-pahat-0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0101",
+        "level": 2,
+        "name": {
+          "local": "Batu Pahat",
+          "en": "Batu Pahat",
+          "slug": "batu-pahat-0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.857",
+      "lon": "102.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SIMPANG KANAN",
+      "en": "SIMPANG KANAN",
+      "slug": "simpang-kanan-0101-005"
+    },
+    "code": {
+      "id": "0101-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0101",
+      "level": 2,
+      "name": {
+        "local": "Batu Pahat",
+        "en": "Batu Pahat",
+        "slug": "batu-pahat-0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0101",
+        "level": 2,
+        "name": {
+          "local": "Batu Pahat",
+          "en": "Batu Pahat",
+          "slug": "batu-pahat-0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.84",
+      "lon": "102.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SIMPANG KIRI",
+      "en": "SIMPANG KIRI",
+      "slug": "simpang-kiri-0101-004"
+    },
+    "code": {
+      "id": "0101-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0101",
+      "level": 2,
+      "name": {
+        "local": "Batu Pahat",
+        "en": "Batu Pahat",
+        "slug": "batu-pahat-0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0101",
+        "level": 2,
+        "name": {
+          "local": "Batu Pahat",
+          "en": "Batu Pahat",
+          "slug": "batu-pahat-0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.926",
+      "lon": "102.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SRI GADING",
+      "en": "SRI GADING",
+      "slug": "sri-gading-0101-012"
+    },
+    "code": {
+      "id": "0101-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0101",
+      "level": 2,
+      "name": {
+        "local": "Batu Pahat",
+        "en": "Batu Pahat",
+        "slug": "batu-pahat-0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0101",
+        "level": 2,
+        "name": {
+          "local": "Batu Pahat",
+          "en": "Batu Pahat",
+          "slug": "batu-pahat-0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.888",
+      "lon": "103.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SRI MEDAN",
+      "en": "SRI MEDAN",
+      "slug": "sri-medan-0101-013"
+    },
+    "code": {
+      "id": "0101-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0101",
+      "level": 2,
+      "name": {
+        "local": "Batu Pahat",
+        "en": "Batu Pahat",
+        "slug": "batu-pahat-0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0101",
+        "level": 2,
+        "name": {
+          "local": "Batu Pahat",
+          "en": "Batu Pahat",
+          "slug": "batu-pahat-0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.003",
+      "lon": "102.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SUNGAI KLUANG",
+      "en": "SUNGAI KLUANG",
+      "slug": "sungai-kluang-0101-011"
+    },
+    "code": {
+      "id": "0101-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0101",
+      "level": 2,
+      "name": {
+        "local": "Batu Pahat",
+        "en": "Batu Pahat",
+        "slug": "batu-pahat-0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0101",
+        "level": 2,
+        "name": {
+          "local": "Batu Pahat",
+          "en": "Batu Pahat",
+          "slug": "batu-pahat-0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.709",
+      "lon": "103.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SUNGAI PUNGGOR",
+      "en": "SUNGAI PUNGGOR",
+      "slug": "sungai-punggor-0101-003"
+    },
+    "code": {
+      "id": "0101-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0101",
+      "level": 2,
+      "name": {
+        "local": "Batu Pahat",
+        "en": "Batu Pahat",
+        "slug": "batu-pahat-0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0101",
+        "level": 2,
+        "name": {
+          "local": "Batu Pahat",
+          "en": "Batu Pahat",
+          "slug": "batu-pahat-0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.741",
+      "lon": "103.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TANJUNG SEMBRONG",
+      "en": "TANJUNG SEMBRONG",
+      "slug": "tanjung-sembrong-0101-010"
+    },
+    "code": {
+      "id": "0101-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0101",
+      "level": 2,
+      "name": {
+        "local": "Batu Pahat",
+        "en": "Batu Pahat",
+        "slug": "batu-pahat-0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Johor",
+          "en": "Johor",
+          "slug": "johor-01"
+        }
+      },
+      {
+        "id": "0101",
+        "level": 2,
+        "name": {
+          "local": "Batu Pahat",
+          "en": "Batu Pahat",
+          "slug": "batu-pahat-0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.993",
+      "lon": "103.099"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

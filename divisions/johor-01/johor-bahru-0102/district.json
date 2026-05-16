@@ -1,0 +1,47 @@
+{
+  "id": "0102",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Johor Bahru",
+    "en": "Johor Bahru",
+    "slug": "johor-bahru-0102"
+  },
+  "code": {
+    "id": "0102",
+    "iso": null
+  },
+  "parent": {
+    "id": "01",
+    "level": 1,
+    "name": {
+      "local": "Johor",
+      "en": "Johor",
+      "slug": "johor-01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Johor",
+        "en": "Johor",
+        "slug": "johor-01"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.532",
+    "lon": "103.741"
+  },
+  "metadata": {},
+  "source": {}
+}

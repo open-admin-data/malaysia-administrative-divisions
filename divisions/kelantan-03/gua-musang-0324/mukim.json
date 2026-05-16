@@ -1,0 +1,758 @@
+[
+  {
+    "id": "0324-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR GUA MUSANG",
+      "en": "BANDAR GUA MUSANG",
+      "slug": "bandar-gua-musang-0324-014"
+    },
+    "code": {
+      "id": "0324-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "0324",
+      "level": 2,
+      "name": {
+        "local": "Gua Musang",
+        "en": "Gua Musang",
+        "slug": "gua-musang-0324"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0324",
+        "level": 2,
+        "name": {
+          "local": "Gua Musang",
+          "en": "Gua Musang",
+          "slug": "gua-musang-0324"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.857",
+      "lon": "101.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0324-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BATU PAPAN",
+      "en": "BATU PAPAN",
+      "slug": "batu-papan-0324-011"
+    },
+    "code": {
+      "id": "0324-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0324",
+      "level": 2,
+      "name": {
+        "local": "Gua Musang",
+        "en": "Gua Musang",
+        "slug": "gua-musang-0324"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0324",
+        "level": 2,
+        "name": {
+          "local": "Gua Musang",
+          "en": "Gua Musang",
+          "slug": "gua-musang-0324"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.88",
+      "lon": "101.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0324-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BELIMBING",
+      "en": "BELIMBING",
+      "slug": "belimbing-0324-004"
+    },
+    "code": {
+      "id": "0324-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0324",
+      "level": 2,
+      "name": {
+        "local": "Gua Musang",
+        "en": "Gua Musang",
+        "slug": "gua-musang-0324"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0324",
+        "level": 2,
+        "name": {
+          "local": "Gua Musang",
+          "en": "Gua Musang",
+          "slug": "gua-musang-0324"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.119",
+      "lon": "101.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0324-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM GUA",
+      "en": "GUA",
+      "slug": "gua-0324-001"
+    },
+    "code": {
+      "id": "0324-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0324",
+      "level": 2,
+      "name": {
+        "local": "Gua Musang",
+        "en": "Gua Musang",
+        "slug": "gua-musang-0324"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0324",
+        "level": 2,
+        "name": {
+          "local": "Gua Musang",
+          "en": "Gua Musang",
+          "slug": "gua-musang-0324"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.825",
+      "lon": "102.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0324-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM GUA MUSANG",
+      "en": "GUA MUSANG",
+      "slug": "gua-musang-0324-002"
+    },
+    "code": {
+      "id": "0324-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0324",
+      "level": 2,
+      "name": {
+        "local": "Gua Musang",
+        "en": "Gua Musang",
+        "slug": "gua-musang-0324"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0324",
+        "level": 2,
+        "name": {
+          "local": "Gua Musang",
+          "en": "Gua Musang",
+          "slug": "gua-musang-0324"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.903",
+      "lon": "101.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0324-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM JABI",
+      "en": "JABI",
+      "slug": "jabi-0324-012"
+    },
+    "code": {
+      "id": "0324-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0324",
+      "level": 2,
+      "name": {
+        "local": "Gua Musang",
+        "en": "Gua Musang",
+        "slug": "gua-musang-0324"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0324",
+        "level": 2,
+        "name": {
+          "local": "Gua Musang",
+          "en": "Gua Musang",
+          "slug": "gua-musang-0324"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.942",
+      "lon": "101.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0324-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUALA BETIS",
+      "en": "KUALA BETIS",
+      "slug": "kuala-betis-0324-013"
+    },
+    "code": {
+      "id": "0324-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0324",
+      "level": 2,
+      "name": {
+        "local": "Gua Musang",
+        "en": "Gua Musang",
+        "slug": "gua-musang-0324"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0324",
+        "level": 2,
+        "name": {
+          "local": "Gua Musang",
+          "en": "Gua Musang",
+          "slug": "gua-musang-0324"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.933",
+      "lon": "101.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0324-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM KUALA SUNGAI",
+      "en": "KUALA SUNGAI",
+      "slug": "kuala-sungai-0324-007"
+    },
+    "code": {
+      "id": "0324-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0324",
+      "level": 2,
+      "name": {
+        "local": "Gua Musang",
+        "en": "Gua Musang",
+        "slug": "gua-musang-0324"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0324",
+        "level": 2,
+        "name": {
+          "local": "Gua Musang",
+          "en": "Gua Musang",
+          "slug": "gua-musang-0324"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.152",
+      "lon": "102.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0324-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM LANGGAR",
+      "en": "LANGGAR",
+      "slug": "langgar-0324-009"
+    },
+    "code": {
+      "id": "0324-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0324",
+      "level": 2,
+      "name": {
+        "local": "Gua Musang",
+        "en": "Gua Musang",
+        "slug": "gua-musang-0324"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0324",
+        "level": 2,
+        "name": {
+          "local": "Gua Musang",
+          "en": "Gua Musang",
+          "slug": "gua-musang-0324"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.275",
+      "lon": "101.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0324-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM LIMAU KASTURI",
+      "en": "LIMAU KASTURI",
+      "slug": "limau-kasturi-0324-006"
+    },
+    "code": {
+      "id": "0324-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0324",
+      "level": 2,
+      "name": {
+        "local": "Gua Musang",
+        "en": "Gua Musang",
+        "slug": "gua-musang-0324"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0324",
+        "level": 2,
+        "name": {
+          "local": "Gua Musang",
+          "en": "Gua Musang",
+          "slug": "gua-musang-0324"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.07",
+      "lon": "102.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0324-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM RELAI",
+      "en": "RELAI",
+      "slug": "relai-0324-003"
+    },
+    "code": {
+      "id": "0324-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0324",
+      "level": 2,
+      "name": {
+        "local": "Gua Musang",
+        "en": "Gua Musang",
+        "slug": "gua-musang-0324"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0324",
+        "level": 2,
+        "name": {
+          "local": "Gua Musang",
+          "en": "Gua Musang",
+          "slug": "gua-musang-0324"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.86",
+      "lon": "102.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0324-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM RENOK",
+      "en": "RENOK",
+      "slug": "renok-0324-010"
+    },
+    "code": {
+      "id": "0324-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0324",
+      "level": 2,
+      "name": {
+        "local": "Gua Musang",
+        "en": "Gua Musang",
+        "slug": "gua-musang-0324"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0324",
+        "level": 2,
+        "name": {
+          "local": "Gua Musang",
+          "en": "Gua Musang",
+          "slug": "gua-musang-0324"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.942",
+      "lon": "101.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0324-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TEBING TINGGI",
+      "en": "TEBING TINGGI",
+      "slug": "tebing-tinggi-0324-005"
+    },
+    "code": {
+      "id": "0324-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0324",
+      "level": 2,
+      "name": {
+        "local": "Gua Musang",
+        "en": "Gua Musang",
+        "slug": "gua-musang-0324"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0324",
+        "level": 2,
+        "name": {
+          "local": "Gua Musang",
+          "en": "Gua Musang",
+          "slug": "gua-musang-0324"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.758",
+      "lon": "102.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0324-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM ULU NENGGIRI",
+      "en": "ULU NENGGIRI",
+      "slug": "ulu-nenggiri-0324-008"
+    },
+    "code": {
+      "id": "0324-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0324",
+      "level": 2,
+      "name": {
+        "local": "Gua Musang",
+        "en": "Gua Musang",
+        "slug": "gua-musang-0324"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "Kelantan",
+          "en": "Kelantan",
+          "slug": "kelantan-03"
+        }
+      },
+      {
+        "id": "0324",
+        "level": 2,
+        "name": {
+          "local": "Gua Musang",
+          "en": "Gua Musang",
+          "slug": "gua-musang-0324"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.211",
+      "lon": "101.652"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

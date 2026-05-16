@@ -1,0 +1,110 @@
+[
+  {
+    "id": "13106-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BINTULU TOWN DISTRICT",
+      "en": "BINTULU TOWN DISTRICT",
+      "slug": "bintulu-town-district-13106-002"
+    },
+    "code": {
+      "id": "13106-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13106",
+      "level": 2,
+      "name": {
+        "local": "Bintulu",
+        "en": "Bintulu",
+        "slug": "bintulu-13106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13106",
+        "level": 2,
+        "name": {
+          "local": "Bintulu",
+          "en": "Bintulu",
+          "slug": "bintulu-13106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.174",
+      "lon": "113.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13106-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "KEMENA LAND DISTRICT",
+      "en": "KEMENA LAND DISTRICT",
+      "slug": "kemena-land-district-13106-001"
+    },
+    "code": {
+      "id": "13106-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13106",
+      "level": 2,
+      "name": {
+        "local": "Bintulu",
+        "en": "Bintulu",
+        "slug": "bintulu-13106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13106",
+        "level": 2,
+        "name": {
+          "local": "Bintulu",
+          "en": "Bintulu",
+          "slug": "bintulu-13106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.295",
+      "lon": "113.167"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

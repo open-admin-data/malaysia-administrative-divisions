@@ -1,0 +1,758 @@
+[
+  {
+    "id": "0219-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM AYER PUTEH",
+      "en": "AYER PUTEH",
+      "slug": "ayer-puteh-0219-002"
+    },
+    "code": {
+      "id": "0219-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0219",
+      "level": 2,
+      "name": {
+        "local": "Pendang",
+        "en": "Pendang",
+        "slug": "pendang-0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0219",
+        "level": 2,
+        "name": {
+          "local": "Pendang",
+          "en": "Pendang",
+          "slug": "pendang-0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.925",
+      "lon": "100.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0219-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR PENDANG",
+      "en": "BANDAR PENDANG",
+      "slug": "bandar-pendang-0219-012"
+    },
+    "code": {
+      "id": "0219-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0219",
+      "level": 2,
+      "name": {
+        "local": "Pendang",
+        "en": "Pendang",
+        "slug": "pendang-0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0219",
+        "level": 2,
+        "name": {
+          "local": "Pendang",
+          "en": "Pendang",
+          "slug": "pendang-0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.975",
+      "lon": "100.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0219-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM BUKIT PAYA",
+      "en": "BUKIT PAYA",
+      "slug": "bukit-paya-0219-006"
+    },
+    "code": {
+      "id": "0219-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0219",
+      "level": 2,
+      "name": {
+        "local": "Pendang",
+        "en": "Pendang",
+        "slug": "pendang-0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0219",
+        "level": 2,
+        "name": {
+          "local": "Pendang",
+          "en": "Pendang",
+          "slug": "pendang-0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.015",
+      "lon": "100.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0219-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM GUAR KEPAYANG",
+      "en": "GUAR KEPAYANG",
+      "slug": "guar-kepayang-0219-005"
+    },
+    "code": {
+      "id": "0219-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0219",
+      "level": 2,
+      "name": {
+        "local": "Pendang",
+        "en": "Pendang",
+        "slug": "pendang-0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0219",
+        "level": 2,
+        "name": {
+          "local": "Pendang",
+          "en": "Pendang",
+          "slug": "pendang-0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.021",
+      "lon": "100.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0219-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PADANG KERBAU",
+      "en": "PADANG KERBAU",
+      "slug": "padang-kerbau-0219-003"
+    },
+    "code": {
+      "id": "0219-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0219",
+      "level": 2,
+      "name": {
+        "local": "Pendang",
+        "en": "Pendang",
+        "slug": "pendang-0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0219",
+        "level": 2,
+        "name": {
+          "local": "Pendang",
+          "en": "Pendang",
+          "slug": "pendang-0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.027",
+      "lon": "100.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0219-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PADANG PELIANG",
+      "en": "PADANG PELIANG",
+      "slug": "padang-peliang-0219-004"
+    },
+    "code": {
+      "id": "0219-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0219",
+      "level": 2,
+      "name": {
+        "local": "Pendang",
+        "en": "Pendang",
+        "slug": "pendang-0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0219",
+        "level": 2,
+        "name": {
+          "local": "Pendang",
+          "en": "Pendang",
+          "slug": "pendang-0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.944",
+      "lon": "100.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0219-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PADANG PUSING",
+      "en": "PADANG PUSING",
+      "slug": "padang-pusing-0219-009"
+    },
+    "code": {
+      "id": "0219-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0219",
+      "level": 2,
+      "name": {
+        "local": "Pendang",
+        "en": "Pendang",
+        "slug": "pendang-0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0219",
+        "level": 2,
+        "name": {
+          "local": "Pendang",
+          "en": "Pendang",
+          "slug": "pendang-0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.969",
+      "lon": "100.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0219-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KAMPUNG BARU",
+      "en": "PEKAN KAMPUNG BARU",
+      "slug": "pekan-kampung-baru-0219-010"
+    },
+    "code": {
+      "id": "0219-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0219",
+      "level": 2,
+      "name": {
+        "local": "Pendang",
+        "en": "Pendang",
+        "slug": "pendang-0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0219",
+        "level": 2,
+        "name": {
+          "local": "Pendang",
+          "en": "Pendang",
+          "slug": "pendang-0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.967",
+      "lon": "100.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0219-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KOBAH",
+      "en": "PEKAN KOBAH",
+      "slug": "pekan-kobah-0219-001"
+    },
+    "code": {
+      "id": "0219-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0219",
+      "level": 2,
+      "name": {
+        "local": "Pendang",
+        "en": "Pendang",
+        "slug": "pendang-0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0219",
+        "level": 2,
+        "name": {
+          "local": "Pendang",
+          "en": "Pendang",
+          "slug": "pendang-0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.969",
+      "lon": "100.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0219-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN KUBUR PANJANG",
+      "en": "PEKAN KUBUR PANJANG",
+      "slug": "pekan-kubur-panjang-0219-007"
+    },
+    "code": {
+      "id": "0219-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0219",
+      "level": 2,
+      "name": {
+        "local": "Pendang",
+        "en": "Pendang",
+        "slug": "pendang-0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0219",
+        "level": 2,
+        "name": {
+          "local": "Pendang",
+          "en": "Pendang",
+          "slug": "pendang-0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.088",
+      "lon": "100.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0219-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SUNGAI TIANG",
+      "en": "PEKAN SUNGAI TIANG",
+      "slug": "pekan-sungai-tiang-0219-011"
+    },
+    "code": {
+      "id": "0219-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0219",
+      "level": 2,
+      "name": {
+        "local": "Pendang",
+        "en": "Pendang",
+        "slug": "pendang-0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0219",
+        "level": 2,
+        "name": {
+          "local": "Pendang",
+          "en": "Pendang",
+          "slug": "pendang-0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.993",
+      "lon": "100.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0219-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TANAH MERAH",
+      "en": "PEKAN TANAH MERAH",
+      "slug": "pekan-tanah-merah-0219-008"
+    },
+    "code": {
+      "id": "0219-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0219",
+      "level": 2,
+      "name": {
+        "local": "Pendang",
+        "en": "Pendang",
+        "slug": "pendang-0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0219",
+        "level": 2,
+        "name": {
+          "local": "Pendang",
+          "en": "Pendang",
+          "slug": "pendang-0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.018",
+      "lon": "100.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0219-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TOKAI",
+      "en": "PEKAN TOKAI",
+      "slug": "pekan-tokai-0219-014"
+    },
+    "code": {
+      "id": "0219-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "0219",
+      "level": 2,
+      "name": {
+        "local": "Pendang",
+        "en": "Pendang",
+        "slug": "pendang-0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0219",
+        "level": 2,
+        "name": {
+          "local": "Pendang",
+          "en": "Pendang",
+          "slug": "pendang-0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.029",
+      "lon": "100.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0219-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM TOBIAR",
+      "en": "TOBIAR",
+      "slug": "tobiar-0219-013"
+    },
+    "code": {
+      "id": "0219-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0219",
+      "level": 2,
+      "name": {
+        "local": "Pendang",
+        "en": "Pendang",
+        "slug": "pendang-0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "Kedah",
+          "en": "Kedah",
+          "slug": "kedah-02"
+        }
+      },
+      {
+        "id": "0219",
+        "level": 2,
+        "name": {
+          "local": "Pendang",
+          "en": "Pendang",
+          "slug": "pendang-0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.045",
+      "lon": "100.521"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,758 @@
+[
+  {
+    "id": "13135-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BAKONG TOWN DISTRICT",
+      "en": "BAKONG TOWN DISTRICT",
+      "slug": "bakong-town-district-13135-013"
+    },
+    "code": {
+      "id": "13135-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "13135",
+      "level": 2,
+      "name": {
+        "local": "Sri Aman",
+        "en": "Sri Aman",
+        "slug": "sri-aman-13135"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13135",
+        "level": 2,
+        "name": {
+          "local": "Sri Aman",
+          "en": "Sri Aman",
+          "slug": "sri-aman-13135"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.327",
+      "lon": "111.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13135-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANTING TOWN DISTRICT",
+      "en": "BANTING TOWN DISTRICT",
+      "slug": "banting-town-district-13135-011"
+    },
+    "code": {
+      "id": "13135-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "13135",
+      "level": 2,
+      "name": {
+        "local": "Sri Aman",
+        "en": "Sri Aman",
+        "slug": "sri-aman-13135"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13135",
+        "level": 2,
+        "name": {
+          "local": "Sri Aman",
+          "en": "Sri Aman",
+          "slug": "sri-aman-13135"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.284",
+      "lon": "111.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13135-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BATU LINTANG TOWN DISTRICT",
+      "en": "BATU LINTANG TOWN DISTRICT",
+      "slug": "batu-lintang-town-district-13135-010"
+    },
+    "code": {
+      "id": "13135-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "13135",
+      "level": 2,
+      "name": {
+        "local": "Sri Aman",
+        "en": "Sri Aman",
+        "slug": "sri-aman-13135"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13135",
+        "level": 2,
+        "name": {
+          "local": "Sri Aman",
+          "en": "Sri Aman",
+          "slug": "sri-aman-13135"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.019",
+      "lon": "111.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13135-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BIJAT LAND DISTRICT",
+      "en": "BIJAT LAND DISTRICT",
+      "slug": "bijat-land-district-13135-007"
+    },
+    "code": {
+      "id": "13135-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "13135",
+      "level": 2,
+      "name": {
+        "local": "Sri Aman",
+        "en": "Sri Aman",
+        "slug": "sri-aman-13135"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13135",
+        "level": 2,
+        "name": {
+          "local": "Sri Aman",
+          "en": "Sri Aman",
+          "slug": "sri-aman-13135"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.289",
+      "lon": "111.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13135-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "KLAUH LAND DISTRICT",
+      "en": "KLAUH LAND DISTRICT",
+      "slug": "klauh-land-district-13135-012"
+    },
+    "code": {
+      "id": "13135-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "13135",
+      "level": 2,
+      "name": {
+        "local": "Sri Aman",
+        "en": "Sri Aman",
+        "slug": "sri-aman-13135"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13135",
+        "level": 2,
+        "name": {
+          "local": "Sri Aman",
+          "en": "Sri Aman",
+          "slug": "sri-aman-13135"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.134",
+      "lon": "111.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13135-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "LESONG LAND DISTRICT",
+      "en": "LESONG LAND DISTRICT",
+      "slug": "lesong-land-district-13135-002"
+    },
+    "code": {
+      "id": "13135-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "13135",
+      "level": 2,
+      "name": {
+        "local": "Sri Aman",
+        "en": "Sri Aman",
+        "slug": "sri-aman-13135"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13135",
+        "level": 2,
+        "name": {
+          "local": "Sri Aman",
+          "en": "Sri Aman",
+          "slug": "sri-aman-13135"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.288",
+      "lon": "111.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13135-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "LINGGA TOWN DISTRICT",
+      "en": "LINGGA TOWN DISTRICT",
+      "slug": "lingga-town-district-13135-004"
+    },
+    "code": {
+      "id": "13135-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "13135",
+      "level": 2,
+      "name": {
+        "local": "Sri Aman",
+        "en": "Sri Aman",
+        "slug": "sri-aman-13135"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13135",
+        "level": 2,
+        "name": {
+          "local": "Sri Aman",
+          "en": "Sri Aman",
+          "slug": "sri-aman-13135"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.352",
+      "lon": "111.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13135-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MELUGU TOWN DISTRICT",
+      "en": "MELUGU TOWN DISTRICT",
+      "slug": "melugu-town-district-13135-008"
+    },
+    "code": {
+      "id": "13135-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "13135",
+      "level": 2,
+      "name": {
+        "local": "Sri Aman",
+        "en": "Sri Aman",
+        "slug": "sri-aman-13135"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13135",
+        "level": 2,
+        "name": {
+          "local": "Sri Aman",
+          "en": "Sri Aman",
+          "slug": "sri-aman-13135"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.117",
+      "lon": "111.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13135-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PANTU TOWN DISTRICT",
+      "en": "PANTU TOWN DISTRICT",
+      "slug": "pantu-town-district-13135-009"
+    },
+    "code": {
+      "id": "13135-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "13135",
+      "level": 2,
+      "name": {
+        "local": "Sri Aman",
+        "en": "Sri Aman",
+        "slug": "sri-aman-13135"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13135",
+        "level": 2,
+        "name": {
+          "local": "Sri Aman",
+          "en": "Sri Aman",
+          "slug": "sri-aman-13135"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.14",
+      "lon": "111.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13135-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SABU TOWN DISTRICT",
+      "en": "SABU TOWN DISTRICT",
+      "slug": "sabu-town-district-13135-006"
+    },
+    "code": {
+      "id": "13135-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "13135",
+      "level": 2,
+      "name": {
+        "local": "Sri Aman",
+        "en": "Sri Aman",
+        "slug": "sri-aman-13135"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13135",
+        "level": 2,
+        "name": {
+          "local": "Sri Aman",
+          "en": "Sri Aman",
+          "slug": "sri-aman-13135"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.193",
+      "lon": "111.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13135-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SELANJAN LAND DISTRICT",
+      "en": "SELANJAN LAND DISTRICT",
+      "slug": "selanjan-land-district-13135-001"
+    },
+    "code": {
+      "id": "13135-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "13135",
+      "level": 2,
+      "name": {
+        "local": "Sri Aman",
+        "en": "Sri Aman",
+        "slug": "sri-aman-13135"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13135",
+        "level": 2,
+        "name": {
+          "local": "Sri Aman",
+          "en": "Sri Aman",
+          "slug": "sri-aman-13135"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.149",
+      "lon": "111.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13135-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SILANTEK LAND DISTRICT",
+      "en": "SILANTEK LAND DISTRICT",
+      "slug": "silantek-land-district-13135-003"
+    },
+    "code": {
+      "id": "13135-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "13135",
+      "level": 2,
+      "name": {
+        "local": "Sri Aman",
+        "en": "Sri Aman",
+        "slug": "sri-aman-13135"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13135",
+        "level": 2,
+        "name": {
+          "local": "Sri Aman",
+          "en": "Sri Aman",
+          "slug": "sri-aman-13135"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.14",
+      "lon": "111.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13135-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "SIMANGGANG TOWN DISTRICT",
+      "en": "SIMANGGANG TOWN DISTRICT",
+      "slug": "simanggang-town-district-13135-014"
+    },
+    "code": {
+      "id": "13135-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "13135",
+      "level": 2,
+      "name": {
+        "local": "Sri Aman",
+        "en": "Sri Aman",
+        "slug": "sri-aman-13135"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13135",
+        "level": 2,
+        "name": {
+          "local": "Sri Aman",
+          "en": "Sri Aman",
+          "slug": "sri-aman-13135"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.238",
+      "lon": "111.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13135-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "UNDUP LAND DISTRICT",
+      "en": "UNDUP LAND DISTRICT",
+      "slug": "undup-land-district-13135-005"
+    },
+    "code": {
+      "id": "13135-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "13135",
+      "level": 2,
+      "name": {
+        "local": "Sri Aman",
+        "en": "Sri Aman",
+        "slug": "sri-aman-13135"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sarawak",
+          "en": "Sarawak",
+          "slug": "sarawak-13"
+        }
+      },
+      {
+        "id": "13135",
+        "level": 2,
+        "name": {
+          "local": "Sri Aman",
+          "en": "Sri Aman",
+          "slug": "sri-aman-13135"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.124",
+      "lon": "111.525"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

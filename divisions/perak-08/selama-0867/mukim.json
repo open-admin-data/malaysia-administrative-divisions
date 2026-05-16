@@ -1,0 +1,272 @@
+[
+  {
+    "id": "0867-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR SELAMA",
+      "en": "BANDAR SELAMA",
+      "slug": "bandar-selama-0867-001"
+    },
+    "code": {
+      "id": "0867-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0867",
+      "level": 2,
+      "name": {
+        "local": "Selama",
+        "en": "Selama",
+        "slug": "selama-0867"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0867",
+        "level": 2,
+        "name": {
+          "local": "Selama",
+          "en": "Selama",
+          "slug": "selama-0867"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.218",
+      "lon": "100.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0867-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM HULU IJOK",
+      "en": "HULU IJOK",
+      "slug": "hulu-ijok-0867-005"
+    },
+    "code": {
+      "id": "0867-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0867",
+      "level": 2,
+      "name": {
+        "local": "Selama",
+        "en": "Selama",
+        "slug": "selama-0867"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0867",
+        "level": 2,
+        "name": {
+          "local": "Selama",
+          "en": "Selama",
+          "slug": "selama-0867"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.143",
+      "lon": "100.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0867-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM HULU SELAMA",
+      "en": "HULU SELAMA",
+      "slug": "hulu-selama-0867-002"
+    },
+    "code": {
+      "id": "0867-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0867",
+      "level": 2,
+      "name": {
+        "local": "Selama",
+        "en": "Selama",
+        "slug": "selama-0867"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0867",
+        "level": 2,
+        "name": {
+          "local": "Selama",
+          "en": "Selama",
+          "slug": "selama-0867"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.312",
+      "lon": "100.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0867-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SUNGAI BAYUR",
+      "en": "PEKAN SUNGAI BAYUR",
+      "slug": "pekan-sungai-bayur-0867-004"
+    },
+    "code": {
+      "id": "0867-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0867",
+      "level": 2,
+      "name": {
+        "local": "Selama",
+        "en": "Selama",
+        "slug": "selama-0867"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0867",
+        "level": 2,
+        "name": {
+          "local": "Selama",
+          "en": "Selama",
+          "slug": "selama-0867"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.258",
+      "lon": "100.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0867-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SELAMA",
+      "en": "SELAMA",
+      "slug": "selama-0867-003"
+    },
+    "code": {
+      "id": "0867-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0867",
+      "level": 2,
+      "name": {
+        "local": "Selama",
+        "en": "Selama",
+        "slug": "selama-0867"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Perak",
+          "en": "Perak",
+          "slug": "perak-08"
+        }
+      },
+      {
+        "id": "0867",
+        "level": 2,
+        "name": {
+          "local": "Selama",
+          "en": "Selama",
+          "slug": "selama-0867"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.203",
+      "lon": "100.704"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

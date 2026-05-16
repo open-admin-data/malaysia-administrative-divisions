@@ -1,0 +1,47 @@
+{
+  "id": "13138",
+  "level": 2,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tatau",
+    "en": "Tatau",
+    "slug": "tatau-13138"
+  },
+  "code": {
+    "id": "13138",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "Sarawak",
+      "en": "Sarawak",
+      "slug": "sarawak-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sarawak",
+        "en": "Sarawak",
+        "slug": "sarawak-13"
+      }
+    }
+  ],
+  "children_count": {
+    "mukim": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.644",
+    "lon": "112.968"
+  },
+  "metadata": {},
+  "source": {}
+}

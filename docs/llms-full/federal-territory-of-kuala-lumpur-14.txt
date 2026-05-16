@@ -1,0 +1,62 @@
+# Federal Territory of Kuala Lumpur — Malaysia Administrative Divisions
+
+> 1 districts, 12 subdistricts
+> Code: 14
+> Coordinates: 3.141, 101.684
+> Last updated: 2026-05-16. License: CC-BY-4.0.
+
+## Districts
+
+### W.P. Kuala Lumpur
+
+Code: 14158, Coordinates: 3.142, 101.697
+Subdistricts: 12
+
+#### BANDAR BANDAR BAHARU SUNGAI BESI
+
+Code: 14158-005, Coordinates: 3.065, 101.71
+
+#### BANDAR GOMBAK SETIA
+
+Code: 14158-008, Coordinates: 3.22, 101.715
+
+#### BANDAR KUALA LUMPUR
+
+Code: 14158-004, Coordinates: 3.149, 101.704
+
+#### BANDAR ULU KELANG
+
+Code: 14158-007, Coordinates: 3.197, 101.753
+
+#### MUKIM BATU (BATU)
+
+Code: 14158-009, Coordinates: 3.175, 101.644
+
+#### MUKIM KUALA LUMPUR (KUALA LUMPUR)
+
+Code: 14158-012, Coordinates: 3.114, 101.692
+
+#### PEKAN BATU CAVES
+
+Code: 14158-002, Coordinates: 3.23, 101.672
+
+#### PEKAN KEPONG
+
+Code: 14158-001, Coordinates: 3.214, 101.637
+
+#### PEKAN KUALA PAUH
+
+Code: 14158-006, Coordinates: 3.091, 101.674
+
+#### PEKAN SALAK SOUTH
+
+Code: 14158-011, Coordinates: 3.102, 101.705
+
+#### PEKAN SUNGAI PENCHALA
+
+Code: 14158-003, Coordinates: 3.132, 101.63
+
+#### MUKIM PETALING (PETALING)
+
+Code: 14158-010, Coordinates: 3.048, 101.661
+

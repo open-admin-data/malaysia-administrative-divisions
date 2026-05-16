@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "0540-018",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR PORT DICKSON",
+      "en": "BANDAR PORT DICKSON",
+      "slug": "bandar-port-dickson-0540-018"
+    },
+    "code": {
+      "id": "0540-018",
+      "iso": null
+    },
+    "parent": {
+      "id": "0540",
+      "level": 2,
+      "name": {
+        "local": "Port Dickson",
+        "en": "Port Dickson",
+        "slug": "port-dickson-0540"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0540",
+        "level": 2,
+        "name": {
+          "local": "Port Dickson",
+          "en": "Port Dickson",
+          "slug": "port-dickson-0540"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.525",
+      "lon": "101.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0540-003",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "BANDAR TELUK KEMANG",
+      "en": "BANDAR TELUK KEMANG",
+      "slug": "bandar-teluk-kemang-0540-003"
+    },
+    "code": {
+      "id": "0540-003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0540",
+      "level": 2,
+      "name": {
+        "local": "Port Dickson",
+        "en": "Port Dickson",
+        "slug": "port-dickson-0540"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0540",
+        "level": 2,
+        "name": {
+          "local": "Port Dickson",
+          "en": "Port Dickson",
+          "slug": "port-dickson-0540"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.474",
+      "lon": "101.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0540-009",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM JIMAH",
+      "en": "JIMAH",
+      "slug": "jimah-0540-009"
+    },
+    "code": {
+      "id": "0540-009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0540",
+      "level": 2,
+      "name": {
+        "local": "Port Dickson",
+        "en": "Port Dickson",
+        "slug": "port-dickson-0540"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0540",
+        "level": 2,
+        "name": {
+          "local": "Port Dickson",
+          "en": "Port Dickson",
+          "slug": "port-dickson-0540"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.633",
+      "lon": "101.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0540-011",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM LINGGI",
+      "en": "LINGGI",
+      "slug": "linggi-0540-011"
+    },
+    "code": {
+      "id": "0540-011",
+      "iso": null
+    },
+    "parent": {
+      "id": "0540",
+      "level": 2,
+      "name": {
+        "local": "Port Dickson",
+        "en": "Port Dickson",
+        "slug": "port-dickson-0540"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0540",
+        "level": 2,
+        "name": {
+          "local": "Port Dickson",
+          "en": "Port Dickson",
+          "slug": "port-dickson-0540"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.474",
+      "lon": "101.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0540-005",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PASIR PANJANG",
+      "en": "PASIR PANJANG",
+      "slug": "pasir-panjang-0540-005"
+    },
+    "code": {
+      "id": "0540-005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0540",
+      "level": 2,
+      "name": {
+        "local": "Port Dickson",
+        "en": "Port Dickson",
+        "slug": "port-dickson-0540"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0540",
+        "level": 2,
+        "name": {
+          "local": "Port Dickson",
+          "en": "Port Dickson",
+          "slug": "port-dickson-0540"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.565",
+      "lon": "101.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0540-008",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BAGAN PINANG",
+      "en": "PEKAN BAGAN PINANG",
+      "slug": "pekan-bagan-pinang-0540-008"
+    },
+    "code": {
+      "id": "0540-008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0540",
+      "level": 2,
+      "name": {
+        "local": "Port Dickson",
+        "en": "Port Dickson",
+        "slug": "port-dickson-0540"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0540",
+        "level": 2,
+        "name": {
+          "local": "Port Dickson",
+          "en": "Port Dickson",
+          "slug": "port-dickson-0540"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.505",
+      "lon": "101.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0540-014",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN BUKIT PELANDUK",
+      "en": "PEKAN BUKIT PELANDUK",
+      "slug": "pekan-bukit-pelanduk-0540-014"
+    },
+    "code": {
+      "id": "0540-014",
+      "iso": null
+    },
+    "parent": {
+      "id": "0540",
+      "level": 2,
+      "name": {
+        "local": "Port Dickson",
+        "en": "Port Dickson",
+        "slug": "port-dickson-0540"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0540",
+        "level": 2,
+        "name": {
+          "local": "Port Dickson",
+          "en": "Port Dickson",
+          "slug": "port-dickson-0540"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.644",
+      "lon": "101.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0540-020",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN CHUAH",
+      "en": "PEKAN CHUAH",
+      "slug": "pekan-chuah-0540-020"
+    },
+    "code": {
+      "id": "0540-020",
+      "iso": null
+    },
+    "parent": {
+      "id": "0540",
+      "level": 2,
+      "name": {
+        "local": "Port Dickson",
+        "en": "Port Dickson",
+        "slug": "port-dickson-0540"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0540",
+        "level": 2,
+        "name": {
+          "local": "Port Dickson",
+          "en": "Port Dickson",
+          "slug": "port-dickson-0540"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.604",
+      "lon": "101.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0540-012",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN JEMIMA",
+      "en": "PEKAN JEMIMA",
+      "slug": "pekan-jemima-0540-012"
+    },
+    "code": {
+      "id": "0540-012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0540",
+      "level": 2,
+      "name": {
+        "local": "Port Dickson",
+        "en": "Port Dickson",
+        "slug": "port-dickson-0540"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0540",
+        "level": 2,
+        "name": {
+          "local": "Port Dickson",
+          "en": "Port Dickson",
+          "slug": "port-dickson-0540"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.608",
+      "lon": "101.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0540-019",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN LINGGI",
+      "en": "PEKAN LINGGI",
+      "slug": "pekan-linggi-0540-019"
+    },
+    "code": {
+      "id": "0540-019",
+      "iso": null
+    },
+    "parent": {
+      "id": "0540",
+      "level": 2,
+      "name": {
+        "local": "Port Dickson",
+        "en": "Port Dickson",
+        "slug": "port-dickson-0540"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0540",
+        "level": 2,
+        "name": {
+          "local": "Port Dickson",
+          "en": "Port Dickson",
+          "slug": "port-dickson-0540"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.484",
+      "lon": "102.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0540-010",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN LUKUT",
+      "en": "PEKAN LUKUT",
+      "slug": "pekan-lukut-0540-010"
+    },
+    "code": {
+      "id": "0540-010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0540",
+      "level": 2,
+      "name": {
+        "local": "Port Dickson",
+        "en": "Port Dickson",
+        "slug": "port-dickson-0540"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0540",
+        "level": 2,
+        "name": {
+          "local": "Port Dickson",
+          "en": "Port Dickson",
+          "slug": "port-dickson-0540"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.578",
+      "lon": "101.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0540-004",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PASIR PANJANG",
+      "en": "PEKAN PASIR PANJANG",
+      "slug": "pekan-pasir-panjang-0540-004"
+    },
+    "code": {
+      "id": "0540-004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0540",
+      "level": 2,
+      "name": {
+        "local": "Port Dickson",
+        "en": "Port Dickson",
+        "slug": "port-dickson-0540"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0540",
+        "level": 2,
+        "name": {
+          "local": "Port Dickson",
+          "en": "Port Dickson",
+          "slug": "port-dickson-0540"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.623",
+      "lon": "101.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0540-016",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PENGKALAN KEMPAS",
+      "en": "PEKAN PENGKALAN KEMPAS",
+      "slug": "pekan-pengkalan-kempas-0540-016"
+    },
+    "code": {
+      "id": "0540-016",
+      "iso": null
+    },
+    "parent": {
+      "id": "0540",
+      "level": 2,
+      "name": {
+        "local": "Port Dickson",
+        "en": "Port Dickson",
+        "slug": "port-dickson-0540"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0540",
+        "level": 2,
+        "name": {
+          "local": "Port Dickson",
+          "en": "Port Dickson",
+          "slug": "port-dickson-0540"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.449",
+      "lon": "102.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0540-001",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN PORT DICKSON",
+      "en": "PEKAN PORT DICKSON",
+      "slug": "pekan-port-dickson-0540-001"
+    },
+    "code": {
+      "id": "0540-001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0540",
+      "level": 2,
+      "name": {
+        "local": "Port Dickson",
+        "en": "Port Dickson",
+        "slug": "port-dickson-0540"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0540",
+        "level": 2,
+        "name": {
+          "local": "Port Dickson",
+          "en": "Port Dickson",
+          "slug": "port-dickson-0540"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.537",
+      "lon": "101.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0540-013",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN SUNGAI MENYALA",
+      "en": "PEKAN SUNGAI MENYALA",
+      "slug": "pekan-sungai-menyala-0540-013"
+    },
+    "code": {
+      "id": "0540-013",
+      "iso": null
+    },
+    "parent": {
+      "id": "0540",
+      "level": 2,
+      "name": {
+        "local": "Port Dickson",
+        "en": "Port Dickson",
+        "slug": "port-dickson-0540"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0540",
+        "level": 2,
+        "name": {
+          "local": "Port Dickson",
+          "en": "Port Dickson",
+          "slug": "port-dickson-0540"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.423",
+      "lon": "101.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0540-007",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TANAH MERAH SELATAN",
+      "en": "PEKAN TANAH MERAH SELATAN",
+      "slug": "pekan-tanah-merah-selatan-0540-007"
+    },
+    "code": {
+      "id": "0540-007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0540",
+      "level": 2,
+      "name": {
+        "local": "Port Dickson",
+        "en": "Port Dickson",
+        "slug": "port-dickson-0540"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0540",
+        "level": 2,
+        "name": {
+          "local": "Port Dickson",
+          "en": "Port Dickson",
+          "slug": "port-dickson-0540"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.615",
+      "lon": "101.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0540-002",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TANAH MERAH UTARA",
+      "en": "PEKAN TANAH MERAH UTARA",
+      "slug": "pekan-tanah-merah-utara-0540-002"
+    },
+    "code": {
+      "id": "0540-002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0540",
+      "level": 2,
+      "name": {
+        "local": "Port Dickson",
+        "en": "Port Dickson",
+        "slug": "port-dickson-0540"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0540",
+        "level": 2,
+        "name": {
+          "local": "Port Dickson",
+          "en": "Port Dickson",
+          "slug": "port-dickson-0540"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.618",
+      "lon": "101.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0540-017",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "PEKAN TELUK KEMANG",
+      "en": "PEKAN TELUK KEMANG",
+      "slug": "pekan-teluk-kemang-0540-017"
+    },
+    "code": {
+      "id": "0540-017",
+      "iso": null
+    },
+    "parent": {
+      "id": "0540",
+      "level": 2,
+      "name": {
+        "local": "Port Dickson",
+        "en": "Port Dickson",
+        "slug": "port-dickson-0540"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0540",
+        "level": 2,
+        "name": {
+          "local": "Port Dickson",
+          "en": "Port Dickson",
+          "slug": "port-dickson-0540"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.442",
+      "lon": "101.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0540-006",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM PORT DICKSON",
+      "en": "PORT DICKSON",
+      "slug": "port-dickson-0540-006"
+    },
+    "code": {
+      "id": "0540-006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0540",
+      "level": 2,
+      "name": {
+        "local": "Port Dickson",
+        "en": "Port Dickson",
+        "slug": "port-dickson-0540"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0540",
+        "level": 2,
+        "name": {
+          "local": "Port Dickson",
+          "en": "Port Dickson",
+          "slug": "port-dickson-0540"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.563",
+      "lon": "101.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0540-015",
+    "level": 3,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "MUKIM SI RUSA",
+      "en": "SI RUSA",
+      "slug": "si-rusa-0540-015"
+    },
+    "code": {
+      "id": "0540-015",
+      "iso": null
+    },
+    "parent": {
+      "id": "0540",
+      "level": 2,
+      "name": {
+        "local": "Port Dickson",
+        "en": "Port Dickson",
+        "slug": "port-dickson-0540"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "Negeri Sembilan",
+          "en": "Negeri Sembilan",
+          "slug": "negeri-sembilan-05"
+        }
+      },
+      {
+        "id": "0540",
+        "level": 2,
+        "name": {
+          "local": "Port Dickson",
+          "en": "Port Dickson",
+          "slug": "port-dickson-0540"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.487",
+      "lon": "101.862"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]
