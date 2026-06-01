@@ -26,5 +26,9 @@
     "lon": "100.333"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/my/states/kedah-02/",
+    "api": "https://openadmindata.org/api/my/"
+  }
 }

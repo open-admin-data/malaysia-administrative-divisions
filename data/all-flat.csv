@@ -1,177 +1,178 @@
-id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.state,children_count.district,children_count.mukim,zip_codes,geo.lat,geo.lon
-01,1,Negeri,State,Johor,Johor,johor-01,01,,,,,,10,95,,1.852,103.792
-0101,2,Daerah,District,Batu Pahat,Batu Pahat,batu-pahat-0101,0101,,01,Johor,Johor,,,15,,1.878,103.04
-0102,2,Daerah,District,Johor Bahru,Johor Bahru,johor-bahru-0102,0102,,01,Johor,Johor,,,5,,1.532,103.741
-0103,2,Daerah,District,Kluang,Kluang,kluang-0103,0103,,01,Johor,Johor,,,7,,1.976,103.428
-0104,2,Daerah,District,Kota Tinggi,Kota Tinggi,kota-tinggi-0104,0104,,01,Johor,Johor,,,10,,1.67,103.994
-0105,2,Daerah,District,Kulai,Kulai,kulai-0105,0105,,01,Johor,Johor,,,5,,1.655,103.587
-0106,2,Daerah,District,Mersing,Mersing,mersing-0106,0106,,01,Johor,Johor,,,7,,2.425,104.05
-0107,2,Daerah,District,Muar,Muar,muar-0107,0107,,01,Johor,Johor,,,14,,2.199,102.758
-0108,2,Daerah,District,Pontian,Pontian,pontian-0108,0108,,01,Johor,Johor,,,11,,1.502,103.414
-0109,2,Daerah,District,Segamat,Segamat,segamat-0109,0109,,01,Johor,Johor,,,13,,2.438,102.787
-0110,2,Daerah,District,Tangkak,Tangkak,tangkak-0110,0110,,01,Johor,Johor,,,8,,2.25,102.583
-02,1,Negeri,State,Kedah,Kedah,kedah-02,02,,,,,,12,212,,6.128,100.333
-0211,2,Daerah,District,Baling,Baling,baling-0211,0211,,02,Kedah,Kedah,,,17,,5.645,100.8
-0212,2,Daerah,District,Bandar Baharu,Bandar Baharu,bandar-baharu-0212,0212,,02,Kedah,Kedah,,,12,,5.193,100.601
-0213,2,Daerah,District,Kota Setar,Kota Setar,kota-setar-0213,0213,,02,Kedah,Kedah,,,27,,6.125,100.406
-0214,2,Daerah,District,Kuala Muda,Kuala Muda,kuala-muda-0214,0214,,02,Kedah,Kedah,,,26,,5.66,100.515
-0215,2,Daerah,District,Kubang Pasu,Kubang Pasu,kubang-pasu-0215,0215,,02,Kedah,Kedah,,,34,,6.345,100.431
-0216,2,Daerah,District,Kulim,Kulim,kulim-0216,0216,,02,Kedah,Kedah,,,24,,5.41,100.682
-0217,2,Daerah,District,Langkawi,Langkawi,langkawi-0217,0217,,02,Kedah,Kedah,,,9,,6.298,99.815
-0218,2,Daerah,District,Padang Terap,Padang Terap,padang-terap-0218,0218,,02,Kedah,Kedah,,,18,,6.176,100.684
-0219,2,Daerah,District,Pendang,Pendang,pendang-0219,0219,,02,Kedah,Kedah,,,14,,5.997,100.552
-0220,2,Daerah,District,Pokok Sena,Pokok Sena,pokok-sena-0220,0220,,02,Kedah,Kedah,,,6,,6.178,100.516
-0221,2,Daerah,District,Sik,Sik,sik-0221,0221,,02,Kedah,Kedah,,,14,,5.991,100.816
-0222,2,Daerah,District,Yan,Yan,yan-0222,0222,,02,Kedah,Kedah,,,11,,5.833,100.352
-03,1,Negeri,State,Kelantan,Kelantan,kelantan-03,03,,,,,,11,302,,5.629,101.943
-0323,2,Daerah,District,Bachok,Bachok,bachok-0323,0323,,03,Kelantan,Kelantan,,,31,,5.958,102.347
-0324,2,Daerah,District,Gua Musang,Gua Musang,gua-musang-0324,0324,,03,Kelantan,Kelantan,,,14,,4.919,102.158
-0325,2,Daerah,District,Jeli,Jeli,jeli-0325,0325,,03,Kelantan,Kelantan,,,6,,5.655,101.818
-0326,2,Daerah,District,Kecil Lojing,Kecil Lojing,kecil-lojing-0326,0326,,03,Kelantan,Kelantan,,,7,,4.733,101.527
-0327,2,Daerah,District,Kota Bharu,Kota Bharu,kota-bharu-0327,0327,,03,Kelantan,Kelantan,,,85,,6.049,102.27
-0328,2,Daerah,District,Kuala Krai,Kuala Krai,kuala-krai-0328,0328,,03,Kelantan,Kelantan,,,17,,5.533,102.231
-0329,2,Daerah,District,Machang,Machang,machang-0329,0329,,03,Kelantan,Kelantan,,,23,,5.763,102.272
-0330,2,Daerah,District,Pasir Mas,Pasir Mas,pasir-mas-0330,0330,,03,Kelantan,Kelantan,,,43,,6.009,102.076
-0331,2,Daerah,District,Pasir Puteh,Pasir Puteh,pasir-puteh-0331,0331,,03,Kelantan,Kelantan,,,34,,5.873,102.35
-0332,2,Daerah,District,Tanah Merah,Tanah Merah,tanah-merah-0332,0332,,03,Kelantan,Kelantan,,,13,,5.75,102.021
-0333,2,Daerah,District,Tumpat,Tumpat,tumpat-0333,0333,,03,Kelantan,Kelantan,,,29,,6.166,102.164
-04,1,Negeri,State,Melaka,Malacca,malacca-04,04,,,,,,3,107,,2.264,102.24
-0434,2,Daerah,District,Alor Gajah,Alor Gajah,alor-gajah-0434,0434,,04,Melaka,Malacca,,,38,,2.377,102.174
-0435,2,Daerah,District,Jasin,Jasin,jasin-0435,0435,,04,Melaka,Malacca,,,30,,2.218,102.436
-0436,2,Daerah,District,Melaka Tengah,Melaka Tengah,melaka-tengah-0436,0436,,04,Melaka,Malacca,,,39,,2.244,102.271
-05,1,Negeri,State,Negeri Sembilan,Negeri Sembilan,negeri-sembilan-05,05,,,,,,7,154,,2.679,101.972
-0537,2,Daerah,District,Jelebu,Jelebu,jelebu-0537,0537,,05,Negeri Sembilan,Negeri Sembilan,,,16,,3.064,102.051
-0538,2,Daerah,District,Jempol,Jempol,jempol-0538,0538,,05,Negeri Sembilan,Negeri Sembilan,,,12,,2.829,102.399
-0539,2,Daerah,District,Kuala Pilah,Kuala Pilah,kuala-pilah-0539,0539,,05,Negeri Sembilan,Negeri Sembilan,,,23,,2.731,102.206
-0540,2,Daerah,District,Port Dickson,Port Dickson,port-dickson-0540,0540,,05,Negeri Sembilan,Negeri Sembilan,,,20,,2.549,101.849
-0541,2,Daerah,District,Rembau,Rembau,rembau-0541,0541,,05,Negeri Sembilan,Negeri Sembilan,,,26,,2.559,102.108
-0542,2,Daerah,District,Seremban,Seremban,seremban-0542,0542,,05,Negeri Sembilan,Negeri Sembilan,,,41,,2.745,101.966
-0543,2,Daerah,District,Tampin,Tampin,tampin-0543,0543,,05,Negeri Sembilan,Negeri Sembilan,,,16,,2.537,102.507
-06,1,Negeri,State,Pahang,Pahang,pahang-06,06,,,,,,11,128,,3.741,102.639
-0644,2,Daerah,District,Bentong,Bentong,bentong-0644,0644,,06,Pahang,Pahang,,,6,,3.377,102.033
-0645,2,Daerah,District,Bera,Bera,bera-0645,0645,,06,Pahang,Pahang,,,7,,3.205,102.581
-0646,2,Daerah,District,Cameron Highlands,Cameron Highlands,cameron-highlands-0646,0646,,06,Pahang,Pahang,,,7,,4.473,101.433
-0647,2,Daerah,District,Jerantut,Jerantut,jerantut-0647,0647,,06,Pahang,Pahang,,,14,,4.277,102.515
-0648,2,Daerah,District,Kuantan,Kuantan,kuantan-0648,0648,,06,Pahang,Pahang,,,9,,3.948,103.122
-0649,2,Daerah,District,Lipis,Lipis,lipis-0649,0649,,06,Pahang,Pahang,,,20,,4.32,101.906
-0650,2,Daerah,District,Maran,Maran,maran-0650,0650,,06,Pahang,Pahang,,,8,,3.619,102.676
-0651,2,Daerah,District,Pekan,Pekan,pekan-0651,0651,,06,Pahang,Pahang,,,16,,3.324,103.074
-0652,2,Daerah,District,Raub,Raub,raub-0652,0652,,06,Pahang,Pahang,,,13,,3.86,101.866
-0653,2,Daerah,District,Rompin,Rompin,rompin-0653,0653,,06,Pahang,Pahang,,,13,,2.874,103.679
-0654,2,Daerah,District,Temerloh,Temerloh,temerloh-0654,0654,,06,Pahang,Pahang,,,15,,3.618,102.238
-07,1,Negeri,State,Pulau Pinang,Penang,penang-07,07,,,,,,5,47,,5.374,100.288
-0769,2,Daerah,District,Barat Daya,Barat Daya,barat-daya-0769,0769,,07,Pulau Pinang,Penang,,,12,,5.355,100.233
-0770,2,Daerah,District,Seberang Perai Selatan,Seberang Perai Selatan,seberang-perai-selatan-0770,0770,,07,Pulau Pinang,Penang,,,6,,5.252,100.455
-0771,2,Daerah,District,Seberang Perai Tengah,Seberang Perai Tengah,seberang-perai-tengah-0771,0771,,07,Pulau Pinang,Penang,,,11,,5.384,100.443
-0772,2,Daerah,District,Seberang Perai Utara,Seberang Perai Utara,seberang-perai-utara-0772,0772,,07,Pulau Pinang,Penang,,,3,,5.467,100.433
-0773,2,Daerah,District,Timur Laut,Timur Laut,timur-laut-0773,0773,,07,Pulau Pinang,Penang,,,15,,5.379,100.297
-08,1,Negeri,State,Perak,Perak,perak-08,08,,,,,,13,185,,4.711,100.922
-0855,2,Daerah,District,Bagan Datuk,Bagan Datuk,bagan-datuk-0855,0855,,08,Perak,Perak,,,10,,3.851,100.991
-0856,2,Daerah,District,Batang Padang,Batang Padang,batang-padang-0856,0856,,08,Perak,Perak,,,16,,4.241,101.36
-0857,2,Daerah,District,Hilir Perak,Hilir Perak,hilir-perak-0857,0857,,08,Perak,Perak,,,10,,4.041,100.994
-0858,2,Daerah,District,Hulu Perak,Hulu Perak,hulu-perak-0858,0858,,08,Perak,Perak,,,20,,5.374,101.278
-0859,2,Daerah,District,Kampar,Kampar,kampar-0859,0859,,08,Perak,Perak,,,6,,4.412,101.24
-0860,2,Daerah,District,Kerian,Kerian,kerian-0860,0860,,08,Perak,Perak,,,18,,5.029,100.545
-0861,2,Daerah,District,Kinta,Kinta,kinta-0861,0861,,08,Perak,Perak,,,20,,4.568,101.136
-0862,2,Daerah,District,Kuala Kangsar,Kuala Kangsar,kuala-kangsar-0862,0862,,08,Perak,Perak,,,17,,4.819,101.145
-0863,2,Daerah,District,Larut Dan Matang,Larut Dan Matang,larut-dan-matang-0863,0863,,08,Perak,Perak,,,17,,4.806,100.721
-0864,2,Daerah,District,Manjung,Manjung,manjung-0864,0864,,08,Perak,Perak,,,21,,4.23,100.622
-0865,2,Daerah,District,Muallim,Muallim,muallim-0865,0865,,08,Perak,Perak,,,7,,3.852,101.452
-0866,2,Daerah,District,Perak Tengah,Perak Tengah,perak-tengah-0866,0866,,08,Perak,Perak,,,18,,4.225,100.916
-0867,2,Daerah,District,Selama,Selama,selama-0867,0867,,08,Perak,Perak,,,5,,5.223,100.834
-09,1,Negeri,State,Perlis,Perlis,perlis-09,09,,,,,,1,23,,6.586,100.221
-0968,2,Daerah,District,Perlis,Perlis,perlis-0968,0968,,09,Perlis,Perlis,,,23,,6.542,100.219
-10,1,Negeri,State,Selangor,Selangor,selangor-10,10,,,,,,9,212,,3.366,101.321
-10141,2,Daerah,District,Gombak,Gombak,gombak-10141,10141,,10,Selangor,Selangor,,,17,,3.254,101.678
-10142,2,Daerah,District,Klang,Klang,klang-10142,10142,,10,Selangor,Selangor,,,12,,3.005,101.362
-10143,2,Daerah,District,Kuala Langat,Kuala Langat,kuala-langat-10143,10143,,10,Selangor,Selangor,,,26,,2.844,101.422
-10144,2,Daerah,District,Kuala Selangor,Kuala Selangor,kuala-selangor-10144,10144,,10,Selangor,Selangor,,,25,,3.321,101.325
-10145,2,Daerah,District,Petaling,Petaling,petaling-10145,10145,,10,Selangor,Selangor,,,31,,3.091,101.591
-10146,2,Daerah,District,Sabak Bernam,Sabak Bernam,sabak-bernam-10146,10146,,10,Selangor,Selangor,,,18,,3.741,101.106
-10147,2,Daerah,District,Sepang,Sepang,sepang-10147,10147,,10,Selangor,Selangor,,,16,,2.797,101.701
-10148,2,Daerah,District,Ulu Langat,Ulu Langat,ulu-langat-10148,10148,,10,Selangor,Selangor,,,40,,3.113,101.834
-10149,2,Daerah,District,Ulu Selangor,Ulu Selangor,ulu-selangor-10149,10149,,10,Selangor,Selangor,,,27,,3.572,101.562
-11,1,Negeri,State,Terengganu,Terengganu,terengganu-11,11,,,,,,8,96,,5.394,103.044
-11150,2,Daerah,District,Besut,Besut,besut-11150,11150,,11,Terengganu,Terengganu,,,18,,5.82,102.644
-11151,2,Daerah,District,Dungun,Dungun,dungun-11151,11151,,11,Terengganu,Terengganu,,,13,,4.665,103.127
-11152,2,Daerah,District,Hulu Terengganu,Hulu Terengganu,hulu-terengganu-11152,11152,,11,Terengganu,Terengganu,,,10,,5.082,102.769
-11153,2,Daerah,District,Kemaman,Kemaman,kemaman-11153,11153,,11,Terengganu,Terengganu,,,16,,4.223,103.21
-11154,2,Daerah,District,Kuala Nerus,Kuala Nerus,kuala-nerus-11154,11154,,11,Terengganu,Terengganu,,,5,,5.668,103.024
-11155,2,Daerah,District,Kuala Terengganu,Kuala Terengganu,kuala-terengganu-11155,11155,,11,Terengganu,Terengganu,,,20,,5.274,103.071
-11156,2,Daerah,District,Marang,Marang,marang-11156,11156,,11,Terengganu,Terengganu,,,8,,5.182,103.214
-11157,2,Daerah,District,Setiu,Setiu,setiu-11157,11157,,11,Terengganu,Terengganu,,,6,,5.396,102.786
-12,1,Negeri,State,Sabah,Sabah,sabah-12,12,,,,,,27,0,,6.067,117.129
-12100,2,Daerah,District,Tuaran,Tuaran,tuaran-12100,12100,,12,Sabah,Sabah,,,0,,6.052,116.289
-1274,2,Daerah,District,Beaufort,Beaufort,beaufort-1274,1274,,12,Sabah,Sabah,,,0,,5.287,115.744
-1275,2,Daerah,District,Beluran,Beluran,beluran-1275,1275,,12,Sabah,Sabah,,,0,,6.238,117.451
-1276,2,Daerah,District,Kalabakan,Kalabakan,kalabakan-1276,1276,,12,Sabah,Sabah,,,0,,4.398,117.507
-1277,2,Daerah,District,Keningau,Keningau,keningau-1277,1277,,12,Sabah,Sabah,,,0,,5.361,116.308
-1278,2,Daerah,District,Kinabatangan,Kinabatangan,kinabatangan-1278,1278,,12,Sabah,Sabah,,,0,,5.48,118.123
-1279,2,Daerah,District,Kota Belud,Kota Belud,kota-belud-1279,1279,,12,Sabah,Sabah,,,0,,6.393,116.462
-1280,2,Daerah,District,Kota Kinabalu,Kota Kinabalu,kota-kinabalu-1280,1280,,12,Sabah,Sabah,,,0,,6.015,116.103
-1281,2,Daerah,District,Kota Marudu,Kota Marudu,kota-marudu-1281,1281,,12,Sabah,Sabah,,,0,,6.47,116.764
-1282,2,Daerah,District,Kuala Penyu,Kuala Penyu,kuala-penyu-1282,1282,,12,Sabah,Sabah,,,0,,5.469,115.505
-1283,2,Daerah,District,Kudat,Kudat,kudat-1283,1283,,12,Sabah,Sabah,,,0,,7.12,117.119
-1284,2,Daerah,District,Kunak,Kunak,kunak-1284,1284,,12,Sabah,Sabah,,,0,,4.709,118.158
-1285,2,Daerah,District,Lahad Datu,Lahad Datu,lahad-datu-1285,1285,,12,Sabah,Sabah,,,0,,5.03,118.4
-1286,2,Daerah,District,Nabawan,Nabawan,nabawan-1286,1286,,12,Sabah,Sabah,,,0,,4.584,116.509
-1287,2,Daerah,District,Papar,Papar,papar-1287,1287,,12,Sabah,Sabah,,,0,,5.607,116.051
-1288,2,Daerah,District,Penampang,Penampang,penampang-1288,1288,,12,Sabah,Sabah,,,0,,5.865,116.197
-1289,2,Daerah,District,Pitas,Pitas,pitas-1289,1289,,12,Sabah,Sabah,,,0,,6.783,117.152
-1290,2,Daerah,District,Putatan,Putatan,putatan-1290,1290,,12,Sabah,Sabah,,,0,,5.892,116.061
-1291,2,Daerah,District,Ranau,Ranau,ranau-1291,1291,,12,Sabah,Sabah,,,0,,5.874,116.758
-1292,2,Daerah,District,Sandakan,Sandakan,sandakan-1292,1292,,12,Sabah,Sabah,,,0,,5.813,118.031
-1293,2,Daerah,District,Semporna,Semporna,semporna-1293,1293,,12,Sabah,Sabah,,,0,,4.573,118.52
-1294,2,Daerah,District,Sipitang,Sipitang,sipitang-1294,1294,,12,Sabah,Sabah,,,0,,4.678,115.715
-1295,2,Daerah,District,Tambunan,Tambunan,tambunan-1295,1295,,12,Sabah,Sabah,,,0,,5.719,116.421
-1296,2,Daerah,District,Tawau,Tawau,tawau-1296,1296,,12,Sabah,Sabah,,,0,,4.457,118.041
-1297,2,Daerah,District,Telupid,Telupid,telupid-1297,1297,,12,Sabah,Sabah,,,0,,5.827,117.165
-1298,2,Daerah,District,Tenom,Tenom,tenom-1298,1298,,12,Sabah,Sabah,,,0,,4.922,115.899
-1299,2,Daerah,District,Tongod,Tongod,tongod-1299,1299,,12,Sabah,Sabah,,,0,,5.045,116.895
-13,1,Negeri,State,Sarawak,Sarawak,sarawak-13,13,,,,,,40,285,,2.342,112.95
-13101,2,Daerah,District,Asajaya,Asajaya,asajaya-13101,13101,,13,Sarawak,Sarawak,,,2,,1.543,110.63
-13102,2,Daerah,District,Bau,Bau,bau-13102,13102,,13,Sarawak,Sarawak,,,13,,1.375,110.089
-13103,2,Daerah,District,Belaga,Belaga,belaga-13103,13103,,13,Sarawak,Sarawak,,,6,,2.67,114.332
-13104,2,Daerah,District,Beluru,Beluru,beluru-13104,13104,,13,Sarawak,Sarawak,,,7,,3.512,114.255
-13105,2,Daerah,District,Betong,Betong,betong-13105,13105,,13,Sarawak,Sarawak,,,11,,1.529,111.499
-13106,2,Daerah,District,Bintulu,Bintulu,bintulu-13106,13106,,13,Sarawak,Sarawak,,,2,,3.293,113.204
-13107,2,Daerah,District,Bukit Mabong,Bukit Mabong,bukit-mabong-13107,13107,,13,Sarawak,Sarawak,,,7,,1.681,113.729
-13108,2,Daerah,District,Dalat,Dalat,dalat-13108,13108,,13,Sarawak,Sarawak,,,2,,2.697,111.988
-13109,2,Daerah,District,Daro,Daro,daro-13109,13109,,13,Sarawak,Sarawak,,,3,,2.459,111.483
-13110,2,Daerah,District,Julau,Julau,julau-13110,13110,,13,Sarawak,Sarawak,,,5,,1.832,111.958
-13111,2,Daerah,District,Kabong,Kabong,kabong-13111,13111,,13,Sarawak,Sarawak,,,5,,1.912,111.235
-13112,2,Daerah,District,Kanowit,Kanowit,kanowit-13112,13112,,13,Sarawak,Sarawak,,,8,,1.922,112.256
-13113,2,Daerah,District,Kapit,Kapit,kapit-13113,13113,,13,Sarawak,Sarawak,,,8,,2.253,113.189
-13114,2,Daerah,District,Kuching,Kuching,kuching-13114,13114,,13,Sarawak,Sarawak,,,11,,1.533,110.334
-13115,2,Daerah,District,Lawas,Lawas,lawas-13115,13115,,13,Sarawak,Sarawak,,,12,,4.504,115.436
-13116,2,Daerah,District,Limbang,Limbang,limbang-13116,13116,,13,Sarawak,Sarawak,,,9,,4.374,115.07
-13117,2,Daerah,District,Lubok Antu,Lubok Antu,lubok-antu-13117,13117,,13,Sarawak,Sarawak,,,11,,1.307,111.911
-13118,2,Daerah,District,Lundu,Lundu,lundu-13118,13118,,13,Sarawak,Sarawak,,,8,,1.736,109.809
-13119,2,Daerah,District,Maradong,Maradong,maradong-13119,13119,,13,Sarawak,Sarawak,,,4,,2.2,111.617
-13120,2,Daerah,District,Marudi,Marudi,marudi-13120,13120,,13,Sarawak,Sarawak,,,7,,4.108,114.551
-13121,2,Daerah,District,Matu,Matu,matu-13121,13121,,13,Sarawak,Sarawak,,,5,,2.64,111.67
-13122,2,Daerah,District,Miri,Miri,miri-13122,13122,,13,Sarawak,Sarawak,,,8,,3.761,115.075
-13123,2,Daerah,District,Mukah,Mukah,mukah-13123,13123,,13,Sarawak,Sarawak,,,5,,2.825,112.554
-13124,2,Daerah,District,Pakan,Pakan,pakan-13124,13124,,13,Sarawak,Sarawak,,,2,,1.791,111.704
-13125,2,Daerah,District,Pusa,Pusa,pusa-13125,13125,,13,Sarawak,Sarawak,,,6,,1.546,111.164
-13126,2,Daerah,District,Samarahan,Samarahan,samarahan-13126,13126,,13,Sarawak,Sarawak,,,3,,1.448,110.479
-13127,2,Daerah,District,Saratok,Saratok,saratok-13127,13127,,13,Sarawak,Sarawak,,,5,,1.787,111.486
-13128,2,Daerah,District,Sarikei,Sarikei,sarikei-13128,13128,,13,Sarawak,Sarawak,,,4,,2.097,111.411
-13129,2,Daerah,District,Sebauh,Sebauh,sebauh-13129,13129,,13,Sarawak,Sarawak,,,11,,3.17,113.621
-13130,2,Daerah,District,Selangau,Selangau,selangau-13130,13130,,13,Sarawak,Sarawak,,,7,,2.561,112.583
-13131,2,Daerah,District,Serian,Serian,serian-13131,13131,,13,Sarawak,Sarawak,,,20,,1.1,110.645
-13132,2,Daerah,District,Sibu,Sibu,sibu-13132,13132,,13,Sarawak,Sarawak,,,10,,2.275,111.821
-13133,2,Daerah,District,Simunjan,Simunjan,simunjan-13133,13133,,13,Sarawak,Sarawak,,,9,,1.284,110.894
-13134,2,Daerah,District,Song,Song,song-13134,13134,,13,Sarawak,Sarawak,,,5,,1.743,112.482
-13135,2,Daerah,District,Sri Aman,Sri Aman,sri-aman-13135,13135,,13,Sarawak,Sarawak,,,14,,1.172,111.279
-13136,2,Daerah,District,Subis,Subis,subis-13136,13136,,13,Sarawak,Sarawak,,,9,,3.658,113.752
-13137,2,Daerah,District,Tanjung Manis,Tanjung Manis,tanjung-manis-13137,13137,,13,Sarawak,Sarawak,,,5,,2.256,111.343
-13138,2,Daerah,District,Tatau,Tatau,tatau-13138,13138,,13,Sarawak,Sarawak,,,5,,2.644,112.968
-13139,2,Daerah,District,Tebedu,Tebedu,tebedu-13139,13139,,13,Sarawak,Sarawak,,,5,,0.987,110.423
-13140,2,Daerah,District,Telang Usan,Telang Usan,telang-usan-13140,13140,,13,Sarawak,Sarawak,,,6,,3.389,114.732
-14,1,Negeri,State,W.P. Kuala Lumpur,Federal Territory of Kuala Lumpur,federal-territory-of-kuala-lumpur-14,14,,,,,,1,12,,3.141,101.684
-14158,2,Daerah,District,W.P. Kuala Lumpur,W.P. Kuala Lumpur,wp-kuala-lumpur-14158,14158,,14,W.P. Kuala Lumpur,Federal Territory of Kuala Lumpur,,,12,,3.142,101.697
-15,1,Negeri,State,W.P. Labuan,Federal Territory of Labuan,federal-territory-of-labuan-15,15,,,,,,1,1,,5.284,115.232
-15159,2,Daerah,District,W.P. Labuan,W.P. Labuan,wp-labuan-15159,15159,,15,W.P. Labuan,Federal Territory of Labuan,,,1,,5.275,115.205
-16,1,Negeri,State,W.P. Putrajaya,Federal Territory of Putrajaya,federal-territory-of-putrajaya-16,16,,,,,,1,0,,2.93,101.683
-16160,2,Daerah,District,W.P. Putrajaya,W.P. Putrajaya,wp-putrajaya-16160,16160,,16,W.P. Putrajaya,Federal Territory of Putrajaya,,,0,,2.938,101.692
+# Data from Open Admin Data (https://openadmindata.org/my/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/malaysia-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.state,children_count.district,children_count.mukim,zip_codes,geo.lat,geo.lon,source_url
+01,1,Negeri,State,Johor,Johor,johor-01,01,,,,,,10,95,,1.852,103.792,https://openadmindata.org/my/states/johor-01/
+0101,2,Daerah,District,Batu Pahat,Batu Pahat,batu-pahat-0101,0101,,01,Johor,Johor,,,15,,1.878,103.04,
+0102,2,Daerah,District,Johor Bahru,Johor Bahru,johor-bahru-0102,0102,,01,Johor,Johor,,,5,,1.532,103.741,
+0103,2,Daerah,District,Kluang,Kluang,kluang-0103,0103,,01,Johor,Johor,,,7,,1.976,103.428,
+0104,2,Daerah,District,Kota Tinggi,Kota Tinggi,kota-tinggi-0104,0104,,01,Johor,Johor,,,10,,1.67,103.994,
+0105,2,Daerah,District,Kulai,Kulai,kulai-0105,0105,,01,Johor,Johor,,,5,,1.655,103.587,
+0106,2,Daerah,District,Mersing,Mersing,mersing-0106,0106,,01,Johor,Johor,,,7,,2.425,104.05,
+0107,2,Daerah,District,Muar,Muar,muar-0107,0107,,01,Johor,Johor,,,14,,2.199,102.758,
+0108,2,Daerah,District,Pontian,Pontian,pontian-0108,0108,,01,Johor,Johor,,,11,,1.502,103.414,
+0109,2,Daerah,District,Segamat,Segamat,segamat-0109,0109,,01,Johor,Johor,,,13,,2.438,102.787,
+0110,2,Daerah,District,Tangkak,Tangkak,tangkak-0110,0110,,01,Johor,Johor,,,8,,2.25,102.583,
+02,1,Negeri,State,Kedah,Kedah,kedah-02,02,,,,,,12,212,,6.128,100.333,https://openadmindata.org/my/states/kedah-02/
+0211,2,Daerah,District,Baling,Baling,baling-0211,0211,,02,Kedah,Kedah,,,17,,5.645,100.8,
+0212,2,Daerah,District,Bandar Baharu,Bandar Baharu,bandar-baharu-0212,0212,,02,Kedah,Kedah,,,12,,5.193,100.601,
+0213,2,Daerah,District,Kota Setar,Kota Setar,kota-setar-0213,0213,,02,Kedah,Kedah,,,27,,6.125,100.406,
+0214,2,Daerah,District,Kuala Muda,Kuala Muda,kuala-muda-0214,0214,,02,Kedah,Kedah,,,26,,5.66,100.515,
+0215,2,Daerah,District,Kubang Pasu,Kubang Pasu,kubang-pasu-0215,0215,,02,Kedah,Kedah,,,34,,6.345,100.431,
+0216,2,Daerah,District,Kulim,Kulim,kulim-0216,0216,,02,Kedah,Kedah,,,24,,5.41,100.682,
+0217,2,Daerah,District,Langkawi,Langkawi,langkawi-0217,0217,,02,Kedah,Kedah,,,9,,6.298,99.815,
+0218,2,Daerah,District,Padang Terap,Padang Terap,padang-terap-0218,0218,,02,Kedah,Kedah,,,18,,6.176,100.684,
+0219,2,Daerah,District,Pendang,Pendang,pendang-0219,0219,,02,Kedah,Kedah,,,14,,5.997,100.552,
+0220,2,Daerah,District,Pokok Sena,Pokok Sena,pokok-sena-0220,0220,,02,Kedah,Kedah,,,6,,6.178,100.516,
+0221,2,Daerah,District,Sik,Sik,sik-0221,0221,,02,Kedah,Kedah,,,14,,5.991,100.816,
+0222,2,Daerah,District,Yan,Yan,yan-0222,0222,,02,Kedah,Kedah,,,11,,5.833,100.352,
+03,1,Negeri,State,Kelantan,Kelantan,kelantan-03,03,,,,,,11,302,,5.629,101.943,https://openadmindata.org/my/states/kelantan-03/
+0323,2,Daerah,District,Bachok,Bachok,bachok-0323,0323,,03,Kelantan,Kelantan,,,31,,5.958,102.347,
+0324,2,Daerah,District,Gua Musang,Gua Musang,gua-musang-0324,0324,,03,Kelantan,Kelantan,,,14,,4.919,102.158,
+0325,2,Daerah,District,Jeli,Jeli,jeli-0325,0325,,03,Kelantan,Kelantan,,,6,,5.655,101.818,
+0326,2,Daerah,District,Kecil Lojing,Kecil Lojing,kecil-lojing-0326,0326,,03,Kelantan,Kelantan,,,7,,4.733,101.527,
+0327,2,Daerah,District,Kota Bharu,Kota Bharu,kota-bharu-0327,0327,,03,Kelantan,Kelantan,,,85,,6.049,102.27,
+0328,2,Daerah,District,Kuala Krai,Kuala Krai,kuala-krai-0328,0328,,03,Kelantan,Kelantan,,,17,,5.533,102.231,
+0329,2,Daerah,District,Machang,Machang,machang-0329,0329,,03,Kelantan,Kelantan,,,23,,5.763,102.272,
+0330,2,Daerah,District,Pasir Mas,Pasir Mas,pasir-mas-0330,0330,,03,Kelantan,Kelantan,,,43,,6.009,102.076,
+0331,2,Daerah,District,Pasir Puteh,Pasir Puteh,pasir-puteh-0331,0331,,03,Kelantan,Kelantan,,,34,,5.873,102.35,
+0332,2,Daerah,District,Tanah Merah,Tanah Merah,tanah-merah-0332,0332,,03,Kelantan,Kelantan,,,13,,5.75,102.021,
+0333,2,Daerah,District,Tumpat,Tumpat,tumpat-0333,0333,,03,Kelantan,Kelantan,,,29,,6.166,102.164,
+04,1,Negeri,State,Melaka,Malacca,malacca-04,04,,,,,,3,107,,2.264,102.24,https://openadmindata.org/my/states/malacca-04/
+0434,2,Daerah,District,Alor Gajah,Alor Gajah,alor-gajah-0434,0434,,04,Melaka,Malacca,,,38,,2.377,102.174,
+0435,2,Daerah,District,Jasin,Jasin,jasin-0435,0435,,04,Melaka,Malacca,,,30,,2.218,102.436,
+0436,2,Daerah,District,Melaka Tengah,Melaka Tengah,melaka-tengah-0436,0436,,04,Melaka,Malacca,,,39,,2.244,102.271,
+05,1,Negeri,State,Negeri Sembilan,Negeri Sembilan,negeri-sembilan-05,05,,,,,,7,154,,2.679,101.972,https://openadmindata.org/my/states/negeri-sembilan-05/
+0537,2,Daerah,District,Jelebu,Jelebu,jelebu-0537,0537,,05,Negeri Sembilan,Negeri Sembilan,,,16,,3.064,102.051,
+0538,2,Daerah,District,Jempol,Jempol,jempol-0538,0538,,05,Negeri Sembilan,Negeri Sembilan,,,12,,2.829,102.399,
+0539,2,Daerah,District,Kuala Pilah,Kuala Pilah,kuala-pilah-0539,0539,,05,Negeri Sembilan,Negeri Sembilan,,,23,,2.731,102.206,
+0540,2,Daerah,District,Port Dickson,Port Dickson,port-dickson-0540,0540,,05,Negeri Sembilan,Negeri Sembilan,,,20,,2.549,101.849,
+0541,2,Daerah,District,Rembau,Rembau,rembau-0541,0541,,05,Negeri Sembilan,Negeri Sembilan,,,26,,2.559,102.108,
+0542,2,Daerah,District,Seremban,Seremban,seremban-0542,0542,,05,Negeri Sembilan,Negeri Sembilan,,,41,,2.745,101.966,
+0543,2,Daerah,District,Tampin,Tampin,tampin-0543,0543,,05,Negeri Sembilan,Negeri Sembilan,,,16,,2.537,102.507,
+06,1,Negeri,State,Pahang,Pahang,pahang-06,06,,,,,,11,128,,3.741,102.639,https://openadmindata.org/my/states/pahang-06/
+0644,2,Daerah,District,Bentong,Bentong,bentong-0644,0644,,06,Pahang,Pahang,,,6,,3.377,102.033,
+0645,2,Daerah,District,Bera,Bera,bera-0645,0645,,06,Pahang,Pahang,,,7,,3.205,102.581,
+0646,2,Daerah,District,Cameron Highlands,Cameron Highlands,cameron-highlands-0646,0646,,06,Pahang,Pahang,,,7,,4.473,101.433,
+0647,2,Daerah,District,Jerantut,Jerantut,jerantut-0647,0647,,06,Pahang,Pahang,,,14,,4.277,102.515,
+0648,2,Daerah,District,Kuantan,Kuantan,kuantan-0648,0648,,06,Pahang,Pahang,,,9,,3.948,103.122,
+0649,2,Daerah,District,Lipis,Lipis,lipis-0649,0649,,06,Pahang,Pahang,,,20,,4.32,101.906,
+0650,2,Daerah,District,Maran,Maran,maran-0650,0650,,06,Pahang,Pahang,,,8,,3.619,102.676,
+0651,2,Daerah,District,Pekan,Pekan,pekan-0651,0651,,06,Pahang,Pahang,,,16,,3.324,103.074,
+0652,2,Daerah,District,Raub,Raub,raub-0652,0652,,06,Pahang,Pahang,,,13,,3.86,101.866,
+0653,2,Daerah,District,Rompin,Rompin,rompin-0653,0653,,06,Pahang,Pahang,,,13,,2.874,103.679,
+0654,2,Daerah,District,Temerloh,Temerloh,temerloh-0654,0654,,06,Pahang,Pahang,,,15,,3.618,102.238,
+07,1,Negeri,State,Pulau Pinang,Penang,penang-07,07,,,,,,5,47,,5.374,100.288,https://openadmindata.org/my/states/penang-07/
+0769,2,Daerah,District,Barat Daya,Barat Daya,barat-daya-0769,0769,,07,Pulau Pinang,Penang,,,12,,5.355,100.233,
+0770,2,Daerah,District,Seberang Perai Selatan,Seberang Perai Selatan,seberang-perai-selatan-0770,0770,,07,Pulau Pinang,Penang,,,6,,5.252,100.455,
+0771,2,Daerah,District,Seberang Perai Tengah,Seberang Perai Tengah,seberang-perai-tengah-0771,0771,,07,Pulau Pinang,Penang,,,11,,5.384,100.443,
+0772,2,Daerah,District,Seberang Perai Utara,Seberang Perai Utara,seberang-perai-utara-0772,0772,,07,Pulau Pinang,Penang,,,3,,5.467,100.433,
+0773,2,Daerah,District,Timur Laut,Timur Laut,timur-laut-0773,0773,,07,Pulau Pinang,Penang,,,15,,5.379,100.297,
+08,1,Negeri,State,Perak,Perak,perak-08,08,,,,,,13,185,,4.711,100.922,https://openadmindata.org/my/states/perak-08/
+0855,2,Daerah,District,Bagan Datuk,Bagan Datuk,bagan-datuk-0855,0855,,08,Perak,Perak,,,10,,3.851,100.991,
+0856,2,Daerah,District,Batang Padang,Batang Padang,batang-padang-0856,0856,,08,Perak,Perak,,,16,,4.241,101.36,
+0857,2,Daerah,District,Hilir Perak,Hilir Perak,hilir-perak-0857,0857,,08,Perak,Perak,,,10,,4.041,100.994,
+0858,2,Daerah,District,Hulu Perak,Hulu Perak,hulu-perak-0858,0858,,08,Perak,Perak,,,20,,5.374,101.278,
+0859,2,Daerah,District,Kampar,Kampar,kampar-0859,0859,,08,Perak,Perak,,,6,,4.412,101.24,
+0860,2,Daerah,District,Kerian,Kerian,kerian-0860,0860,,08,Perak,Perak,,,18,,5.029,100.545,
+0861,2,Daerah,District,Kinta,Kinta,kinta-0861,0861,,08,Perak,Perak,,,20,,4.568,101.136,
+0862,2,Daerah,District,Kuala Kangsar,Kuala Kangsar,kuala-kangsar-0862,0862,,08,Perak,Perak,,,17,,4.819,101.145,
+0863,2,Daerah,District,Larut Dan Matang,Larut Dan Matang,larut-dan-matang-0863,0863,,08,Perak,Perak,,,17,,4.806,100.721,
+0864,2,Daerah,District,Manjung,Manjung,manjung-0864,0864,,08,Perak,Perak,,,21,,4.23,100.622,
+0865,2,Daerah,District,Muallim,Muallim,muallim-0865,0865,,08,Perak,Perak,,,7,,3.852,101.452,
+0866,2,Daerah,District,Perak Tengah,Perak Tengah,perak-tengah-0866,0866,,08,Perak,Perak,,,18,,4.225,100.916,
+0867,2,Daerah,District,Selama,Selama,selama-0867,0867,,08,Perak,Perak,,,5,,5.223,100.834,
+09,1,Negeri,State,Perlis,Perlis,perlis-09,09,,,,,,1,23,,6.586,100.221,https://openadmindata.org/my/states/perlis-09/
+0968,2,Daerah,District,Perlis,Perlis,perlis-0968,0968,,09,Perlis,Perlis,,,23,,6.542,100.219,
+10,1,Negeri,State,Selangor,Selangor,selangor-10,10,,,,,,9,212,,3.366,101.321,https://openadmindata.org/my/states/selangor-10/
+10141,2,Daerah,District,Gombak,Gombak,gombak-10141,10141,,10,Selangor,Selangor,,,17,,3.254,101.678,
+10142,2,Daerah,District,Klang,Klang,klang-10142,10142,,10,Selangor,Selangor,,,12,,3.005,101.362,
+10143,2,Daerah,District,Kuala Langat,Kuala Langat,kuala-langat-10143,10143,,10,Selangor,Selangor,,,26,,2.844,101.422,
+10144,2,Daerah,District,Kuala Selangor,Kuala Selangor,kuala-selangor-10144,10144,,10,Selangor,Selangor,,,25,,3.321,101.325,
+10145,2,Daerah,District,Petaling,Petaling,petaling-10145,10145,,10,Selangor,Selangor,,,31,,3.091,101.591,
+10146,2,Daerah,District,Sabak Bernam,Sabak Bernam,sabak-bernam-10146,10146,,10,Selangor,Selangor,,,18,,3.741,101.106,
+10147,2,Daerah,District,Sepang,Sepang,sepang-10147,10147,,10,Selangor,Selangor,,,16,,2.797,101.701,
+10148,2,Daerah,District,Ulu Langat,Ulu Langat,ulu-langat-10148,10148,,10,Selangor,Selangor,,,40,,3.113,101.834,
+10149,2,Daerah,District,Ulu Selangor,Ulu Selangor,ulu-selangor-10149,10149,,10,Selangor,Selangor,,,27,,3.572,101.562,
+11,1,Negeri,State,Terengganu,Terengganu,terengganu-11,11,,,,,,8,96,,5.394,103.044,https://openadmindata.org/my/states/terengganu-11/
+11150,2,Daerah,District,Besut,Besut,besut-11150,11150,,11,Terengganu,Terengganu,,,18,,5.82,102.644,
+11151,2,Daerah,District,Dungun,Dungun,dungun-11151,11151,,11,Terengganu,Terengganu,,,13,,4.665,103.127,
+11152,2,Daerah,District,Hulu Terengganu,Hulu Terengganu,hulu-terengganu-11152,11152,,11,Terengganu,Terengganu,,,10,,5.082,102.769,
+11153,2,Daerah,District,Kemaman,Kemaman,kemaman-11153,11153,,11,Terengganu,Terengganu,,,16,,4.223,103.21,
+11154,2,Daerah,District,Kuala Nerus,Kuala Nerus,kuala-nerus-11154,11154,,11,Terengganu,Terengganu,,,5,,5.668,103.024,
+11155,2,Daerah,District,Kuala Terengganu,Kuala Terengganu,kuala-terengganu-11155,11155,,11,Terengganu,Terengganu,,,20,,5.274,103.071,
+11156,2,Daerah,District,Marang,Marang,marang-11156,11156,,11,Terengganu,Terengganu,,,8,,5.182,103.214,
+11157,2,Daerah,District,Setiu,Setiu,setiu-11157,11157,,11,Terengganu,Terengganu,,,6,,5.396,102.786,
+12,1,Negeri,State,Sabah,Sabah,sabah-12,12,,,,,,27,0,,6.067,117.129,https://openadmindata.org/my/states/sabah-12/
+12100,2,Daerah,District,Tuaran,Tuaran,tuaran-12100,12100,,12,Sabah,Sabah,,,0,,6.052,116.289,
+1274,2,Daerah,District,Beaufort,Beaufort,beaufort-1274,1274,,12,Sabah,Sabah,,,0,,5.287,115.744,
+1275,2,Daerah,District,Beluran,Beluran,beluran-1275,1275,,12,Sabah,Sabah,,,0,,6.238,117.451,
+1276,2,Daerah,District,Kalabakan,Kalabakan,kalabakan-1276,1276,,12,Sabah,Sabah,,,0,,4.398,117.507,
+1277,2,Daerah,District,Keningau,Keningau,keningau-1277,1277,,12,Sabah,Sabah,,,0,,5.361,116.308,
+1278,2,Daerah,District,Kinabatangan,Kinabatangan,kinabatangan-1278,1278,,12,Sabah,Sabah,,,0,,5.48,118.123,
+1279,2,Daerah,District,Kota Belud,Kota Belud,kota-belud-1279,1279,,12,Sabah,Sabah,,,0,,6.393,116.462,
+1280,2,Daerah,District,Kota Kinabalu,Kota Kinabalu,kota-kinabalu-1280,1280,,12,Sabah,Sabah,,,0,,6.015,116.103,
+1281,2,Daerah,District,Kota Marudu,Kota Marudu,kota-marudu-1281,1281,,12,Sabah,Sabah,,,0,,6.47,116.764,
+1282,2,Daerah,District,Kuala Penyu,Kuala Penyu,kuala-penyu-1282,1282,,12,Sabah,Sabah,,,0,,5.469,115.505,
+1283,2,Daerah,District,Kudat,Kudat,kudat-1283,1283,,12,Sabah,Sabah,,,0,,7.12,117.119,
+1284,2,Daerah,District,Kunak,Kunak,kunak-1284,1284,,12,Sabah,Sabah,,,0,,4.709,118.158,
+1285,2,Daerah,District,Lahad Datu,Lahad Datu,lahad-datu-1285,1285,,12,Sabah,Sabah,,,0,,5.03,118.4,
+1286,2,Daerah,District,Nabawan,Nabawan,nabawan-1286,1286,,12,Sabah,Sabah,,,0,,4.584,116.509,
+1287,2,Daerah,District,Papar,Papar,papar-1287,1287,,12,Sabah,Sabah,,,0,,5.607,116.051,
+1288,2,Daerah,District,Penampang,Penampang,penampang-1288,1288,,12,Sabah,Sabah,,,0,,5.865,116.197,
+1289,2,Daerah,District,Pitas,Pitas,pitas-1289,1289,,12,Sabah,Sabah,,,0,,6.783,117.152,
+1290,2,Daerah,District,Putatan,Putatan,putatan-1290,1290,,12,Sabah,Sabah,,,0,,5.892,116.061,
+1291,2,Daerah,District,Ranau,Ranau,ranau-1291,1291,,12,Sabah,Sabah,,,0,,5.874,116.758,
+1292,2,Daerah,District,Sandakan,Sandakan,sandakan-1292,1292,,12,Sabah,Sabah,,,0,,5.813,118.031,
+1293,2,Daerah,District,Semporna,Semporna,semporna-1293,1293,,12,Sabah,Sabah,,,0,,4.573,118.52,
+1294,2,Daerah,District,Sipitang,Sipitang,sipitang-1294,1294,,12,Sabah,Sabah,,,0,,4.678,115.715,
+1295,2,Daerah,District,Tambunan,Tambunan,tambunan-1295,1295,,12,Sabah,Sabah,,,0,,5.719,116.421,
+1296,2,Daerah,District,Tawau,Tawau,tawau-1296,1296,,12,Sabah,Sabah,,,0,,4.457,118.041,
+1297,2,Daerah,District,Telupid,Telupid,telupid-1297,1297,,12,Sabah,Sabah,,,0,,5.827,117.165,
+1298,2,Daerah,District,Tenom,Tenom,tenom-1298,1298,,12,Sabah,Sabah,,,0,,4.922,115.899,
+1299,2,Daerah,District,Tongod,Tongod,tongod-1299,1299,,12,Sabah,Sabah,,,0,,5.045,116.895,
+13,1,Negeri,State,Sarawak,Sarawak,sarawak-13,13,,,,,,40,285,,2.342,112.95,https://openadmindata.org/my/states/sarawak-13/
+13101,2,Daerah,District,Asajaya,Asajaya,asajaya-13101,13101,,13,Sarawak,Sarawak,,,2,,1.543,110.63,
+13102,2,Daerah,District,Bau,Bau,bau-13102,13102,,13,Sarawak,Sarawak,,,13,,1.375,110.089,
+13103,2,Daerah,District,Belaga,Belaga,belaga-13103,13103,,13,Sarawak,Sarawak,,,6,,2.67,114.332,
+13104,2,Daerah,District,Beluru,Beluru,beluru-13104,13104,,13,Sarawak,Sarawak,,,7,,3.512,114.255,
+13105,2,Daerah,District,Betong,Betong,betong-13105,13105,,13,Sarawak,Sarawak,,,11,,1.529,111.499,
+13106,2,Daerah,District,Bintulu,Bintulu,bintulu-13106,13106,,13,Sarawak,Sarawak,,,2,,3.293,113.204,
+13107,2,Daerah,District,Bukit Mabong,Bukit Mabong,bukit-mabong-13107,13107,,13,Sarawak,Sarawak,,,7,,1.681,113.729,
+13108,2,Daerah,District,Dalat,Dalat,dalat-13108,13108,,13,Sarawak,Sarawak,,,2,,2.697,111.988,
+13109,2,Daerah,District,Daro,Daro,daro-13109,13109,,13,Sarawak,Sarawak,,,3,,2.459,111.483,
+13110,2,Daerah,District,Julau,Julau,julau-13110,13110,,13,Sarawak,Sarawak,,,5,,1.832,111.958,
+13111,2,Daerah,District,Kabong,Kabong,kabong-13111,13111,,13,Sarawak,Sarawak,,,5,,1.912,111.235,
+13112,2,Daerah,District,Kanowit,Kanowit,kanowit-13112,13112,,13,Sarawak,Sarawak,,,8,,1.922,112.256,
+13113,2,Daerah,District,Kapit,Kapit,kapit-13113,13113,,13,Sarawak,Sarawak,,,8,,2.253,113.189,
+13114,2,Daerah,District,Kuching,Kuching,kuching-13114,13114,,13,Sarawak,Sarawak,,,11,,1.533,110.334,
+13115,2,Daerah,District,Lawas,Lawas,lawas-13115,13115,,13,Sarawak,Sarawak,,,12,,4.504,115.436,
+13116,2,Daerah,District,Limbang,Limbang,limbang-13116,13116,,13,Sarawak,Sarawak,,,9,,4.374,115.07,
+13117,2,Daerah,District,Lubok Antu,Lubok Antu,lubok-antu-13117,13117,,13,Sarawak,Sarawak,,,11,,1.307,111.911,
+13118,2,Daerah,District,Lundu,Lundu,lundu-13118,13118,,13,Sarawak,Sarawak,,,8,,1.736,109.809,
+13119,2,Daerah,District,Maradong,Maradong,maradong-13119,13119,,13,Sarawak,Sarawak,,,4,,2.2,111.617,
+13120,2,Daerah,District,Marudi,Marudi,marudi-13120,13120,,13,Sarawak,Sarawak,,,7,,4.108,114.551,
+13121,2,Daerah,District,Matu,Matu,matu-13121,13121,,13,Sarawak,Sarawak,,,5,,2.64,111.67,
+13122,2,Daerah,District,Miri,Miri,miri-13122,13122,,13,Sarawak,Sarawak,,,8,,3.761,115.075,
+13123,2,Daerah,District,Mukah,Mukah,mukah-13123,13123,,13,Sarawak,Sarawak,,,5,,2.825,112.554,
+13124,2,Daerah,District,Pakan,Pakan,pakan-13124,13124,,13,Sarawak,Sarawak,,,2,,1.791,111.704,
+13125,2,Daerah,District,Pusa,Pusa,pusa-13125,13125,,13,Sarawak,Sarawak,,,6,,1.546,111.164,
+13126,2,Daerah,District,Samarahan,Samarahan,samarahan-13126,13126,,13,Sarawak,Sarawak,,,3,,1.448,110.479,
+13127,2,Daerah,District,Saratok,Saratok,saratok-13127,13127,,13,Sarawak,Sarawak,,,5,,1.787,111.486,
+13128,2,Daerah,District,Sarikei,Sarikei,sarikei-13128,13128,,13,Sarawak,Sarawak,,,4,,2.097,111.411,
+13129,2,Daerah,District,Sebauh,Sebauh,sebauh-13129,13129,,13,Sarawak,Sarawak,,,11,,3.17,113.621,
+13130,2,Daerah,District,Selangau,Selangau,selangau-13130,13130,,13,Sarawak,Sarawak,,,7,,2.561,112.583,
+13131,2,Daerah,District,Serian,Serian,serian-13131,13131,,13,Sarawak,Sarawak,,,20,,1.1,110.645,
+13132,2,Daerah,District,Sibu,Sibu,sibu-13132,13132,,13,Sarawak,Sarawak,,,10,,2.275,111.821,
+13133,2,Daerah,District,Simunjan,Simunjan,simunjan-13133,13133,,13,Sarawak,Sarawak,,,9,,1.284,110.894,
+13134,2,Daerah,District,Song,Song,song-13134,13134,,13,Sarawak,Sarawak,,,5,,1.743,112.482,
+13135,2,Daerah,District,Sri Aman,Sri Aman,sri-aman-13135,13135,,13,Sarawak,Sarawak,,,14,,1.172,111.279,
+13136,2,Daerah,District,Subis,Subis,subis-13136,13136,,13,Sarawak,Sarawak,,,9,,3.658,113.752,
+13137,2,Daerah,District,Tanjung Manis,Tanjung Manis,tanjung-manis-13137,13137,,13,Sarawak,Sarawak,,,5,,2.256,111.343,
+13138,2,Daerah,District,Tatau,Tatau,tatau-13138,13138,,13,Sarawak,Sarawak,,,5,,2.644,112.968,
+13139,2,Daerah,District,Tebedu,Tebedu,tebedu-13139,13139,,13,Sarawak,Sarawak,,,5,,0.987,110.423,
+13140,2,Daerah,District,Telang Usan,Telang Usan,telang-usan-13140,13140,,13,Sarawak,Sarawak,,,6,,3.389,114.732,
+14,1,Negeri,State,W.P. Kuala Lumpur,Federal Territory of Kuala Lumpur,federal-territory-of-kuala-lumpur-14,14,,,,,,1,12,,3.141,101.684,https://openadmindata.org/my/states/federal-territory-of-kuala-lumpur-14/
+14158,2,Daerah,District,W.P. Kuala Lumpur,W.P. Kuala Lumpur,wp-kuala-lumpur-14158,14158,,14,W.P. Kuala Lumpur,Federal Territory of Kuala Lumpur,,,12,,3.142,101.697,
+15,1,Negeri,State,W.P. Labuan,Federal Territory of Labuan,federal-territory-of-labuan-15,15,,,,,,1,1,,5.284,115.232,https://openadmindata.org/my/states/federal-territory-of-labuan-15/
+15159,2,Daerah,District,W.P. Labuan,W.P. Labuan,wp-labuan-15159,15159,,15,W.P. Labuan,Federal Territory of Labuan,,,1,,5.275,115.205,
+16,1,Negeri,State,W.P. Putrajaya,Federal Territory of Putrajaya,federal-territory-of-putrajaya-16,16,,,,,,1,0,,2.93,101.683,https://openadmindata.org/my/states/federal-territory-of-putrajaya-16/
+16160,2,Daerah,District,W.P. Putrajaya,W.P. Putrajaya,wp-putrajaya-16160,16160,,16,W.P. Putrajaya,Federal Territory of Putrajaya,,,0,,2.938,101.692,

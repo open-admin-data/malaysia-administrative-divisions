@@ -27,7 +27,11 @@
       "lon": "103.792"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/my/states/johor-01/",
+      "api": "https://openadmindata.org/api/my/"
+    }
   },
   {
     "id": "02",
@@ -57,7 +61,11 @@
       "lon": "100.333"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/my/states/kedah-02/",
+      "api": "https://openadmindata.org/api/my/"
+    }
   },
   {
     "id": "03",
@@ -87,7 +95,11 @@
       "lon": "101.943"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/my/states/kelantan-03/",
+      "api": "https://openadmindata.org/api/my/"
+    }
   },
   {
     "id": "04",
@@ -117,7 +129,11 @@
       "lon": "102.24"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/my/states/malacca-04/",
+      "api": "https://openadmindata.org/api/my/"
+    }
   },
   {
     "id": "05",
@@ -147,7 +163,11 @@
       "lon": "101.972"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/my/states/negeri-sembilan-05/",
+      "api": "https://openadmindata.org/api/my/"
+    }
   },
   {
     "id": "06",
@@ -177,7 +197,11 @@
       "lon": "102.639"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/my/states/pahang-06/",
+      "api": "https://openadmindata.org/api/my/"
+    }
   },
   {
     "id": "07",
@@ -207,7 +231,11 @@
       "lon": "100.288"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/my/states/penang-07/",
+      "api": "https://openadmindata.org/api/my/"
+    }
   },
   {
     "id": "08",
@@ -237,7 +265,11 @@
       "lon": "100.922"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/my/states/perak-08/",
+      "api": "https://openadmindata.org/api/my/"
+    }
   },
   {
     "id": "09",
@@ -267,7 +299,11 @@
       "lon": "100.221"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/my/states/perlis-09/",
+      "api": "https://openadmindata.org/api/my/"
+    }
   },
   {
     "id": "10",
@@ -297,7 +333,11 @@
       "lon": "101.321"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/my/states/selangor-10/",
+      "api": "https://openadmindata.org/api/my/"
+    }
   },
   {
     "id": "11",
@@ -327,7 +367,11 @@
       "lon": "103.044"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/my/states/terengganu-11/",
+      "api": "https://openadmindata.org/api/my/"
+    }
   },
   {
     "id": "12",
@@ -357,7 +401,11 @@
       "lon": "117.129"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/my/states/sabah-12/",
+      "api": "https://openadmindata.org/api/my/"
+    }
   },
   {
     "id": "13",
@@ -387,7 +435,11 @@
       "lon": "112.95"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/my/states/sarawak-13/",
+      "api": "https://openadmindata.org/api/my/"
+    }
   },
   {
     "id": "14",
@@ -417,7 +469,11 @@
       "lon": "101.684"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/my/states/federal-territory-of-kuala-lumpur-14/",
+      "api": "https://openadmindata.org/api/my/"
+    }
   },
   {
     "id": "15",
@@ -447,7 +503,11 @@
       "lon": "115.232"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/my/states/federal-territory-of-labuan-15/",
+      "api": "https://openadmindata.org/api/my/"
+    }
   },
   {
     "id": "16",
@@ -477,6 +537,10 @@
       "lon": "101.683"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/my/states/federal-territory-of-putrajaya-16/",
+      "api": "https://openadmindata.org/api/my/"
+    }
   }
 ]

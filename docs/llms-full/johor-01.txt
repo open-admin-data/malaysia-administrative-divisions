@@ -3,7 +3,7 @@
 > 10 districts, 95 subdistricts
 > Code: 01
 > Coordinates: 1.852, 103.792
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Districts
 

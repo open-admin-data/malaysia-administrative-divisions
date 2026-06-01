@@ -3,7 +3,7 @@
 > 9 districts, 212 subdistricts
 > Code: 10
 > Coordinates: 3.366, 101.321
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Districts
 
