@@ -3,7 +3,7 @@
 > 1 districts, 23 subdistricts
 > Code: 09
 > Coordinates: 6.586, 100.221
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Districts
 
