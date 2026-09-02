@@ -3,7 +3,7 @@
 > 40 districts, 285 subdistricts
 > Code: 13
 > Coordinates: 2.342, 112.95
-> Last updated: 2026-08-20. License: CC-BY-4.0.
+> Last updated: 2026-09-02. License: CC-BY-4.0.
 
 ## Districts
 
