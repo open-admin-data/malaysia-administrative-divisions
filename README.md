@@ -14,11 +14,12 @@ Licensed under CC-BY-4.0. Browse the hierarchy through GitHub's folder navigatio
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-09-02 |
+| Last Updated | 2026-09-08 |
 | Website | [openadmindata.org/my](https://openadmindata.org/my/) |
 | API | [openadmindata.org/api/my](https://openadmindata.org/api/my/) |
 | Flag | [PNG](https://onlygames.me/flags-png/my/) · [CDN](https://www.freeflags.org/cdn/) · [CSS](https://www.freeflags.org/css/) · [Collections](https://www.freeflags.org/collections/) |
 | National Anthem | [🎵 Listen & Download Malaysia National Anthem MP3](https://onlygames.me/national-anthems/my/) |
+| Statistics | [GDP](https://nationdata.org/gdp/country/mys) · [Population](https://nationdata.org/population/country/mys) — via [NationData.org](https://nationdata.org) |
 
 ## Browse by State
 

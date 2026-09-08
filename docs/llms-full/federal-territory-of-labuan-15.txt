@@ -3,7 +3,7 @@
 > 1 districts, 1 subdistricts
 > Code: 15
 > Coordinates: 5.284, 115.232
-> Last updated: 2026-09-02. License: CC-BY-4.0.
+> Last updated: 2026-09-08. License: CC-BY-4.0.
 
 ## Districts
 
